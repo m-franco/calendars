@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID: github.com/m-franco
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Nacional🇺🇾 - Copa Libertadores
+X-WR-CALDESC:Partidos de Nacional🇺🇾 en la Copa Libertadores
+X-PUBLISHED-TTL:PT6H
+
+BEGIN:VEVENT
+UID:20240403T190000Z_Nacional_Libertad
+DTSTART;TZID=America/Montevideo:20240403T190000
+DTEND;TZID=America/Montevideo:20240403T210000
+SUMMARY:Nacional🇺🇾 vs. Libertad🇵🇾
+DESCRIPTION:Grupo H - Fecha 1
+CLASS:PUBLIC
+LOCATION:Gran Parque Central
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240411T210000Z_River_Nacional
+DTSTART;TZID=America/Montevideo:20240411T210000
+DTEND;TZID=America/Montevideo:20240411T230000
+SUMMARY:River🇦🇷 vs. Nacional🇺🇾
+DESCRIPTION:Grupo H - Fecha 2
+CLASS:PUBLIC
+LOCATION:Estadio Monumental
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240424T190000Z_Nacional_DeportivoTachira
+DTSTART;TZID=America/Montevideo:20240424T190000
+DTEND;TZID=America/Montevideo:20240424T210000
+SUMMARY:Nacional🇺🇾 vs. Deportivo Táchira🇻🇪
+DESCRIPTION:Grupo H - Fecha 3
+CLASS:PUBLIC
+LOCATION:Estadio Gran Parque Central
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T210000Z_Nacional_River
+DTSTART;TZID=America/Montevideo:20240507T210000
+DTEND;TZID=America/Montevideo:20240507T230000
+SUMMARY:Nacional🇺🇾 vs. River🇦🇷
+DESCRIPTION:Grupo H - Fecha 4
+CLASS:PUBLIC
+LOCATION:Estadio Gran Parque Central
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T190000Z_DeportivoTachira_Nacional
+DTSTART;TZID=America/Montevideo:20240515T190000
+DTEND;TZID=America/Montevideo:20240515T210000
+SUMMARY:Deportivo Táchira🇻🇪  vs. Nacional🇺🇾
+DESCRIPTION:Grupo H - Fecha 5
+CLASS:PUBLIC
+LOCATION:Estadio Polideportivo de Pueblo Nuevo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240530T210000Z_Libertad_Nacional
+DTSTART;TZID=America/Montevideo:20240530T210000
+DTEND;TZID=America/Montevideo:20240530T230000
+SUMMARY:Libertad🇵🇾 vs. Nacional🇺🇾
+DESCRIPTION:Grupo H - Fecha 6
+CLASS:PUBLIC
+LOCATION:Estadio Defensores del Chaco
+END:VEVENT
+
+END:VCALENDAR

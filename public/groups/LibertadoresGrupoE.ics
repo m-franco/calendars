@@ -1,0 +1,130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID: github.com/m-franco
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Grupo E - Copa Libertadores
+X-WR-CALDESC:Partidos de los equipos del Grupo E de la Copa Libertadores
+X-PUBLISHED-TTL:PT6H
+
+BEGIN:VEVENT
+UID:20240404T210000Z_Palestino_Bolívar
+DTSTART;TZID=America/Montevideo:20240404T210000
+DTEND;TZID=America/Montevideo:20240404T230000
+SUMMARY:Palestino🇨🇱 vs. Bolívar🇧🇴
+DESCRIPTION:Grupo E - Fecha 1
+CLASS:PUBLIC
+LOCATION:Estadio a definir
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240402T190000Z_Millonarios_Flamengo
+DTSTART;TZID=America/Montevideo:20240402T190000
+DTEND;TZID=America/Montevideo:20240402T210000
+SUMMARY:Millonarios🇨🇴 vs. Flamengo🇧🇷
+DESCRIPTION:Grupo E - Fecha 1
+CLASS:PUBLIC
+LOCATION:Estadio Nemesio Camacho
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240411T190000Z_Bolívar_Millonarios
+DTSTART;TZID=America/Montevideo:20240411T190000
+DTEND;TZID=America/Montevideo:20240411T210000
+SUMMARY:Bolívar🇧🇴 vs. Millonarios🇨🇴
+DESCRIPTION:Grupo E - Fecha 2
+CLASS:PUBLIC
+LOCATION:Estadio Hernando Siles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T190000Z_Flamengo_Palestino
+DTSTART;TZID=America/Montevideo:20240409T190000
+DTEND;TZID=America/Montevideo:20240409T210000
+SUMMARY:Flamengo🇧🇷 vs. Palestino🇨🇱
+DESCRIPTION:Grupo E - Fecha 2
+CLASS:PUBLIC
+LOCATION:Estadio Maracaná
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240424T213000Z_Bolívar_Flamengo
+DTSTART;TZID=America/Montevideo:20240424T213000
+DTEND;TZID=America/Montevideo:20240424T233000
+SUMMARY:Bolívar🇧🇴 vs. Flamengo🇧🇷
+DESCRIPTION:Grupo E - Fecha 3
+CLASS:PUBLIC
+LOCATION:Estadio Hernando Siles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T210000Z_Palestino_Millonarios
+DTSTART;TZID=America/Montevideo:20240425T210000
+DTEND;TZID=America/Montevideo:20240425T230000
+SUMMARY:Palestino🇨🇱 vs. Millonarios🇨🇴
+DESCRIPTION:Grupo E - Fecha 3
+CLASS:PUBLIC
+LOCATION:Estadio a definir
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240508T230000Z_Millonarios_Bolívar
+DTSTART;TZID=America/Montevideo:20240508T230000
+DTEND;TZID=America/Montevideo:20240509T010000
+SUMMARY:Millonarios🇨🇴 vs. Bolívar🇧🇴
+DESCRIPTION:Grupo E - Fecha 4
+CLASS:PUBLIC
+LOCATION:Estadio Nemesio Camacho
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T210000Z_Palestino_Flamengo
+DTSTART;TZID=America/Montevideo:20240507T210000
+DTEND;TZID=America/Montevideo:20240507T230000
+SUMMARY:Palestino🇨🇱 vs. Flamengo🇧🇷
+DESCRIPTION:Grupo E - Fecha 4
+CLASS:PUBLIC
+LOCATION:Estadio a definir
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T213000Z_Flamengo_Bolívar
+DTSTART;TZID=America/Montevideo:20240515T213000
+DTEND;TZID=America/Montevideo:20240515T233000
+SUMMARY:Flamengo🇧🇷 vs. Bolívar🇧🇴
+DESCRIPTION:Grupo E - Fecha 5
+CLASS:PUBLIC
+LOCATION:Estadio Maracaná
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240514T230000Z_Millonarios_Palestino
+DTSTART;TZID=America/Montevideo:20240514T230000
+DTEND;TZID=America/Montevideo:20240515T010000
+SUMMARY:Millonarios🇨🇴 vs. Palestino🇨🇱
+DESCRIPTION:Grupo E - Fecha 5
+CLASS:PUBLIC
+LOCATION:Estadio Nemesio Camacho
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240528T210000Z_Flamengo_Millonarios
+DTSTART;TZID=America/Montevideo:20240528T210000
+DTEND;TZID=America/Montevideo:20240528T230000
+SUMMARY:Flamengo🇧🇷 vs. Millonarios🇨🇴
+DESCRIPTION:Grupo E - Fecha 6
+CLASS:PUBLIC
+LOCATION:Estadio Maracaná
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240528T210000Z_Bolívar_Palestino
+DTSTART;TZID=America/Montevideo:20240528T210000
+DTEND;TZID=America/Montevideo:20240528T230000
+SUMMARY:Bolívar🇧🇴 vs. Palestino🇨🇱
+DESCRIPTION:Grupo E - Fecha 6
+CLASS:PUBLIC
+LOCATION:Estadio Hernando Siles
+END:VEVENT
+
+END:VCALENDAR

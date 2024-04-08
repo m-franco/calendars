@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID: github.com/m-franco
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Talleres🇦🇷 - Copa Libertadores
+X-WR-CALDESC:Partidos de Talleres🇦🇷 en la Copa Libertadores
+X-PUBLISHED-TTL:PT6H
+
+BEGIN:VEVENT
+UID:20240404T210000Z_Talleres_SanPablo
+DTSTART;TZID=America/Montevideo:20240404T210000
+DTEND;TZID=America/Montevideo:20240404T230000
+SUMMARY:Talleres🇦🇷 vs. San Pablo🇧🇷
+DESCRIPTION:Grupo B - Fecha 1
+CLASS:PUBLIC
+LOCATION:Estadio Mario Alberto Kempes
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T210000Z_Barcelona_Talleres
+DTSTART;TZID=America/Montevideo:20240409T210000
+DTEND;TZID=America/Montevideo:20240409T230000
+SUMMARY:Barcelona🇪🇨 vs. Talleres🇦🇷
+DESCRIPTION:Grupo B - Fecha 2
+CLASS:PUBLIC
+LOCATION:Estadio Monumental Banco Pichincha
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T190000Z_Cobresal_Talleres
+DTSTART;TZID=America/Montevideo:20240425T190000
+DTEND;TZID=America/Montevideo:20240425T210000
+SUMMARY:Cobresal🇨🇱 vs. Talleres🇦🇷
+DESCRIPTION:Grupo B - Fecha 3
+CLASS:PUBLIC
+LOCATION:Estadio Zorros del Desierto
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240508T190000Z_Talleres_Barcelona
+DTSTART;TZID=America/Montevideo:20240508T190000
+DTEND;TZID=America/Montevideo:20240508T210000
+SUMMARY:Talleres🇦🇷 vs. Barcelona🇪🇨
+DESCRIPTION:Grupo B - Fecha 4
+CLASS:PUBLIC
+LOCATION:Estadio Mario Alberto Kempes
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240514T190000Z_Talleres_Cobresal
+DTSTART;TZID=America/Montevideo:20240514T190000
+DTEND;TZID=America/Montevideo:20240514T210000
+SUMMARY:Talleres🇦🇷 vs. Cobresal🇨🇱
+DESCRIPTION:Grupo B - Fecha 5
+CLASS:PUBLIC
+LOCATION:Estadio Mario Alberto Kempes
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240529T213000Z_SanPablo_Talleres
+DTSTART;TZID=America/Montevideo:20240529T213000
+DTEND;TZID=America/Montevideo:20240529T233000
+SUMMARY:San Pablo🇧🇷 vs. Talleres🇦🇷
+DESCRIPTION:Grupo B - Fecha 6
+CLASS:PUBLIC
+LOCATION:Estadio Morumbí
+END:VEVENT
+
+END:VCALENDAR

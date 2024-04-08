@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID: github.com/m-franco
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Gremio🇧🇷 - Copa Libertadores
+X-WR-CALDESC:Partidos de Gremio🇧🇷 en la Copa Libertadores
+X-PUBLISHED-TTL:PT6H
+
+BEGIN:VEVENT
+UID:20240402T230000Z_TheStrongest_Gremio
+DTSTART;TZID=America/Montevideo:20240402T230000
+DTEND;TZID=America/Montevideo:20240403T010000
+SUMMARY:The Strongest🇧🇴 vs. Gremio🇧🇷
+DESCRIPTION:Grupo C - Fecha 1
+CLASS:PUBLIC
+LOCATION:Hernando Siles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T190000Z_Gremio_Huachipato
+DTSTART;TZID=America/Montevideo:20240409T190000
+DTEND;TZID=America/Montevideo:20240409T210000
+SUMMARY:Gremio🇧🇷 vs. Huachipato🇨🇱
+DESCRIPTION:Grupo C - Fecha 2
+CLASS:PUBLIC
+LOCATION:Estadio Arena Do Gremio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240423T190000Z_Estudiantes_Gremio
+DTSTART;TZID=America/Montevideo:20240423T190000
+DTEND;TZID=America/Montevideo:20240423T210000
+SUMMARY:Estudiantes🇦🇷 vs. Gremio🇧🇷
+DESCRIPTION:Grupo C - Fecha 3
+CLASS:PUBLIC
+LOCATION:Estadio UNO Jorge Luis Hirschi
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240508T190000Z_Huachipato_Gremio
+DTSTART;TZID=America/Montevideo:20240508T190000
+DTEND;TZID=America/Montevideo:20240508T210000
+SUMMARY:Huachipato🇨🇱 vs. Gremio🇧🇷
+DESCRIPTION:Grupo C - Fecha 4
+CLASS:PUBLIC
+LOCATION:Estadio Huachipato
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T190000Z_Gremio_Estudiantes
+DTSTART;TZID=America/Montevideo:20240515T190000
+DTEND;TZID=America/Montevideo:20240515T210000
+SUMMARY:Gremio🇧🇷 vs. Estudiantes🇦🇷
+DESCRIPTION:Grupo C - Fecha 5
+CLASS:PUBLIC
+LOCATION:Estadio Arena Do Gremio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240529T190000Z_Gremio_TheStrongest
+DTSTART;TZID=America/Montevideo:20240529T190000
+DTEND;TZID=America/Montevideo:20240529T210000
+SUMMARY:Gremio🇧🇷 vs. The Strongest🇧🇴
+DESCRIPTION:Grupo C - Fecha 6
+CLASS:PUBLIC
+LOCATION:Estadio Arena Do Gremio
+END:VEVENT
+
+END:VCALENDAR

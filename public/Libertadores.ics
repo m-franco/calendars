@@ -251,7 +251,7 @@ BEGIN:VEVENT
 UID:20240402T210000Z_Huachipato_Estudiantes
 DTSTART;TZID=America/Montevideo:20240402T210000
 DTEND;TZID=America/Montevideo:20240402T230000
-SUMMARY:Huachipato🇨🇱 vs. Estudiantes
+SUMMARY:Huachipato🇨🇱 vs. Estudiantes🇦🇷
 DESCRIPTION:Grupo C - Fecha 1
 CLASS:PUBLIC
 LOCATION:Estadio Huachipato

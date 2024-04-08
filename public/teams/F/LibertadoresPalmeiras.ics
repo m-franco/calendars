@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID: github.com/m-franco
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Palmeiras🇧🇷 - Copa Libertadores
+X-WR-CALDESC:Partidos de Palmeiras🇧🇷 en la Copa Libertadores
+X-PUBLISHED-TTL:PT6H
+
+BEGIN:VEVENT
+UID:20240403T213000Z_SanLorenzo_Palmeiras
+DTSTART;TZID=America/Montevideo:20240403T213000
+DTEND;TZID=America/Montevideo:20240403T233000
+SUMMARY:San Lorenzo🇦🇷 vs. Palmeiras🇧🇷
+DESCRIPTION:Grupo F - Fecha 1
+CLASS:PUBLIC
+LOCATION:Estadio Pedro Bidegain
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240411T210000Z_Palmeiras_Liverpool
+DTSTART;TZID=America/Montevideo:20240411T210000
+DTEND;TZID=America/Montevideo:20240411T230000
+SUMMARY:Palmeiras🇧🇷 vs. Liverpool🇺🇾
+DESCRIPTION:Grupo F - Fecha 2
+CLASS:PUBLIC
+LOCATION:Estadio a confirmar
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240424T213000Z_IndependienteDelValle_Palmeiras
+DTSTART;TZID=America/Montevideo:20240424T213000
+DTEND;TZID=America/Montevideo:20240424T233000
+SUMMARY:Independiente del Valle🇪🇨 vs. Palmeiras🇧🇷
+DESCRIPTION:Grupo F - Fecha 3
+CLASS:PUBLIC
+LOCATION:Estadio Guayaquil
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240509T190000Z_Palmeiras_SanLorenzo
+DTSTART;TZID=America/Montevideo:20240509T190000
+DTEND;TZID=America/Montevideo:20240509T210000
+SUMMARY:Palmeiras🇧🇷 vs. San Lorenzo🇦🇷
+DESCRIPTION:Grupo F - Fecha 4
+CLASS:PUBLIC
+LOCATION:Estadio a confirmar
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T213000Z_Palmeiras_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20240515T213000
+DTEND;TZID=America/Montevideo:20240515T233000
+SUMMARY:Palmeiras🇧🇷 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Grupo F - Fecha 5
+CLASS:PUBLIC
+LOCATION:Estadio a confirmar
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240530T190000Z_Palmeiras_SanLorenzo
+DTSTART;TZID=America/Montevideo:20240530T190000
+DTEND;TZID=America/Montevideo:20240530T210000
+SUMMARY:Palmeiras🇧🇷 vs. San Lorenzo🇦🇷
+DESCRIPTION:Grupo F - Fecha 6
+CLASS:PUBLIC
+LOCATION:Estadio a confirmar
+END:VEVENT
+
+END:VCALENDAR
