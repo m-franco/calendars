@@ -1,0 +1,970 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID: github.com/m-franco
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Copa Sudamericana
+X-WR-CALDESC:Partidos de Copa Sudamericana
+X-PUBLISHED-TTL:PT6H
+
+BEGIN:VEVENT
+UID:20240402T230000Z_UCV_Defensa_y_Justicia
+DTSTART;TZID=America/Lima:20240402T230000
+DTEND;TZID=America/Lima:20240403T010000
+SUMMARY:Universidad César Vallejo🇵🇪 vs. Defensa y Justicia🇦🇷
+DESCRIPTION:Grupo A - Fecha 1
+CLASS:PUBLIC
+LOCATION:Estadio Mansiche
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240404T230000Z_Always_Ready_Independiente_Medellin
+DTSTART;TZID=America/La_Paz:20240404T230000
+DTEND;TZID=America/La_Paz:20240405T010000
+SUMMARY:Always Ready🇧🇴 vs. Independiente Medellín🇨🇴
+DESCRIPTION:Grupo A - Fecha 1
+CLASS:PUBLIC
+LOCATION:Estadio Municipal Villa Ingenio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T190000Z_Defensa_y_Justicia_Always_Ready
+DTSTART;TZID=America/Argentina/Buenos_Aires:20240410T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20240410T210000
+SUMMARY:Defensa y Justicia🇦🇷 vs. Always Ready🇧🇴
+DESCRIPTION:Grupo A - Fecha 2
+CLASS:PUBLIC
+LOCATION:Estadio Norberto Tomaghello
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T230000Z_Independiente_Medellin_UCV
+DTSTART;TZID=America/Bogota:20240410T230000
+DTEND;TZID=America/Bogota:20240411T010000
+SUMMARY:Independiente Medellín🇨🇴 vs. Universidad César Vallejo🇵🇪
+DESCRIPTION:Grupo A - Fecha 2
+CLASS:PUBLIC
+LOCATION:Estadio Atanasio Girardot
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T210000Z_Always_Ready_UCV
+DTSTART;TZID=America/La_Paz:20240425T210000
+DTEND;TZID=America/La_Paz:20240425T230000
+SUMMARY:Always Ready🇧🇴 vs. Universidad César Vallejo🇵🇪
+DESCRIPTION:Grupo A - Fecha 3
+CLASS:PUBLIC
+LOCATION:Estadio Municipal Villa Ingenio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T230000Z_Independiente_Medellin_Defensa_y_Justicia
+DTSTART;TZID=America/Bogota:20240425T230000
+DTEND;TZID=America/Bogota:20240426T010000
+SUMMARY:Independiente Medellín🇨🇴 vs. Defensa y Justicia🇦🇷
+DESCRIPTION:Grupo A - Fecha 3
+CLASS:PUBLIC
+LOCATION:Estadio Atanasio Girardot
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T210000Z_UCV_Independiente_Medellin
+DTSTART;TZID=America/Lima:20240507T210000
+DTEND;TZID=America/Lima:20240507T230000
+SUMMARY:Universidad César Vallejo🇵🇪 vs. Independiente Medellín🇨🇴
+DESCRIPTION:Grupo A - Fecha 4
+CLASS:PUBLIC
+LOCATION:Estadio Mansiche
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T230000Z_Always_Ready_Defensa_y_Justicia
+DTSTART;TZID=America/La_Paz:20240507T230000
+DTEND;TZID=America/La_Paz:20240508T010000
+SUMMARY:Always Ready🇧🇴 vs. Defensa y Justicia🇦🇷
+DESCRIPTION:Grupo A - Fecha 4
+CLASS:PUBLIC
+LOCATION:Estadio Municipal Villa Ingenio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240514T210000Z_Defensa_y_Justicia_Independiente_Medellin
+DTSTART;TZID=America/Argentina/Buenos_Aires:20240514T210000
+DTEND;TZID=America/Argentina/Buenos_Aires:20240514T230000
+SUMMARY:Defensa y Justicia🇦🇷 vs. Independiente Medellín🇨🇴
+DESCRIPTION:Grupo A - Fecha 5
+CLASS:PUBLIC
+LOCATION:Estadio Norberto Tomaghello
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T230000Z_UCV_Always_Ready
+DTSTART;TZID=America/Lima:20240515T230000
+DTEND;TZID=America/Lima:20240516T010000
+SUMMARY:Universidad César Vallejo🇵🇪 vs. Always Ready🇧🇴
+DESCRIPTION:Grupo A - Fecha 5
+CLASS:PUBLIC
+LOCATION:Estadio Mansiche
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240529T210000Z_Defensa_y_Justicia_UCV
+DTSTART;TZID=America/Argentina/Buenos_Aires:20240529T210000
+DTEND;TZID=America/Argentina/Buenos_Aires:20240529T230000
+SUMMARY:Defensa y Justicia🇦🇷 vs. Universidad César Vallejo🇵🇪
+DESCRIPTION:Grupo A - Fecha 6
+CLASS:PUBLIC
+LOCATION:Estadio Norberto Tomaghello
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240529T210000Z_Independiente_Medellin_Always_Ready
+DTSTART;TZID=America/Bogota:20240529T210000
+DTEND;TZID=America/Bogota:20240529T230000
+SUMMARY:Independiente Medellín🇨🇴 vs. Always Ready🇧🇴
+DESCRIPTION:Grupo A - Fecha 6
+CLASS:PUBLIC
+LOCATION:Estadio Atanasio Girardot
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240403T230000Z_Alianza_Union_La_Calera
+DTSTART;TZID=America/Lima:20240403T230000
+DTEND;TZID=America/Lima:20240404T010000
+SUMMARY:Alianza🇨🇴 vs. Unión La Calera🇨🇱
+DESCRIPTION:Grupo B - Fecha 1
+CLASS:PUBLIC
+LOCATION:Estadio Armando Maestre Pavajeau
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240404T210000Z_Universidad_Catolica_Cruzeiro
+DTSTART;TZID=America/Guayaquil:20240404T210000
+DTEND;TZID=America/Guayaquil:20240404T230000
+SUMMARY:Universidad Católica🇨🇱 vs. Cruzeiro🇧🇷
+DESCRIPTION:Grupo B - Fecha 1
+CLASS:PUBLIC
+LOCATION:Estadio Olímpico Atahualpa
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T210000Z_Union_La_Calera_Universidad_Catolica
+DTSTART;TZID=America/Santiago:20240410T210000
+DTEND;TZID=America/Santiago:20240410T230000
+SUMMARY:Unión La Calera🇨🇱 vs. Universidad Católica🇨🇱
+DESCRIPTION:Grupo B - Fecha 2
+CLASS:PUBLIC
+LOCATION:Estadio Elías Figueroa Brander
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240411T210000Z_Cruzeiro_Alianza
+DTSTART;TZID=America/Sao_Paulo:20240411T210000
+DTEND;TZID=America/Sao_Paulo:20240411T230000
+SUMMARY:Cruzeiro🇧🇷 vs. Alianza🇨🇴
+DESCRIPTION:Grupo B - Fecha 2
+CLASS:PUBLIC
+LOCATION:Estadio Mineirão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240423T190000Z_Union_La_Calera_Cruzeiro
+DTSTART;TZID=America/Santiago:20240423T190000
+DTEND;TZID=America/Santiago:20240423T210000
+SUMMARY:Unión La Calera🇨🇱 vs. Cruzeiro🇧🇷
+DESCRIPTION:Grupo B - Fecha 3
+CLASS:PUBLIC
+LOCATION:Estadio Municipal Alcaldesa Ester Roa Rebolledo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240423T230000Z_Alianza_Universidad_Catolica
+DTSTART;TZID=America/Bogota:20240423T230000
+DTEND;TZID=America/Bogota:20240424T010000
+SUMMARY:Alianza🇨🇴 vs. Universidad Católica🇨🇱
+DESCRIPTION:Grupo B - Fecha 3
+CLASS:PUBLIC
+LOCATION:Estadio Armando Maestre Pavajeau
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T213000Z_Alianza_Cruzeiro
+DTSTART;TZID=America/Bogota:20240507T213000
+DTEND;TZID=America/Bogota:20240507T233000
+SUMMARY:Alianza🇨🇴 vs. Cruzeiro🇧🇷
+DESCRIPTION:Grupo B - Fecha 4
+CLASS:PUBLIC
+LOCATION:Estadio Armando Maestre Pavajeau
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240509T230000Z_Universidad_Catolica_Union_La_Calera
+DTSTART;TZID=America/Guayaquil:20240509T230000
+DTEND;TZID=America/Guayaquil:20240510T010000
+SUMMARY:Universidad Católica🇨🇱 vs. Unión La Calera🇨🇱
+DESCRIPTION:Grupo B - Fecha 4
+CLASS:PUBLIC
+LOCATION:Estadio Olímpico Atahualpa
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240516T210000Z_Cruzeiro_Union_La_Calera
+DTSTART;TZID=America/Sao_Paulo:20240516T210000
+DTEND;TZID=America/Sao_Paulo:20240516T230000
+SUMMARY:Cruzeiro🇧🇷 vs. Unión La Calera🇨🇱
+DESCRIPTION:Grupo B - Fecha 5
+CLASS:PUBLIC
+LOCATION:Estadio Mineirão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240516T230000Z_Universidad_Catolica_Alianza
+DTSTART;TZID=America/Guayaquil:20240516T230000
+DTEND;TZID=America/Guayaquil:20240517T010000
+SUMMARY:Universidad Católica🇨🇱 vs. Alianza🇨🇴
+DESCRIPTION:Grupo B - Fecha 5
+CLASS:PUBLIC
+LOCATION:Estadio Olímpico Atahualpa
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240530T210000Z_Cruzeiro_Universidad_Catolica
+DTSTART;TZID=America/Sao_Paulo:20240530T210000
+DTEND;TZID=America/Sao_Paulo:20240530T230000
+SUMMARY:Cruzeiro🇧🇷 vs Universidad Católica🇨🇱
+DESCRIPTION:Grupo B - Fecha 6
+CLASS:PUBLIC
+LOCATION:Estadio Mineirão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240530T210000Z_Union_La_Calera_Alianza
+DTSTART;TZID=America/Santiago:20240530T210000
+DTEND;TZID=America/Santiago:20240530T230000
+SUMMARY:Unión La Calera🇨🇱 vs. Alianza🇨🇴
+DESCRIPTION:Grupo B - Fecha 6
+CLASS:PUBLIC
+LOCATION:Estadio Municipal Alcaldesa Ester Roa Rebolledo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240402T190000Z_Belgrano_Internacional
+DTSTART;TZID=America/Argentina/Cordoba:20240402T190000
+DTEND;TZID=America/Argentina/Cordoba:20240402T210000
+SUMMARY:Belgrano🇦🇷 vs. Internacional🇧🇷
+DESCRIPTION:Grupo C - Fecha 1
+CLASS:PUBLIC
+LOCATION:Estadio Mario Alberto Kempes
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240404T230000Z_Real_Tomayapo_Delfin
+DTSTART;TZID=America/La_Paz:20240404T230000
+DTEND;TZID=America/La_Paz:20240405T010000
+SUMMARY:Real Tomayapo🇧🇴 vs. Delfín🇪🇨
+DESCRIPTION:Grupo C - Fecha 1
+CLASS:PUBLIC
+LOCATION:Estadio IV Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T210000Z_Internacional_Real_Tomayapo
+DTSTART;TZID=America/Sao_Paulo:20240410T210000
+DTEND;TZID=America/Sao_Paulo:20240410T230000
+SUMMARY:Internacional🇧🇷 vs. Real Tomayapo🇧🇴
+DESCRIPTION:Grupo C - Fecha 2
+CLASS:PUBLIC
+LOCATION:Estadio Beira-Rio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240411T230000Z_Delfin_Belgrano
+DTSTART;TZID=America/Guayaquil:20240411T230000
+DTEND;TZID=America/Guayaquil:20240412T010000
+SUMMARY:Delfín🇪🇨 vs. Belgrano🇦🇷
+DESCRIPTION:Grupo C - Fecha 2
+CLASS:PUBLIC
+LOCATION:Estadio Jocay
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240424T213000Z_Real_Tomayapo_Belgrano
+DTSTART;TZID=America/La_Paz:20240424T213000
+DTEND;TZID=America/La_Paz:20240424T233000
+SUMMARY:Real Tomayapo🇧🇴 vs. Belgrano🇦🇷
+DESCRIPTION:Grupo C - Fecha 3
+CLASS:PUBLIC
+LOCATION:Estadio IV Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T230000Z_Delfin_Internacional
+DTSTART;TZID=America/Guayaquil:20240425T230000
+DTEND;TZID=America/Guayaquil:20240426T010000
+SUMMARY:Delfín🇪🇨 vs. Internacional🇧🇷
+DESCRIPTION:Grupo C - Fecha 3
+CLASS:PUBLIC
+LOCATION:Estadio Jocay
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T210000Z_Real_Tomayapo_Internacional
+DTSTART;TZID=America/La_Paz:20240507T210000
+DTEND;TZID=America/La_Paz:20240507T230000
+SUMMARY:Real Tomayapo🇧🇴 vs. Internacional🇧🇷
+DESCRIPTION:Grupo C - Fecha 4
+CLASS:PUBLIC
+LOCATION:Estadio IV Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240509T190000Z_Belgrano_Delfin
+DTSTART;TZID=America/Argentina/Cordoba:20240509T190000
+DTEND;TZID=America/Argentina/Cordoba:20240509T210000
+SUMMARY:Belgrano🇦🇷 vs. Delfín🇪🇨
+DESCRIPTION:Grupo C - Fecha 4
+CLASS:PUBLIC
+LOCATION:Estadio Mario Alberto Kempes
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T190000Z_Belgrano_Real_Tomayapo
+DTSTART;TZID=America/Argentina/Cordoba:20240515T190000
+DTEND;TZID=America/Argentina/Cordoba:20240515T210000
+SUMMARY:Belgrano🇦🇷 vs. Real Tomayapo🇧🇴
+DESCRIPTION:Grupo C - Fecha 5
+CLASS:PUBLIC
+LOCATION:Estadio Mario Alberto Kempes
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240516T190000Z_Internacional_Delfin
+DTSTART;TZID=America/Sao_Paulo:20240516T190000
+DTEND;TZID=America/Sao_Paulo:20240516T210000
+SUMMARY:Internacional🇧🇷 vs. Delfín🇪🇨
+DESCRIPTION:Grupo C - Fecha 5
+CLASS:PUBLIC
+LOCATION:Estadio Beira-Rio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240528T213000Z_Internacional_Belgrano
+DTSTART;TZID=America/Sao_Paulo:20240528T213000
+DTEND;TZID=America/Sao_Paulo:20240528T233000
+SUMMARY:Internacional🇧🇷 vs. Belgrano🇦🇷
+DESCRIPTION:Grupo C - Fecha 6
+CLASS:PUBLIC
+LOCATION:Estadio Beira-Rio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240528T213000Z_Delfin_Real_Tomayapo
+DTSTART;TZID=America/Guayaquil:20240528T213000
+DTEND;TZID=America/Guayaquil:20240528T233000
+SUMMARY:Delfín🇪🇨 vs. Real Tomayapo🇧🇴
+DESCRIPTION:Grupo C - Fecha 6
+CLASS:PUBLIC
+LOCATION:Estadio Jocay
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240403T210000Z_Nacional_Potosi_Boca_Juniors
+DTSTART;TZID=America/La_Paz:20240403T210000
+DTEND;TZID=America/La_Paz:20240403T230000
+SUMMARY:Nacional Potosí🇧🇴 vs. Boca Juniors🇦🇷
+DESCRIPTION:Grupo D - Fecha 1
+CLASS:PUBLIC
+LOCATION:Estadio Víctor Agustín Ugarte
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240403T210000Z_Sportivo_Trinidense_Fortaleza
+DTSTART;TZID=America/Asuncion:20240403T210000
+DTEND;TZID=America/Asuncion:20240403T230000
+SUMMARY:Sportivo Trinidense🇵🇾 vs. Fortaleza🇧🇷
+DESCRIPTION:Grupo D - Fecha 1
+CLASS:PUBLIC
+LOCATION:Estadio Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T210000Z_Boca_Juniors_Sportivo_Trinidense
+DTSTART;TZID=America/Argentina/Buenos_Aires:20240409T210000
+DTEND;TZID=America/Argentina/Buenos_Aires:20240409T230000
+SUMMARY:Boca Juniors🇦🇷 vs. Sportivo Trinidense🇵🇾
+DESCRIPTION:Grupo D - Fecha 2
+CLASS:PUBLIC
+LOCATION:Estadio Alberto José Armando (La Bombonera)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T190000Z_Fortaleza_Nacional_Potosi
+DTSTART;TZID=America/Fortaleza:20240410T190000
+DTEND;TZID=America/Fortaleza:20240410T210000
+SUMMARY:Fortaleza🇧🇷 vs. Nacional Potosí🇧🇴
+DESCRIPTION:Grupo D - Fecha 2
+CLASS:PUBLIC
+LOCATION:Arena Castelão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240423T210000Z_Sportivo_Trinidense_Nacional_Potosi
+DTSTART;TZID=America/Asuncion:20240423T210000
+DTEND;TZID=America/Asuncion:20240423T230000
+SUMMARY:Sportivo Trinidense🇵🇾 vs. Nacional Potosí🇧🇴
+DESCRIPTION:Grupo D - Fecha 3
+CLASS:PUBLIC
+LOCATION:Estadio Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T210000Z_Fortaleza_Boca_Juniors
+DTSTART;TZID=America/Fortaleza:20240425T210000
+DTEND;TZID=America/Fortaleza:20240425T230000
+SUMMARY:Fortaleza🇧🇷 vs. Boca Juniors🇦🇷
+DESCRIPTION:Grupo D - Fecha 3
+CLASS:PUBLIC
+LOCATION:Arena Castelão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T213000Z_Boca_Juniors_Nacional_Potosi
+DTSTART;TZID=America/Argentina/Buenos_Aires:20240507T213000
+DTEND;TZID=America/Argentina/Buenos_Aires:20240507T233000
+SUMMARY:Boca Juniors🇦🇷 vs. Nacional Potosí🇧🇴
+DESCRIPTION:Grupo D - Fecha 4
+CLASS:PUBLIC
+LOCATION:Estadio Alberto José Armando (La Bombonera)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T213000Z_Sportivo_Trinidense_Fortaleza
+DTSTART;TZID=America/Asuncion:20240507T213000
+DTEND;TZID=America/Asuncion:20240507T233000
+SUMMARY:Sportivo Trinidense🇵🇾 vs. Fortaleza🇧🇷
+DESCRIPTION:Grupo D - Fecha 4
+CLASS:PUBLIC
+LOCATION:Estadio Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T190000Z_Boca_Juniors_Sportivo_Trinidense
+DTSTART;TZID=America/Argentina/Buenos_Aires:20240515T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20240515T210000
+SUMMARY:Boca Juniors🇦🇷 vs. Sportivo Trinidense🇵🇾
+DESCRIPTION:Grupo D - Fecha 5
+CLASS:PUBLIC
+LOCATION:Estadio Alberto José Armando (La Bombonera)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T210000Z_Nacional_Potosi_Fortaleza
+DTSTART;TZID=America/La_Paz:20240515T210000
+DTEND;TZID=America/La_Paz:20240515T230000
+SUMMARY:Nacional Potosí🇧🇴 vs. Fortaleza🇧🇷
+DESCRIPTION:Grupo D - Fecha 5
+CLASS:PUBLIC
+LOCATION:Estadio Víctor Agustín Ugarte
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240529T190000Z_Sportivo_Trinidense_Nacional_Potosi
+DTSTART;TZID=America/Asuncion:20240529T190000
+DTEND;TZID=America/Asuncion:20240529T210000
+SUMMARY:Sportivo Trinidense🇵🇾 vs. Nacional Potosí🇧🇴
+DESCRIPTION:Grupo D - Fecha 6
+CLASS:PUBLIC
+LOCATION:Estadio Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240530T190000Z_Fortaleza_Boca_Juniors
+DTSTART;TZID=America/Fortaleza:20240530T190000
+DTEND;TZID=America/Fortaleza:20240530T210000
+SUMMARY:Fortaleza🇧🇷 vs. Boca Juniors🇦🇷
+DESCRIPTION:Grupo D - Fecha 6
+CLASS:PUBLIC
+LOCATION:Arena Castelão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240402T190000Z_Sportivo_Ameliano_Atletico_Paranaense
+DTSTART;TZID=America/Asuncion:20240402T190000
+DTEND;TZID=America/Asuncion:20240402T210000
+SUMMARY:Sportivo Ameliano🇵🇾 vs. Atlético Paranaense🇧🇷
+DESCRIPTION:Grupo E - Fecha 1
+CLASS:PUBLIC
+LOCATION:Estadio La Nueva Olla
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240403T190000Z_Rayo_Zuliano_Danubio
+DTSTART;TZID=America/Caracas:20240403T190000
+DTEND;TZID=America/Caracas:20240403T210000
+SUMMARY:Rayo Zuliano🇻🇪 vs. Danubio🇺🇾
+DESCRIPTION:Grupo E - Fecha 1
+CLASS:PUBLIC
+LOCATION:Estadio Brígido Iriarte
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T210000Z_Danubio_Sportivo_Ameliano
+DTSTART;TZID=America/Montevideo:20240409T210000
+DTEND;TZID=America/Montevideo:20240409T230000
+SUMMARY:Danubio🇺🇾 vs. Sportivo Ameliano🇵🇾
+DESCRIPTION:Grupo E - Fecha 2
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T213000Z_Atletico_Paranaense_Rayo_Zuliano
+DTSTART;TZID=America/Sao_Paulo:20240409T213000
+DTEND;TZID=America/Sao_Paulo:20240409T233000
+SUMMARY:Atlético Paranaense🇧🇷 vs. Rayo Zuliano🇻🇪
+DESCRIPTION:Grupo E - Fecha 2
+CLASS:PUBLIC
+LOCATION:Ligga Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240424T190000Z_Danubio_Atletico_Paranaense
+DTSTART;TZID=America/Montevideo:20240424T190000
+DTEND;TZID=America/Montevideo:20240424T210000
+SUMMARY:Danubio🇺🇾 vs. Atlético Paranaense🇧🇷
+DESCRIPTION:Grupo E - Fecha 3
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240424T230000Z_Rayo_Zuliano_Sportivo_Ameliano
+DTSTART;TZID=America/Caracas:20240424T230000
+DTEND;TZID=America/Caracas:20240425T010000
+SUMMARY:Rayo Zuliano🇻🇪 vs. Sportivo Ameliano🇵🇾
+DESCRIPTION:Grupo E - Fecha 3
+CLASS:PUBLIC
+LOCATION:Estadio Brígido Iriarte
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T213000Z_Sportivo_Ameliano_Danubio
+DTSTART;TZID=America/Asuncion:20240507T213000
+DTEND;TZID=America/Asuncion:20240507T233000
+SUMMARY:Sportivo Ameliano🇵🇾 vs. Danubio🇺🇾
+DESCRIPTION:Grupo E - Fecha 4
+CLASS:PUBLIC
+LOCATION:Estadio Tigo La Huerta
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240508T190000Z_Rayo_Zuliano_Atletico_Paranaense
+DTSTART;TZID=America/Caracas:20240508T190000
+DTEND;TZID=America/Caracas:20240508T210000
+SUMMARY:Rayo Zuliano🇻🇪 vs. Atlético Paranaense🇧🇷
+DESCRIPTION:Grupo E - Fecha 4
+CLASS:PUBLIC
+LOCATION:Estadio Brígido Iriarte
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240514T210000Z_Sportivo_Ameliano_Rayo_Zuliano
+DTSTART;TZID=America/Asuncion:20240514T210000
+DTEND;TZID=America/Asuncion:20240514T230000
+SUMMARY:Sportivo Ameliano🇵🇾 vs. Rayo Zuliano🇻🇪
+DESCRIPTION:Grupo E - Fecha 5
+CLASS:PUBLIC
+LOCATION:Estadio Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T190000Z_Atletico_Paranaense_Danubio
+DTSTART;TZID=America/Sao_Paulo:20240515T190000
+DTEND;TZID=America/Sao_Paulo:20240515T210000
+SUMMARY:Atlético Paranaense🇧🇷 vs. Danubio🇺🇾
+DESCRIPTION:Grupo E - Fecha 5
+CLASS:PUBLIC
+LOCATION:Ligga Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240530T220000Z_Atletico_Paranaense_Sportivo_Ameliano
+DTSTART;TZID=America/Sao_Paulo:20240530T220000
+DTEND;TZID=America/Sao_Paulo:20240530T000000
+SUMMARY:Atlético Paranaense🇧🇷 vs. Sportivo Ameliano🇵🇾
+DESCRIPTION:Grupo E - Fecha 6
+CLASS:PUBLIC
+LOCATION:Ligga Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240530T220000Z_Danubio_Rayo_Zuliano
+DTSTART;TZID=America/Montevideo:20240530T220000
+DTEND;TZID=America/Montevideo:20240531T000000
+SUMMARY:Danubio🇺🇾 vs. Rayo Zuliano🇻🇪
+DESCRIPTION:Grupo E - Fecha 6
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240402T190000Z_Nacional_Par_Argentinos_Juniors
+DTSTART;TZID=America/Asuncion:20240402T190000
+DTEND;TZID=America/Asuncion:20240402T210000
+SUMMARY:Nacional(Par)🇵🇾 vs. Argentinos Juniors🇦🇷
+DESCRIPTION:Grupo F - Fecha 1
+CLASS:PUBLIC
+LOCATION:Estadio Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240402T213000Z_Racing_Uru_Corinthians
+DTSTART;TZID=America/Montevideo:20240402T213000
+DTEND;TZID=America/Montevideo:20240402T233000
+SUMMARY:Racing(Uru)🇺🇾 vs. Corinthians🇧🇷
+DESCRIPTION:Grupo F - Fecha 1
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T190000Z_Argentinos_Juniors_Racing_Uru
+DTSTART;TZID=America/Argentina/Buenos_Aires:20240409T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20240409T210000
+SUMMARY:Argentinos Juniors🇦🇷 vs.Racing(Uru)🇺🇾
+DESCRIPTION:Grupo F - Fecha 2
+CLASS:PUBLIC
+LOCATION:Estadio Diego Armando Maradona
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T190000Z_Corinthians_Nacional_Par
+DTSTART;TZID=America/Sao_Paulo:20240409T190000
+DTEND;TZID=America/Sao_Paulo:20240409T210000
+SUMMARY:Corinthians🇧🇷 vs. Nacional(Par)🇵🇾
+DESCRIPTION:Grupo F - Fecha 2
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240423T213000Z_Argentinos_Juniors_Corinthians
+DTSTART;TZID=America/Argentina/Buenos_Aires:20240423T213000
+DTEND;TZID=America/Argentina/Buenos_Aires:20240423T233000
+SUMMARY:Argentinos Juniors🇦🇷 vs. Corinthians🇧🇷
+DESCRIPTION:Grupo F - Fecha 3
+CLASS:PUBLIC
+LOCATION:Estadio Diego Armando Maradona
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T190000Z_Nacional_Par_Racing_Uru
+DTSTART;TZID=America/Asuncion:20240425T190000
+DTEND;TZID=America/Asuncion:20240425T210000
+SUMMARY:Nacional(Par)🇵🇾 vs.Racing(Uru)🇺🇾
+DESCRIPTION:Grupo F - Fecha 3
+CLASS:PUBLIC
+LOCATION:Estadio Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T190000Z_Racing_Uru_Nacional_Par
+DTSTART;TZID=America/Montevideo:20240507T190000
+DTEND;TZID=America/Montevideo:20240507T210000
+SUMMARY:Racing(Uru)🇺🇾 vs. Nacional(Par)🇵🇾
+DESCRIPTION:Grupo F - Fecha 4
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T190000Z_Corinthians_Argentinos_Juniors
+DTSTART;TZID=America/Sao_Paulo:20240507T190000
+DTEND;TZID=America/Sao_Paulo:20240507T210000
+SUMMARY:Corinthians🇧🇷 vs. Argentinos Juniors🇦🇷
+DESCRIPTION:Grupo F - Fecha 4
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240514T190000Z_Racing_Uru_Nacional_Par
+DTSTART;TZID=America/Montevideo:20240514T190000
+DTEND;TZID=America/Montevideo:20240514T210000
+SUMMARY:Racing(Uru)🇺🇾 vs. Nacional(Par)🇵🇾
+DESCRIPTION:Grupo F - Fecha 5
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240514T213000Z_Corinthians_Argentinos_Juniors
+DTSTART;TZID=America/Sao_Paulo:20240514T213000
+DTEND;TZID=America/Sao_Paulo:20240514T233000
+SUMMARY:Corinthians🇧🇷 vs. Argentinos Juniors🇦🇷
+DESCRIPTION:Grupo F - Fecha 5
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240528T190000Z_Argentinos_Juniors_Nacional_Par
+DTSTART;TZID=America/Argentina/Buenos_Aires:20240528T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20240528T210000
+SUMMARY:Argentinos Juniors🇦🇷 vs. Nacional(Par)🇵🇾
+DESCRIPTION:Grupo F - Fecha 6
+CLASS:PUBLIC
+LOCATION:Estadio Diego Armando Maradona
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240528T190000Z_Corinthians_Racing_Uru
+DTSTART;TZID=America/Sao_Paulo:20240528T190000
+DTEND;TZID=America/Sao_Paulo:20240528T210000
+SUMMARY:Corinthians🇧🇷 vs.Racing(Uru)🇺🇾
+DESCRIPTION:Grupo F - Fecha 6
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240403T190000Z_Cuiaba_Lanus
+DTSTART;TZID=America/Cuiaba:20240403T190000
+DTEND;TZID=America/Cuiaba:20240403T210000
+SUMMARY:Cuiabá🇧🇷 vs. Lanús🇦🇷
+DESCRIPTION:Grupo G - Fecha 1
+CLASS:PUBLIC
+LOCATION:Arena Pantanal
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240404T190000Z_Deportivo_Garcilaso_Metropolitanos
+DTSTART;TZID=America/Lima:20240404T190000
+DTEND;TZID=America/Lima:20240404T210000
+SUMMARY:Deportivo Garcilaso🇵🇪 vs. Metropolitanos🇻🇪
+DESCRIPTION:Grupo G - Fecha 1
+CLASS:PUBLIC
+LOCATION:Estadio Inca Garcilaso de la Vega
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240411T190000Z_Lanus_Deportivo_Garcilaso
+DTSTART;TZID=America/Argentina/Buenos_Aires:20240411T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20240411T210000
+SUMMARY:Lanús🇦🇷 vs. Deportivo Garcilaso🇵🇪
+DESCRIPTION:Grupo G - Fecha 2
+CLASS:PUBLIC
+LOCATION:Estadio Ciudad de Lanús
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240411T190000Z_Metropolitanos_Cuiaba
+DTSTART;TZID=America/Caracas:20240411T190000
+DTEND;TZID=America/Caracas:20240411T210000
+SUMMARY:Metropolitanos🇻🇪 vs. Cuiabá🇧🇷
+DESCRIPTION:Grupo G - Fecha 2
+CLASS:PUBLIC
+LOCATION:Estadio Olímpico de la UCV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240423T210000Z_Deportivo_Garcilaso_Cuiaba
+DTSTART;TZID=America/Lima:20240423T210000
+DTEND;TZID=America/Lima:20240423T230000
+SUMMARY:Deportivo Garcilaso🇵🇪 vs. Cuiabá🇧🇷
+DESCRIPTION:Grupo G - Fecha 3
+CLASS:PUBLIC
+LOCATION:Estadio Inca Garcilaso de la Vega
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T190000Z_Metropolitanos_Lanus
+DTSTART;TZID=America/Caracas:20240425T190000
+DTEND;TZID=America/Caracas:20240425T210000
+SUMMARY:Metropolitanos🇻🇪 vs. Lanús🇦🇷
+DESCRIPTION:Grupo G - Fecha 3
+CLASS:PUBLIC
+LOCATION:Estadio Olímpico de la UCV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240508T210000Z_Cuiaba_Metropolitanos
+DTSTART;TZID=America/Cuiaba:20240508T210000
+DTEND;TZID=America/Cuiaba:20240508T230000
+SUMMARY:Cuiabá🇧🇷 vs. Metropolitanos🇻🇪
+DESCRIPTION:Grupo G - Fecha 4
+CLASS:PUBLIC
+LOCATION:Arena Pantanal
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240509T230000Z_Deportivo_Garcilaso_Lanus
+DTSTART;TZID=America/Lima:20240509T230000
+DTEND;TZID=America/Lima:20240510T010000
+SUMMARY:Deportivo Garcilaso🇵🇪 vs. Lanús🇦🇷
+DESCRIPTION:Grupo G - Fecha 4
+CLASS:PUBLIC
+LOCATION:Estadio Inca Garcilaso de la Vega
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T190000Z_Lanus_Metropolitanos
+DTSTART;TZID=America/Argentina/Buenos_Aires:20240515T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20240515T210000
+SUMMARY:Lanús🇦🇷 vs. Metropolitanos🇻🇪
+DESCRIPTION:Grupo G - Fecha 5
+CLASS:PUBLIC
+LOCATION:Estadio Ciudad de Lanús
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T210000Z_Cuiaba_Real_Garcilaso
+DTSTART;TZID=America/Cuiaba:20240515T210000
+DTEND;TZID=America/Cuiaba:20240515T230000
+SUMMARY:Cuiabá🇧🇷 vs. Real Garcilaso🇵🇪
+DESCRIPTION:Grupo G - Fecha 5
+CLASS:PUBLIC
+LOCATION:Arena Pantanal
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240529T190000Z_Lanus_Cuiaba
+DTSTART;TZID=America/Argentina/Buenos_Aires:20240529T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20240529T210000
+SUMMARY:Lanús🇦🇷 vs. Cuiabá🇧🇷
+DESCRIPTION:Grupo G - Fecha 6
+CLASS:PUBLIC
+LOCATION:Estadio Ciudad de Lanús
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240529T190000Z_Metropolitanos_Deportivo_Garcilaso
+DTSTART;TZID=America/Caracas:20240529T190000
+DTEND;TZID=America/Caracas:20240529T210000
+SUMMARY:Metropolitanos🇻🇪 vs. Deportivo Garcilaso🇵🇪
+DESCRIPTION:Grupo G - Fecha 6
+CLASS:PUBLIC
+LOCATION:Estadio Olímpico de la UCV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240403T210000Z_Red_Bull_Bragantino_Coquimbo_Unido
+DTSTART;TZID=America/Sao_Paulo:20240403T210000
+DTEND;TZID=America/Sao_Paulo:20240403T230000
+SUMMARY:Red Bull Bragantino🇧🇷 vs. Coquimbo Unido🇨🇱
+DESCRIPTION:Grupo H - Fecha 1
+CLASS:PUBLIC
+LOCATION:Estadio Nabi Abi Chedid
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240404T210000Z_Sportivo_Luqueno_Racing_Arg
+DTSTART;TZID=America/Asuncion:20240404T210000
+DTEND;TZID=America/Asuncion:20240404T230000
+SUMMARY:Sportivo Luqueño🇵🇾 vs. Racing(Arg)🇦🇷
+DESCRIPTION:Grupo H - Fecha 1
+CLASS:PUBLIC
+LOCATION:Estadio Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T213000Z_Racing_Arg_Red_Bull_Bragantino
+DTSTART;TZID=America/Argentina/Buenos_Aires:20240410T213000
+DTEND;TZID=America/Argentina/Buenos_Aires:20240410T233000
+SUMMARY:Racing(Arg)🇦🇷 vs. Red Bull Bragantino🇧🇷
+DESCRIPTION:Grupo H - Fecha 2
+CLASS:PUBLIC
+LOCATION:Estadio Presidente Perón
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240411T210000Z_Coquimbo_Unido_Sportivo_Luqueno
+DTSTART;TZID=America/Santiago:20240411T210000
+DTEND;TZID=America/Santiago:20240411T230000
+SUMMARY:Coquimbo Unido🇨🇱 vs. Sportivo Luqueño🇵🇾
+DESCRIPTION:Grupo H - Fecha 2
+CLASS:PUBLIC
+LOCATION:Estadio Francisco Sánchez Rumoroso
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240424T190000Z_Coquimbo_Unido_Racing_Arg
+DTSTART;TZID=America/Santiago:20240424T190000
+DTEND;TZID=America/Santiago:20240424T210000
+SUMMARY:Coquimbo Unido🇨🇱 vs. Racing(Arg)🇦🇷
+DESCRIPTION:Grupo H - Fecha 3
+CLASS:PUBLIC
+LOCATION:Estadio Francisco Sánchez Rumoroso
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240424T210000Z_Red_Bull_Bragantino_Sportivo_Luqueno
+DTSTART;TZID=America/Sao_Paulo:20240424T210000
+DTEND;TZID=America/Sao_Paulo:20240424T230000
+SUMMARY:Red Bull Bragantino🇧🇷 vs. Sportivo Luqueño🇵🇾
+DESCRIPTION:Grupo H - Fecha 3
+CLASS:PUBLIC
+LOCATION:Estadio Nabi Abi Chedid
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240508T190000Z_Sportivo_Luqueno_Coquimbo_Unido
+DTSTART;TZID=America/Asuncion:20240508T190000
+DTEND;TZID=America/Asuncion:20240508T210000
+SUMMARY:Sportivo Luqueño🇵🇾 vs. Coquimbo Unido🇨🇱
+DESCRIPTION:Grupo H - Fecha 4
+CLASS:PUBLIC
+LOCATION:Estadio Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240509T210000Z_Red_Bull_Bragantino_Racing_Arg
+DTSTART;TZID=America/Sao_Paulo:20240509T210000
+DTEND;TZID=America/Sao_Paulo:20240509T230000
+SUMMARY:Red Bull Bragantino🇧🇷 vs. Racing(Arg)🇦🇷
+DESCRIPTION:Grupo H - Fecha 4
+CLASS:PUBLIC
+LOCATION:Estadio Nabi Abi Chedid
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240522T190000Z_Racing_Arg_Sportivo_Luqueno
+DTSTART;TZID=America/Argentina/Buenos_Aires:20240522T190000
+DTEND;TZID=America/Argentina/Buenos_Aires:20240522T210000
+SUMMARY:Racing(Arg)🇦🇷 vs. Sportivo Luqueño🇵🇾
+DESCRIPTION:Grupo H - Fecha 5
+CLASS:PUBLIC
+LOCATION:Estadio Presidente Perón
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240522T213000Z_Coquimbo_Unido_Red_Bull_Bragantino
+DTSTART;TZID=America/Santiago:20240522T213000
+DTEND;TZID=America/Santiago:20240522T233000
+SUMMARY:Coquimbo Unido🇨🇱 vs. Red Bull Bragantino🇧🇷
+DESCRIPTION:Grupo H - Fecha 5
+CLASS:PUBLIC
+LOCATION:Estadio Francisco Sánchez Rumoroso
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240605T190000Z_Sportivo_Luqueno_Red_Bull_Bragantino
+DTSTART;TZID=America/Asuncion:20240605T190000
+DTEND;TZID=America/Asuncion:20240605T210000
+SUMMARY:Sportivo Luqueño🇵🇾 vs. Red Bull Bragantino🇧🇷
+DESCRIPTION:Grupo H - Fecha 6
+CLASS:PUBLIC
+LOCATION:Estadio Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240605T210000Z_Racing_Arg_Coquimbo_Unido
+DTSTART;TZID=America/Argentina/Buenos_Aires:20240605T210000
+DTEND;TZID=America/Argentina/Buenos_Aires:20240605T230000
+SUMMARY:Racing(Arg)🇦🇷 vs. Coquimbo Unido🇨🇱
+DESCRIPTION:Grupo H - Fecha 6
+CLASS:PUBLIC
+LOCATION:Estadio Presidente Perón
+END:VEVENT
+
+END:VCALENDAR
