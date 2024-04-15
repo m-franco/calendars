@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID: github.com/m-franco
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Atlético Paranaense🇧🇷 - Copa Sudamericana
+X-WR-CALDESC:Partidos de Atlético Paranaense🇧🇷 en la Copa Sudamericana
+X-PUBLISHED-TTL:PT6H
+
+BEGIN:VEVENT
+UID:20240402T190000Z_Sportivo_Ameliano_Atletico_Paranaense
+DTSTART;TZID=America/Montevideo:20240402T190000
+DTEND;TZID=America/Montevideo:20240402T210000
+SUMMARY:Sportivo Ameliano🇵🇾 vs. Atlético Paranaense🇧🇷
+DESCRIPTION:Grupo E - Fecha 1
+CLASS:PUBLIC
+LOCATION:Estadio La Nueva Olla
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T213000Z_Atletico_Paranaense_Rayo_Zuliano
+DTSTART;TZID=America/Montevideo:20240409T213000
+DTEND;TZID=America/Montevideo:20240409T233000
+SUMMARY:Atlético Paranaense🇧🇷 vs. Rayo Zuliano🇻🇪
+DESCRIPTION:Grupo E - Fecha 2
+CLASS:PUBLIC
+LOCATION:Ligga Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240424T190000Z_Danubio_Atletico_Paranaense
+DTSTART;TZID=America/Montevideo:20240424T190000
+DTEND;TZID=America/Montevideo:20240424T210000
+SUMMARY:Danubio🇺🇾 vs. Atlético Paranaense🇧🇷
+DESCRIPTION:Grupo E - Fecha 3
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240508T190000Z_Rayo_Zuliano_Atletico_Paranaense
+DTSTART;TZID=America/Montevideo:20240508T190000
+DTEND;TZID=America/Montevideo:20240508T210000
+SUMMARY:Rayo Zuliano🇻🇪 vs. Atlético Paranaense🇧🇷
+DESCRIPTION:Grupo E - Fecha 4
+CLASS:PUBLIC
+LOCATION:Estadio Brígido Iriarte
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T190000Z_Atletico_Paranaense_Danubio
+DTSTART;TZID=America/Montevideo:20240515T190000
+DTEND;TZID=America/Montevideo:20240515T210000
+SUMMARY:Atlético Paranaense🇧🇷 vs. Danubio🇺🇾
+DESCRIPTION:Grupo E - Fecha 5
+CLASS:PUBLIC
+LOCATION:Ligga Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240530T220000Z_Atletico_Paranaense_Sportivo_Ameliano
+DTSTART;TZID=America/Montevideo:20240530T220000
+DTEND;TZID=America/Montevideo:20240530T000000
+SUMMARY:Atlético Paranaense🇧🇷 vs. Sportivo Ameliano🇵🇾
+DESCRIPTION:Grupo E - Fecha 6
+CLASS:PUBLIC
+LOCATION:Ligga Arena
+END:VEVENT
+
+END:VCALENDAR

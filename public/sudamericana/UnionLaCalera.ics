@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID: github.com/m-franco
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Unión La Calera🇨🇱 - Copa Sudamericana
+X-WR-CALDESC:Partidos de Unión La Calera🇨🇱 en la Copa Sudamericana
+X-PUBLISHED-TTL:PT6H
+
+BEGIN:VEVENT
+UID:20240403T230000Z_Alianza_Union_La_Calera
+DTSTART;TZID=America/Montevideo:20240403T230000
+DTEND;TZID=America/Montevideo:20240404T010000
+SUMMARY:Alianza🇨🇴 vs. Unión La Calera🇨🇱
+DESCRIPTION:Grupo B - Fecha 1
+CLASS:PUBLIC
+LOCATION:Estadio Armando Maestre Pavajeau
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T210000Z_Union_La_Calera_Universidad_Catolica
+DTSTART;TZID=America/Montevideo:20240410T210000
+DTEND;TZID=America/Montevideo:20240410T230000
+SUMMARY:Unión La Calera🇨🇱 vs. Universidad Católica🇪🇨
+DESCRIPTION:Grupo B - Fecha 2
+CLASS:PUBLIC
+LOCATION:Estadio Elías Figueroa Brander
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240423T190000Z_Union_La_Calera_Cruzeiro
+DTSTART;TZID=America/Montevideo:20240423T190000
+DTEND;TZID=America/Montevideo:20240423T210000
+SUMMARY:Unión La Calera🇨🇱 vs. Cruzeiro🇧🇷
+DESCRIPTION:Grupo B - Fecha 3
+CLASS:PUBLIC
+LOCATION:Estadio Municipal Alcaldesa Ester Roa Rebolledo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240509T230000Z_Universidad_Catolica_Union_La_Calera
+DTSTART;TZID=America/Montevideo:20240509T230000
+DTEND;TZID=America/Montevideo:20240510T010000
+SUMMARY:Universidad Católica🇪🇨 vs. Unión La Calera🇨🇱
+DESCRIPTION:Grupo B - Fecha 4
+CLASS:PUBLIC
+LOCATION:Estadio Olímpico Atahualpa
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240516T210000Z_Cruzeiro_Union_La_Calera
+DTSTART;TZID=America/Montevideo:20240516T210000
+DTEND;TZID=America/Montevideo:20240516T230000
+SUMMARY:Cruzeiro🇧🇷 vs. Unión La Calera🇨🇱
+DESCRIPTION:Grupo B - Fecha 5
+CLASS:PUBLIC
+LOCATION:Estadio Mineirão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240530T210000Z_Union_La_Calera_Alianza
+DTSTART;TZID=America/Montevideo:20240530T210000
+DTEND;TZID=America/Montevideo:20240530T230000
+SUMMARY:Unión La Calera🇨🇱 vs. Alianza🇨🇴
+DESCRIPTION:Grupo B - Fecha 6
+CLASS:PUBLIC
+LOCATION:Estadio Municipal Alcaldesa Ester Roa Rebolledo
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID: github.com/m-franco
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Racing(Arg)🇦🇷 - Copa Sudamericana
+X-WR-CALDESC:Partidos de Racing(Arg)🇦🇷 en la Copa Sudamericana
+X-PUBLISHED-TTL:PT6H
+
+BEGIN:VEVENT
+UID:20240404T210000Z_Sportivo_Luqueno_Racing_Arg
+DTSTART;TZID=America/Montevideo:20240404T210000
+DTEND;TZID=America/Montevideo:20240404T230000
+SUMMARY:Sportivo Luqueño🇵🇾 vs. Racing(Arg)🇦🇷
+DESCRIPTION:Grupo H - Fecha 1
+CLASS:PUBLIC
+LOCATION:Estadio Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T213000Z_Racing_Arg_Red_Bull_Bragantino
+DTSTART;TZID=America/Montevideo:20240410T213000
+DTEND;TZID=America/Montevideo:20240410T233000
+SUMMARY:Racing(Arg)🇦🇷 vs. Red Bull Bragantino🇧🇷
+DESCRIPTION:Grupo H - Fecha 2
+CLASS:PUBLIC
+LOCATION:Estadio Presidente Perón
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240424T190000Z_Coquimbo_Unido_Racing_Arg
+DTSTART;TZID=America/Montevideo:20240424T190000
+DTEND;TZID=America/Montevideo:20240424T210000
+SUMMARY:Coquimbo Unido🇨🇱 vs. Racing(Arg)🇦🇷
+DESCRIPTION:Grupo H - Fecha 3
+CLASS:PUBLIC
+LOCATION:Estadio Francisco Sánchez Rumoroso
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240509T210000Z_Red_Bull_Bragantino_Racing_Arg
+DTSTART;TZID=America/Montevideo:20240509T210000
+DTEND;TZID=America/Montevideo:20240509T230000
+SUMMARY:Red Bull Bragantino🇧🇷 vs. Racing(Arg)🇦🇷
+DESCRIPTION:Grupo H - Fecha 4
+CLASS:PUBLIC
+LOCATION:Estadio Nabi Abi Chedid
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240522T190000Z_Racing_Arg_Sportivo_Luqueno
+DTSTART;TZID=America/Montevideo:20240522T190000
+DTEND;TZID=America/Montevideo:20240522T210000
+SUMMARY:Racing(Arg)🇦🇷 vs. Sportivo Luqueño🇵🇾
+DESCRIPTION:Grupo H - Fecha 5
+CLASS:PUBLIC
+LOCATION:Estadio Presidente Perón
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240605T210000Z_Racing_Arg_Coquimbo_Unido
+DTSTART;TZID=America/Montevideo:20240605T210000
+DTEND;TZID=America/Montevideo:20240605T230000
+SUMMARY:Racing(Arg)🇦🇷 vs. Coquimbo Unido🇨🇱
+DESCRIPTION:Grupo H - Fecha 6
+CLASS:PUBLIC
+LOCATION:Estadio Presidente Perón
+END:VEVENT
+
+END:VCALENDAR

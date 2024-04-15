@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID: github.com/m-franco
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Fortaleza🇧🇷 - Copa Sudamericana
+X-WR-CALDESC:Partidos de Fortaleza🇧🇷 en la Copa Sudamericana
+X-PUBLISHED-TTL:PT6H
+
+BEGIN:VEVENT
+UID:20240403T210000Z_Sportivo_Trinidense_Fortaleza
+DTSTART;TZID=America/Montevideo:20240403T210000
+DTEND;TZID=America/Montevideo:20240403T230000
+SUMMARY:Sportivo Trinidense🇵🇾 vs. Fortaleza🇧🇷
+DESCRIPTION:Grupo D - Fecha 1
+CLASS:PUBLIC
+LOCATION:Estadio Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T190000Z_Fortaleza_Nacional_Potosi
+DTSTART;TZID=America/Fortaleza:20240410T190000
+DTEND;TZID=America/Fortaleza:20240410T210000
+SUMMARY:Fortaleza🇧🇷 vs. Nacional Potosí🇧🇴
+DESCRIPTION:Grupo D - Fecha 2
+CLASS:PUBLIC
+LOCATION:Arena Castelão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T210000Z_Fortaleza_Boca_Juniors
+DTSTART;TZID=America/Fortaleza:20240425T210000
+DTEND;TZID=America/Fortaleza:20240425T230000
+SUMMARY:Fortaleza🇧🇷 vs. Boca Juniors🇦🇷
+DESCRIPTION:Grupo D - Fecha 3
+CLASS:PUBLIC
+LOCATION:Arena Castelão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T213000Z_Sportivo_Trinidense_Fortaleza
+DTSTART;TZID=America/Montevideo:20240507T213000
+DTEND;TZID=America/Montevideo:20240507T233000
+SUMMARY:Sportivo Trinidense🇵🇾 vs. Fortaleza🇧🇷
+DESCRIPTION:Grupo D - Fecha 4
+CLASS:PUBLIC
+LOCATION:Estadio Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T210000Z_Nacional_Potosi_Fortaleza
+DTSTART;TZID=America/Montevideo:20240515T210000
+DTEND;TZID=America/Montevideo:20240515T230000
+SUMMARY:Nacional Potosí🇧🇴 vs. Fortaleza🇧🇷
+DESCRIPTION:Grupo D - Fecha 5
+CLASS:PUBLIC
+LOCATION:Estadio Víctor Agustín Ugarte
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240530T190000Z_Fortaleza_Boca_Juniors
+DTSTART;TZID=America/Fortaleza:20240530T190000
+DTEND;TZID=America/Fortaleza:20240530T210000
+SUMMARY:Fortaleza🇧🇷 vs. Boca Juniors🇦🇷
+DESCRIPTION:Grupo D - Fecha 6
+CLASS:PUBLIC
+LOCATION:Arena Castelão
+END:VEVENT
+
+END:VCALENDAR

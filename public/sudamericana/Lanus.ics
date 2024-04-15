@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID: github.com/m-franco
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Lanús🇦🇷 - Copa Sudamericana
+X-WR-CALDESC:Partidos de Lanús🇦🇷 en la Copa Sudamericana
+X-PUBLISHED-TTL:PT6H
+
+BEGIN:VEVENT
+UID:20240403T190000Z_Cuiaba_Lanus
+DTSTART;TZID=America/Montevideo:20240403T190000
+DTEND;TZID=America/Montevideo:20240403T210000
+SUMMARY:Cuiabá🇧🇷 vs. Lanús🇦🇷
+DESCRIPTION:Grupo G - Fecha 1
+CLASS:PUBLIC
+LOCATION:Arena Pantanal
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240411T190000Z_Lanus_Deportivo_Garcilaso
+DTSTART;TZID=America/Montevideo:20240411T190000
+DTEND;TZID=America/Montevideo:20240411T210000
+SUMMARY:Lanús🇦🇷 vs. Deportivo Garcilaso🇵🇪
+DESCRIPTION:Grupo G - Fecha 2
+CLASS:PUBLIC
+LOCATION:Estadio Ciudad de Lanús
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T190000Z_Metropolitanos_Lanus
+DTSTART;TZID=America/Montevideo:20240425T190000
+DTEND;TZID=America/Montevideo:20240425T210000
+SUMMARY:Metropolitanos🇻🇪 vs. Lanús🇦🇷
+DESCRIPTION:Grupo G - Fecha 3
+CLASS:PUBLIC
+LOCATION:Estadio Olímpico de la UCV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240509T230000Z_Deportivo_Garcilaso_Lanus
+DTSTART;TZID=America/Montevideo:20240509T230000
+DTEND;TZID=America/Montevideo:20240510T010000
+SUMMARY:Deportivo Garcilaso🇵🇪 vs. Lanús🇦🇷
+DESCRIPTION:Grupo G - Fecha 4
+CLASS:PUBLIC
+LOCATION:Estadio Inca Garcilaso de la Vega
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T190000Z_Lanus_Metropolitanos
+DTSTART;TZID=America/Montevideo:20240515T190000
+DTEND;TZID=America/Montevideo:20240515T210000
+SUMMARY:Lanús🇦🇷 vs. Metropolitanos🇻🇪
+DESCRIPTION:Grupo G - Fecha 5
+CLASS:PUBLIC
+LOCATION:Estadio Ciudad de Lanús
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240529T190000Z_Lanus_Cuiaba
+DTSTART;TZID=America/Montevideo:20240529T190000
+DTEND;TZID=America/Montevideo:20240529T210000
+SUMMARY:Lanús🇦🇷 vs. Cuiabá🇧🇷
+DESCRIPTION:Grupo G - Fecha 6
+CLASS:PUBLIC
+LOCATION:Estadio Ciudad de Lanús
+END:VEVENT
+
+END:VCALENDAR

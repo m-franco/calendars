@@ -1,0 +1,130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID: github.com/m-franco
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Grupo A - Copa Sudamericana
+X-WR-CALDESC:Partidos de los equipos del Grupo A de la Copa Sudamericana
+X-PUBLISHED-TTL:PT6H
+
+BEGIN:VEVENT
+UID:20240402T230000Z_UCV_Defensa_y_Justicia
+DTSTART;TZID=America/Montevideo:20240402T230000
+DTEND;TZID=America/Montevideo:20240403T010000
+SUMMARY:Universidad César Vallejo🇵🇪 vs. Defensa y Justicia🇦🇷
+DESCRIPTION:Grupo A - Fecha 1
+CLASS:PUBLIC
+LOCATION:Estadio Mansiche
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240404T230000Z_Always_Ready_Independiente_Medellin
+DTSTART;TZID=America/Montevideo:20240404T230000
+DTEND;TZID=America/Montevideo:20240405T010000
+SUMMARY:Always Ready🇧🇴 vs. Independiente de Medellín🇨🇴
+DESCRIPTION:Grupo A - Fecha 1
+CLASS:PUBLIC
+LOCATION:Estadio Municipal Villa Ingenio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T190000Z_Defensa_y_Justicia_Always_Ready
+DTSTART;TZID=America/Montevideo:20240410T190000
+DTEND;TZID=America/Montevideo:20240410T210000
+SUMMARY:Defensa y Justicia🇦🇷 vs. Always Ready🇧🇴
+DESCRIPTION:Grupo A - Fecha 2
+CLASS:PUBLIC
+LOCATION:Estadio Norberto Tomaghello
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T230000Z_Independiente_Medellin_UCV
+DTSTART;TZID=America/Montevideo:20240410T230000
+DTEND;TZID=America/Montevideo:20240411T010000
+SUMMARY:Independiente de Medellín🇨🇴 vs. Universidad César Vallejo🇵🇪
+DESCRIPTION:Grupo A - Fecha 2
+CLASS:PUBLIC
+LOCATION:Estadio Atanasio Girardot
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T210000Z_Always_Ready_UCV
+DTSTART;TZID=America/Montevideo:20240425T210000
+DTEND;TZID=America/Montevideo:20240425T230000
+SUMMARY:Always Ready🇧🇴 vs. Universidad César Vallejo🇵🇪
+DESCRIPTION:Grupo A - Fecha 3
+CLASS:PUBLIC
+LOCATION:Estadio Municipal Villa Ingenio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T230000Z_Independiente_Medellin_Defensa_y_Justicia
+DTSTART;TZID=America/Montevideo:20240425T230000
+DTEND;TZID=America/Montevideo:20240426T010000
+SUMMARY:Independiente de Medellín🇨🇴 vs. Defensa y Justicia🇦🇷
+DESCRIPTION:Grupo A - Fecha 3
+CLASS:PUBLIC
+LOCATION:Estadio Atanasio Girardot
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T210000Z_UCV_Independiente_Medellin
+DTSTART;TZID=America/Montevideo:20240507T210000
+DTEND;TZID=America/Montevideo:20240507T230000
+SUMMARY:Universidad César Vallejo🇵🇪 vs. Independiente de Medellín🇨🇴
+DESCRIPTION:Grupo A - Fecha 4
+CLASS:PUBLIC
+LOCATION:Estadio Mansiche
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T230000Z_Always_Ready_Defensa_y_Justicia
+DTSTART;TZID=America/Montevideo:20240507T230000
+DTEND;TZID=America/Montevideo:20240508T010000
+SUMMARY:Always Ready🇧🇴 vs. Defensa y Justicia🇦🇷
+DESCRIPTION:Grupo A - Fecha 4
+CLASS:PUBLIC
+LOCATION:Estadio Municipal Villa Ingenio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240514T210000Z_Defensa_y_Justicia_Independiente_Medellin
+DTSTART;TZID=America/Montevideo:20240514T210000
+DTEND;TZID=America/Montevideo:20240514T230000
+SUMMARY:Defensa y Justicia🇦🇷 vs. Independiente de Medellín🇨🇴
+DESCRIPTION:Grupo A - Fecha 5
+CLASS:PUBLIC
+LOCATION:Estadio Norberto Tomaghello
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T230000Z_UCV_Always_Ready
+DTSTART;TZID=America/Montevideo:20240515T230000
+DTEND;TZID=America/Montevideo:20240516T010000
+SUMMARY:Universidad César Vallejo🇵🇪 vs. Always Ready🇧🇴
+DESCRIPTION:Grupo A - Fecha 5
+CLASS:PUBLIC
+LOCATION:Estadio Mansiche
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240529T210000Z_Defensa_y_Justicia_UCV
+DTSTART;TZID=America/Montevideo:20240529T210000
+DTEND;TZID=America/Montevideo:20240529T230000
+SUMMARY:Defensa y Justicia🇦🇷 vs. Universidad César Vallejo🇵🇪
+DESCRIPTION:Grupo A - Fecha 6
+CLASS:PUBLIC
+LOCATION:Estadio Norberto Tomaghello
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240529T210000Z_Independiente_Medellin_Always_Ready
+DTSTART;TZID=America/Montevideo:20240529T210000
+DTEND;TZID=America/Montevideo:20240529T230000
+SUMMARY:Independiente de Medellín🇨🇴 vs. Always Ready🇧🇴
+DESCRIPTION:Grupo A - Fecha 6
+CLASS:PUBLIC
+LOCATION:Estadio Atanasio Girardot
+END:VEVENT
+
+END:VCALENDAR

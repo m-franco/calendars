@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID: github.com/m-franco
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Corinthians🇧🇷 - Copa Sudamericana
+X-WR-CALDESC:Partidos de Corinthians🇧🇷 en la Copa Sudamericana
+X-PUBLISHED-TTL:PT6H
+
+BEGIN:VEVENT
+UID:20240402T213000Z_Racing_Uru_Corinthians
+DTSTART;TZID=America/Montevideo:20240402T213000
+DTEND;TZID=America/Montevideo:20240402T233000
+SUMMARY:Racing(Uru)🇺🇾 vs. Corinthians🇧🇷
+DESCRIPTION:Grupo F - Fecha 1
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T190000Z_Corinthians_Nacional_Par
+DTSTART;TZID=America/Montevideo:20240409T190000
+DTEND;TZID=America/Montevideo:20240409T210000
+SUMMARY:Corinthians🇧🇷 vs. Nacional(Par)🇵🇾
+DESCRIPTION:Grupo F - Fecha 2
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240423T213000Z_Argentinos_Juniors_Corinthians
+DTSTART;TZID=America/Montevideo:20240423T213000
+DTEND;TZID=America/Montevideo:20240423T233000
+SUMMARY:Argentinos Juniors🇦🇷 vs. Corinthians🇧🇷
+DESCRIPTION:Grupo F - Fecha 3
+CLASS:PUBLIC
+LOCATION:Estadio Diego Armando Maradona
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T190000Z_Corinthians_Argentinos_Juniors
+DTSTART;TZID=America/Montevideo:20240507T190000
+DTEND;TZID=America/Montevideo:20240507T210000
+SUMMARY:Corinthians🇧🇷 vs. Argentinos Juniors🇦🇷
+DESCRIPTION:Grupo F - Fecha 4
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240514T213000Z_Corinthians_Argentinos_Juniors
+DTSTART;TZID=America/Montevideo:20240514T213000
+DTEND;TZID=America/Montevideo:20240514T233000
+SUMMARY:Corinthians🇧🇷 vs. Argentinos Juniors🇦🇷
+DESCRIPTION:Grupo F - Fecha 5
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240528T190000Z_Corinthians_Racing_Uru
+DTSTART;TZID=America/Montevideo:20240528T190000
+DTEND;TZID=America/Montevideo:20240528T210000
+SUMMARY:Corinthians🇧🇷 vs.Racing(Uru)🇺🇾
+DESCRIPTION:Grupo F - Fecha 6
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
+
+END:VCALENDAR

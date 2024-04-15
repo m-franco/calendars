@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID: github.com/m-franco
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Argentinos Juniors🇦🇷 - Copa Sudamericana
+X-WR-CALDESC:Partidos de Argentinos Juniors🇦🇷 en la Copa Sudamericana
+X-PUBLISHED-TTL:PT6H
+
+BEGIN:VEVENT
+UID:20240402T190000Z_Nacional_Par_Argentinos_Juniors
+DTSTART;TZID=America/Montevideo:20240402T190000
+DTEND;TZID=America/Montevideo:20240402T210000
+SUMMARY:Nacional(Par)🇵🇾 vs. Argentinos Juniors🇦🇷
+DESCRIPTION:Grupo F - Fecha 1
+CLASS:PUBLIC
+LOCATION:Estadio Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T190000Z_Argentinos_Juniors_Racing_Uru
+DTSTART;TZID=America/Montevideo:20240409T190000
+DTEND;TZID=America/Montevideo:20240409T210000
+SUMMARY:Argentinos Juniors🇦🇷 vs.Racing(Uru)🇺🇾
+DESCRIPTION:Grupo F - Fecha 2
+CLASS:PUBLIC
+LOCATION:Estadio Diego Armando Maradona
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240423T213000Z_Argentinos_Juniors_Corinthians
+DTSTART;TZID=America/Montevideo:20240423T213000
+DTEND;TZID=America/Montevideo:20240423T233000
+SUMMARY:Argentinos Juniors🇦🇷 vs. Corinthians🇧🇷
+DESCRIPTION:Grupo F - Fecha 3
+CLASS:PUBLIC
+LOCATION:Estadio Diego Armando Maradona
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T190000Z_Corinthians_Argentinos_Juniors
+DTSTART;TZID=America/Montevideo:20240507T190000
+DTEND;TZID=America/Montevideo:20240507T210000
+SUMMARY:Corinthians🇧🇷 vs. Argentinos Juniors🇦🇷
+DESCRIPTION:Grupo F - Fecha 4
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240514T213000Z_Corinthians_Argentinos_Juniors
+DTSTART;TZID=America/Montevideo:20240514T213000
+DTEND;TZID=America/Montevideo:20240514T233000
+SUMMARY:Corinthians🇧🇷 vs. Argentinos Juniors🇦🇷
+DESCRIPTION:Grupo F - Fecha 5
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240528T190000Z_Argentinos_Juniors_Nacional_Par
+DTSTART;TZID=America/Montevideo:20240528T190000
+DTEND;TZID=America/Montevideo:20240528T210000
+SUMMARY:Argentinos Juniors🇦🇷 vs. Nacional(Par)🇵🇾
+DESCRIPTION:Grupo F - Fecha 6
+CLASS:PUBLIC
+LOCATION:Estadio Diego Armando Maradona
+END:VEVENT
+
+END:VCALENDAR

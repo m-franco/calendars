@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID: github.com/m-franco
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Internacional🇧🇷 - Copa Sudamericana
+X-WR-CALDESC:Partidos de Internacional🇧🇷 en la Copa Sudamericana
+X-PUBLISHED-TTL:PT6H
+
+BEGIN:VEVENT
+UID:20240402T190000Z_Belgrano_Internacional
+DTSTART;TZID=America/Montevideo:20240402T190000
+DTEND;TZID=America/Montevideo:20240402T210000
+SUMMARY:Belgrano🇦🇷 vs. Internacional🇧🇷
+DESCRIPTION:Grupo C - Fecha 1
+CLASS:PUBLIC
+LOCATION:Estadio Mario Alberto Kempes
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T210000Z_Internacional_Real_Tomayapo
+DTSTART;TZID=America/Montevideo:20240410T210000
+DTEND;TZID=America/Montevideo:20240410T230000
+SUMMARY:Internacional🇧🇷 vs. Real Tomayapo🇧🇴
+DESCRIPTION:Grupo C - Fecha 2
+CLASS:PUBLIC
+LOCATION:Estadio Beira-Rio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T230000Z_Delfin_Internacional
+DTSTART;TZID=America/Montevideo:20240425T230000
+DTEND;TZID=America/Montevideo:20240426T010000
+SUMMARY:Delfín🇪🇨 vs. Internacional🇧🇷
+DESCRIPTION:Grupo C - Fecha 3
+CLASS:PUBLIC
+LOCATION:Estadio Jocay
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T210000Z_Real_Tomayapo_Internacional
+DTSTART;TZID=America/Montevideo:20240507T210000
+DTEND;TZID=America/Montevideo:20240507T230000
+SUMMARY:Real Tomayapo🇧🇴 vs. Internacional🇧🇷
+DESCRIPTION:Grupo C - Fecha 4
+CLASS:PUBLIC
+LOCATION:Estadio IV Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240516T190000Z_Internacional_Delfin
+DTSTART;TZID=America/Montevideo:20240516T190000
+DTEND;TZID=America/Montevideo:20240516T210000
+SUMMARY:Internacional🇧🇷 vs. Delfín🇪🇨
+DESCRIPTION:Grupo C - Fecha 5
+CLASS:PUBLIC
+LOCATION:Estadio Beira-Rio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240528T213000Z_Internacional_Belgrano
+DTSTART;TZID=America/Montevideo:20240528T213000
+DTEND;TZID=America/Montevideo:20240528T233000
+SUMMARY:Internacional🇧🇷 vs. Belgrano🇦🇷
+DESCRIPTION:Grupo C - Fecha 6
+CLASS:PUBLIC
+LOCATION:Estadio Beira-Rio
+END:VEVENT
+
+END:VCALENDAR
