@@ -1,6 +1,8 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Card from '../components/Card.astro';
+
+const imagePath = import.meta.env.IMAGE_PATH;
 ---
 
 <Layout title="Welcome to Astro.">
@@ -13,12 +15,12 @@ import Card from '../components/Card.astro';
 			<Card
 				href="/libertadores"
 				title="Copa Libertadores"
-                imgSrc='public/img/icons/conmebol-libertadores-solid.png'
+                imgSrc=`${imagePath}/img/icons/conmebol-libertadores-solid.png`
 			/>
 			<Card
 				href="/sudamericana"
 				title="Copa Sudamericana"
-                imgSrc='public/img/icons/sudamericana.png'
+                imgSrc=`${imagePath}/img/icons/sudamericana.png`
 			/>
 		</ul>
 	</main>
