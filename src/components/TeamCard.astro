@@ -1,0 +1,51 @@
+---
+interface Props {
+	name: string;
+	path: string;
+    imageName?: string;
+    tournament: string;
+}
+
+const imagePath = import.meta.env.PUBLIC_IMAGE_PATH ??'';
+
+const { name, path, imageName, tournament } = Astro.props;
+---
+
+<li class="link-card w-36 h-44 flex items-center justify-center bg-center bg-cover"
+    style={{
+        backgroundImage:`url(${imagePath}img/icons/${tournament}-bg.jpg)`,
+        }}
+ >
+	<a href={`${imagePath}${path}`} class="w-full h-full">
+    {imageName?
+    <div class="flex w-full h-full flex flex-col items-center justify-center">
+        <img class="w-24"
+        src={`${imagePath}img/icons/${tournament}/${imageName}`}
+        alt={name} />
+        <div class="text-center text-sm mt-3">{name}</div>
+    </div>
+    :
+    <div class="flex w-full h-full flex flex-col items-center justify-center">
+        <div class="text-center text-xl">Todos los equipos del {name}</div>
+    </div>
+    }
+        
+	</a>
+</li>
+<style>
+	.link-card {
+		list-style: none;
+		display: flex;
+		padding: 1px;
+		border-radius: 7px;
+		transition: background-position 0.6s cubic-bezier(0.22, 1, 0.36, 1);
+		box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.1);
+	}
+	.link-card:is(:hover, :focus-within) {
+		background-position: 0;
+		background-image: var(--accent-gradient);
+	}
+	.link-card:is(:hover, :focus-within) h2 {
+		color: rgb(var(--accent-light));
+	}
+</style>

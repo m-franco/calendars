@@ -1,16 +1,16 @@
 ---
-import Layout from '../layouts/Layout.astro';
-import Tournaments from '../components/Tournaments.astro';
+import Layout from '../../layouts/Layout.astro';
+import Teams from '../../components/Teams.astro';
 
 ---
 
 <Layout title="Welcome to Astro.">
 	<main>
-		<h1>Calendarios <span class="text-gradient">deportivos</span></h1>
+		<h1>Copa <span class="text-gradient">Libertadores</span></h1>
 		<p class="instructions flex justify-center">
-			Suscribite al calendario de tu equipo y tendrás todos los partidos incluidos en el calendario de tu teléfono o tu computadora. 
+			Suscribite al calendario de tu equipo o de todo el grupo y tendrás todos los partidos incluidos en el calendario de tu teléfono o tu computadora. 
 		</p>
-        <Tournaments/>
+        <Teams/>
 	</main>
 </Layout>
 
@@ -54,11 +54,4 @@ import Tournaments from '../components/Tournaments.astro';
 		padding: 1.5rem;
 		border-radius: 8px;
 	}
-
-	/* .link-card-grid {
-		display: flex;
-		grid-template-columns: repeat(auto-fit, minmax(24ch, 1fr));
-		gap: 3rem;
-		padding: 0;
-	} */
 </style>

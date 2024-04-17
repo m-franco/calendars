@@ -1,0 +1,34 @@
+---
+import TournamentCard from "./TournamentCard.astro";
+
+const imagePath = import.meta.env.PUBLIC_IMAGE_PATH ??'';
+const baseUrl = import.meta.env.PUBLIC_BASE_URL ??'';
+
+const tournaments = [
+{
+    href:`${imagePath}libertadores`,
+    title:"Copa Libertadores",
+    imgSrc:`${imagePath}img/icons/conmebol-libertadores-solid.png`,
+    backgroundImage:`${imagePath}img/icons/libertadores-bg.jpg`
+},
+{
+    href:`${imagePath}sudamericana`,
+    title:"Copa Sudamericana",
+    imgSrc:`${imagePath}img/icons/sudamericana.png`,
+    backgroundImage:`${imagePath}img/icons/sudamericana-bg.jpg`
+}
+];
+---
+<ul role="list" class="flex flex-wrap justify-between">
+    {
+        tournaments.map(({href,title,imgSrc,backgroundImage}) => (
+            <TournamentCard
+                href={href}
+                title={title}
+                imgSrc={imgSrc}
+                backgroundImage={backgroundImage}
+
+            />
+        ))
+    }
+</ul>
