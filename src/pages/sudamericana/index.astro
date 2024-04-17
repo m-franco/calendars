@@ -2,15 +2,232 @@
 import Layout from '../../layouts/Layout.astro';
 import Teams from '../../components/Teams.astro';
 
+const groups = [
+{
+    name:"Grupo A",
+    path: "GrupoA",
+    teams:[
+
+        {
+        name:"Defensa Y Justicia",
+        path:"DefensaYJusticia",
+        imageName:'CSF_DEF.png',
+        },
+        {
+        name:"Independiente de Medellín",
+        path:"IndependienteDeMedellin",
+        imageName:'CSF_IME.png',
+        },
+        {
+        name:"Universidad César Vallejo",
+        path:"UniversidadCesarVallejo",
+        imageName:'CSF_CVA.png',
+        },
+        {
+        name:"Always Ready",
+        path:"AlwaysReady",
+        imageName:'CSF_ALR.png',
+        },
+    ]
+},
+{
+    name:"Grupo B",
+    path: "GrupoB",
+    teams:[
+
+        {
+        name:"Cruzeiro",
+        path:"Cruzeiro",
+        imageName:'CSF_CZO.png',
+        },
+        {
+        name:"Unión La Calera",
+        path:"UnionLaCalera",
+        imageName:'CSF_ULC.png',
+        },
+        {
+        name:"Universidad Católica",
+        path:"UniversidadCatolica",
+        imageName:'CSF_UCA.png',
+        },
+        {
+        name:"Alianza",
+        path:"Cobresal",
+        imageName:'CSF_AZP.png',
+        },
+    ]
+},
+{
+    name:"Grupo C",
+    path: "GrupoC",
+    teams:[
+
+        {
+        name:"Internacional",
+        path:"Internacional",
+        imageName:'CSF_INL.png',
+        },
+        {
+        name:"Delfín",
+        path:"Delfin",
+        imageName:'CSF_DEL.png',
+        },
+        {
+        name:"Belgrano",
+        path:"Belgrano",
+        imageName:'CSF_BGR.png',
+        },
+        {
+        name:"Real Tomayapo",
+        path:"Real Tomayapo",
+        imageName:'CSF_RTP.png',
+        },
+    ]
+},
+{
+    name:"Grupo D",
+    path: "GrupoD",
+    teams:[
+
+        {
+        name:"Boca Juniors",
+        path:"BocaJuniors",
+        imageName:'CSF_BOJ.png',
+        },
+        {
+        name:"Fortaleza",
+        path:"Fortaleza",
+        imageName:'CSF_FOR.png',
+        },
+        {
+        name:"Nacional Potosí",
+        path:"NacionalPotosi",
+        imageName:'CSF_NPT.png',
+        },
+        {
+        name:"Sportivo Trinidense",
+        path:"SportivoTrinidense",
+        imageName:'CSF_STN.png',
+        },
+    ]
+},
+{
+    name:"Grupo E",
+    path: "GrupoE",
+    teams:[
+
+        {
+        name:"Atlético Paranaense",
+        path:"AtleticoParanaense",
+        imageName:'CSF_APR.png',
+        },
+        {
+        name:"Danubio",
+        path:"Danubio",
+        imageName:'CSF_DAN.png',
+        },
+        {
+        name:"Sportivo Ameliano",
+        path:"SportivoAmeliano",
+        imageName:'CSF_SPA.png',
+        },
+        {
+        name:"Rayo Zuliano",
+        path:"RayoZuliano",
+        imageName:'CSF_RYZ.png',
+        },
+    ]
+},
+{
+    name:"Grupo F",
+    path: "GrupoF",
+    teams:[
+
+        {
+        name:"Corinthians",
+        path:"Corinthians",
+        imageName:'CSF_COR.png',
+        },
+        {
+        name:"Argentinos Juniors",
+        path:"ArgentinosJuniors",
+        imageName:'CSF_AJU.png',
+        },
+        {
+        name:"Racing (Uru)",
+        path:"RacingUruguay",
+        imageName:'CSF_RCG.png',
+        },
+        {
+        name:"Nacional (Par)",
+        path:"NacionalParaguay",
+        imageName:'CSF_NAL.png',
+        },
+    ]
+},
+{
+    name:"Grupo G",
+    path: "GrupoG",
+    teams:[
+        {
+        name:"Lanús",
+        path:"Lanus",
+        imageName:'CSF_LAN.png',
+        },
+        {
+        name:"Metropolitanos",
+        path:"Metropolitanos",
+        imageName:'CSF_MTP.png',
+        },        
+        {
+        name:"Cuiabá",
+        path:"Cuiaba",
+        imageName:'CSF_CEC.png',
+        },
+        {
+        name:"Deportivo Garcilaso",
+        path:"Deportivo Garcilaso",
+        imageName:'CSF_DGC.png',
+        },
+    ]
+},
+{
+    name:"Grupo H",
+    path: "GrupoH",
+    teams:[
+        {
+        name:"Racing",
+        path:"Racing",
+        imageName:'CSF_RAC.png',
+        },
+        {
+        name:"Coquimbo Unido",
+        path:"CoquimboUnido",
+        imageName:'CSF_CQU.png',
+        },
+        {
+        name:"Sportivo Luqueño",
+        path:"SportivoLuqueno",
+        imageName:'CSF_SLQ.png',
+        },
+        {
+        name:"Red Bull Bragantino",
+        path:"RedBullBragantino",
+        imageName:'CSF_RBB.png',
+        },
+    ]
+},
+];
+
 ---
 
 <Layout title="Welcome to Astro.">
 	<main>
-		<h1>Calendarios <span class="text-gradient">deportivos</span></h1>
+		<h1>Copa <span class="text-gradient">Sudamericana</span></h1>
 		<p class="instructions flex justify-center">
-			Suscribite al calendario de tu equipo y tendrás todos los partidos incluidos en el calendario de tu teléfono o tu computadora. 
+			Suscribite al calendario de tu equipo o de todo el grupo y tendrás todos los partidos incluidos en el calendario de tu teléfono o tu computadora. 
 		</p>
-        <Teams/>
+        <Teams groups={groups} tournament="sudamericana"/>
 	</main>
 </Layout>
 
@@ -24,15 +241,6 @@ import Teams from '../../components/Teams.astro';
 		font-size: 20px;
 		line-height: 1.6;
 	}
-	/* .astro-a {
-		position: absolute;
-		top: -32px;
-		left: 50%;
-		transform: translatex(-50%);
-		width: 220px;
-		height: auto;
-		z-index: -1;
-	} */
 	h1 {
 		font-size: 4rem;
 		font-weight: 700;
@@ -54,11 +262,4 @@ import Teams from '../../components/Teams.astro';
 		padding: 1.5rem;
 		border-radius: 8px;
 	}
-
-	/* .link-card-grid {
-		display: flex;
-		grid-template-columns: repeat(auto-fit, minmax(24ch, 1fr));
-		gap: 3rem;
-		padding: 0;
-	} */
 </style>
