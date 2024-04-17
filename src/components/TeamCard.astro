@@ -6,7 +6,7 @@ interface Props {
     tournament: string;
 }
 
-const imagePath = import.meta.env.PUBLIC_IMAGE_PATH ??'';
+const imagePath = import.meta.env.PUBLIC_IMAGE_PATH ??'../';
 
 const { name, path, imageName, tournament } = Astro.props;
 ---
