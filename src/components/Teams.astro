@@ -229,7 +229,7 @@ const groups = [
         groups.map(({name, path, teams}) => (
             <li class="bg-cyan-700/90 my-2 pb-3 pt-2 px-2 rounded-xl">
                 <div class="w-full text-center mb-2">{name}</div>
-                <ul role="list" class="flex flex-column justify-around">
+                <ul role="list" class="flex flex-wrap justify-around gap-2">
                     <TeamCard
                             name={name}
                             path={path}
