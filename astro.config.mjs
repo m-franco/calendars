@@ -4,6 +4,6 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://m-franco.github.io',
+  site: 'https://m-franco.github.io/calendars',
   integrations: [tailwind()]
 });
