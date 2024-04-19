@@ -19,10 +19,7 @@ const { name, path, imageName, tournament } = Astro.props;
                         backgroundImage: `url(../img/icons/${tournament}-bg.jpg)`,
                     }}
                 >
-                    <a
-                        href={`../${tournament}/${path}`}
-                        class="w-full h-full"
-                    >
+                    <a href={`${path}`} class="w-full h-full">
                         <div class="flex w-full h-full flex-col items-center justify-center">
                             <img
                                 class="w-24"
@@ -34,9 +31,7 @@ const { name, path, imageName, tournament } = Astro.props;
                     </a>
                 </div>
             ) : (
-                <div
-                    class="link-carr w-44 h-44 flex items-center justify-center bg-center bg-cover rounded-md"
-                >
+                <div class="link-carr w-44 h-44 flex items-center justify-center bg-center bg-cover rounded-md">
                     <div class="flex w-full h-full flex-col items-center justify-center">
                         <img
                             class="w-24"
@@ -55,7 +50,7 @@ const { name, path, imageName, tournament } = Astro.props;
                 backgroundImage: `url(../img/icons/${tournament}-bg.jpg)`,
             }}
         >
-            <a href={`../${tournament}/${path}`} class="w-full h-full">
+            <a href={`${path}`} class="w-full h-full">
                 <div class="flex px-16 md:px-0 w-full h-full flex-col items-center justify-center">
                     <div class="text-center text-xl">
                         Todos los equipos del {name}
