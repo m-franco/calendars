@@ -1,58 +1,90 @@
 ---
 interface Props {
-	name: string;
-	path: string;
+    name: string;
+    path?: string;
     imageName?: string;
     tournament: string;
 }
 
-const imagePath = import.meta.env.PUBLIC_IMAGE_PATH ??'../';
+const imagePath = import.meta.env.PUBLIC_IMAGE_PATH ?? "../";
 
 const { name, path, imageName, tournament } = Astro.props;
 ---
-{imageName?
-<li class="link-card w-36 h-44 flex items-center justify-center bg-center bg-cover"
-    style={{
-        backgroundImage:`url(${imagePath}img/icons/${tournament}-bg.jpg)`,
-        }}
- >
-	<a href={`${imagePath}${path}`} class="w-full h-full">
-        <div class="flex w-full h-full flex-col items-center justify-center">
-            <img class="w-24"
-            src={`${imagePath}img/icons/${tournament}/${imageName}`}
-            alt={name} />
-            <div class="text-center text-sm mt-3">{name}</div>
-        </div>   
-	</a>
-</li>
-:
-<li class="link-card w-full md:w-36 h-32 md:h-44 flex items-center justify-center bg-center bg-cover"
-    style={{
-        backgroundImage:`url(${imagePath}img/icons/${tournament}-bg.jpg)`,
-        }}
- >
-	<a href={`${imagePath}${path}`} class="w-full h-full">
-        <div class="flex px-16 md:px-0 w-full h-full flex-col items-center justify-center">
-            <div class="text-center text-xl">Todos los equipos del {name}</div>
+
+{
+    imageName ? (
+        <div>
+            {path ? (
+                <div
+                    class="link-card w-36 h-44 flex items-center justify-center bg-center bg-cover"
+                    style={{
+                        backgroundImage: `url(${imagePath}img/icons/${tournament}-bg.jpg)`,
+                    }}
+                >
+                    <a
+                        href={`${imagePath}${tournament}/${path}`}
+                        class="w-full h-full"
+                    >
+                        <div class="flex w-full h-full flex-col items-center justify-center">
+                            <img
+                                class="w-24"
+                                src={`${imagePath}img/icons/${tournament}/${imageName}`}
+                                alt={name}
+                            />
+                            <div class="text-center text-sm mt-3">{name}</div>
+                        </div>
+                    </a>
+                </div>
+            ) : (
+                <div
+                    class="link-carr w-44 h-44 flex items-center justify-center bg-center bg-cover rounded-md"
+                    style={{
+                        // backgroundImage: `url(${imagePath}img/icons/${tournament}-bg.jpg)`,
+                    }}
+                >
+                    <div class="flex w-full h-full flex-col items-center justify-center">
+                        <img
+                            class="w-24"
+                            src={`${imagePath}img/icons/${tournament}/${imageName}`}
+                            alt={name}
+                        />
+                        <div class="text-center text-md mt-3">{name}</div>
+                    </div>
+                </div>
+            )}
         </div>
-	</a>
-</li>
+    ) : (
+        <div
+            class="link-card w-full md:w-36 h-32 md:h-44 flex items-center justify-center bg-center bg-cover"
+            style={{
+                backgroundImage: `url(${imagePath}img/icons/${tournament}-bg.jpg)`,
+            }}
+        >
+            <a href={`${imagePath}${tournament}/${path}`} class="w-full h-full">
+                <div class="flex px-16 md:px-0 w-full h-full flex-col items-center justify-center">
+                    <div class="text-center text-xl">
+                        Todos los equipos del {name}
+                    </div>
+                </div>
+            </a>
+        </div>
+    )
 }
 
 <style>
-	.link-card {
-		list-style: none;
-		display: flex;
-		padding: 1px;
-		border-radius: 7px;
-		transition: background-position 0.6s cubic-bezier(0.22, 1, 0.36, 1);
-		box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.1);
-	}
-	.link-card:is(:hover, :focus-within) {
-		background-position: 0;
-		background-image: var(--accent-gradient);
-	}
-	.link-card:is(:hover, :focus-within) h2 {
-		color: rgb(var(--accent-light));
-	}
+    .link-card {
+        list-style: none;
+        display: flex;
+        padding: 1px;
+        border-radius: 7px;
+        transition: background-position 0.6s cubic-bezier(0.22, 1, 0.36, 1);
+        box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.1);
+    }
+    .link-card:is(:hover, :focus-within) {
+        background-position: 0;
+        background-image: var(--accent-gradient);
+    }
+    .link-card:is(:hover, :focus-within) h2 {
+        color: rgb(var(--accent-light));
+    }
 </style>

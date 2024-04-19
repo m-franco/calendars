@@ -1,47 +1,41 @@
 ---
 import TeamCard from "./TeamCard.astro";
 
-const imagePath = import.meta.env.PUBLIC_IMAGE_PATH ??'';
-const baseUrl = import.meta.env.PUBLIC_BASE_URL ??'';
+const imagePath = import.meta.env.PUBLIC_IMAGE_PATH ?? "";
+const baseUrl = import.meta.env.PUBLIC_BASE_URL ?? "";
 
 interface Group {
-	name: string;
-	path: string;
+    name: string;
+    path: string;
     teams: any[];
 }
 interface Props {
-	groups: Group[];
+    groups: Group[];
     tournament: string;
 }
 
 const { groups, tournament } = Astro.props;
-
 ---
 
 <ul role="list" class="flex flex-col">
     {
-        groups.map(({name, path, teams}) => (
+        groups.map(({ name, path, teams }) => (
             <li class="bg-cyan-700/50 my-2 pb-3 pt-2 px-2 rounded-xl">
                 <div class="w-full text-center mb-2">{name}</div>
                 <ul role="list" class="flex flex-wrap justify-around gap-2">
-                    <TeamCard
-                            name={name}
-                            path={path}
-                            tournament={tournament}
-                        />
-                    {
-                    teams.map(({name, path, imageName}) => (
-                        <TeamCard
-                            name={name}
-                            path={path}
-                            imageName={imageName}
-                            tournament={tournament}
-                        />
-                    ))     
-                    }
+                    <TeamCard name={name} path={path} tournament={tournament} />
+                    {teams.map(({ name, path, imageName }) => (
+                        <li>
+                            <TeamCard
+                                name={name}
+                                path={path}
+                                imageName={imageName}
+                                tournament={tournament}
+                            />
+                        </li>
+                    ))}
                 </ul>
             </li>
         ))
     }
 </ul>
-

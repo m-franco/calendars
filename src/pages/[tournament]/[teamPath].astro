@@ -1,0 +1,514 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import TeamCard from "../../components/TeamCard.astro";
+import CalendarCard from "../../components/CalendarCard.astro";
+
+export async function getStaticPaths() {
+    const pages = [
+        {
+            name: "Fluminense",
+            teamPath: "Fluminense",
+            tournament: "libertadores",
+            imageName: "CSF_FLU.png",
+        },
+        {
+            name: "Cerro Porteño",
+            teamPath: "CerroPorteno",
+            tournament: "libertadores",
+            imageName: "CSF_CEP.png",
+        },
+        {
+            name: "Alianza Lima",
+            teamPath: "AlianzaLima",
+            tournament: "libertadores",
+            imageName: "CSF_ALI.png",
+        },
+        {
+            name: "Colo-Colo",
+            teamPath: "ColoColo",
+            tournament: "libertadores",
+            imageName: "CSF_CCO.png",
+        },
+        {
+            name: "San Pablo",
+            teamPath: "SanPablo",
+            tournament: "libertadores",
+            imageName: "CSF_SAO.png",
+        },
+        {
+            name: "Barcelona",
+            teamPath: "Barcelona",
+            tournament: "libertadores",
+            imageName: "CSF_BNA.png",
+        },
+        {
+            name: "Talleres",
+            teamPath: "Talleres",
+            tournament: "libertadores",
+            imageName: "CSF_TAL.png",
+        },
+        {
+            name: "Cobresal",
+            teamPath: "Cobresal",
+            tournament: "libertadores",
+            imageName: "CSF_COB.png",
+        },
+        {
+            name: "Gremio",
+            teamPath: "Gremio",
+            tournament: "libertadores",
+            imageName: "CSF_GRE.png",
+        },
+        {
+            name: "Estudiantes",
+            teamPath: "Estudiantes",
+            tournament: "libertadores",
+            imageName: "CSF_ELP.png",
+        },
+        {
+            name: "The Strongest",
+            teamPath: "TheStrongest",
+            tournament: "libertadores",
+            imageName: "CSF_THS.png",
+        },
+        {
+            name: "Huachipato",
+            teamPath: "Huachipato",
+            tournament: "libertadores",
+            imageName: "CSF_HUA.png",
+        },
+        {
+            name: "Liga de Quito",
+            teamPath: "LigaDeQuito",
+            tournament: "libertadores",
+            imageName: "CSF_LDU.png",
+        },
+        {
+            name: "Junior",
+            teamPath: "Junior",
+            tournament: "libertadores",
+            imageName: "CSF_JUN.png",
+        },
+        {
+            name: "Universitario",
+            teamPath: "Universitario",
+            tournament: "libertadores",
+            imageName: "CSF_UNI.png",
+        },
+        {
+            name: "Botafogo",
+            teamPath: "Botafogo",
+            tournament: "libertadores",
+            imageName: "CSF_BOT.png",
+        },
+        {
+            name: "Flamengo",
+            teamPath: "Flamengo",
+            tournament: "libertadores",
+            imageName: "CSF_FLA.png",
+        },
+        {
+            name: "Bolívar",
+            teamPath: "Bolivar",
+            tournament: "libertadores",
+            imageName: "CSF_BLV.png",
+        },
+        {
+            name: "Millonarios",
+            teamPath: "Millonarios",
+            tournament: "libertadores",
+            imageName: "CSF_MIL.png",
+        },
+        {
+            name: "Palestino",
+            teamPath: "Palestino",
+            tournament: "libertadores",
+            imageName: "CSF_PST.png",
+        },
+        {
+            name: "Palmeiras",
+            teamPath: "Palmeiras",
+            tournament: "libertadores",
+            imageName: "CSF_PAL.png",
+        },
+        {
+            name: "Independiente del Valle",
+            teamPath: "IndependienteDelValle",
+            tournament: "libertadores",
+            imageName: "CSF_IDL.png",
+        },
+        {
+            name: "San Lorenzo",
+            teamPath: "SanLorenzo",
+            tournament: "libertadores",
+            imageName: "CSF_SLO.png",
+        },
+        {
+            name: "Liverpool",
+            teamPath: "Liverpool",
+            tournament: "libertadores",
+            imageName: "CSF_LIV.png",
+        },
+        {
+            name: "Peñarol",
+            teamPath: "Penarol",
+            tournament: "libertadores",
+            imageName: "CSF_PEN.png",
+        },
+        {
+            name: "Atlético Mineiro",
+            teamPath: "AtleticoMineiro",
+            tournament: "libertadores",
+            imageName: "CSF_ATM.png",
+        },
+        {
+            name: "Rosario Central",
+            teamPath: "RosarioCentral",
+            tournament: "libertadores",
+            imageName: "CSF_RSC.png",
+        },
+        {
+            name: "Caracas",
+            teamPath: "Caracas",
+            tournament: "libertadores",
+            imageName: "CSF_CRC.png",
+        },
+        {
+            name: "River",
+            teamPath: "River",
+            tournament: "libertadores",
+            imageName: "CSF_RIV.png",
+        },
+        {
+            name: "Libertad",
+            teamPath: "Libertad",
+            tournament: "libertadores",
+            imageName: "CSF_LIB.png",
+        },
+        {
+            name: "Deportivo Táchira",
+            teamPath: "DeportivoTachira",
+            tournament: "libertadores",
+            imageName: "CSF_DTA.png",
+        },
+        {
+            name: "Nacional",
+            teamPath: "Nacional",
+            tournament: "libertadores",
+            imageName: "CSF_NCI.png",
+        },
+        {
+            name: "Defensa Y Justicia",
+            teamPath: "DefensaYJusticia",
+            tournament: "sudamericana",
+            imageName: "CSF_DEF.png",
+        },
+        {
+            name: "Independiente de Medellín",
+            teamPath: "IndependienteDeMedellin",
+            tournament: "sudamericana",
+            imageName: "CSF_IME.png",
+        },
+        {
+            name: "Universidad César Vallejo",
+            teamPath: "UniversidadCesarVallejo",
+            tournament: "sudamericana",
+            imageName: "CSF_CVA.png",
+        },
+        {
+            name: "Always Ready",
+            teamPath: "AlwaysReady",
+            tournament: "sudamericana",
+            imageName: "CSF_ALR.png",
+        },
+        {
+            name: "Cruzeiro",
+            teamPath: "Cruzeiro",
+            tournament: "sudamericana",
+            imageName: "CSF_CZO.png",
+        },
+        {
+            name: "Unión La Calera",
+            teamPath: "UnionLaCalera",
+            tournament: "sudamericana",
+            imageName: "CSF_ULC.png",
+        },
+        {
+            name: "Universidad Católica",
+            teamPath: "UniversidadCatolica",
+            tournament: "sudamericana",
+            imageName: "CSF_UCA.png",
+        },
+        {
+            name: "Alianza",
+            teamPath: "Cobresal",
+            tournament: "sudamericana",
+            imageName: "CSF_AZP.png",
+        },
+        {
+            name: "Internacional",
+            teamPath: "Internacional",
+            tournament: "sudamericana",
+            imageName: "CSF_INL.png",
+        },
+        {
+            name: "Delfín",
+            teamPath: "Delfin",
+            tournament: "sudamericana",
+            imageName: "CSF_DEL.png",
+        },
+        {
+            name: "Belgrano",
+            teamPath: "Belgrano",
+            tournament: "sudamericana",
+            imageName: "CSF_BGR.png",
+        },
+        {
+            name: "Real Tomayapo",
+            teamPath: "Real Tomayapo",
+            tournament: "sudamericana",
+            imageName: "CSF_RTP.png",
+        },
+        {
+            name: "Boca Juniors",
+            teamPath: "BocaJuniors",
+            tournament: "sudamericana",
+            imageName: "CSF_BOJ.png",
+        },
+        {
+            name: "Fortaleza",
+            teamPath: "Fortaleza",
+            tournament: "sudamericana",
+            imageName: "CSF_FOR.png",
+        },
+        {
+            name: "Nacional Potosí",
+            teamPath: "NacionalPotosi",
+            tournament: "sudamericana",
+            imageName: "CSF_NPT.png",
+        },
+        {
+            name: "Sportivo Trinidense",
+            teamPath: "SportivoTrinidense",
+            tournament: "sudamericana",
+            imageName: "CSF_STN.png",
+        },
+        {
+            name: "Atlético Paranaense",
+            teamPath: "AtleticoParanaense",
+            tournament: "sudamericana",
+            imageName: "CSF_APR.png",
+        },
+        {
+            name: "Danubio",
+            teamPath: "Danubio",
+            tournament: "sudamericana",
+            imageName: "CSF_DAN.png",
+        },
+        {
+            name: "Sportivo Ameliano",
+            teamPath: "SportivoAmeliano",
+            tournament: "sudamericana",
+            imageName: "CSF_SPA.png",
+        },
+        {
+            name: "Rayo Zuliano",
+            teamPath: "RayoZuliano",
+            tournament: "sudamericana",
+            imageName: "CSF_RYZ.png",
+        },
+        {
+            name: "Corinthians",
+            teamPath: "Corinthians",
+            tournament: "sudamericana",
+            imageName: "CSF_COR.png",
+        },
+        {
+            name: "Argentinos Juniors",
+            teamPath: "ArgentinosJuniors",
+            tournament: "sudamericana",
+            imageName: "CSF_AJU.png",
+        },
+        {
+            name: "Racing (Uru)",
+            teamPath: "RacingUruguay",
+            tournament: "sudamericana",
+            imageName: "CSF_RCG.png",
+        },
+        {
+            name: "Nacional (Par)",
+            teamPath: "NacionalParaguay",
+            tournament: "sudamericana",
+            imageName: "CSF_NAL.png",
+        },
+        {
+            name: "Lanús",
+            teamPath: "Lanus",
+            tournament: "sudamericana",
+            imageName: "CSF_LAN.png",
+        },
+        {
+            name: "Metropolitanos",
+            teamPath: "Metropolitanos",
+            tournament: "sudamericana",
+            imageName: "CSF_MTP.png",
+        },
+        {
+            name: "Cuiabá",
+            teamPath: "Cuiaba",
+            tournament: "sudamericana",
+            imageName: "CSF_CEC.png",
+        },
+        {
+            name: "Deportivo Garcilaso",
+            teamPath: "Deportivo Garcilaso",
+            tournament: "sudamericana",
+            imageName: "CSF_DGC.png",
+        },
+        {
+            name: "Racing",
+            teamPath: "Racing",
+            tournament: "sudamericana",
+            imageName: "CSF_RAC.png",
+        },
+        {
+            name: "Coquimbo Unido",
+            teamPath: "CoquimboUnido",
+            tournament: "sudamericana",
+            imageName: "CSF_CQU.png",
+        },
+        {
+            name: "Sportivo Luqueño",
+            teamPath: "SportivoLuqueno",
+            tournament: "sudamericana",
+            imageName: "CSF_SLQ.png",
+        },
+        {
+            name: "Red Bull Bragantino",
+            teamPath: "RedBullBragantino",
+            tournament: "sudamericana",
+            imageName: "CSF_RBB.png",
+        },
+    ];
+
+    return pages.map(({ name, teamPath, tournament, imageName }) => {
+        return {
+            params: { teamPath, tournament },
+            props: { name, imageName },
+        };
+    });
+}
+
+const calendars = [
+    {
+        calendar: "Apple iCal",
+        imageName: "apple-ical.png",
+        preLink: "webcal://",
+    },
+    {
+        calendar: "Google Calendar",
+        imageName: "google-calendar.png",
+        preLink: "https://",
+        target:"_blank",
+    },
+    {
+        calendar: "Microsoft Outlook",
+        imageName: "microsoft-outlook.png",
+        preLink: "webcal://",
+    },
+    {
+        calendar: "Outlook",
+        imageName: "outlook-com.png",
+        preLink: "https://outlook.live.com/owa/?rru=addsubscription&name=Uruguay&url=webcal://",
+        target:"_blank",
+    },
+];
+
+const calendarBasePath = "m-franco.github.io/calendars/";
+
+const { teamPath, tournament } = Astro.params;
+const { name, imageName } = Astro.props;
+
+const tournamentName = tournament === "libertadores"? "Copa Libertadores" : "Copa Sudamericana";
+---
+
+<Layout title=`Calendario de ${name} en la ${tournamentName}`>
+    <main>
+        <h1><span class="text-gradient">{name}</span></h1>
+        {tournament === "libertadores" && <h2>Copa Libertadores</h2>}
+        <div class="instructions flex flex-col justify-center">
+            <p>Suscribite al calendario de {name}.</p> 
+            <span>
+            Tendrás todos los partidos incluidos
+            en el calendario de tu teléfono o tu computadora.</span>
+        </div>
+
+        <div class="w-full flex items-center justify-center mb-4">
+            <TeamCard name={name} imageName={imageName} tournament={tournament} />
+        </div>
+        <div role="list" class="flex flex-col">
+            <div class="bg-cyan-700/50 rounded-xl w-full px-1 py-4">
+                <ul role="list" class="flex flex-wrap justify-around gap-2">
+                    {
+                        calendars.map(({ calendar, imageName, preLink, target }) => (
+                            <li class="">
+                                <CalendarCard
+                                    calendar={calendar}
+                                    link={`${preLink}${calendarBasePath}${tournament}/${teamPath}.ics`}
+                                    imageName={imageName}
+                                    tournament={tournament}
+                                    target={target}
+                                />
+                            </li>
+                        ))
+                    }
+                </ul>
+            </div>
+        </div>
+    </main>
+</Layout>
+
+<style>
+    main {
+        margin: auto;
+        padding: 1rem;
+        width: 800px;
+        max-width: calc(100% - 2rem);
+        color: white;
+        font-size: 20px;
+        line-height: 1.6;
+    }
+    h1 {
+        font-size: 4rem;
+        font-weight: 700;
+        line-height: 1;
+        text-align: center;
+        margin-top: 1em;
+        margin-bottom: 0.5em;
+    }
+    h2 {
+        font-size: 2rem;
+        font-weight: 600;
+        line-height: 1;
+        text-align: center;
+        margin-bottom: 2em;
+    }
+    .text-gradient {
+        background-image: var(--accent-gradient);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-size: 400%;
+        background-position: 0%;
+    }
+    .instructions {
+        margin-bottom: 2rem;
+        border: 1px solid rgba(var(--accent-light), 25%);
+        background: linear-gradient(
+            rgba(var(--accent-dark), 66%),
+            rgba(var(--accent-dark), 33%)
+        );
+        padding: 1.5rem;
+        border-radius: 8px;
+        font-size: 18px;
+    }
+</style>
