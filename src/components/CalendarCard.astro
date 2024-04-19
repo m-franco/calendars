@@ -12,13 +12,13 @@ const { calendar, imageName, tournament, link, target } = Astro.props;
 
 <div class="link-card w-36 h-44 flex items-center justify-center bg-center bg-cover"
     style={{
-        backgroundImage:`url(../img/icons/${tournament}-bg.jpg)`,
+        backgroundImage:`url(../../img/icons/${tournament}-bg.jpg)`,
         }}
  >
 	<a href={link} class="w-full h-full" target={target}>
         <div class="flex w-full h-full flex-col items-center justify-center">
             <img class="w-24"
-            src={`../img/icons/${imageName}`}
+            src={`../../img/icons/${imageName}`}
             alt={calendar} />
             <div class="text-center text-sm mt-3">{calendar}</div>
         </div>   
