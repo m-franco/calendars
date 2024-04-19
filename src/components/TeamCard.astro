@@ -6,8 +6,6 @@ interface Props {
     tournament: string;
 }
 
-const imagePath = import.meta.env.PUBLIC_IMAGE_PATH ?? "../";
-
 const { name, path, imageName, tournament } = Astro.props;
 ---
 
@@ -18,17 +16,17 @@ const { name, path, imageName, tournament } = Astro.props;
                 <div
                     class="link-card w-36 h-44 flex items-center justify-center bg-center bg-cover"
                     style={{
-                        backgroundImage: `url(${imagePath}img/icons/${tournament}-bg.jpg)`,
+                        backgroundImage: `url(../img/icons/${tournament}-bg.jpg)`,
                     }}
                 >
                     <a
-                        href={`${imagePath}${tournament}/${path}`}
+                        href={`../${tournament}/${path}`}
                         class="w-full h-full"
                     >
                         <div class="flex w-full h-full flex-col items-center justify-center">
                             <img
                                 class="w-24"
-                                src={`${imagePath}img/icons/${tournament}/${imageName}`}
+                                src={`../img/icons/${tournament}/${imageName}`}
                                 alt={name}
                             />
                             <div class="text-center text-sm mt-3">{name}</div>
@@ -38,14 +36,11 @@ const { name, path, imageName, tournament } = Astro.props;
             ) : (
                 <div
                     class="link-carr w-44 h-44 flex items-center justify-center bg-center bg-cover rounded-md"
-                    style={{
-                        // backgroundImage: `url(${imagePath}img/icons/${tournament}-bg.jpg)`,
-                    }}
                 >
                     <div class="flex w-full h-full flex-col items-center justify-center">
                         <img
                             class="w-24"
-                            src={`${imagePath}${imagePath}img/icons/${tournament}/${imageName}`}
+                            src={`../img/icons/${tournament}/${imageName}`}
                             alt={name}
                         />
                         <div class="text-center text-md mt-3">{name}</div>
@@ -57,10 +52,10 @@ const { name, path, imageName, tournament } = Astro.props;
         <div
             class="link-card w-full md:w-36 h-32 md:h-44 flex items-center justify-center bg-center bg-cover"
             style={{
-                backgroundImage: `url(${imagePath}img/icons/${tournament}-bg.jpg)`,
+                backgroundImage: `url(../img/icons/${tournament}-bg.jpg)`,
             }}
         >
-            <a href={`${imagePath}${tournament}/${path}`} class="w-full h-full">
+            <a href={`../${tournament}/${path}`} class="w-full h-full">
                 <div class="flex px-16 md:px-0 w-full h-full flex-col items-center justify-center">
                     <div class="text-center text-xl">
                         Todos los equipos del {name}
