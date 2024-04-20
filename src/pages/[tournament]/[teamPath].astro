@@ -389,6 +389,86 @@ export async function getStaticPaths() {
             tournament: "sudamericana",
             imageName: "CSF_RBB.png",
         },
+        {
+            name: "Grupo A",
+            teamPath: "GrupoA",
+            tournament: "libertadores",
+        },
+        {
+            name: "Grupo B",
+            teamPath: "GrupoB",
+            tournament: "libertadores",
+        },
+        {
+            name: "Grupo C",
+            teamPath: "GrupoC",
+            tournament: "libertadores",
+        },
+        {
+            name: "Grupo D",
+            teamPath: "GrupoD",
+            tournament: "libertadores",
+        },
+        {
+            name: "Grupo E",
+            teamPath: "GrupoE",
+            tournament: "libertadores",
+        },
+        {
+            name: "Grupo F",
+            teamPath: "GrupoF",
+            tournament: "libertadores",
+        },
+        {
+            name: "Grupo G",
+            teamPath: "GrupoG",
+            tournament: "libertadores",
+        },
+        {
+            name: "Grupo H",
+            teamPath: "GrupoH",
+            tournament: "libertadores",
+        },
+        {
+            name: "Grupo A",
+            teamPath: "GrupoA",
+            tournament: "sudamericana",
+        },
+        {
+            name: "Grupo B",
+            teamPath: "GrupoB",
+            tournament: "sudamericana",
+        },
+        {
+            name: "Grupo C",
+            teamPath: "GrupoC",
+            tournament: "sudamericana",
+        },
+        {
+            name: "Grupo D",
+            teamPath: "GrupoD",
+            tournament: "sudamericana",
+        },
+        {
+            name: "Grupo E",
+            teamPath: "GrupoE",
+            tournament: "sudamericana",
+        },
+        {
+            name: "Grupo F",
+            teamPath: "GrupoF",
+            tournament: "sudamericana",
+        },
+        {
+            name: "Grupo G",
+            teamPath: "GrupoG",
+            tournament: "sudamericana",
+        },
+        {
+            name: "Grupo H",
+            teamPath: "GrupoH",
+            tournament: "sudamericana",
+        },
     ];
 
     return pages.map(({ name, teamPath, tournament, imageName }) => {
@@ -408,7 +488,7 @@ const calendars = [
     {
         calendar: "Google Calendar",
         imageName: "google-calendar.png",
-        preLink: "https://",
+        preLink: "https://calendar.google.com/calendar/r?cid=webcal://",
         target:"_blank",
     },
     {
@@ -430,14 +510,23 @@ const { teamPath, tournament } = Astro.params;
 const { name, imageName } = Astro.props;
 
 const tournamentName = tournament === "libertadores"? "Copa Libertadores" : "Copa Sudamericana";
+
 ---
 
-<Layout title=`Calendario de ${name} en la ${tournamentName}`>
+<Layout 
+title=`Calendario de ${name} en la ${tournamentName}` 
+description=`Suscribite al calendario de${imageName? "" : "l"} ${name}
+${imageName? " en" : " de"} la Copa 
+${tournament === "libertadores" ? " Libertadores" : " Sudamericana"}.</p> 
+Tendrás todos los partidos incluidos
+en el calendario de tu teléfono o tu computadora.`>
     <main>
         <h1><span class="text-gradient">{name}</span></h1>
         {tournament === "libertadores" && <h2>Copa Libertadores</h2>}
         <div class="instructions flex flex-col justify-center">
-            <p>Suscribite al calendario de {name}.</p> 
+            <p>Suscribite al calendario de{imageName? "" : "l"} {name}
+                {imageName? " en" : " de"} la Copa 
+                {tournament === "libertadores" ? " Libertadores" : " Sudamericana"}.</p> 
             <span>
             Tendrás todos los partidos incluidos
             en el calendario de tu teléfono o tu computadora.</span>

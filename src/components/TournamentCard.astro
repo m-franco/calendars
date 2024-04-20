@@ -6,18 +6,20 @@ interface Props {
     backgroundImage: string;
 }
 
+const imagePath = import.meta.env.PUBLIC_IMAGE_PATH ?? "";
+
 const { href, title, imgSrc, backgroundImage } = Astro.props;
 ---
 
 <li class="link-card w-80 h-80 flex items-center justify-center bg-center bg-cover"
     style={{
-        backgroundImage:`url(${backgroundImage})`,
+        backgroundImage:`url(${imagePath}${backgroundImage})`,
         }}
  >
-	<a href={href}
+	<a href={`${imagePath}${href}`}
     >
         <img class="w-56"
-        src={imgSrc} 
+        src={`${imagePath}${imgSrc}`}
         alt={title} />
 	</a>
 </li>
