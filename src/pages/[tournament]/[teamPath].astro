@@ -539,9 +539,16 @@ en el calendario de tu teléfono o tu computadora.`;
 title=`Calendario de ${name} en la ${tournamentName}` 
 description={description}>
     <main>
-        <h1><span class="text-gradient">{name}</span></h1>
-        {tournament === "libertadores" && <h2>Copa Libertadores</h2>}
-        <div class="instructions flex flex-col justify-center">
+        <h1 class="
+            text-4xl sm:text-5xl md:text-6xl lg:text-7xl  
+            text-center font-bold  p-0.5 mb-4">
+            <span class="text-gradient">{name}</span>
+        </h1>
+        <h2 class="text-lg sm:text-xl md:text-2xl lg:text-3xl">
+            {tournament === "libertadores" ? "Copa Libertadores":"Copa Sudamericana"}
+        </h2>
+        <div class="instructions flex flex-col justify-center 
+        text-sm sm:text-base md:text-lg lg:text-xl">
             <p>Suscribite al calendario de{imageName? "" : "l"} {name}
                 {imageName? " en" : " de"} la Copa 
                 {tournament === "libertadores" ? " Libertadores" : " Sudamericana"}.</p> 
@@ -585,18 +592,9 @@ description={description}>
         font-size: 20px;
         line-height: 1.6;
     }
-    h1 {
-        font-size: 4rem;
-        font-weight: 700;
-        line-height: 1;
-        text-align: center;
-        margin-top: 1em;
-        margin-bottom: 0.5em;
-    }
+
     h2 {
-        font-size: 2rem;
         font-weight: 600;
-        line-height: 1;
         text-align: center;
         margin-bottom: 2em;
     }
@@ -616,6 +614,5 @@ description={description}>
         );
         padding: 1.5rem;
         border-radius: 8px;
-        font-size: 18px;
     }
 </style>

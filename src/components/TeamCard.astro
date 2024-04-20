@@ -54,13 +54,15 @@ const { name, path, imageName, tournament } = Astro.props;
     <div>
             {path ? (
         <div
-            class="link-card w-full md:w-36 h-32 md:h-44 flex items-center justify-center bg-center bg-cover"
+            class="link-card w-full 
+            md:w-36 h-32 md:h-44 flex 
+            items-center justify-center bg-center bg-cover"
             style={{
                 backgroundImage: `url(../${imagePath}img/icons/${tournament}-bg.jpg)`,
             }}
         >
             <a href={`../${imagePath}${tournament}/${path}`} class="w-full h-full">
-                <div class="flex px-16 md:px-0 w-full h-full flex-col items-center justify-center">
+                <div class="flex px-8 sm:px-16 md:px-0 w-full h-full flex-col items-center justify-center">
                     <div class="text-center text-xl">
                         Todos los equipos del {name} 
                     </div>

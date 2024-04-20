@@ -9,8 +9,16 @@ import Tournaments from '../components/Tournaments.astro';
     description="Suscribite al calendario de tu equipo y tendrás todos los partidos incluidos en el calendario de tu teléfono o tu computadora."
     >
 	<main>
-		<h1>Calendarios <span class="text-gradient">deportivos</span></h1>
-		<p class="instructions flex justify-center">
+
+        <h1 class="
+            text-4xl sm:text-5xl md:text-6xl lg:text-7xl  
+            text-center font-bold  p-0.5 mb-4">
+            Calendarios <span class="text-gradient">deportivos</span>
+        </h1>
+  
+		<p class="instructions flex justify-center 
+        text-sm sm:text-base md:text-lg lg:text-xl
+        ">
 			Suscribite al calendario de tu equipo y tendrás todos los partidos incluidos en el calendario de tu teléfono o tu computadora. 
 		</p>
         <Tournaments/>
@@ -26,13 +34,6 @@ import Tournaments from '../components/Tournaments.astro';
 		color: white;
 		font-size: 20px;
 		line-height: 1.6;
-	}
-	h1 {
-		font-size: 4rem;
-		font-weight: 700;
-		line-height: 1;
-		text-align: center;
-		margin-bottom: 1em;
 	}
 	.text-gradient {
 		background-image: var(--accent-gradient);
