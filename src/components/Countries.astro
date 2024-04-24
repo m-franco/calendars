@@ -1,0 +1,37 @@
+---
+import CountryCard from "./CountryCard.astro";
+
+
+interface Group {
+    name: string;
+    teams: any[];
+}
+interface Props {
+    countries: Group[];
+    tournament: string;
+}
+
+const { countries, tournament } = Astro.props;
+---
+
+<ul role="list" class="flex flex-col">
+    {
+        countries.map(({ name, teams }) => (
+            <li class="bg-cyan-700/50 my-2 pb-3 pt-2 px-2 rounded-xl">
+                <div class="w-full text-center mb-2">{name}</div>
+                <ul role="list" class="flex flex-wrap justify-around gap-2">
+                    {teams.map(({ name, path, imageName }) => (
+                        <li>
+                            <CountryCard
+                                name={name}
+                                path={path}
+                                imageName={imageName}
+                                tournament={tournament}
+                            />
+                        </li>
+                    ))}
+                </ul>
+            </li>
+        ))
+    }
+</ul>

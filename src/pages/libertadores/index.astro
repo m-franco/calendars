@@ -1,228 +1,19 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import Teams from '../../components/Teams.astro';
+import Countries from '../../components/Countries.astro';
+import AllTournament from '../../components/AllTournament.astro';
 
-const groups = [
-{
-    name:"Grupo A",
-    path: "GrupoA",
-    teams:[
+import { countries, tournaments } from '../../data.json';
+const tournament = tournaments.find((tournament) => tournament.href === 'libertadores')!;
+const groups = tournament['groups'];
 
-        {
-        name:"Fluminense",
-        path:"Fluminense",
-        imageName:'CSF_FLU.png',
-        },
-        {
-        name:"Cerro Porteño",
-        path:"CerroPorteno",
-        imageName:'CSF_CEP.png',
-        },
-        {
-        name:"Alianza Lima",
-        path:"AlianzaLima",
-        imageName:'CSF_ALI.png',
-        },
-        {
-        name:"Colo-Colo",
-        path:"ColoColo",
-        imageName:'CSF_CCO.png',
-        },
-    ]
-},
-{
-    name:"Grupo B",
-    path: "GrupoB",
-    teams:[
-
-        {
-        name:"San Pablo",
-        path:"SanPablo",
-        imageName:'CSF_SAO.png',
-        },
-        {
-        name:"Barcelona",
-        path:"Barcelona",
-        imageName:'CSF_BNA.png',
-        },
-        {
-        name:"Talleres",
-        path:"Talleres",
-        imageName:'CSF_TAL.png',
-        },
-        {
-        name:"Cobresal",
-        path:"Cobresal",
-        imageName:'CSF_COB.png',
-        },
-    ]
-},
-{
-    name:"Grupo C",
-    path: "GrupoC",
-    teams:[
-
-        {
-        name:"Gremio",
-        path:"Gremio",
-        imageName:'CSF_GRE.png',
-        },
-        {
-        name:"Estudiantes",
-        path:"Estudiantes",
-        imageName:'CSF_ELP.png',
-        },
-        {
-        name:"The Strongest",
-        path:"TheStrongest",
-        imageName:'CSF_THS.png',
-        },
-        {
-        name:"Huachipato",
-        path:"Huachipato",
-        imageName:'CSF_HUA.png',
-        },
-    ]
-},
-{
-    name:"Grupo D",
-    path: "GrupoD",
-    teams:[
-
-        {
-        name:"Liga de Quito",
-        path:"LigaDeQuito",
-        imageName:'CSF_LDU.png',
-        },
-        {
-        name:"Junior",
-        path:"Junior",
-        imageName:'CSF_JUN.png',
-        },
-        {
-        name:"Universitario",
-        path:"Universitario",
-        imageName:'CSF_UNI.png',
-        },
-        {
-        name:"Botafogo",
-        path:"Botafogo",
-        imageName:'CSF_BOT.png',
-        },
-    ]
-},
-{
-    name:"Grupo E",
-    path: "GrupoE",
-    teams:[
-
-        {
-        name:"Flamengo",
-        path:"Flamengo",
-        imageName:'CSF_FLA.png',
-        },
-        {
-        name:"Bolívar",
-        path:"Bolivar",
-        imageName:'CSF_BLV.png',
-        },
-        {
-        name:"Millonarios",
-        path:"Millonarios",
-        imageName:'CSF_MIL.png',
-        },
-        {
-        name:"Palestino",
-        path:"Palestino",
-        imageName:'CSF_PST.png',
-        },
-    ]
-},
-{
-    name:"Grupo F",
-    path: "GrupoF",
-    teams:[
-
-        {
-        name:"Palmeiras",
-        path:"Palmeiras",
-        imageName:'CSF_PAL.png',
-        },
-        {
-        name:"Independiente del Valle",
-        path:"IndependienteDelValle",
-        imageName:'CSF_IDL.png',
-        },
-        {
-        name:"San Lorenzo",
-        path:"SanLorenzo",
-        imageName:'CSF_SLO.png',
-        },
-        {
-        name:"Liverpool",
-        path:"Liverpool",
-        imageName:'CSF_LIV.png',
-        },
-    ]
-},
-{
-    name:"Grupo G",
-    path: "GrupoG",
-    teams:[
-        {
-        name:"Peñarol",
-        path:"Penarol",
-        imageName:'CSF_PEN.png',
-        },
-        {
-        name:"Atlético Mineiro",
-        path:"AtleticoMineiro",
-        imageName:'CSF_ATM.png',
-        },        
-        {
-        name:"Rosario Central",
-        path:"RosarioCentral",
-        imageName:'CSF_RSC.png',
-        },
-        {
-        name:"Caracas",
-        path:"Caracas",
-        imageName:'CSF_CRC.png',
-        },
-    ]
-},
-{
-    name:"Grupo H",
-    path: "GrupoH",
-    teams:[
-        {
-        name:"River",
-        path:"River",
-        imageName:'CSF_RIV.png',
-        },
-        {
-        name:"Libertad",
-        path:"Libertad",
-        imageName:'CSF_LIB.png',
-        },
-        {
-        name:"Deportivo Táchira",
-        path:"DeportivoTachira",
-        imageName:'CSF_DTA.png',
-        },
-        {
-        name:"Nacional",
-        path:"Nacional",
-        imageName:'CSF_NCI.png',
-        },
-    ]
-},
-];
-
+const description="Suscribite al calendario de tu equipo, de todo el grupo o de toda la copa y tendrás todos los partidos incluidos en el calendario de tu teléfono o tu computadora.";
 ---
 
-<Layout title="Calendarios de Copa Libertadores" 
-    description="Suscribite al calendario de tu equipo o de todo el grupo y tendrás todos los partidos incluidos en el calendario de tu teléfono o tu computadora. ">
+<Layout title="Calendarios de Copa Libertadores"
+    description={description}
+    >
 	
 	<main>
         <h1 class="
@@ -230,12 +21,19 @@ const groups = [
             text-center font-bold  p-0.5 mb-4">
             Copa <span class="text-gradient">Libertadores</span>
         </h1>
-  
+
 		<p class="instructions flex justify-center 
         text-sm sm:text-base md:text-lg lg:text-xl
         ">
-            Suscribite al calendario de tu equipo o de todo el grupo y tendrás todos los partidos incluidos en el calendario de tu teléfono o tu computadora. 
+            {description}
         </p>
+        <AllTournament 
+            title="Calendario de todos los partidos de la Copa Libertadores" 
+            href="libertadores/Completa" 
+            imgSrc="img/icons/libertadores.png"
+            backgroundImage="img/icons/libertadores-bg.jpg"
+        />
+        <Countries countries={countries} tournament="libertadores" />
         <Teams groups={groups} tournament="libertadores" />
 	</main>
 </Layout>

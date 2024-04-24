@@ -1,20 +1,8 @@
 ---
 import TournamentCard from "./TournamentCard.astro";
+import { tournaments } from "../data.json";
 
-const tournaments = [
-{
-    href:"libertadores",
-    title:"Copa Libertadores",
-    imgSrc:"img/icons/conmebol-libertadores-solid.png",
-    backgroundImage:"img/icons/libertadores-bg.jpg"
-},
-{
-    href:"sudamericana",
-    title:"Copa Sudamericana",
-    imgSrc:"img/icons/sudamericana.png",
-    backgroundImage:"img/icons/sudamericana-bg.jpg"
-}
-];
+const imagePath = import.meta.env.PUBLIC_IMAGE_PATH ?? "";
 
 ---
 <ul role="list" class="flex flex-wrap justify-center gap-4">
@@ -23,6 +11,7 @@ const tournaments = [
             <TournamentCard
                 href={href}
                 title={title}
+                imagePath={imagePath}
                 imgSrc={imgSrc}
                 backgroundImage={backgroundImage}
 

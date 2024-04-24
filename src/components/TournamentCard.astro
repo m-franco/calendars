@@ -2,13 +2,12 @@
 interface Props {
 	title: string;
 	href: string;
+    imagePath: string;
     imgSrc: string;
     backgroundImage: string;
 }
 
-const imagePath = import.meta.env.PUBLIC_IMAGE_PATH ?? "";
-
-const { href, title, imgSrc, backgroundImage } = Astro.props;
+const { href, title, imagePath, imgSrc, backgroundImage } = Astro.props;
 ---
 
 <li class="link-card w-80 h-80 flex items-center justify-center bg-center bg-cover"

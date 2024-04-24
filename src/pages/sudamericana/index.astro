@@ -1,240 +1,40 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import Teams from '../../components/Teams.astro';
+import Countries from '../../components/Countries.astro';
+import AllTournament from '../../components/AllTournament.astro';
 
-const groups = [
-{
-    name:"Grupo A",
-    path: "GrupoA",
-    teams:[
+import { countries, tournaments } from '../../data.json';
+const tournament = tournaments.find((tournament) => tournament.href === 'sudamericana')!;
+const groups = tournament['groups'];
 
-        {
-        name:"Defensa Y Justicia",
-        path:"DefensaYJusticia",
-        imageName:'CSF_DEF.png',
-        },
-        {
-        name:"Independiente de Medellín",
-        path:"IndependienteDeMedellin",
-        imageName:'CSF_IME.png',
-        },
-        {
-        name:"Universidad César Vallejo",
-        path:"UniversidadCesarVallejo",
-        imageName:'CSF_CVA.png',
-        },
-        {
-        name:"Always Ready",
-        path:"AlwaysReady",
-        imageName:'CSF_ALR.png',
-        },
-    ]
-},
-{
-    name:"Grupo B",
-    path: "GrupoB",
-    teams:[
-
-        {
-        name:"Cruzeiro",
-        path:"Cruzeiro",
-        imageName:'CSF_CZO.png',
-        },
-        {
-        name:"Unión La Calera",
-        path:"UnionLaCalera",
-        imageName:'CSF_ULC.png',
-        },
-        {
-        name:"Universidad Católica",
-        path:"UniversidadCatolica",
-        imageName:'CSF_UCA.png',
-        },
-        {
-        name:"Alianza",
-        path:"Cobresal",
-        imageName:'CSF_AZP.png',
-        },
-    ]
-},
-{
-    name:"Grupo C",
-    path: "GrupoC",
-    teams:[
-
-        {
-        name:"Internacional",
-        path:"Internacional",
-        imageName:'CSF_INL.png',
-        },
-        {
-        name:"Delfín",
-        path:"Delfin",
-        imageName:'CSF_DEL.png',
-        },
-        {
-        name:"Belgrano",
-        path:"Belgrano",
-        imageName:'CSF_BGR.png',
-        },
-        {
-        name:"Real Tomayapo",
-        path:"Real Tomayapo",
-        imageName:'CSF_RTP.png',
-        },
-    ]
-},
-{
-    name:"Grupo D",
-    path: "GrupoD",
-    teams:[
-
-        {
-        name:"Boca Juniors",
-        path:"BocaJuniors",
-        imageName:'CSF_BOJ.png',
-        },
-        {
-        name:"Fortaleza",
-        path:"Fortaleza",
-        imageName:'CSF_FOR.png',
-        },
-        {
-        name:"Nacional Potosí",
-        path:"NacionalPotosi",
-        imageName:'CSF_NPT.png',
-        },
-        {
-        name:"Sportivo Trinidense",
-        path:"SportivoTrinidense",
-        imageName:'CSF_STN.png',
-        },
-    ]
-},
-{
-    name:"Grupo E",
-    path: "GrupoE",
-    teams:[
-
-        {
-        name:"Atlético Paranaense",
-        path:"AtleticoParanaense",
-        imageName:'CSF_APR.png',
-        },
-        {
-        name:"Danubio",
-        path:"Danubio",
-        imageName:'CSF_DAN.png',
-        },
-        {
-        name:"Sportivo Ameliano",
-        path:"SportivoAmeliano",
-        imageName:'CSF_SPA.png',
-        },
-        {
-        name:"Rayo Zuliano",
-        path:"RayoZuliano",
-        imageName:'CSF_RYZ.png',
-        },
-    ]
-},
-{
-    name:"Grupo F",
-    path: "GrupoF",
-    teams:[
-
-        {
-        name:"Corinthians",
-        path:"Corinthians",
-        imageName:'CSF_COR.png',
-        },
-        {
-        name:"Argentinos Juniors",
-        path:"ArgentinosJuniors",
-        imageName:'CSF_AJU.png',
-        },
-        {
-        name:"Racing (Uru)",
-        path:"RacingUruguay",
-        imageName:'CSF_RCG.png',
-        },
-        {
-        name:"Nacional (Par)",
-        path:"NacionalParaguay",
-        imageName:'CSF_NAL.png',
-        },
-    ]
-},
-{
-    name:"Grupo G",
-    path: "GrupoG",
-    teams:[
-        {
-        name:"Lanús",
-        path:"Lanus",
-        imageName:'CSF_LAN.png',
-        },
-        {
-        name:"Metropolitanos",
-        path:"Metropolitanos",
-        imageName:'CSF_MTP.png',
-        },        
-        {
-        name:"Cuiabá",
-        path:"Cuiaba",
-        imageName:'CSF_CEC.png',
-        },
-        {
-        name:"Deportivo Garcilaso",
-        path:"Deportivo Garcilaso",
-        imageName:'CSF_DGC.png',
-        },
-    ]
-},
-{
-    name:"Grupo H",
-    path: "GrupoH",
-    teams:[
-        {
-        name:"Racing",
-        path:"Racing",
-        imageName:'CSF_RAC.png',
-        },
-        {
-        name:"Coquimbo Unido",
-        path:"CoquimboUnido",
-        imageName:'CSF_CQU.png',
-        },
-        {
-        name:"Sportivo Luqueño",
-        path:"SportivoLuqueno",
-        imageName:'CSF_SLQ.png',
-        },
-        {
-        name:"Red Bull Bragantino",
-        path:"RedBullBragantino",
-        imageName:'CSF_RBB.png',
-        },
-    ]
-},
-];
-
+const description="Suscribite al calendario de tu equipo, de todo el grupo o de toda la copa y tendrás todos los partidos incluidos en el calendario de tu teléfono o tu computadora.";
 ---
 
 <Layout title="Calendarios de Copa Sudamericana" 
-    description="Suscribite al calendario de tu equipo o de todo el grupo y tendrás todos los partidos incluidos en el calendario de tu teléfono o tu computadora. ">
-	<main>
+    description={description}
+    >
+
+    <main>
         <h1 class="
             text-4xl sm:text-5xl md:text-6xl lg:text-7xl  
             text-center font-bold  p-0.5 mb-4">
             Copa <span class="text-gradient">Sudamericana</span>
         </h1>
-  
+
 		<p class="instructions flex justify-center 
         text-sm sm:text-base md:text-lg lg:text-xl
         ">
             Suscribite al calendario de tu equipo o de todo el grupo y tendrás todos los partidos incluidos en el calendario de tu teléfono o tu computadora. 
         </p>
+        <AllTournament 
+            title="Calendario de todos los partidos de la Copa Sudamericana" 
+            href="sudamericana/Completa" 
+            imgSrc="img/icons/sudamericana.png"
+            backgroundImage="img/icons/sudamericana-bg.jpg"
+        />
+        <Countries countries={countries} tournament="sudamericana" />
+        
         <Teams groups={groups} tournament="sudamericana"/>
 	</main>
 </Layout>

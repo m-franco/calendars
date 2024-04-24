@@ -1,0 +1,31 @@
+---
+import CountryCard from "./CountryCard.astro";
+import TournamentCard from "./TournamentCard.astro";
+
+interface Props {
+    title: string;
+    href: string;    
+    imgSrc: string;
+    backgroundImage: string;
+}
+
+const imagePath = import.meta.env.PUBLIC_IMAGE_PATH ?? "";
+
+const { title, href, imgSrc, backgroundImage } = Astro.props;
+---
+
+<ul role="list" class="flex flex-col">
+    {
+        <li class="bg-cyan-700/50 my-2 pb-3 pt-2 px-2 rounded-xl">
+            <div class="w-full text-center mb-2">{title}</div>
+            <ul role="list" class="flex flex-wrap justify-around gap-2">
+                <TournamentCard 
+                title={title} 
+                href={href} 
+                imagePath={`../../${imagePath}`}
+                imgSrc={imgSrc}
+                backgroundImage={backgroundImage} />
+            </ul>
+        </li>
+    }
+</ul>
