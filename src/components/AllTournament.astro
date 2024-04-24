@@ -9,7 +9,7 @@ interface Props {
     backgroundImage: string;
 }
 
-const imagePath = import.meta.env.PUBLIC_IMAGE_PATH ?? "";
+const imagePath = import.meta.env.PUBLIC_IMAGE_PATH ?? "calendars/";
 
 const { title, href, imgSrc, backgroundImage } = Astro.props;
 ---
