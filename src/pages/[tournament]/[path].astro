@@ -52,8 +52,8 @@ description={description}>
         </div>
 
         <div class="w-full flex items-center justify-center my-4">
-            {type==="tournament" &&<TeamCard name=`Todos los equipos de la ${name}` imageName={imageName} tournament={tournament} />}
-            {type==="group" &&<TeamCard name=`Todos los equipos del ${name}` imageName={imageName} tournament={tournament} />}
+            {type==="tournament" &&<TeamCard name={`Calendario de todos los equipos de la ${name}`} imageName={imageName} tournament={tournament} />}
+            {type==="group" &&<TeamCard name={`Calendario de todos los equipos del ${name}`} imageName={imageName} tournament={tournament} />}
             {type==="team" &&<TeamCard name={name} imageName={imageName} tournament={tournament} />}
         </div>
         <div role="list" class="flex flex-col">
