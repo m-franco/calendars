@@ -2,12 +2,12 @@
 import Layout from "../../layouts/Layout.astro";
 import TeamCard from "../../components/TeamCard.astro";
 import CalendarCard from "../../components/CalendarCard.astro";
-import { pages, calendars } from "../../data.json";
+import { calendarPages, calendars } from "../../data.json";
 export async function getStaticPaths() {
-    return pages.map(({ name, teamPath, tournament, imageName }) => {
+    return calendarPages.map(({ type, name, path, tournament, imageName }) => {
         return {
-            params: { teamPath, tournament },
-            props: { name, imageName },
+            params: { path, tournament },
+            props: { type, name, imageName },
         };
     });
 }
@@ -15,8 +15,8 @@ export async function getStaticPaths() {
 
 const calendarBasePath = "m-franco.github.io/calendars/";
 
-const { teamPath, tournament } = Astro.params;
-const { name, imageName } = Astro.props;
+const { path, tournament } = Astro.params;
+const { type, name, imageName } = Astro.props;
 
 const tournamentName = tournament === "libertadores"? "Copa Libertadores" : "Copa Sudamericana";
 
@@ -37,11 +37,12 @@ description={description}>
             text-center font-bold  p-0.5 mb-4">
             <span class="text-gradient">{name}</span>
         </h1>
+        {type !=="tournament" &&
         <h2 class="text-lg sm:text-xl md:text-2xl lg:text-3xl">
             {tournament === "libertadores" ? "Copa Libertadores":"Copa Sudamericana"}
-        </h2>
+        </h2>}
         <div class="instructions flex flex-col justify-center 
-        text-sm sm:text-base md:text-lg lg:text-xl">
+        text-sm sm:text-base md:text-lg lg:text-xl my-12">
             <p>Suscribite al calendario de{imageName? "" : "l"} {name}
                 {imageName? " en" : " de"} la Copa 
                 {tournament === "libertadores" ? " Libertadores" : " Sudamericana"}.</p> 
@@ -50,8 +51,10 @@ description={description}>
             en el calendario de tu teléfono o tu computadora.</span>
         </div>
 
-        <div class="w-full flex items-center justify-center mb-4">
-            <TeamCard name={name} imageName={imageName} tournament={tournament} />
+        <div class="w-full flex items-center justify-center my-4">
+            {type==="tournament" &&<TeamCard name=`Todos los equipos de la ${name}` imageName={imageName} tournament={tournament} />}
+            {type==="group" &&<TeamCard name=`Todos los equipos del ${name}` imageName={imageName} tournament={tournament} />}
+            {type==="team" &&<TeamCard name={name} imageName={imageName} tournament={tournament} />}
         </div>
         <div role="list" class="flex flex-col">
             <div class="bg-cyan-700/50 rounded-xl w-full px-1 py-4">
@@ -61,7 +64,9 @@ description={description}>
                             <li class="">
                                 <CalendarCard
                                     calendar={calendar}
-                                    link={`${preLink}${calendarBasePath}${tournament}/${teamPath}.ics`}
+                                    link={type==="tournament"
+                                    ?`${preLink}${calendarBasePath}${tournament === "libertadores"?"Libertadores":"Sudamericana"}.ics`
+                                    :`${preLink}${calendarBasePath}${tournament}/${path}.ics`}
                                     imageName={imageName}
                                     tournament={tournament}
                                     target={target}

@@ -5,13 +5,32 @@ import Countries from '../../components/Countries.astro';
 import AllTournament from '../../components/AllTournament.astro';
 
 import { countries, tournaments } from '../../data.json';
-const tournament = tournaments.find((tournament) => tournament.href === 'libertadores')!;
-const groups = tournament['groups'];
+
+
+import { tournamentPages  } from "../../data.json";
+
+export async function getStaticPaths() {
+    return tournamentPages.map(({ typeName, name, tournament }) => {
+        return {
+            params: { tournament },
+            props: { typeName, name },
+        };
+    });
+}
+
+const { tournament } = Astro.params;
+const { typeName, name } = Astro.props;
+
+const tournamentData = tournaments.find((t) => t.href === tournament)!;
+
+const { title, href, imgSrc, backgroundImage } = tournamentData;
+const groups = tournamentData["groups"];
+
 
 const description="Suscribite al calendario de tu equipo, de todo el grupo o de toda la copa y tendrás todos los partidos incluidos en el calendario de tu teléfono o tu computadora.";
 ---
 
-<Layout title="Calendarios de Copa Libertadores"
+<Layout title=`Calendarios de ${name}`
     description={description}
     >
 	
@@ -19,22 +38,22 @@ const description="Suscribite al calendario de tu equipo, de todo el grupo o de 
         <h1 class="
             text-4xl sm:text-5xl md:text-6xl lg:text-7xl  
             text-center font-bold  p-0.5 mb-4">
-            Copa <span class="text-gradient">Libertadores</span>
+            {typeName} <span class="text-gradient">{name}</span>
         </h1>
 
 		<p class="instructions flex justify-center 
-        text-sm sm:text-base md:text-lg lg:text-xl
+        text-sm sm:text-base md:text-lg lg:text-xl mt-12
         ">
             {description}
         </p>
         <AllTournament 
-            title="Calendario de todos los partidos de la Copa Libertadores" 
-            href="libertadores/Completa" 
-            imgSrc="img/icons/libertadores.png"
-            backgroundImage="img/icons/libertadores-bg.jpg"
+            title=`Calendario de todos los equipos de la ${typeName} ${name}` 
+            href=`${href}/Completa`
+            imgSrc={imgSrc}
+            backgroundImage={backgroundImage}
         />
-        <Countries countries={countries} tournament="libertadores" />
-        <Teams groups={groups} tournament="libertadores" />
+        <Countries countries={countries} tournament={href} />
+        <Teams groups={groups} tournament={href} />
 	</main>
 </Layout>
 
@@ -56,7 +75,7 @@ const description="Suscribite al calendario de tu equipo, de todo el grupo o de 
 		background-position: 0%;
 	}
 	.instructions {
-		margin-bottom: 5rem;
+		margin-bottom: 2rem;
 		border: 1px solid rgba(var(--accent-light), 25%);
 		background: linear-gradient(rgba(var(--accent-dark), 66%), rgba(var(--accent-dark), 33%));
 		padding: 1.5rem;
