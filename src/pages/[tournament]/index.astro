@@ -3,11 +3,7 @@ import Layout from '../../layouts/Layout.astro';
 import Teams from '../../components/Teams.astro';
 import Countries from '../../components/Countries.astro';
 import AllTournament from '../../components/AllTournament.astro';
-
-import { countries, tournaments } from '../../data.json';
-
-
-import { tournamentPages  } from "../../data.json";
+import { countries, tournaments, tournamentPages  } from "../../data.json";
 
 export async function getStaticPaths() {
     return tournamentPages.map(({ typeName, name, tournament }) => {
@@ -23,7 +19,7 @@ const { typeName, name } = Astro.props;
 
 const tournamentData = tournaments.find((t) => t.href === tournament)!;
 
-const { title, href, imgSrc, backgroundImage } = tournamentData;
+const { href, imgSrc, backgroundImage } = tournamentData;
 const groups = tournamentData["groups"];
 
 
