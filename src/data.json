@@ -1076,6 +1076,146 @@
             "imageName": ""
         },
         {
+            "type": "country",
+            "name": "Equipos Argentinos",
+            "path": "Argentinos",
+            "tournament": "libertadores",
+            "imageName": "country_argentina.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Bolivianos",
+            "path": "Bolivianos",
+            "tournament": "libertadores",
+            "imageName": "country_bolivia.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Brasileros",
+            "path": "Brasileros",
+            "tournament": "libertadores",
+            "imageName": "country_brasil.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Chilenos",
+            "path": "Chilenos",
+            "tournament": "libertadores",
+            "imageName": "country_chile.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Colombianos",
+            "path": "Colombianos",
+            "tournament": "libertadores",
+            "imageName": "country_colombia.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Ecuatorianos",
+            "path": "Ecuatorianos",
+            "tournament": "libertadores",
+            "imageName": "country_ecuador.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Paraguayos",
+            "path": "Paraguayos",
+            "tournament": "libertadores",
+            "imageName": "country_paraguay.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Peruanos",
+            "path": "Peruanos",
+            "tournament": "libertadores",
+            "imageName": "country_peru.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Uruguayos",
+            "path": "Uruguayos",
+            "tournament": "libertadores",
+            "imageName": "country_uruguay.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Venezolanos",
+            "path": "Venezolanos",
+            "tournament": "libertadores",
+            "imageName": "country_venezuela.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Argentinos",
+            "path": "Argentinos",
+            "tournament": "sudamericana",
+            "imageName": "country_argentina.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Bolivianos",
+            "path": "Bolivianos",
+            "tournament": "sudamericana",
+            "imageName": "country_bolivia.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Brasileros",
+            "path": "Brasileros",
+            "tournament": "sudamericana",
+            "imageName": "country_brasil.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Chilenos",
+            "path": "Chilenos",
+            "tournament": "sudamericana",
+            "imageName": "country_chile.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Colombianos",
+            "path": "Colombianos",
+            "tournament": "sudamericana",
+            "imageName": "country_colombia.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Ecuatorianos",
+            "path": "Ecuatorianos",
+            "tournament": "sudamericana",
+            "imageName": "country_ecuador.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Paraguayos",
+            "path": "Paraguayos",
+            "tournament": "sudamericana",
+            "imageName": "country_paraguay.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Peruanos",
+            "path": "Peruanos",
+            "tournament": "sudamericana",
+            "imageName": "country_peru.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Uruguayos",
+            "path": "Uruguayos",
+            "tournament": "sudamericana",
+            "imageName": "country_uruguay.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Venezolanos",
+            "path": "Venezolanos",
+            "tournament": "sudamericana",
+            "imageName": "country_venezuela.png"
+        },
+        {
             "type": "tournament",
             "name": "Copa Libertadores",
             "path": "Completa",

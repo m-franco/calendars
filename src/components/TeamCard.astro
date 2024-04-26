@@ -1,5 +1,6 @@
 ---
 interface Props {
+    type: string;
     name: string;
     path?: string;
     imageName?: string | null;
@@ -8,7 +9,7 @@ interface Props {
 
 const imagePath = import.meta.env.PUBLIC_IMAGE_PATH ?? "";
 
-const { name, path, imageName, tournament } = Astro.props;
+const { type, name, path, imageName, tournament } = Astro.props;
 ---
 
 {
@@ -37,15 +38,15 @@ const { name, path, imageName, tournament } = Astro.props;
                 </div>
             ) : (
                 <div
-                    class="link-card w-full h-44 flex items-center justify-center bg-center bg-cover rounded-md"
+                    class="link-card w-full h-48 flex items-center justify-center bg-center bg-cover rounded-md"
                     style={{
                         backgroundImage: `url(../../${imagePath}img/icons/${tournament}-bg.jpg)`,
                     }}
                 >
                     <div class="flex w-full h-full flex-col items-center justify-center">
                         <img
-                            class="w-32"
-                            src={`../../${imagePath}img/icons/${tournament}/${imageName}`}
+                            class="w-24"
+                            src={`../../${imagePath}img/icons/${type==="country"?"":tournament}/${imageName}`}
                             alt={name}
                         />
                         <div class="text-center text-md my-3 mx-12">{name}</div>

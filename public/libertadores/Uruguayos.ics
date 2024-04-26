@@ -1,0 +1,190 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID: github.com/m-franco
+METHOD:PUBLISH
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Equipos Uruguayos🇺🇾 - Copa Libertadores
+X-WR-CALDESC:Partidos de equipos uruguayos🇺🇾 en la Copa Libertadores
+X-PUBLISHED-TTL:PT6H
+
+BEGIN:VEVENT
+UID:20240402T190000Z_Liverpool_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20240402T190000
+DTEND;TZID=America/Montevideo:20240402T210000
+SUMMARY:Liverpool🇺🇾 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Grupo F - Fecha 1
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240411T210000Z_Palmeiras_Liverpool
+DTSTART;TZID=America/Montevideo:20240411T210000
+DTEND;TZID=America/Montevideo:20240411T230000
+SUMMARY:Palmeiras🇧🇷 vs. Liverpool🇺🇾
+DESCRIPTION:Grupo F - Fecha 2
+CLASS:PUBLIC
+LOCATION:Estadio a confirmar
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240423T210000Z_Liverpool_SanLorenzo
+DTSTART;TZID=America/Montevideo:20240423T210000
+DTEND;TZID=America/Montevideo:20240423T230000
+SUMMARY:Liverpool🇺🇾 vs. San Lorenzo🇦🇷
+DESCRIPTION:Grupo F - Fecha 3
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240509T190000Z_IndependienteDelValle_Liverpool
+DTSTART;TZID=America/Montevideo:20240509T190000
+DTEND;TZID=America/Montevideo:20240509T210000
+SUMMARY:Independiente del Valle🇪🇨 vs. Liverpool🇺🇾
+DESCRIPTION:Grupo F - Fecha 4
+CLASS:PUBLIC
+LOCATION:Estadio Guayaquil
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240516T210000Z_SanLorenzo_Liverpool
+DTSTART;TZID=America/Montevideo:20240516T210000
+DTEND;TZID=America/Montevideo:20240516T230000
+SUMMARY:San Lorenzo🇦🇷 vs. Liverpool🇺🇾
+DESCRIPTION:Grupo F - Fecha 5
+CLASS:PUBLIC
+LOCATION:Estadio Pedro Bidegain
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240530T190000Z_IndependienteDelValle_Liverpool
+DTSTART;TZID=America/Montevideo:20240530T190000
+DTEND;TZID=America/Montevideo:20240530T210000
+SUMMARY:Independiente del Valle🇪🇨 vs. Liverpool🇺🇾
+DESCRIPTION:Grupo F - Fecha 6
+CLASS:PUBLIC
+LOCATION:Estadio Guayaquil
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240403T230000Z_RosarioCentral_Peñarol
+DTSTART;TZID=America/Montevideo:20240403T230000
+DTEND;TZID=America/Montevideo:20240404T010000
+SUMMARY:Rosario Central🇦🇷 vs. Peñarol🇺🇾
+DESCRIPTION:Grupo G - Fecha 1
+CLASS:PUBLIC
+LOCATION:Estadio Gigante de Arroyito
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T210000Z_Peñarol_Caracas
+DTSTART;TZID=America/Montevideo:20240410T210000
+DTEND;TZID=America/Montevideo:20240410T230000
+SUMMARY:Peñarol🇺🇾 vs. Caracas🇻🇪
+DESCRIPTION:Grupo G - Fecha 2
+CLASS:PUBLIC
+LOCATION:Estadio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240424T010000Z_AtléticoMineiro_Peñarol
+DTSTART;TZID=America/Montevideo:20240424T010000
+DTEND;TZID=America/Montevideo:20240424T030000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Peñarol🇺🇾
+DESCRIPTION:Grupo G - Fecha 3
+CLASS:PUBLIC
+LOCATION:Estadio Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T230000Z_AtléticoMineiro_Peñarol
+DTSTART;TZID=America/Montevideo:20240507T230000
+DTEND;TZID=America/Montevideo:20240508T010000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Peñarol🇺🇾
+DESCRIPTION:Grupo G - Fecha 4
+CLASS:PUBLIC
+LOCATION:Estadio Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240514T230000Z_Peñarol_AtléticoMineiro
+DTSTART;TZID=America/Montevideo:20240514T230000
+DTEND;TZID=America/Montevideo:20240515T010000
+SUMMARY:Peñarol🇺🇾 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Grupo G - Fecha 5
+CLASS:PUBLIC
+LOCATION:Estadio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240530T230000Z_Peñarol_RosarioCentral
+DTSTART;TZID=America/Montevideo:20240530T230000
+DTEND;TZID=America/Montevideo:20240531T010000
+SUMMARY:Peñarol🇺🇾 vs. Rosario Central🇦🇷
+DESCRIPTION:Grupo G - Fecha 6
+CLASS:PUBLIC
+LOCATION:Estadio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240403T190000Z_Nacional_Libertad
+DTSTART;TZID=America/Montevideo:20240403T190000
+DTEND;TZID=America/Montevideo:20240403T210000
+SUMMARY:Nacional🇺🇾 vs. Libertad🇵🇾
+DESCRIPTION:Grupo H - Fecha 1
+CLASS:PUBLIC
+LOCATION:Gran Parque Central
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240411T210000Z_River_Nacional
+DTSTART;TZID=America/Montevideo:20240411T210000
+DTEND;TZID=America/Montevideo:20240411T230000
+SUMMARY:River🇦🇷 vs. Nacional🇺🇾
+DESCRIPTION:Grupo H - Fecha 2
+CLASS:PUBLIC
+LOCATION:Estadio Monumental
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240424T190000Z_Nacional_DeportivoTachira
+DTSTART;TZID=America/Montevideo:20240424T190000
+DTEND;TZID=America/Montevideo:20240424T210000
+SUMMARY:Nacional🇺🇾 vs. Deportivo Táchira🇻🇪
+DESCRIPTION:Grupo H - Fecha 3
+CLASS:PUBLIC
+LOCATION:Estadio Gran Parque Central
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T210000Z_Nacional_River
+DTSTART;TZID=America/Montevideo:20240507T210000
+DTEND;TZID=America/Montevideo:20240507T230000
+SUMMARY:Nacional🇺🇾 vs. River🇦🇷
+DESCRIPTION:Grupo H - Fecha 4
+CLASS:PUBLIC
+LOCATION:Estadio Gran Parque Central
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T190000Z_DeportivoTachira_Nacional
+DTSTART;TZID=America/Montevideo:20240515T190000
+DTEND;TZID=America/Montevideo:20240515T210000
+SUMMARY:Deportivo Táchira🇻🇪  vs. Nacional🇺🇾
+DESCRIPTION:Grupo H - Fecha 5
+CLASS:PUBLIC
+LOCATION:Estadio Polideportivo de Pueblo Nuevo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240530T210000Z_Libertad_Nacional
+DTSTART;TZID=America/Montevideo:20240530T210000
+DTEND;TZID=America/Montevideo:20240530T230000
+SUMMARY:Libertad🇵🇾 vs. Nacional🇺🇾
+DESCRIPTION:Grupo H - Fecha 6
+CLASS:PUBLIC
+LOCATION:Estadio Defensores del Chaco
+END:VEVENT
+
+END:VCALENDAR
