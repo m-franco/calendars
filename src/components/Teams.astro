@@ -20,10 +20,11 @@ const { groups, tournament } = Astro.props;
             <li class="bg-cyan-700/50 my-2 pb-3 pt-2 px-2 rounded-xl">
                 <div class="w-full text-center mb-2">{name}</div>
                 <ul role="list" class="flex flex-wrap justify-around gap-2">
-                    <TeamCard name={name} path={path} tournament={tournament} />
+                    <TeamCard type="group" name={name} path={path} tournament={tournament} />
                     {teams.map(({ name, path, imageName }) => (
                         <li>
                             <TeamCard
+                                type="team"
                                 name={name}
                                 path={path}
                                 imageName={imageName}
