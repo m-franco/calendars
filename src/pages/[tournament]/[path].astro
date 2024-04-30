@@ -31,7 +31,7 @@ en el calendario de tu teléfono o tu computadora.`;
 <Layout 
     title=`Calendario de ${name} en la ${tournamentName}` 
     description={description}
-    image=`../../img/icons/${type==="country"?"":tournament}/${imageName}`
+    image=`../../img/icons/${type==="country"?"":tournament+"/"}${imageName?imageName:tournament+".png"}`
 >
     <main>
         <h1 class="
