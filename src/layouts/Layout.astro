@@ -2,9 +2,10 @@
 interface Props {
 	title: string;
     description: string;
+    image: string;
 }
 
-const { title, description } = Astro.props;
+const { title, description, image } = Astro.props;
 ---
 
 <!doctype html>
@@ -16,6 +17,16 @@ const { title, description } = Astro.props;
 		<link rel="icon" type="image/svg+xml" href="/calendars/favicon.svg" />
 		<meta name="generator" content={Astro.generator} />
 		<title>{title}</title>
+
+        <!-- Twitter meta tags -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content={title}>
+        <meta name="twitter:description" content={description}>
+        <meta name="twitter:image" content={image}>
+        <!-- WhatsApp meta tags -->
+        <meta property="og:title" content={title}>
+        <meta property="og:description" content={description}>
+        <meta property="og:image" content={image}>
 	</head>
     <script type="text/partytown" async src="https://www.googletagmanager.com/gtag/js?id=G-GNCT8SRLL8"></script>
     <script type="text/partytown">
