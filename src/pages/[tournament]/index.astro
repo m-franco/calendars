@@ -24,12 +24,15 @@ const groups = tournamentData["groups"];
 
 
 const description="Suscribite al calendario de tu equipo, de todo el grupo o de toda la copa y tendrás todos los partidos incluidos en el calendario de tu teléfono o tu computadora.";
+
+const image= href==="libertadores"?"../../calendars/libertadores-logo.png":`../../calendars/${imgSrc}`;
+
 ---
 
 <Layout 
     title=`Calendarios de ${name}`
     description={description}
-    image=`../../calendars/${imgSrc}`
+    image={image}
     >
 	
 	<main>

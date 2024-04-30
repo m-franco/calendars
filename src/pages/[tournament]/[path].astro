@@ -20,20 +20,22 @@ const { type, name, imageName } = Astro.props;
 
 const tournamentName = tournament === "libertadores"? "Copa Libertadores" : "Copa Sudamericana";
 
-const description =`Suscribite al calendario de${imageName? "" : "l"} ${type==="country"?"los":""} ${name}
+const description =`Suscribite al calendario de${imageName? "" : "l"} ${type==="country"?"los ":""}${name}
 ${imageName? " en" : " de"} la Copa 
 ${tournament === "libertadores" ? " Libertadores" : " Sudamericana"}.</p> 
 Tendrás todos los partidos incluidos
 en el calendario de tu teléfono o tu computadora.`;
 
-const title =`Calendario de${imageName? "" : "l"} ${type==="country"?"los":""} ${type==="tournament"?"":name + (imageName? " en" : " de")} la ${tournamentName}`;
+const title =`Calendario de${imageName? "" : "l"} ${type==="country"?"los":""} ${type==="tournament"?"":name + (imageName? "en" : "de")} la ${tournamentName}`;
+
+const image= `../../img/icons/${type==="country"?"":tournament+"/"}${imageName?imageName:tournament+(tournament==="libertadores"?"-logo":"")+".png"}`;
 
 ---
 
 <Layout 
     title={title}
     description={description}
-    image=`../../img/icons/${type==="country"?"":tournament+"/"}${imageName?imageName:tournament+".png"}`
+    image={image}
 >
     <main>
         <h1 class="
