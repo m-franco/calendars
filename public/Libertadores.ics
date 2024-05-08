@@ -728,9 +728,9 @@ LOCATION:Estadio Guayaquil
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20240404T003000Z_Caracas_AtléticoMineiro
-DTSTART;TZID=America/Montevideo:20240404T003000
-DTEND;TZID=America/Montevideo:20240404T023000
+UID:20240404T190000Z_Caracas_AtléticoMineiro
+DTSTART;TZID=America/Montevideo:20240404T190000
+DTEND;TZID=America/Montevideo:20240404T021000
 SUMMARY:Caracas🇻🇪 vs. Atlético Mineiro🇧🇷
 DESCRIPTION:Grupo G - Fecha 1
 CLASS:PUBLIC
@@ -738,9 +738,9 @@ LOCATION:Estadio Olímpico U.C.V.
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20240403T230000Z_RosarioCentral_Peñarol
-DTSTART;TZID=America/Montevideo:20240403T230000
-DTEND;TZID=America/Montevideo:20240404T010000
+UID:20240404T190000Z_RosarioCentral_Peñarol
+DTSTART;TZID=America/Montevideo:20240404T190000
+DTEND;TZID=America/Montevideo:20240404T210000
 SUMMARY:Rosario Central🇦🇷 vs. Peñarol🇺🇾
 DESCRIPTION:Grupo G - Fecha 1
 CLASS:PUBLIC
@@ -748,9 +748,9 @@ LOCATION:Estadio Gigante de Arroyito
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20240410T230000Z_AtléticoMineiro_RosarioCentral
-DTSTART;TZID=America/Montevideo:20240410T230000
-DTEND;TZID=America/Montevideo:20240411T010000
+UID:20240410T190000Z_AtléticoMineiro_RosarioCentral
+DTSTART;TZID=America/Montevideo:20240410T190000
+DTEND;TZID=America/Montevideo:20240410T210000
 SUMMARY:Atlético Mineiro🇧🇷 vs. Rosario Central🇦🇷
 DESCRIPTION:Grupo G - Fecha 2
 CLASS:PUBLIC
@@ -768,9 +768,9 @@ LOCATION:Estadio Campeón del Siglo
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20240424T010000Z_AtléticoMineiro_Peñarol
-DTSTART;TZID=America/Montevideo:20240424T010000
-DTEND;TZID=America/Montevideo:20240424T030000
+UID:20240423T210000Z_AtléticoMineiro_Peñarol
+DTSTART;TZID=America/Montevideo:20240423T210000
+DTEND;TZID=America/Montevideo:20240423T230000
 SUMMARY:Atlético Mineiro🇧🇷 vs. Peñarol🇺🇾
 DESCRIPTION:Grupo G - Fecha 3
 CLASS:PUBLIC
@@ -778,9 +778,9 @@ LOCATION:Estadio Arena MRV
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20240423T230000Z_Caracas_RosarioCentral
-DTSTART;TZID=America/Montevideo:20240423T230000
-DTEND;TZID=America/Montevideo:20240424T010000
+UID:20240423T190000Z_Caracas_RosarioCentral
+DTSTART;TZID=America/Montevideo:20240423T190000
+DTEND;TZID=America/Montevideo:20240423T210000
 SUMMARY:Caracas🇻🇪 vs. Rosario Central🇦🇷
 DESCRIPTION:Grupo G - Fecha 3
 CLASS:PUBLIC
@@ -788,29 +788,29 @@ LOCATION:Estadio Olímpico U.C.V.
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20240507T230000Z_AtléticoMineiro_Peñarol
-DTSTART;TZID=America/Montevideo:20240507T230000
-DTEND;TZID=America/Montevideo:20240508T010000
-SUMMARY:Atlético Mineiro🇧🇷 vs. Peñarol🇺🇾
+UID:20240507T190000Z_Caracas_Peñarol
+DTSTART;TZID=America/Montevideo:20240507T190000
+DTEND;TZID=America/Montevideo:20240507T210000
+SUMMARY:Caracas🇻🇪 vs. Peñarol🇺🇾
 DESCRIPTION:Grupo G - Fecha 4
 CLASS:PUBLIC
-LOCATION:Estadio Arena MRV
+LOCATION:Estadio Olímpico U.C.V.
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20240507T230000Z_RosarioCentral_Caracas
-DTSTART;TZID=America/Montevideo:20240507T230000
-DTEND;TZID=America/Montevideo:20240508T010000
-SUMMARY:Rosario Central🇦🇷 vs. Caracas🇻🇪
+UID:20240507T190000Z_RosarioCentral_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20240507T190000
+DTEND;TZID=America/Montevideo:20240507T210000
+SUMMARY:Rosario Central🇦🇷 vs. Atlético Mineiro🇧🇷
 DESCRIPTION:Grupo G - Fecha 4
 CLASS:PUBLIC
 LOCATION:Estadio Gigante de Arroyito
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20240514T230000Z_Peñarol_AtléticoMineiro
-DTSTART;TZID=America/Montevideo:20240514T230000
-DTEND;TZID=America/Montevideo:20240515T010000
+UID:20240514T190000Z_Peñarol_AtléticoMineiro
+DTSTART;TZID=America/Montevideo:20240514T190000
+DTEND;TZID=America/Montevideo:20240514T210000
 SUMMARY:Peñarol🇺🇾 vs. Atlético Mineiro🇧🇷
 DESCRIPTION:Grupo G - Fecha 5
 CLASS:PUBLIC
@@ -818,9 +818,9 @@ LOCATION:Estadio Campeón del Siglo
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20240516T230000Z_RosarioCentral_Caracas
-DTSTART;TZID=America/Montevideo:20240516T230000
-DTEND;TZID=America/Montevideo:20240517T010000
+UID:20240516T190000Z_RosarioCentral_Caracas
+DTSTART;TZID=America/Montevideo:20240516T190000
+DTEND;TZID=America/Montevideo:20240516T210000
 SUMMARY:Rosario Central🇦🇷 vs. Caracas🇻🇪
 DESCRIPTION:Grupo G - Fecha 5
 CLASS:PUBLIC
@@ -828,9 +828,9 @@ LOCATION:Estadio Gigante de Arroyito
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20240530T230000Z_Peñarol_RosarioCentral
-DTSTART;TZID=America/Montevideo:20240530T230000
-DTEND;TZID=America/Montevideo:20240531T010000
+UID:20240528T190000Z_Peñarol_RosarioCentral
+DTSTART;TZID=America/Montevideo:20240528T190000
+DTEND;TZID=America/Montevideo:20240528T210000
 SUMMARY:Peñarol🇺🇾 vs. Rosario Central🇦🇷
 DESCRIPTION:Grupo G - Fecha 6
 CLASS:PUBLIC
@@ -838,15 +838,14 @@ LOCATION:Estadio Campeón del Siglo
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20240530T230000Z_AtléticoMineiro_Caracas
-DTSTART;TZID=America/Montevideo:20240530T230000
-DTEND;TZID=America/Montevideo:20240531T010000
+UID:20240528T190000Z_AtléticoMineiro_Caracas
+DTSTART;TZID=America/Montevideo:20240528T190000
+DTEND;TZID=America/Montevideo:20240528T210000
 SUMMARY:Atlético Mineiro🇧🇷 vs. Caracas🇻🇪
 DESCRIPTION:Grupo G - Fecha 6
 CLASS:PUBLIC
 LOCATION:Estadio Arena MRV
 END:VEVENT
-
 
 BEGIN:VEVENT
 UID:20240403T190000Z_Nacional_Libertad
@@ -863,7 +862,7 @@ UID:20240402T213000Z_DeportivoTachira_River
 DTSTART;TZID=America/Montevideo:20240402T213000
 DTEND;TZID=America/Montevideo:20240402T233000
 SUMMARY:Deportivo Táchira🇻🇪 vs. River🇦🇷
-DESCRIPTION:Grupo H - Fecha 2
+DESCRIPTION:Grupo H - Fecha 1
 CLASS:PUBLIC
 LOCATION:Estadio Polideportivo de Pueblo Nuevo
 END:VEVENT
