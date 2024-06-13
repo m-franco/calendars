@@ -67,4 +67,24 @@ CLASS:PUBLIC
 LOCATION:Estadio Monumental
 END:VEVENT
 
+BEGIN:VEVENT
+UID:20240814T213000Z_Talleres_River
+DTSTART;TZID=America/Montevideo:20240814T213000
+DTEND;TZID=America/Montevideo:20240814T233000
+SUMMARY:Talleres🇦🇷 vs. River🇦🇷
+DESCRIPTION:Octavos de final - Ida
+LOCATION:Estadio Mario Alberto Kempes
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240821T213000Z_River_Talleres
+DTSTART;TZID=America/Montevideo:20240821T213000
+DTEND;TZID=America/Montevideo:20240821T233000
+SUMMARY:River🇦🇷 vs. Talleres🇦🇷
+DESCRIPTION:Octavos de final - Vuelta
+LOCATION:Estadio Monumental
+CLASS:PUBLIC
+END:VEVENT
+
 END:VCALENDAR

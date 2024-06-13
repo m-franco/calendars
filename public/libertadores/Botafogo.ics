@@ -67,4 +67,24 @@ CLASS:PUBLIC
 LOCATION:Estadio Metropolitano Roberto Meléndez
 END:VEVENT
 
+BEGIN:VEVENT
+UID:20240813T213000Z_Botafogo_Palmeiras
+DTSTART;TZID=America/Montevideo:20240813T213000
+DTEND;TZID=America/Montevideo:20240813T233000
+SUMMARY:Botafogo🇧🇷 vs. Palmeiras🇧🇷
+DESCRIPTION:Octavos de final - Ida
+LOCATION:Estadio Olímpico Nilton Santos
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240821T213000Z_Palmeiras_Botafogo
+DTSTART;TZID=America/Montevideo:20240821T213000
+DTEND;TZID=America/Montevideo:20240821T233000
+SUMMARY:Palmeiras🇧🇷 vs. Botafogo🇧🇷
+DESCRIPTION:Octavos de final - Vuelta
+LOCATION:Estadio Allianz Parque
+CLASS:PUBLIC
+END:VEVENT
+
 END:VCALENDAR

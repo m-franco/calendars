@@ -24,7 +24,7 @@ DTEND;TZID=America/Montevideo:20240411T230000
 SUMMARY:Palmeiras🇧🇷 vs. Liverpool🇺🇾
 DESCRIPTION:Grupo F - Fecha 2
 CLASS:PUBLIC
-LOCATION:Estadio a confirmar
+LOCATION:Estadio Allianz Parque
 END:VEVENT
 
 BEGIN:VEVENT
@@ -38,13 +38,13 @@ LOCATION:Estadio Centenario
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20240509T190000Z_IndependienteDelValle_Liverpool
+UID:20240509T190000Z_Liverpool_Palmeiras
 DTSTART;TZID=America/Montevideo:20240509T190000
 DTEND;TZID=America/Montevideo:20240509T210000
-SUMMARY:Independiente del Valle🇪🇨 vs. Liverpool🇺🇾
+SUMMARY:Liverpool🇺🇾 vs.Palmeiras🇧🇷
 DESCRIPTION:Grupo F - Fecha 4
 CLASS:PUBLIC
-LOCATION:Estadio Guayaquil
+LOCATION:Estadio Centenario
 END:VEVENT
 
 BEGIN:VEVENT
@@ -54,7 +54,7 @@ DTEND;TZID=America/Montevideo:20240516T230000
 SUMMARY:San Lorenzo🇦🇷 vs. Liverpool🇺🇾
 DESCRIPTION:Grupo F - Fecha 5
 CLASS:PUBLIC
-LOCATION:Estadio Pedro Bidegain
+LOCATION:Estadio Nuevo Gasómtro
 END:VEVENT
 
 BEGIN:VEVENT

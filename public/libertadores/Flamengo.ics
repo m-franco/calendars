@@ -67,4 +67,24 @@ CLASS:PUBLIC
 LOCATION:Estadio Maracaná
 END:VEVENT
 
+BEGIN:VEVENT
+UID:20240815T213000Z_Flamengo_Bolivar
+DTSTART;TZID=America/Montevideo:20240815T213000
+DTEND;TZID=America/Montevideo:20240815T233000
+SUMMARY:Flamengo🇧🇷 vs. Bolívar🇧🇴
+DESCRIPTION:Octavos de final - Ida
+LOCATION:Estadio Maracaná
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240822T213000Z_Bolivar_Flamengo
+DTSTART;TZID=America/Montevideo:20240822T213000
+DTEND;TZID=America/Montevideo:20240822T233000
+SUMMARY:Bolívar🇧🇴 vs. Flamengo🇧🇷
+DESCRIPTION:Octavos de final - Vuelta
+LOCATION:Estadio Hernando Siles
+CLASS:PUBLIC
+END:VEVENT
+
 END:VCALENDAR

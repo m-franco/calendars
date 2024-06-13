@@ -127,4 +127,44 @@ CLASS:PUBLIC
 LOCATION:Estadio Arena MRV
 END:VEVENT
 
+BEGIN:VEVENT
+UID:20240813T213000Z_SanLorenzo_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20240813T213000
+DTEND;TZID=America/Montevideo:20240813T233000
+SUMMARY:San Lorenzo🇦🇷 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Octavos de final - Ida
+LOCATION:Estadio Nuevo Gasómetro
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240814T190000Z_Penarol_TheStrongest
+DTSTART;TZID=America/Montevideo:20240814T190000
+DTEND;TZID=America/Montevideo:20240814T210000
+SUMMARY:Peñarol🇺🇾 vs. The Strongest🇧🇴
+DESCRIPTION:Octavos de final - Ida
+LOCATION:Estadio Campeón del Siglo
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240820T213000Z_AtleticoMineiro_SanLorenzo
+DTSTART;TZID=America/Montevideo:20240820T213000
+DTEND;TZID=America/Montevideo:20240820T233000
+SUMMARY:Atlético Mineiro🇧🇷 vs. San Lorenzo🇦🇷
+DESCRIPTION:Octavos de final - Vuelta
+LOCATION:Estadio Arena MRV
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240821T190000Z_TheStrongest_Penarol
+DTSTART;TZID=America/Montevideo:20240821T190000
+DTEND;TZID=America/Montevideo:20240821T210000
+SUMMARY:The Strongest🇧🇴 vs. Peñarol🇺🇾
+DESCRIPTION:Octavos de final - Vuelta
+LOCATION:Estadio Hernando Siles
+CLASS:PUBLIC
+END:VEVENT
+
 END:VCALENDAR

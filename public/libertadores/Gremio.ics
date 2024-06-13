@@ -38,9 +38,9 @@ LOCATION:Estadio UNO Jorge Luis Hirschi
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20240508T190000Z_Huachipato_Gremio
-DTSTART;TZID=America/Montevideo:20240508T190000
-DTEND;TZID=America/Montevideo:20240508T210000
+UID:20240604T210000Z_Huachipato_Gremio
+DTSTART;TZID=America/Montevideo:20240604T210000
+DTEND;TZID=America/Montevideo:20240604T230000
 SUMMARY:Huachipato🇨🇱 vs. Gremio🇧🇷
 DESCRIPTION:Grupo C - Fecha 4
 CLASS:PUBLIC
@@ -48,13 +48,13 @@ LOCATION:Estadio Huachipato
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20240515T190000Z_Gremio_Estudiantes
-DTSTART;TZID=America/Montevideo:20240515T190000
-DTEND;TZID=America/Montevideo:20240515T210000
+UID:20240608T190000Z_Gremio_Estudiantes
+DTSTART;TZID=America/Montevideo:20240608T190000
+DTEND;TZID=America/Montevideo:20240608T210000
 SUMMARY:Gremio🇧🇷 vs. Estudiantes🇦🇷
 DESCRIPTION:Grupo C - Fecha 5
 CLASS:PUBLIC
-LOCATION:Estadio Arena Do Gremio
+LOCATION:Estadio Couto Pereira
 END:VEVENT
 
 BEGIN:VEVENT
@@ -65,6 +65,26 @@ SUMMARY:Gremio🇧🇷 vs. The Strongest🇧🇴
 DESCRIPTION:Grupo C - Fecha 6
 CLASS:PUBLIC
 LOCATION:Estadio Arena Do Gremio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240813T190000Z_Gremio_Fluminense
+DTSTART;TZID=America/Montevideo:20240813T190000
+DTEND;TZID=America/Montevideo:20240813T210000
+SUMMARY:Gremio🇧🇷 vs. Fluminense🇧🇷
+DESCRIPTION:Octavos de final - Ida
+LOCATION:Estadio Arena do Gremio
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240820T190000Z_Fluminense_Gremio
+DTSTART;TZID=America/Montevideo:20240820T190000
+DTEND;TZID=America/Montevideo:20240820T210000
+SUMMARY:Fluminense🇧🇷 vs. Gremio🇧🇷
+DESCRIPTION:Octavos de final - Vuelta
+LOCATION:Estadio Maracaná
+CLASS:PUBLIC
 END:VEVENT
 
 END:VCALENDAR

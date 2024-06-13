@@ -14,7 +14,7 @@ DTEND;TZID=America/Montevideo:20240403T233000
 SUMMARY:San Lorenzo🇦🇷 vs. Palmeiras🇧🇷
 DESCRIPTION:Grupo F - Fecha 1
 CLASS:PUBLIC
-LOCATION:Estadio Pedro Bidegain
+LOCATION:Estadio Nuevo Gasómtro
 END:VEVENT
 
 BEGIN:VEVENT
@@ -24,7 +24,7 @@ DTEND;TZID=America/Montevideo:20240411T230000
 SUMMARY:Palmeiras🇧🇷 vs. Liverpool🇺🇾
 DESCRIPTION:Grupo F - Fecha 2
 CLASS:PUBLIC
-LOCATION:Estadio a confirmar
+LOCATION:Estadio Allianz Parque
 END:VEVENT
 
 BEGIN:VEVENT
@@ -38,13 +38,13 @@ LOCATION:Estadio Guayaquil
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20240509T190000Z_Palmeiras_SanLorenzo
+UID:20240509T190000Z_Liverpool_Palmeiras
 DTSTART;TZID=America/Montevideo:20240509T190000
 DTEND;TZID=America/Montevideo:20240509T210000
-SUMMARY:Palmeiras🇧🇷 vs. San Lorenzo🇦🇷
+SUMMARY:Liverpool🇺🇾 vs.Palmeiras🇧🇷
 DESCRIPTION:Grupo F - Fecha 4
 CLASS:PUBLIC
-LOCATION:Estadio a confirmar
+LOCATION:Estadio Centenario
 END:VEVENT
 
 BEGIN:VEVENT
@@ -54,7 +54,7 @@ DTEND;TZID=America/Montevideo:20240515T233000
 SUMMARY:Palmeiras🇧🇷 vs. Independiente del Valle🇪🇨
 DESCRIPTION:Grupo F - Fecha 5
 CLASS:PUBLIC
-LOCATION:Estadio a confirmar
+LOCATION:Estadio Allianz Parque
 END:VEVENT
 
 BEGIN:VEVENT
@@ -64,7 +64,27 @@ DTEND;TZID=America/Montevideo:20240530T210000
 SUMMARY:Palmeiras🇧🇷 vs. San Lorenzo🇦🇷
 DESCRIPTION:Grupo F - Fecha 6
 CLASS:PUBLIC
-LOCATION:Estadio a confirmar
+LOCATION:Estadio Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240813T213000Z_Botafogo_Palmeiras
+DTSTART;TZID=America/Montevideo:20240813T213000
+DTEND;TZID=America/Montevideo:20240813T233000
+SUMMARY:Botafogo🇧🇷 vs. Palmeiras🇧🇷
+DESCRIPTION:Octavos de final - Ida
+LOCATION:Estadio Olímpico Nilton Santos
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240821T213000Z_Palmeiras_Botafogo
+DTSTART;TZID=America/Montevideo:20240821T213000
+DTEND;TZID=America/Montevideo:20240821T233000
+SUMMARY:Palmeiras🇧🇷 vs. Botafogo🇧🇷
+DESCRIPTION:Octavos de final - Vuelta
+LOCATION:Estadio Allianz Parque
+CLASS:PUBLIC
 END:VEVENT
 
 END:VCALENDAR

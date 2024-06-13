@@ -67,4 +67,24 @@ CLASS:PUBLIC
 LOCATION:Estadio Arena MRV
 END:VEVENT
 
+BEGIN:VEVENT
+UID:20240813T213000Z_SanLorenzo_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20240813T213000
+DTEND;TZID=America/Montevideo:20240813T233000
+SUMMARY:San Lorenzo🇦🇷 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Octavos de final - Ida
+LOCATION:Estadio Nuevo Gasómetro
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240820T213000Z_AtleticoMineiro_SanLorenzo
+DTSTART;TZID=America/Montevideo:20240820T213000
+DTEND;TZID=America/Montevideo:20240820T233000
+SUMMARY:Atlético Mineiro🇧🇷 vs. San Lorenzo🇦🇷
+DESCRIPTION:Octavos de final - Vuelta
+LOCATION:Estadio Arena MRV
+CLASS:PUBLIC
+END:VEVENT
+
 END:VCALENDAR

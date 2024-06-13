@@ -67,4 +67,24 @@ CLASS:PUBLIC
 LOCATION:Estadio Maracaná
 END:VEVENT
 
+BEGIN:VEVENT
+UID:20240813T190000Z_Gremio_Fluminense
+DTSTART;TZID=America/Montevideo:20240813T190000
+DTEND;TZID=America/Montevideo:20240813T210000
+SUMMARY:Gremio🇧🇷 vs. Fluminense🇧🇷
+DESCRIPTION:Octavos de final - Ida
+LOCATION:Estadio Arena do Gremio
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240820T190000Z_Fluminense_Gremio
+DTSTART;TZID=America/Montevideo:20240820T190000
+DTEND;TZID=America/Montevideo:20240820T210000
+SUMMARY:Fluminense🇧🇷 vs. Gremio🇧🇷
+DESCRIPTION:Octavos de final - Vuelta
+LOCATION:Estadio Maracaná
+CLASS:PUBLIC
+END:VEVENT
+
 END:VCALENDAR

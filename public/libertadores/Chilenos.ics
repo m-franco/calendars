@@ -158,9 +158,9 @@ LOCATION:Estadio Huachipato
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20240508T190000Z_Huachipato_Gremio
-DTSTART;TZID=America/Montevideo:20240508T190000
-DTEND;TZID=America/Montevideo:20240508T210000
+UID:20240604T210000Z_Huachipato_Gremio
+DTSTART;TZID=America/Montevideo:20240604T210000
+DTEND;TZID=America/Montevideo:20240604T230000
 SUMMARY:Huachipato🇨🇱 vs. Gremio🇧🇷
 DESCRIPTION:Grupo C - Fecha 4
 CLASS:PUBLIC
@@ -245,6 +245,26 @@ SUMMARY:Bolívar🇧🇴 vs. Palestino🇨🇱
 DESCRIPTION:Grupo E - Fecha 6
 CLASS:PUBLIC
 LOCATION:Estadio Hernando Siles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240813T213000Z_ColoColo_Junior
+DTSTART;TZID=America/Montevideo:20240813T213000
+DTEND;TZID=America/Montevideo:20240813T233000
+SUMMARY:Colo Colo🇨🇱 vs. Junior🇨🇴
+DESCRIPTION:Octavos de final - Ida
+LOCATION:Estadio Monumental David Arellano
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240820T213000Z_Junior_ColoColo
+DTSTART;TZID=America/Montevideo:20240820T213000
+DTEND;TZID=America/Montevideo:20240820T233000
+SUMMARY:Junior🇨🇴 vs. Colo Colo🇨🇱
+DESCRIPTION:Octavos de final - Vuelta
+LOCATION:Estadio Metropolitano Roberto Meléndez
+CLASS:PUBLIC
 END:VEVENT
 
 END:VCALENDAR

@@ -127,4 +127,44 @@ CLASS:PUBLIC
 LOCATION:Estadio Ueno La Nueva Olla
 END:VEVENT
 
+BEGIN:VEVENT
+UID:20240813T190000Z_Gremio_Fluminense
+DTSTART;TZID=America/Montevideo:20240813T190000
+DTEND;TZID=America/Montevideo:20240813T210000
+SUMMARY:Gremio🇧🇷 vs. Fluminense🇧🇷
+DESCRIPTION:Octavos de final - Ida
+LOCATION:Estadio Arena do Gremio
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240813T213000Z_ColoColo_Junior
+DTSTART;TZID=America/Montevideo:20240813T213000
+DTEND;TZID=America/Montevideo:20240813T233000
+SUMMARY:Colo Colo🇨🇱 vs. Junior🇨🇴
+DESCRIPTION:Octavos de final - Ida
+LOCATION:Estadio Monumental David Arellano
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240820T190000Z_Fluminense_Gremio
+DTSTART;TZID=America/Montevideo:20240820T190000
+DTEND;TZID=America/Montevideo:20240820T210000
+SUMMARY:Fluminense🇧🇷 vs. Gremio🇧🇷
+DESCRIPTION:Octavos de final - Vuelta
+LOCATION:Estadio Maracaná
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240820T213000Z_Junior_ColoColo
+DTSTART;TZID=America/Montevideo:20240820T213000
+DTEND;TZID=America/Montevideo:20240820T233000
+SUMMARY:Junior🇨🇴 vs. Colo Colo🇨🇱
+DESCRIPTION:Octavos de final - Vuelta
+LOCATION:Estadio Metropolitano Roberto Meléndez
+CLASS:PUBLIC
+END:VEVENT
+
 END:VCALENDAR

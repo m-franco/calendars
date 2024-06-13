@@ -127,4 +127,44 @@ CLASS:PUBLIC
 LOCATION:Estadio Hernando Siles
 END:VEVENT
 
+BEGIN:VEVENT
+UID:20240814T190000Z_Penarol_TheStrongest
+DTSTART;TZID=America/Montevideo:20240814T190000
+DTEND;TZID=America/Montevideo:20240814T210000
+SUMMARY:Peñarol🇺🇾 vs. The Strongest🇧🇴
+DESCRIPTION:Octavos de final - Ida
+LOCATION:Estadio Campeón del Siglo
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240815T213000Z_Flamengo_Bolivar
+DTSTART;TZID=America/Montevideo:20240815T213000
+DTEND;TZID=America/Montevideo:20240815T233000
+SUMMARY:Flamengo🇧🇷 vs. Bolívar🇧🇴
+DESCRIPTION:Octavos de final - Ida
+LOCATION:Estadio Maracaná
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240821T190000Z_TheStrongest_Penarol
+DTSTART;TZID=America/Montevideo:20240821T190000
+DTEND;TZID=America/Montevideo:20240821T210000
+SUMMARY:The Strongest🇧🇴 vs. Peñarol🇺🇾
+DESCRIPTION:Octavos de final - Vuelta
+LOCATION:Estadio Hernando Siles
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240822T213000Z_Bolivar_Flamengo
+DTSTART;TZID=America/Montevideo:20240822T213000
+DTEND;TZID=America/Montevideo:20240822T233000
+SUMMARY:Bolívar🇧🇴 vs. Flamengo🇧🇷
+DESCRIPTION:Octavos de final - Vuelta
+LOCATION:Estadio Hernando Siles
+CLASS:PUBLIC
+END:VEVENT
+
 END:VCALENDAR

@@ -158,9 +158,9 @@ LOCATION:Estadio UNO Jorge Luis Hirschi
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20240508T190000Z_Huachipato_Gremio
-DTSTART;TZID=America/Montevideo:20240508T190000
-DTEND;TZID=America/Montevideo:20240508T210000
+UID:20240604T210000Z_Huachipato_Gremio
+DTSTART;TZID=America/Montevideo:20240604T210000
+DTEND;TZID=America/Montevideo:20240604T230000
 SUMMARY:Huachipato🇨🇱 vs. Gremio🇧🇷
 DESCRIPTION:Grupo C - Fecha 4
 CLASS:PUBLIC
@@ -168,13 +168,13 @@ LOCATION:Estadio Huachipato
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20240515T190000Z_Gremio_Estudiantes
-DTSTART;TZID=America/Montevideo:20240515T190000
-DTEND;TZID=America/Montevideo:20240515T210000
+UID:20240608T190000Z_Gremio_Estudiantes
+DTSTART;TZID=America/Montevideo:20240608T190000
+DTEND;TZID=America/Montevideo:20240608T210000
 SUMMARY:Gremio🇧🇷 vs. Estudiantes🇦🇷
 DESCRIPTION:Grupo C - Fecha 5
 CLASS:PUBLIC
-LOCATION:Estadio Arena Do Gremio
+LOCATION:Estadio Couto Pereira
 END:VEVENT
 
 BEGIN:VEVENT
@@ -314,7 +314,7 @@ DTEND;TZID=America/Montevideo:20240403T233000
 SUMMARY:San Lorenzo🇦🇷 vs. Palmeiras🇧🇷
 DESCRIPTION:Grupo F - Fecha 1
 CLASS:PUBLIC
-LOCATION:Estadio Pedro Bidegain
+LOCATION:Estadio Nuevo Gasómtro
 END:VEVENT
 
 BEGIN:VEVENT
@@ -324,7 +324,7 @@ DTEND;TZID=America/Montevideo:20240411T230000
 SUMMARY:Palmeiras🇧🇷 vs. Liverpool🇺🇾
 DESCRIPTION:Grupo F - Fecha 2
 CLASS:PUBLIC
-LOCATION:Estadio a confirmar
+LOCATION:Estadio Allianz Parque
 END:VEVENT
 
 BEGIN:VEVENT
@@ -338,13 +338,13 @@ LOCATION:Estadio Guayaquil
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20240509T190000Z_Palmeiras_SanLorenzo
+UID:20240509T190000Z_Liverpool_Palmeiras
 DTSTART;TZID=America/Montevideo:20240509T190000
 DTEND;TZID=America/Montevideo:20240509T210000
-SUMMARY:Palmeiras🇧🇷 vs. San Lorenzo🇦🇷
+SUMMARY:Liverpool🇺🇾 vs.Palmeiras🇧🇷
 DESCRIPTION:Grupo F - Fecha 4
 CLASS:PUBLIC
-LOCATION:Estadio a confirmar
+LOCATION:Estadio Centenario
 END:VEVENT
 
 BEGIN:VEVENT
@@ -354,7 +354,7 @@ DTEND;TZID=America/Montevideo:20240515T233000
 SUMMARY:Palmeiras🇧🇷 vs. Independiente del Valle🇪🇨
 DESCRIPTION:Grupo F - Fecha 5
 CLASS:PUBLIC
-LOCATION:Estadio a confirmar
+LOCATION:Estadio Allianz Parque
 END:VEVENT
 
 BEGIN:VEVENT
@@ -364,7 +364,7 @@ DTEND;TZID=America/Montevideo:20240530T210000
 SUMMARY:Palmeiras🇧🇷 vs. San Lorenzo🇦🇷
 DESCRIPTION:Grupo F - Fecha 6
 CLASS:PUBLIC
-LOCATION:Estadio a confirmar
+LOCATION:Estadio Allianz Parque
 END:VEVENT
 
 BEGIN:VEVENT
@@ -425,6 +425,106 @@ SUMMARY:Atlético Mineiro🇧🇷 vs. Caracas🇻🇪
 DESCRIPTION:Grupo G - Fecha 6
 CLASS:PUBLIC
 LOCATION:Estadio Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240813T190000Z_Gremio_Fluminense
+DTSTART;TZID=America/Montevideo:20240813T190000
+DTEND;TZID=America/Montevideo:20240813T210000
+SUMMARY:Gremio🇧🇷 vs. Fluminense🇧🇷
+DESCRIPTION:Octavos de final - Ida
+LOCATION:Estadio Arena do Gremio
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240813T213000Z_SanLorenzo_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20240813T213000
+DTEND;TZID=America/Montevideo:20240813T233000
+SUMMARY:San Lorenzo🇦🇷 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Octavos de final - Ida
+LOCATION:Estadio Nuevo Gasómetro
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240813T213000Z_Botafogo_Palmeiras
+DTSTART;TZID=America/Montevideo:20240813T213000
+DTEND;TZID=America/Montevideo:20240813T233000
+SUMMARY:Botafogo🇧🇷 vs. Palmeiras🇧🇷
+DESCRIPTION:Octavos de final - Ida
+LOCATION:Estadio Olímpico Nilton Santos
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240815T213000Z_Nacional_SanPablo
+DTSTART;TZID=America/Montevideo:20240815T213000
+DTEND;TZID=America/Montevideo:20240815T233000
+SUMMARY:Nacional🇺🇾 vs. San Pablo🇧🇷
+DESCRIPTION:Octavos de final - Ida
+LOCATION:Estadio Gran Parque Central
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240815T213000Z_Flamengo_Bolivar
+DTSTART;TZID=America/Montevideo:20240815T213000
+DTEND;TZID=America/Montevideo:20240815T233000
+SUMMARY:Flamengo🇧🇷 vs. Bolívar🇧🇴
+DESCRIPTION:Octavos de final - Ida
+LOCATION:Estadio Maracaná
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240820T190000Z_Fluminense_Gremio
+DTSTART;TZID=America/Montevideo:20240820T190000
+DTEND;TZID=America/Montevideo:20240820T210000
+SUMMARY:Fluminense🇧🇷 vs. Gremio🇧🇷
+DESCRIPTION:Octavos de final - Vuelta
+LOCATION:Estadio Maracaná
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240820T213000Z_AtleticoMineiro_SanLorenzo
+DTSTART;TZID=America/Montevideo:20240820T213000
+DTEND;TZID=America/Montevideo:20240820T233000
+SUMMARY:Atlético Mineiro🇧🇷 vs. San Lorenzo🇦🇷
+DESCRIPTION:Octavos de final - Vuelta
+LOCATION:Estadio Arena MRV
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240821T213000Z_Palmeiras_Botafogo
+DTSTART;TZID=America/Montevideo:20240821T213000
+DTEND;TZID=America/Montevideo:20240821T233000
+SUMMARY:Palmeiras🇧🇷 vs. Botafogo🇧🇷
+DESCRIPTION:Octavos de final - Vuelta
+LOCATION:Estadio Allianz Parque
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240822T190000Z_SanPablo_Nacional
+DTSTART;TZID=America/Montevideo:20240822T190000
+DTEND;TZID=America/Montevideo:20240822T210000
+SUMMARY:San Pablo🇧🇷 vs. Nacional🇺🇾
+DESCRIPTION:Octavos de final - Vuelta
+LOCATION:Estadio Morumbí
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240822T213000Z_Bolivar_Flamengo
+DTSTART;TZID=America/Montevideo:20240822T213000
+DTEND;TZID=America/Montevideo:20240822T233000
+SUMMARY:Bolívar🇧🇴 vs. Flamengo🇧🇷
+DESCRIPTION:Octavos de final - Vuelta
+LOCATION:Estadio Hernando Siles
+CLASS:PUBLIC
 END:VEVENT
 
 END:VCALENDAR

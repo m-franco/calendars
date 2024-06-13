@@ -38,13 +38,13 @@ LOCATION:Estadio Guayaquil
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20240509T190000Z_IndependienteDelValle_Liverpool
+UID:20240509T190000Z_SanLorenzo_IndependienteDelValle
 DTSTART;TZID=America/Montevideo:20240509T190000
 DTEND;TZID=America/Montevideo:20240509T210000
-SUMMARY:Independiente del Valle🇪🇨 vs. Liverpool🇺🇾
+SUMMARY:San Lorenzo🇦🇷 vs. Independiente del Valle🇪🇨
 DESCRIPTION:Grupo F - Fecha 4
 CLASS:PUBLIC
-LOCATION:Estadio Guayaquil
+LOCATION:Estadio Nuevo Gasómetro
 END:VEVENT
 
 BEGIN:VEVENT
@@ -54,7 +54,7 @@ DTEND;TZID=America/Montevideo:20240515T233000
 SUMMARY:Palmeiras🇧🇷 vs. Independiente del Valle🇪🇨
 DESCRIPTION:Grupo F - Fecha 5
 CLASS:PUBLIC
-LOCATION:Estadio a confirmar
+LOCATION:Estadio Allianz Parque
 END:VEVENT
 
 BEGIN:VEVENT

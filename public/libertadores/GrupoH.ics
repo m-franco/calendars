@@ -127,4 +127,44 @@ CLASS:PUBLIC
 LOCATION:Estadio Defensores del Chaco
 END:VEVENT
 
+BEGIN:VEVENT
+UID:20240814T213000Z_Talleres_River
+DTSTART;TZID=America/Montevideo:20240814T213000
+DTEND;TZID=America/Montevideo:20240814T233000
+SUMMARY:Talleres🇦🇷 vs. River🇦🇷
+DESCRIPTION:Octavos de final - Ida
+LOCATION:Estadio Mario Alberto Kempes
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240815T213000Z_Nacional_SanPablo
+DTSTART;TZID=America/Montevideo:20240815T213000
+DTEND;TZID=America/Montevideo:20240815T233000
+SUMMARY:Nacional🇺🇾 vs. San Pablo🇧🇷
+DESCRIPTION:Octavos de final - Ida
+LOCATION:Estadio Gran Parque Central
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240821T213000Z_River_Talleres
+DTSTART;TZID=America/Montevideo:20240821T213000
+DTEND;TZID=America/Montevideo:20240821T233000
+SUMMARY:River🇦🇷 vs. Talleres🇦🇷
+DESCRIPTION:Octavos de final - Vuelta
+LOCATION:Estadio Monumental
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240822T190000Z_SanPablo_Nacional
+DTSTART;TZID=America/Montevideo:20240822T190000
+DTEND;TZID=America/Montevideo:20240822T210000
+SUMMARY:San Pablo🇧🇷 vs. Nacional🇺🇾
+DESCRIPTION:Octavos de final - Vuelta
+LOCATION:Estadio Morumbí
+CLASS:PUBLIC
+END:VEVENT
+
 END:VCALENDAR

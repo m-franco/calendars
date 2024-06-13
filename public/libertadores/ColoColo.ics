@@ -67,4 +67,24 @@ CLASS:PUBLIC
 LOCATION:Estadio Ueno La Nueva Olla
 END:VEVENT
 
+BEGIN:VEVENT
+UID:20240813T213000Z_ColoColo_Junior
+DTSTART;TZID=America/Montevideo:20240813T213000
+DTEND;TZID=America/Montevideo:20240813T233000
+SUMMARY:Colo Colo🇨🇱 vs. Junior🇨🇴
+DESCRIPTION:Octavos de final - Ida
+LOCATION:Estadio Monumental David Arellano
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240820T213000Z_Junior_ColoColo
+DTSTART;TZID=America/Montevideo:20240820T213000
+DTEND;TZID=America/Montevideo:20240820T233000
+SUMMARY:Junior🇨🇴 vs. Colo Colo🇨🇱
+DESCRIPTION:Octavos de final - Vuelta
+LOCATION:Estadio Metropolitano Roberto Meléndez
+CLASS:PUBLIC
+END:VEVENT
+
 END:VCALENDAR

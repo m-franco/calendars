@@ -48,13 +48,13 @@ LOCATION:Hernando Siles
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20240515T190000Z_Gremio_Estudiantes
-DTSTART;TZID=America/Montevideo:20240515T190000
-DTEND;TZID=America/Montevideo:20240515T210000
+UID:20240608T190000Z_Gremio_Estudiantes
+DTSTART;TZID=America/Montevideo:20240608T190000
+DTEND;TZID=America/Montevideo:20240608T210000
 SUMMARY:Gremio🇧🇷 vs. Estudiantes🇦🇷
 DESCRIPTION:Grupo C - Fecha 5
 CLASS:PUBLIC
-LOCATION:Estadio Arena Do Gremio
+LOCATION:Estadio Couto Pereira
 END:VEVENT
 
 BEGIN:VEVENT
