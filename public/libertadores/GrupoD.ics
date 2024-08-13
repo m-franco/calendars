@@ -138,9 +138,9 @@ CLASS:PUBLIC
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20240813T213000Z_Botafogo_Palmeiras
-DTSTART;TZID=America/Montevideo:20240813T213000
-DTEND;TZID=America/Montevideo:20240813T233000
+UID:20240814T213000Z_Botafogo_Palmeiras
+DTSTART;TZID=America/Montevideo:20240814T213000
+DTEND;TZID=America/Montevideo:20240814T233000
 SUMMARY:Botafogo🇧🇷 vs. Palmeiras🇧🇷
 DESCRIPTION:Octavos de final - Ida
 LOCATION:Estadio Olímpico Nilton Santos

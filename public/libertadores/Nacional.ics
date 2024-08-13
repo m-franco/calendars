@@ -68,9 +68,9 @@ LOCATION:Estadio Defensores del Chaco
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20240815T213000Z_Nacional_SanPablo
-DTSTART;TZID=America/Montevideo:20240815T213000
-DTEND;TZID=America/Montevideo:20240815T233000
+UID:20240815T190000Z_Nacional_SanPablo
+DTSTART;TZID=America/Montevideo:20240815T190000
+DTEND;TZID=America/Montevideo:20240815T210000
 SUMMARY:Nacional🇺🇾 vs. San Pablo🇧🇷
 DESCRIPTION:Octavos de final - Ida
 LOCATION:Estadio Gran Parque Central
