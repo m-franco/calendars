@@ -1127,4 +1127,85 @@ LOCATION:Estadio Hernando Siles
 CLASS:PUBLIC
 END:VEVENT
 
+
+BEGIN:VEVENT
+UID:20240917T213000Z_ColoColo_RiverPlate
+DTSTART;TZID=America/Montevideo:20240917T213000
+DTEND;TZID=America/Montevideo:20240917T233000
+SUMMARY:Colo Colo🇨🇱 vs. River Plate🇦🇷
+DESCRIPTION:Cuartos de final - Ida
+LOCATION:Estadio Monumental, Santiago
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240918T190000Z_Fluminense_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20240918T190000
+DTEND;TZID=America/Montevideo:20240918T210000
+SUMMARY:Fluminense🇧🇷 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Cuartos de final - Ida
+LOCATION:Estadio Maracaná, Río de Janeiro
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240918T213000Z_Botafogo_SaoPaulo
+DTSTART;TZID=America/Montevideo:20240918T213000
+DTEND;TZID=America/Montevideo:20240918T233000
+SUMMARY:Botafogo🇧🇷 vs. San Pablo🇧🇷
+DESCRIPTION:Cuartos de final - Ida
+LOCATION:Estadio Nilton Santos, Río de Janeiro
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240919T190000Z_Flamengo_Penarol
+DTSTART;TZID=America/Montevideo:20240919T190000
+DTEND;TZID=America/Montevideo:20240919T210000
+SUMMARY:Flamengo🇧🇷 vs. Peñarol🇺🇾
+DESCRIPTION:Cuartos de final - Ida
+LOCATION:Estadio Maracaná, Río de Janeiro
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240924T213000Z_RiverPlate_ColoColo
+DTSTART;TZID=America/Montevideo:20240924T213000
+DTEND;TZID=America/Montevideo:20240924T233000
+SUMMARY:River Plate🇦🇷 vs. Colo Colo🇨🇱
+DESCRIPTION:Cuartos de final - Vuelta
+LOCATION:Estadio Monumental, Buenos Aires
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240925T190000Z_AtleticoMineiro_Fluminense
+DTSTART;TZID=America/Montevideo:20240925T190000
+DTEND;TZID=America/Montevideo:20240925T210000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Fluminense🇧🇷
+DESCRIPTION:Cuartos de final - Vuelta
+LOCATION:Arena MRV, Belo Horizonte
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240925T213000Z_SaoPaulo_Botafogo
+DTSTART;TZID=America/Montevideo:20240925T213000
+DTEND;TZID=America/Montevideo:20240925T233000
+SUMMARY:San Pablo🇧🇷 vs. Botafogo🇧🇷
+DESCRIPTION:Cuartos de final - Vuelta
+LOCATION:Estadio Morumbí, San Pablo
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240926T190000Z_Penarol_Flamengo
+DTSTART;TZID=America/Montevideo:20240926T190000
+DTEND;TZID=America/Montevideo:20240926T210000
+SUMMARY:Peñarol🇺🇾 vs. Flamengo🇧🇷
+DESCRIPTION:Cuartos de final - Vuelta
+LOCATION:Estadio Campeón del Siglo, Montevideo
+CLASS:PUBLIC
+END:VEVENT
+
 END:VCALENDAR

@@ -87,4 +87,24 @@ LOCATION:Estadio Morumbí
 CLASS:PUBLIC
 END:VEVENT
 
+BEGIN:VEVENT
+UID:20240918T213000Z_Botafogo_SaoPaulo
+DTSTART;TZID=America/Montevideo:20240918T213000
+DTEND;TZID=America/Montevideo:20240918T233000
+SUMMARY:Botafogo🇧🇷 vs. San Pablo🇧🇷
+DESCRIPTION:Cuartos de final - Ida
+LOCATION:Estadio Nilton Santos, Río de Janeiro
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240925T213000Z_SaoPaulo_Botafogo
+DTSTART;TZID=America/Montevideo:20240925T213000
+DTEND;TZID=America/Montevideo:20240925T233000
+SUMMARY:San Pablo🇧🇷 vs. Botafogo🇧🇷
+DESCRIPTION:Cuartos de final - Vuelta
+LOCATION:Estadio Morumbí, San Pablo
+CLASS:PUBLIC
+END:VEVENT
+
 END:VCALENDAR
