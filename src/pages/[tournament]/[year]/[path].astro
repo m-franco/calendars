@@ -1,0 +1,214 @@
+---
+import Layout from "../../../layouts/Layout.astro";
+import GroupCalendarSubject from "../../../components/GroupCalendarSubject.astro";
+import TournamentCalendarSubject from "../../../components/TournamentCalendarSubject.astro";
+import CalendarCard from "../../../components/CalendarCard.astro";
+import {
+    calendarPages as calendarPages2026,
+    calendars as calendars2026,
+    tournaments as tournaments2026,
+} from "../../../data.json";
+import {
+    calendarPages as calendarPages2024,
+    calendars as calendars2024,
+    tournaments as tournaments2024,
+} from "../../../data-2024.json";
+import {
+    calendarPages as calendarPages2025,
+    calendars as calendars2025,
+    tournaments as tournaments2025,
+} from "../../../data-2025.json";
+import { getCalendarFilePath, getTeamImagePath } from "../../../utils/teamImages";
+
+export async function getStaticPaths() {
+    const archivedEditions = [
+        { year: "2024", calendarPages: calendarPages2024 },
+        { year: "2025", calendarPages: calendarPages2025 },
+        {
+            year: "2026",
+            calendarPages: calendarPages2026.filter(({ type }) => type === "group"),
+        },
+    ];
+
+    return archivedEditions.flatMap(({ year, calendarPages }) => (
+        calendarPages.filter(({ type }) => type !== "country").map(({ type, name, path, tournament, imageName }) => ({
+            params: { path, tournament, year },
+            props: { type, name, imageName, year },
+        }))
+    ));
+}
+
+const calendarBasePath = "m-franco.github.io/calendars/";
+const basePath = `${import.meta.env.BASE_URL.replace(/\/$/, "")}/`;
+
+const { path, tournament } = Astro.params;
+const { type, name, imageName, year } = Astro.props;
+const isCurrentEdition = year === "2026";
+const calendars = year === "2026"
+    ? calendars2026
+    : year === "2025"
+        ? calendars2025
+        : calendars2024;
+const tournaments = year === "2026"
+    ? tournaments2026
+    : year === "2025"
+        ? tournaments2025
+        : tournaments2024;
+
+const tournamentName = tournament === "libertadores" ? "Copa Libertadores" : "Copa Sudamericana";
+const calendarSubject = {
+    tournament: `la ${tournamentName} ${year}`,
+    country: `los ${name.toLocaleLowerCase()} en la ${tournamentName} ${year}`,
+    group: `todos los equipos del ${name} de la ${tournamentName} ${year}`,
+    team: `${name} en la ${tournamentName} ${year}`,
+}[type] ?? `${name} en la ${tournamentName} ${year}`;
+
+const description = `${isCurrentEdition ? "" : `Archivo ${year}: `}Suscribite al calendario de ${calendarSubject}. Tendrás todos los partidos incluidos en el calendario de tu teléfono o tu computadora.`;
+
+const title = `Calendario de ${calendarSubject}`;
+
+const imagePath = imageName
+    ? type === "team"
+        ? getTeamImagePath(imageName)
+        : type === "country"
+            ? `icons/${imageName}`
+            : `icons/${tournament}/${imageName}`
+    : "";
+const image = imageName
+    ? `../../../img/${imagePath}`
+    : `../../../img/icons/${tournament + (tournament === "libertadores" ? "-logo" : "")}.png`;
+const calendarFilePath = getCalendarFilePath(type, path!, tournament!, imageName, year);
+const groupTeams = type === "group"
+    ? tournaments
+        .find(({ href }) => href === tournament)
+        ?.groups.find(({ path: groupPath }) => groupPath === path)
+        ?.teams ?? []
+    : [];
+---
+
+<Layout
+    title={title}
+    description={description}
+    image={image}
+>
+    <main>
+        <h1 class="
+            text-4xl sm:text-5xl md:text-6xl lg:text-7xl
+            text-center font-bold  p-0.5 mb-4">
+            <span class="text-gradient">{name}</span>
+        </h1>
+        {type !== "tournament" &&
+        <h2 class="text-lg sm:text-xl md:text-2xl lg:text-3xl">
+            {tournamentName} {year}
+        </h2>}
+        <div class="instructions flex flex-col justify-center
+        text-sm sm:text-base md:text-lg lg:text-xl my-12">
+            <p>{isCurrentEdition ? "" : `Archivo ${year}: `}Suscribite al calendario de {calendarSubject}.</p>
+            <span>
+            Tendrás todos los partidos incluidos
+            en el calendario de tu teléfono o tu computadora.</span>
+        </div>
+
+        <div class="w-full flex items-center justify-center my-4">
+            {type === "tournament" && <TournamentCalendarSubject name={name} imageName={imageName} tournament={tournament} year={year} />}
+            {type === "group" && <GroupCalendarSubject name={name} tournamentName={tournamentName} year={year} teams={groupTeams} />}
+            {(type === "team" || type === "country") && imageName && (
+                <div class="calendar-subject">
+                    <img
+                        class="calendar-subject-image"
+                        src={`${basePath}img/${imagePath}`}
+                        alt={name}
+                    />
+                    <div class="text-center text-md mt-3">
+                        {type === "country" ? `Calendario de todos los ${name.toLocaleLowerCase()} ${year}` : name}
+                    </div>
+                </div>
+            )}
+        </div>
+        <div role="list" class="flex flex-col">
+            <div class="bg-cyan-700/50 rounded-xl w-full px-1 py-4">
+                <ul role="list" class="flex flex-wrap justify-around gap-2">
+                    {
+                        calendars.map(({ calendar, imageName, preLink, target }) => (
+                            <li class="">
+                                <CalendarCard
+                                    calendar={calendar}
+                                    link={type === "tournament"
+                                    ? `${preLink}${calendarBasePath}${tournament === "libertadores" ? "Libertadores" : "Sudamericana"}.ics`
+                                    : `${preLink}${calendarBasePath}${calendarFilePath}`}
+                                    imageName={imageName}
+                                    tournament={tournament}
+                                    target={target}
+                                />
+                            </li>
+                        ))
+                    }
+                </ul>
+            </div>
+        </div>
+    </main>
+</Layout>
+
+<style>
+    main {
+        margin: auto;
+        padding: 1rem;
+        width: 800px;
+        max-width: calc(100% - 2rem);
+        color: white;
+        font-size: 20px;
+        line-height: 1.6;
+    }
+
+    h2 {
+        font-weight: 600;
+        text-align: center;
+        margin-bottom: 2em;
+    }
+    .text-gradient {
+        background-image: var(--accent-gradient);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-size: 400%;
+        background-position: 0%;
+    }
+    .instructions {
+        margin-bottom: 2rem;
+        border: 1px solid rgba(var(--accent-light), 25%);
+        background: linear-gradient(
+            rgba(var(--accent-dark), 66%),
+            rgba(var(--accent-dark), 33%)
+        );
+        padding: 1.5rem;
+        border-radius: 8px;
+    }
+
+    .calendar-subject-image {
+        display: block;
+        width: 7rem;
+        height: 7rem;
+        object-fit: contain;
+        position: relative;
+        z-index: 1;
+    }
+
+    .calendar-subject {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        position: relative;
+    }
+
+    .calendar-subject::before {
+        content: "";
+        position: absolute;
+        top: -0.75rem;
+        width: 9rem;
+        height: 9rem;
+        border-radius: 50%;
+        background: rgba(255, 255, 255, 0.7);
+        filter: blur(1.25rem);
+        opacity: 0.65;
+        pointer-events: none;
+    }
+</style>

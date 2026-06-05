@@ -1,0 +1,1301 @@
+{
+    "tournaments": [
+        {
+            "href": "libertadores",
+            "title": "Copa Libertadores",
+            "imgSrc": "img/icons/libertadores/libertadores.png",
+            "backgroundImage": "img/icons/libertadores-bg.jpg",
+            "groups": [
+                {
+                    "name": "Grupo A",
+                    "path": "GrupoA",
+                    "teams": [
+                        {
+                            "name": "Fluminense",
+                            "path": "Fluminense",
+                            "imageName": "CSF_FLU.png"
+                        },
+                        {
+                            "name": "Cerro Porteño",
+                            "path": "CerroPorteno",
+                            "imageName": "CSF_CEP.png"
+                        },
+                        {
+                            "name": "Alianza Lima",
+                            "path": "AlianzaLima",
+                            "imageName": "CSF_ALI.png"
+                        },
+                        {
+                            "name": "Colo-Colo",
+                            "path": "ColoColo",
+                            "imageName": "CSF_CCO.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Grupo B",
+                    "path": "GrupoB",
+                    "teams": [
+                        {
+                            "name": "San Pablo",
+                            "path": "SanPablo",
+                            "imageName": "CSF_SAO.png"
+                        },
+                        {
+                            "name": "Barcelona",
+                            "path": "Barcelona",
+                            "imageName": "CSF_BNA.png"
+                        },
+                        {
+                            "name": "Talleres",
+                            "path": "Talleres",
+                            "imageName": "CSF_TAL.png"
+                        },
+                        {
+                            "name": "Cobresal",
+                            "path": "Cobresal",
+                            "imageName": "CSF_COB.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Grupo C",
+                    "path": "GrupoC",
+                    "teams": [
+                        {
+                            "name": "Gremio",
+                            "path": "Gremio",
+                            "imageName": "CSF_GRE.png"
+                        },
+                        {
+                            "name": "Estudiantes",
+                            "path": "Estudiantes",
+                            "imageName": "CSF_ELP.png"
+                        },
+                        {
+                            "name": "The Strongest",
+                            "path": "TheStrongest",
+                            "imageName": "CSF_THS.png"
+                        },
+                        {
+                            "name": "Huachipato",
+                            "path": "Huachipato",
+                            "imageName": "CSF_HUA.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Grupo D",
+                    "path": "GrupoD",
+                    "teams": [
+                        {
+                            "name": "Liga de Quito",
+                            "path": "LigaDeQuito",
+                            "imageName": "CSF_LDU.png"
+                        },
+                        {
+                            "name": "Junior",
+                            "path": "Junior",
+                            "imageName": "CSF_JUN.png"
+                        },
+                        {
+                            "name": "Universitario",
+                            "path": "Universitario",
+                            "imageName": "CSF_UNI.png"
+                        },
+                        {
+                            "name": "Botafogo",
+                            "path": "Botafogo",
+                            "imageName": "CSF_BOT.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Grupo E",
+                    "path": "GrupoE",
+                    "teams": [
+                        {
+                            "name": "Flamengo",
+                            "path": "Flamengo",
+                            "imageName": "CSF_FLA.png"
+                        },
+                        {
+                            "name": "Bolívar",
+                            "path": "Bolivar",
+                            "imageName": "CSF_BLV.png"
+                        },
+                        {
+                            "name": "Millonarios",
+                            "path": "Millonarios",
+                            "imageName": "CSF_MIL.png"
+                        },
+                        {
+                            "name": "Palestino",
+                            "path": "Palestino",
+                            "imageName": "CSF_PST.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Grupo F",
+                    "path": "GrupoF",
+                    "teams": [
+                        {
+                            "name": "Palmeiras",
+                            "path": "Palmeiras",
+                            "imageName": "CSF_PAL.png"
+                        },
+                        {
+                            "name": "Independiente del Valle",
+                            "path": "IndependienteDelValle",
+                            "imageName": "CSF_IDL.png"
+                        },
+                        {
+                            "name": "San Lorenzo",
+                            "path": "SanLorenzo",
+                            "imageName": "CSF_SLO.png"
+                        },
+                        {
+                            "name": "Liverpool",
+                            "path": "Liverpool",
+                            "imageName": "CSF_LIV.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Grupo G",
+                    "path": "GrupoG",
+                    "teams": [
+                        {
+                            "name": "Peñarol",
+                            "path": "Penarol",
+                            "imageName": "CSF_PEN.png"
+                        },
+                        {
+                            "name": "Atlético Mineiro",
+                            "path": "AtleticoMineiro",
+                            "imageName": "CSF_ATM.png"
+                        },
+                        {
+                            "name": "Rosario Central",
+                            "path": "RosarioCentral",
+                            "imageName": "CSF_RSC.png"
+                        },
+                        {
+                            "name": "Caracas",
+                            "path": "Caracas",
+                            "imageName": "CSF_CRC.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Grupo H",
+                    "path": "GrupoH",
+                    "teams": [
+                        {
+                            "name": "River",
+                            "path": "River",
+                            "imageName": "CSF_RIV.png"
+                        },
+                        {
+                            "name": "Libertad",
+                            "path": "Libertad",
+                            "imageName": "CSF_LIB.png"
+                        },
+                        {
+                            "name": "Deportivo Táchira",
+                            "path": "DeportivoTachira",
+                            "imageName": "CSF_DTA.png"
+                        },
+                        {
+                            "name": "Nacional",
+                            "path": "Nacional",
+                            "imageName": "CSF_NCI.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "href": "sudamericana",
+            "title": "Copa Sudamericana",
+            "imgSrc": "img/icons/sudamericana/sudamericana.png",
+            "backgroundImage": "img/icons/sudamericana-bg.jpg",
+            "qualifiedFromLibertadores": [
+                {
+                    "name": "Clasificados desde Libertadores",
+                    "path": "ClasificadosLibertadores",
+                    "teams": [
+                        {
+                            "name": "Cerro Porteño",
+                            "path": "CerroPorteno",
+                            "imageName": "CSF_CEP.png",
+                            "linkBase": "libertadores"
+                        },
+                        {
+                            "name": "Barcelona",
+                            "path": "Barcelona",
+                            "imageName": "CSF_BNA.png",
+                            "linkBase": "libertadores"
+                        },
+                        {
+                            "name": "Huachipato",
+                            "path": "Huachipato",
+                            "imageName": "CSF_HUA.png",
+                            "linkBase": "libertadores"
+                        },
+                        {
+                            "name": "Liga de Quito",
+                            "path": "LigaDeQuito",
+                            "imageName": "CSF_LDU.png",
+                            "linkBase": "libertadores"
+                        },
+                        {
+                            "name": "Palestino",
+                            "path": "Palestino",
+                            "imageName": "CSF_PST.png",
+                            "linkBase": "libertadores"
+                        },
+                        {
+                            "name": "Independiente del Valle",
+                            "path": "IndependienteDelValle",
+                            "imageName": "CSF_IDL.png",
+                            "linkBase": "libertadores"
+                        },
+                        {
+                            "name": "Rosario Central",
+                            "path": "RosarioCentral",
+                            "imageName": "CSF_RSC.png",
+                            "linkBase": "libertadores"
+                        },
+                        {
+                            "name": "Libertad",
+                            "path": "Libertad",
+                            "imageName": "CSF_LIB.png",
+                            "linkBase": "libertadores"
+                        }
+                    ]
+                }
+            ],
+            "groups": [
+                {
+                    "name": "Grupo A",
+                    "path": "GrupoA",
+                    "teams": [
+                        {
+                            "name": "Defensa Y Justicia",
+                            "path": "DefensaYJusticia",
+                            "imageName": "CSF_DEF.png"
+                        },
+                        {
+                            "name": "Independiente de Medellín",
+                            "path": "IndependienteDeMedellin",
+                            "imageName": "CSF_IME.png"
+                        },
+                        {
+                            "name": "Universidad César Vallejo",
+                            "path": "UniversidadCesarVallejo",
+                            "imageName": "CSF_CVA.png"
+                        },
+                        {
+                            "name": "Always Ready",
+                            "path": "AlwaysReady",
+                            "imageName": "CSF_ALR.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Grupo B",
+                    "path": "GrupoB",
+                    "teams": [
+                        {
+                            "name": "Cruzeiro",
+                            "path": "Cruzeiro",
+                            "imageName": "CSF_CZO.png"
+                        },
+                        {
+                            "name": "Unión La Calera",
+                            "path": "UnionLaCalera",
+                            "imageName": "CSF_ULC.png"
+                        },
+                        {
+                            "name": "Universidad Católica",
+                            "path": "UniversidadCatolica",
+                            "imageName": "CSF_UCA.png"
+                        },
+                        {
+                            "name": "Alianza",
+                            "path": "AlianzaColombia",
+                            "imageName": "CSF_AZP.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Grupo C",
+                    "path": "GrupoC",
+                    "teams": [
+                        {
+                            "name": "Internacional",
+                            "path": "Internacional",
+                            "imageName": "CSF_INL.png"
+                        },
+                        {
+                            "name": "Delfín",
+                            "path": "Delfin",
+                            "imageName": "CSF_DEL.png"
+                        },
+                        {
+                            "name": "Belgrano",
+                            "path": "Belgrano",
+                            "imageName": "CSF_BGR.png"
+                        },
+                        {
+                            "name": "Real Tomayapo",
+                            "path": "RealTomayapo",
+                            "imageName": "CSF_RTP.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Grupo D",
+                    "path": "GrupoD",
+                    "teams": [
+                        {
+                            "name": "Boca Juniors",
+                            "path": "BocaJuniors",
+                            "imageName": "CSF_BOJ.png"
+                        },
+                        {
+                            "name": "Fortaleza",
+                            "path": "Fortaleza",
+                            "imageName": "CSF_FOR.png"
+                        },
+                        {
+                            "name": "Nacional Potosí",
+                            "path": "NacionalPotosi",
+                            "imageName": "CSF_NPT.png"
+                        },
+                        {
+                            "name": "Sportivo Trinidense",
+                            "path": "SportivoTrinidense",
+                            "imageName": "CSF_STN.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Grupo E",
+                    "path": "GrupoE",
+                    "teams": [
+                        {
+                            "name": "Atlético Paranaense",
+                            "path": "AtleticoParanaense",
+                            "imageName": "CSF_APR.png"
+                        },
+                        {
+                            "name": "Danubio",
+                            "path": "Danubio",
+                            "imageName": "CSF_DAN.png"
+                        },
+                        {
+                            "name": "Sportivo Ameliano",
+                            "path": "SportivoAmeliano",
+                            "imageName": "CSF_SPA.png"
+                        },
+                        {
+                            "name": "Rayo Zuliano",
+                            "path": "RayoZuliano",
+                            "imageName": "CSF_RYZ.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Grupo F",
+                    "path": "GrupoF",
+                    "teams": [
+                        {
+                            "name": "Corinthians",
+                            "path": "Corinthians",
+                            "imageName": "CSF_COR.png"
+                        },
+                        {
+                            "name": "Argentinos Juniors",
+                            "path": "ArgentinosJuniors",
+                            "imageName": "CSF_AJU.png"
+                        },
+                        {
+                            "name": "Racing (Uru)",
+                            "path": "RacingUruguay",
+                            "imageName": "CSF_RCG.png"
+                        },
+                        {
+                            "name": "Nacional (Par)",
+                            "path": "NacionalParaguay",
+                            "imageName": "CSF_NAL.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Grupo G",
+                    "path": "GrupoG",
+                    "teams": [
+                        {
+                            "name": "Lanús",
+                            "path": "Lanus",
+                            "imageName": "CSF_LAN.png"
+                        },
+                        {
+                            "name": "Metropolitanos",
+                            "path": "Metropolitanos",
+                            "imageName": "CSF_MTP.png"
+                        },
+                        {
+                            "name": "Cuiabá",
+                            "path": "Cuiaba",
+                            "imageName": "CSF_CEC.png"
+                        },
+                        {
+                            "name": "Deportivo Garcilaso",
+                            "path": "Deportivo Garcilaso",
+                            "imageName": "CSF_DGC.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Grupo H",
+                    "path": "GrupoH",
+                    "teams": [
+                        {
+                            "name": "Racing",
+                            "path": "Racing",
+                            "imageName": "CSF_RAC.png"
+                        },
+                        {
+                            "name": "Coquimbo Unido",
+                            "path": "CoquimboUnido",
+                            "imageName": "CSF_CQU.png"
+                        },
+                        {
+                            "name": "Sportivo Luqueño",
+                            "path": "SportivoLuqueno",
+                            "imageName": "CSF_SLQ.png"
+                        },
+                        {
+                            "name": "Red Bull Bragantino",
+                            "path": "RedBullBragantino",
+                            "imageName": "CSF_RBB.png"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "countries": [
+        {
+            "name": "Calendarios de todos los equipos de un país",
+            "teams": [
+                {
+                    "name": "Equipos Argentinos",
+                    "path": "Argentinos",
+                    "imageName": "country_argentina.png"
+                },
+                {
+                    "name": "Equipos Bolivianos",
+                    "path": "Bolivianos",
+                    "imageName": "country_bolivia.png"
+                },
+                {
+                    "name": "Equipos Brasileros",
+                    "path": "Brasileros",
+                    "imageName": "country_brasil.png"
+                },
+                {
+                    "name": "Equipos Chilenos",
+                    "path": "Chilenos",
+                    "imageName": "country_chile.png"
+                },
+                {
+                    "name": "Equipos Colombianos",
+                    "path": "Colombianos",
+                    "imageName": "country_colombia.png"
+                },
+                {
+                    "name": "Equipos Ecuatorianos",
+                    "path": "Ecuatorianos",
+                    "imageName": "country_ecuador.png"
+                },
+                {
+                    "name": "Equipos Paraguayos",
+                    "path": "Paraguayos",
+                    "imageName": "country_paraguay.png"
+                },
+                {
+                    "name": "Equipos Peruanos",
+                    "path": "Peruanos",
+                    "imageName": "country_peru.png"
+                },
+                {
+                    "name": "Equipos Uruguayos",
+                    "path": "Uruguayos",
+                    "imageName": "country_uruguay.png"
+                },
+                {
+                    "name": "Equipos Venezolanos",
+                    "path": "Venezolanos",
+                    "imageName": "country_venezuela.png"
+                }
+            ]
+        }
+    ],
+    "tournamentPages": [
+        {
+            "typeName": "Copa",
+            "name": "Libertadores",
+            "tournament": "libertadores"
+        },
+        {
+            "typeName": "Copa",
+            "name": "Sudamericana",
+            "tournament": "sudamericana"
+        }
+    ],
+    "calendarPages": [
+        {
+            "type": "team",
+            "name": "Fluminense",
+            "path": "Fluminense",
+            "tournament": "libertadores",
+            "imageName": "CSF_FLU.png"
+        },
+        {
+            "type": "team",
+            "name": "Cerro Porteño",
+            "path": "CerroPorteno",
+            "tournament": "libertadores",
+            "imageName": "CSF_CEP.png"
+        },
+        {
+            "type": "team",
+            "name": "Alianza Lima",
+            "path": "AlianzaLima",
+            "tournament": "libertadores",
+            "imageName": "CSF_ALI.png"
+        },
+        {
+            "type": "team",
+            "name": "Colo-Colo",
+            "path": "ColoColo",
+            "tournament": "libertadores",
+            "imageName": "CSF_CCO.png"
+        },
+        {
+            "type": "team",
+            "name": "San Pablo",
+            "path": "SanPablo",
+            "tournament": "libertadores",
+            "imageName": "CSF_SAO.png"
+        },
+        {
+            "type": "team",
+            "name": "Barcelona",
+            "path": "Barcelona",
+            "tournament": "libertadores",
+            "imageName": "CSF_BNA.png"
+        },
+        {
+            "type": "team",
+            "name": "Talleres",
+            "path": "Talleres",
+            "tournament": "libertadores",
+            "imageName": "CSF_TAL.png"
+        },
+        {
+            "type": "team",
+            "name": "Cobresal",
+            "path": "Cobresal",
+            "tournament": "libertadores",
+            "imageName": "CSF_COB.png"
+        },
+        {
+            "type": "team",
+            "name": "Gremio",
+            "path": "Gremio",
+            "tournament": "libertadores",
+            "imageName": "CSF_GRE.png"
+        },
+        {
+            "type": "team",
+            "name": "Estudiantes",
+            "path": "Estudiantes",
+            "tournament": "libertadores",
+            "imageName": "CSF_ELP.png"
+        },
+        {
+            "type": "team",
+            "name": "The Strongest",
+            "path": "TheStrongest",
+            "tournament": "libertadores",
+            "imageName": "CSF_THS.png"
+        },
+        {
+            "type": "team",
+            "name": "Huachipato",
+            "path": "Huachipato",
+            "tournament": "libertadores",
+            "imageName": "CSF_HUA.png"
+        },
+        {
+            "type": "team",
+            "name": "Liga de Quito",
+            "path": "LigaDeQuito",
+            "tournament": "libertadores",
+            "imageName": "CSF_LDU.png"
+        },
+        {
+            "type": "team",
+            "name": "Junior",
+            "path": "Junior",
+            "tournament": "libertadores",
+            "imageName": "CSF_JUN.png"
+        },
+        {
+            "type": "team",
+            "name": "Universitario",
+            "path": "Universitario",
+            "tournament": "libertadores",
+            "imageName": "CSF_UNI.png"
+        },
+        {
+            "type": "team",
+            "name": "Botafogo",
+            "path": "Botafogo",
+            "tournament": "libertadores",
+            "imageName": "CSF_BOT.png"
+        },
+        {
+            "type": "team",
+            "name": "Flamengo",
+            "path": "Flamengo",
+            "tournament": "libertadores",
+            "imageName": "CSF_FLA.png"
+        },
+        {
+            "type": "team",
+            "name": "Bolívar",
+            "path": "Bolivar",
+            "tournament": "libertadores",
+            "imageName": "CSF_BLV.png"
+        },
+        {
+            "type": "team",
+            "name": "Millonarios",
+            "path": "Millonarios",
+            "tournament": "libertadores",
+            "imageName": "CSF_MIL.png"
+        },
+        {
+            "type": "team",
+            "name": "Palestino",
+            "path": "Palestino",
+            "tournament": "libertadores",
+            "imageName": "CSF_PST.png"
+        },
+        {
+            "type": "team",
+            "name": "Palmeiras",
+            "path": "Palmeiras",
+            "tournament": "libertadores",
+            "imageName": "CSF_PAL.png"
+        },
+        {
+            "type": "team",
+            "name": "Independiente del Valle",
+            "path": "IndependienteDelValle",
+            "tournament": "libertadores",
+            "imageName": "CSF_IDL.png"
+        },
+        {
+            "type": "team",
+            "name": "San Lorenzo",
+            "path": "SanLorenzo",
+            "tournament": "libertadores",
+            "imageName": "CSF_SLO.png"
+        },
+        {
+            "type": "team",
+            "name": "Liverpool",
+            "path": "Liverpool",
+            "tournament": "libertadores",
+            "imageName": "CSF_LIV.png"
+        },
+        {
+            "type": "team",
+            "name": "Peñarol",
+            "path": "Penarol",
+            "tournament": "libertadores",
+            "imageName": "CSF_PEN.png"
+        },
+        {
+            "type": "team",
+            "name": "Atlético Mineiro",
+            "path": "AtleticoMineiro",
+            "tournament": "libertadores",
+            "imageName": "CSF_ATM.png"
+        },
+        {
+            "type": "team",
+            "name": "Rosario Central",
+            "path": "RosarioCentral",
+            "tournament": "libertadores",
+            "imageName": "CSF_RSC.png"
+        },
+        {
+            "type": "team",
+            "name": "Caracas",
+            "path": "Caracas",
+            "tournament": "libertadores",
+            "imageName": "CSF_CRC.png"
+        },
+        {
+            "type": "team",
+            "name": "River",
+            "path": "River",
+            "tournament": "libertadores",
+            "imageName": "CSF_RIV.png"
+        },
+        {
+            "type": "team",
+            "name": "Libertad",
+            "path": "Libertad",
+            "tournament": "libertadores",
+            "imageName": "CSF_LIB.png"
+        },
+        {
+            "type": "team",
+            "name": "Deportivo Táchira",
+            "path": "DeportivoTachira",
+            "tournament": "libertadores",
+            "imageName": "CSF_DTA.png"
+        },
+        {
+            "type": "team",
+            "name": "Nacional",
+            "path": "Nacional",
+            "tournament": "libertadores",
+            "imageName": "CSF_NCI.png"
+        },
+        {
+            "type": "team",
+            "name": "Defensa Y Justicia",
+            "path": "DefensaYJusticia",
+            "tournament": "sudamericana",
+            "imageName": "CSF_DEF.png"
+        },
+        {
+            "type": "team",
+            "name": "Independiente de Medellín",
+            "path": "IndependienteDeMedellin",
+            "tournament": "sudamericana",
+            "imageName": "CSF_IME.png"
+        },
+        {
+            "type": "team",
+            "name": "Universidad César Vallejo",
+            "path": "UniversidadCesarVallejo",
+            "tournament": "sudamericana",
+            "imageName": "CSF_CVA.png"
+        },
+        {
+            "type": "team",
+            "name": "Always Ready",
+            "path": "AlwaysReady",
+            "tournament": "sudamericana",
+            "imageName": "CSF_ALR.png"
+        },
+        {
+            "type": "team",
+            "name": "Cruzeiro",
+            "path": "Cruzeiro",
+            "tournament": "sudamericana",
+            "imageName": "CSF_CZO.png"
+        },
+        {
+            "type": "team",
+            "name": "Unión La Calera",
+            "path": "UnionLaCalera",
+            "tournament": "sudamericana",
+            "imageName": "CSF_ULC.png"
+        },
+        {
+            "type": "team",
+            "name": "Universidad Católica",
+            "path": "UniversidadCatolica",
+            "tournament": "sudamericana",
+            "imageName": "CSF_UCA.png"
+        },
+        {
+            "type": "team",
+            "name": "Alianza",
+            "path": "AlianzaColombia",
+            "tournament": "sudamericana",
+            "imageName": "CSF_AZP.png"
+        },
+        {
+            "type": "team",
+            "name": "Internacional",
+            "path": "Internacional",
+            "tournament": "sudamericana",
+            "imageName": "CSF_INL.png"
+        },
+        {
+            "type": "team",
+            "name": "Delfín",
+            "path": "Delfin",
+            "tournament": "sudamericana",
+            "imageName": "CSF_DEL.png"
+        },
+        {
+            "type": "team",
+            "name": "Belgrano",
+            "path": "Belgrano",
+            "tournament": "sudamericana",
+            "imageName": "CSF_BGR.png"
+        },
+        {
+            "type": "team",
+            "name": "Real Tomayapo",
+            "path": "RealTomayapo",
+            "tournament": "sudamericana",
+            "imageName": "CSF_RTP.png"
+        },
+        {
+            "type": "team",
+            "name": "Boca Juniors",
+            "path": "BocaJuniors",
+            "tournament": "sudamericana",
+            "imageName": "CSF_BOJ.png"
+        },
+        {
+            "type": "team",
+            "name": "Fortaleza",
+            "path": "Fortaleza",
+            "tournament": "sudamericana",
+            "imageName": "CSF_FOR.png"
+        },
+        {
+            "type": "team",
+            "name": "Nacional Potosí",
+            "path": "NacionalPotosi",
+            "tournament": "sudamericana",
+            "imageName": "CSF_NPT.png"
+        },
+        {
+            "type": "team",
+            "name": "Sportivo Trinidense",
+            "path": "SportivoTrinidense",
+            "tournament": "sudamericana",
+            "imageName": "CSF_STN.png"
+        },
+        {
+            "type": "team",
+            "name": "Atlético Paranaense",
+            "path": "AtleticoParanaense",
+            "tournament": "sudamericana",
+            "imageName": "CSF_APR.png"
+        },
+        {
+            "type": "team",
+            "name": "Danubio",
+            "path": "Danubio",
+            "tournament": "sudamericana",
+            "imageName": "CSF_DAN.png"
+        },
+        {
+            "type": "team",
+            "name": "Sportivo Ameliano",
+            "path": "SportivoAmeliano",
+            "tournament": "sudamericana",
+            "imageName": "CSF_SPA.png"
+        },
+        {
+            "type": "team",
+            "name": "Rayo Zuliano",
+            "path": "RayoZuliano",
+            "tournament": "sudamericana",
+            "imageName": "CSF_RYZ.png"
+        },
+        {
+            "type": "team",
+            "name": "Corinthians",
+            "path": "Corinthians",
+            "tournament": "sudamericana",
+            "imageName": "CSF_COR.png"
+        },
+        {
+            "type": "team",
+            "name": "Argentinos Juniors",
+            "path": "ArgentinosJuniors",
+            "tournament": "sudamericana",
+            "imageName": "CSF_AJU.png"
+        },
+        {
+            "type": "team",
+            "name": "Racing (Uru)",
+            "path": "RacingUruguay",
+            "tournament": "sudamericana",
+            "imageName": "CSF_RCG.png"
+        },
+        {
+            "type": "team",
+            "name": "Nacional (Par)",
+            "path": "NacionalParaguay",
+            "tournament": "sudamericana",
+            "imageName": "CSF_NAL.png"
+        },
+        {
+            "type": "team",
+            "name": "Lanús",
+            "path": "Lanus",
+            "tournament": "sudamericana",
+            "imageName": "CSF_LAN.png"
+        },
+        {
+            "type": "team",
+            "name": "Metropolitanos",
+            "path": "Metropolitanos",
+            "tournament": "sudamericana",
+            "imageName": "CSF_MTP.png"
+        },
+        {
+            "type": "team",
+            "name": "Cuiabá",
+            "path": "Cuiaba",
+            "tournament": "sudamericana",
+            "imageName": "CSF_CEC.png"
+        },
+        {
+            "type": "team",
+            "name": "Deportivo Garcilaso",
+            "path": "Deportivo Garcilaso",
+            "tournament": "sudamericana",
+            "imageName": "CSF_DGC.png"
+        },
+        {
+            "type": "team",
+            "name": "Racing",
+            "path": "Racing",
+            "tournament": "sudamericana",
+            "imageName": "CSF_RAC.png"
+        },
+        {
+            "type": "team",
+            "name": "Coquimbo Unido",
+            "path": "CoquimboUnido",
+            "tournament": "sudamericana",
+            "imageName": "CSF_CQU.png"
+        },
+        {
+            "type": "team",
+            "name": "Sportivo Luqueño",
+            "path": "SportivoLuqueno",
+            "tournament": "sudamericana",
+            "imageName": "CSF_SLQ.png"
+        },
+        {
+            "type": "team",
+            "name": "Red Bull Bragantino",
+            "path": "RedBullBragantino",
+            "tournament": "sudamericana",
+            "imageName": "CSF_RBB.png"
+        },
+        {
+            "type": "group",
+            "name": "Grupo A",
+            "path": "GrupoA",
+            "tournament": "libertadores",
+            "imageName": ""
+        },
+        {
+            "type": "group",
+            "name": "Grupo B",
+            "path": "GrupoB",
+            "tournament": "libertadores",
+            "imageName": ""
+        },
+        {
+            "type": "group",
+            "name": "Grupo C",
+            "path": "GrupoC",
+            "tournament": "libertadores",
+            "imageName": ""
+        },
+        {
+            "type": "group",
+            "name": "Grupo D",
+            "path": "GrupoD",
+            "tournament": "libertadores",
+            "imageName": ""
+        },
+        {
+            "type": "group",
+            "name": "Grupo E",
+            "path": "GrupoE",
+            "tournament": "libertadores",
+            "imageName": ""
+        },
+        {
+            "type": "group",
+            "name": "Grupo F",
+            "path": "GrupoF",
+            "tournament": "libertadores",
+            "imageName": ""
+        },
+        {
+            "type": "group",
+            "name": "Grupo G",
+            "path": "GrupoG",
+            "tournament": "libertadores",
+            "imageName": ""
+        },
+        {
+            "type": "group",
+            "name": "Grupo H",
+            "path": "GrupoH",
+            "tournament": "libertadores",
+            "imageName": ""
+        },
+        {
+            "type": "group",
+            "name": "Grupo A",
+            "path": "GrupoA",
+            "tournament": "sudamericana",
+            "imageName": ""
+        },
+        {
+            "type": "group",
+            "name": "Grupo B",
+            "path": "GrupoB",
+            "tournament": "sudamericana",
+            "imageName": ""
+        },
+        {
+            "type": "group",
+            "name": "Grupo C",
+            "path": "GrupoC",
+            "tournament": "sudamericana",
+            "imageName": ""
+        },
+        {
+            "type": "group",
+            "name": "Grupo D",
+            "path": "GrupoD",
+            "tournament": "sudamericana",
+            "imageName": ""
+        },
+        {
+            "type": "group",
+            "name": "Grupo E",
+            "path": "GrupoE",
+            "tournament": "sudamericana",
+            "imageName": ""
+        },
+        {
+            "type": "group",
+            "name": "Grupo F",
+            "path": "GrupoF",
+            "tournament": "sudamericana",
+            "imageName": ""
+        },
+        {
+            "type": "group",
+            "name": "Grupo G",
+            "path": "GrupoG",
+            "tournament": "sudamericana",
+            "imageName": ""
+        },
+        {
+            "type": "group",
+            "name": "Grupo H",
+            "path": "GrupoH",
+            "tournament": "sudamericana",
+            "imageName": ""
+        },
+        {
+            "type": "country",
+            "name": "Equipos Argentinos",
+            "path": "Argentinos",
+            "tournament": "libertadores",
+            "imageName": "country_argentina.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Bolivianos",
+            "path": "Bolivianos",
+            "tournament": "libertadores",
+            "imageName": "country_bolivia.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Brasileros",
+            "path": "Brasileros",
+            "tournament": "libertadores",
+            "imageName": "country_brasil.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Chilenos",
+            "path": "Chilenos",
+            "tournament": "libertadores",
+            "imageName": "country_chile.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Colombianos",
+            "path": "Colombianos",
+            "tournament": "libertadores",
+            "imageName": "country_colombia.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Ecuatorianos",
+            "path": "Ecuatorianos",
+            "tournament": "libertadores",
+            "imageName": "country_ecuador.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Paraguayos",
+            "path": "Paraguayos",
+            "tournament": "libertadores",
+            "imageName": "country_paraguay.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Peruanos",
+            "path": "Peruanos",
+            "tournament": "libertadores",
+            "imageName": "country_peru.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Uruguayos",
+            "path": "Uruguayos",
+            "tournament": "libertadores",
+            "imageName": "country_uruguay.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Venezolanos",
+            "path": "Venezolanos",
+            "tournament": "libertadores",
+            "imageName": "country_venezuela.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Argentinos",
+            "path": "Argentinos",
+            "tournament": "sudamericana",
+            "imageName": "country_argentina.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Bolivianos",
+            "path": "Bolivianos",
+            "tournament": "sudamericana",
+            "imageName": "country_bolivia.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Brasileros",
+            "path": "Brasileros",
+            "tournament": "sudamericana",
+            "imageName": "country_brasil.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Chilenos",
+            "path": "Chilenos",
+            "tournament": "sudamericana",
+            "imageName": "country_chile.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Colombianos",
+            "path": "Colombianos",
+            "tournament": "sudamericana",
+            "imageName": "country_colombia.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Ecuatorianos",
+            "path": "Ecuatorianos",
+            "tournament": "sudamericana",
+            "imageName": "country_ecuador.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Paraguayos",
+            "path": "Paraguayos",
+            "tournament": "sudamericana",
+            "imageName": "country_paraguay.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Peruanos",
+            "path": "Peruanos",
+            "tournament": "sudamericana",
+            "imageName": "country_peru.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Uruguayos",
+            "path": "Uruguayos",
+            "tournament": "sudamericana",
+            "imageName": "country_uruguay.png"
+        },
+        {
+            "type": "country",
+            "name": "Equipos Venezolanos",
+            "path": "Venezolanos",
+            "tournament": "sudamericana",
+            "imageName": "country_venezuela.png"
+        },
+        {
+            "type": "tournament",
+            "name": "Copa Libertadores",
+            "path": "Completa",
+            "tournament": "libertadores",
+            "imageName": "libertadores.png"
+        },
+        {
+            "type": "tournament",
+            "name": "Copa Sudamericana",
+            "path": "Completa",
+            "tournament": "sudamericana",
+            "imageName": "sudamericana.png"
+        }
+    ],
+    "calendars": [
+        {
+            "calendar": "Apple iCal",
+            "imageName": "apple-ical.png",
+            "preLink": "webcal://"
+        },
+        {
+            "calendar": "Google Calendar",
+            "imageName": "google-calendar.png",
+            "preLink": "https://calendar.google.com/calendar/r?cid=webcal://",
+            "target": "_blank"
+        },
+        {
+            "calendar": "Microsoft Outlook",
+            "imageName": "microsoft-outlook.png",
+            "preLink": "webcal://"
+        },
+        {
+            "calendar": "Outlook",
+            "imageName": "outlook-com.png",
+            "preLink": "https://outlook.live.com/owa/?rru=addsubscription&name=Uruguay&url=webcal://",
+            "target": "_blank"
+        }
+    ]
+}

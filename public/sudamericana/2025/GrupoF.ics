@@ -1,0 +1,223 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//ES
+BEGIN:VEVENT
+UID:20250401T213000Z_OnceCaldas_Fluminense
+DTSTART;TZID=America/Montevideo:20250401T213000
+DTEND;TZID=America/Montevideo:20250401T233000
+SUMMARY:Once Caldas🇨🇴 vs. Fluminense🇧🇷
+DESCRIPTION:Grupo F - Fecha 1 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Palogrande
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250403T190000Z_GVSanJose_UnionEspanola
+DTSTART;TZID=America/Montevideo:20250403T190000
+DTEND;TZID=America/Montevideo:20250403T210000
+SUMMARY:GV San José🇧🇴 vs. Unión Española🇨🇱
+DESCRIPTION:Grupo F - Fecha 1 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Hernando Siles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250409T213000Z_UnionEspanola_OnceCaldas
+DTSTART;TZID=America/Montevideo:20250409T213000
+DTEND;TZID=America/Montevideo:20250409T233000
+SUMMARY:Unión Española🇨🇱 vs. Once Caldas🇨🇴
+DESCRIPTION:Grupo F - Fecha 2 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Sausalito
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250410T213000Z_Fluminense_GVSanJose
+DTSTART;TZID=America/Montevideo:20250410T213000
+DTEND;TZID=America/Montevideo:20250410T233000
+SUMMARY:Fluminense🇧🇷 vs. GV San José🇧🇴
+DESCRIPTION:Grupo F - Fecha 2 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio do Maracana
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250422T213000Z_GVSanJose_OnceCaldas
+DTSTART;TZID=America/Montevideo:20250422T213000
+DTEND;TZID=America/Montevideo:20250422T233000
+SUMMARY:GV San José🇧🇴 vs. Once Caldas🇨🇴
+DESCRIPTION:Grupo F - Fecha 3 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Hernando Siles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250423T190000Z_UnionEspanola_Fluminense
+DTSTART;TZID=America/Montevideo:20250423T190000
+DTEND;TZID=America/Montevideo:20250423T210000
+SUMMARY:Unión Española🇨🇱 vs. Fluminense🇧🇷
+DESCRIPTION:Grupo F - Fecha 3 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Municipal de La Florida
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250507T230000Z_OnceCaldas_UnionEspanola
+DTSTART;TZID=America/Montevideo:20250507T230000
+DTEND;TZID=America/Montevideo:20250508T010000
+SUMMARY:Once Caldas🇨🇴 vs. Unión Española🇨🇱
+DESCRIPTION:Grupo F - Fecha 4 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Palogrande
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250508T213000Z_GVSanJose_Fluminense
+DTSTART;TZID=America/Montevideo:20250508T213000
+DTEND;TZID=America/Montevideo:20250508T233000
+SUMMARY:GV San José🇧🇴 vs. Fluminense🇧🇷
+DESCRIPTION:Grupo F - Fecha 4 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Hernando Siles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250514T190000Z_Fluminense_UnionEspanola
+DTSTART;TZID=America/Montevideo:20250514T190000
+DTEND;TZID=America/Montevideo:20250514T210000
+SUMMARY:Fluminense🇧🇷 vs. Unión Española🇨🇱
+DESCRIPTION:Grupo F - Fecha 5 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio do Maracana
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250515T230000Z_OnceCaldas_GVSanJose
+DTSTART;TZID=America/Montevideo:20250515T230000
+DTEND;TZID=America/Montevideo:20250516T010000
+SUMMARY:Once Caldas🇨🇴 vs. GV San José🇧🇴
+DESCRIPTION:Grupo F - Fecha 5 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Palogrande
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250529T213000Z_Fluminense_OnceCaldas
+DTSTART;TZID=America/Montevideo:20250529T213000
+DTEND;TZID=America/Montevideo:20250529T233000
+SUMMARY:Fluminense🇧🇷 vs. Once Caldas🇨🇴
+DESCRIPTION:Grupo F - Fecha 6 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio do Maracana
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250529T213000Z_UnionEspanola_GVSanJose
+DTSTART;TZID=America/Montevideo:20250529T213000
+DTEND;TZID=America/Montevideo:20250529T233000
+SUMMARY:Unión Española🇨🇱 vs. GV San José🇧🇴
+DESCRIPTION:Grupo F - Fecha 6 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Municipal de La Florida
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250716T213000Z_SanAntonioBuloBulo_OnceCaldas
+DTSTART;TZID=America/Montevideo:20250716T213000
+DTEND;TZID=America/Montevideo:20250716T233000
+SUMMARY:San Antonio Bulo Bulo🇧🇴 vs. Once Caldas🇨🇴
+DESCRIPTION:Play-offs - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Félix Capriles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250723T213000Z_OnceCaldas_SanAntonioBuloBulo
+DTSTART;TZID=America/Montevideo:20250723T213000
+DTEND;TZID=America/Montevideo:20250723T233000
+SUMMARY:Once Caldas🇨🇴 vs. San Antonio Bulo Bulo🇧🇴
+DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Palogrande
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250812T190000Z_OnceCaldas_Huracan
+DTSTART;TZID=America/Montevideo:20250812T190000
+DTEND;TZID=America/Montevideo:20250812T210000
+SUMMARY:Once Caldas🇨🇴 vs. Huracán🇦🇷
+DESCRIPTION:Octavos de final - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Palogrande
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250812T213000Z_AmericaDeCali_Fluminense
+DTSTART;TZID=America/Montevideo:20250812T213000
+DTEND;TZID=America/Montevideo:20250812T233000
+SUMMARY:América de Cali🇨🇴 vs. Fluminense🇧🇷
+DESCRIPTION:Octavos de final - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Pascual Guerrero
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250819T190000Z_Huracan_OnceCaldas
+DTSTART;TZID=America/Montevideo:20250819T190000
+DTEND;TZID=America/Montevideo:20250819T210000
+SUMMARY:Huracán🇦🇷 vs. Once Caldas🇨🇴
+DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Tomás Adolfo Ducó
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250819T213000Z_Fluminense_AmericaDeCali
+DTSTART;TZID=America/Montevideo:20250819T213000
+DTEND;TZID=America/Montevideo:20250819T233000
+SUMMARY:Fluminense🇧🇷 vs. América de Cali🇨🇴
+DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio do Maracana
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250916T213000Z_Lanus_Fluminense
+DTSTART;TZID=America/Montevideo:20250916T213000
+DTEND;TZID=America/Montevideo:20250916T233000
+SUMMARY:Lanús🇦🇷 vs. Fluminense🇧🇷
+DESCRIPTION:Cuartos de final - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Ciudad de Lanús
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250917T213000Z_IndependienteDelValle_OnceCaldas
+DTSTART;TZID=America/Montevideo:20250917T213000
+DTEND;TZID=America/Montevideo:20250917T233000
+SUMMARY:Independiente del Valle🇪🇨 vs. Once Caldas🇨🇴
+DESCRIPTION:Cuartos de final - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Banco Guayaquil
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250923T213000Z_Fluminense_Lanus
+DTSTART;TZID=America/Montevideo:20250923T213000
+DTEND;TZID=America/Montevideo:20250923T233000
+SUMMARY:Fluminense🇧🇷 vs. Lanús🇦🇷
+DESCRIPTION:Cuartos de final - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio do Maracana
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250924T213000Z_OnceCaldas_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20250924T213000
+DTEND;TZID=America/Montevideo:20250924T233000
+SUMMARY:Once Caldas🇨🇴 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Cuartos de final - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Palogrande
+END:VEVENT
+END:VCALENDAR

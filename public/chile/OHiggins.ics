@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//ES
+BEGIN:VEVENT
+UID:20260407T210000Z_OHiggins_Millonarios
+DTSTART;TZID=America/Montevideo:20260407T210000
+DTEND;TZID=America/Montevideo:20260407T230000
+SUMMARY:O'Higgins🇨🇱 vs. Millonarios🇨🇴
+DESCRIPTION:Grupo C - Fecha 1 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio El Teniente
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260414T190000Z_SanPablo_OHiggins
+DTSTART;TZID=America/Montevideo:20260414T190000
+DTEND;TZID=America/Montevideo:20260414T210000
+SUMMARY:San Pablo🇧🇷 vs. O'Higgins🇨🇱
+DESCRIPTION:Grupo C - Fecha 2 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estádio Cícero Pompeu de Toledo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260428T230000Z_OHiggins_BostonRiver
+DTSTART;TZID=America/Montevideo:20260428T230000
+DTEND;TZID=America/Montevideo:20260429T010000
+SUMMARY:O'Higgins🇨🇱 vs. Boston River🇺🇾
+DESCRIPTION:Grupo C - Fecha 3 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio El Teniente
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260507T190000Z_OHiggins_SanPablo
+DTSTART;TZID=America/Montevideo:20260507T190000
+DTEND;TZID=America/Montevideo:20260507T210000
+SUMMARY:O'Higgins🇨🇱 vs. San Pablo🇧🇷
+DESCRIPTION:Grupo C - Fecha 4 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio El Teniente
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260520T190000Z_BostonRiver_OHiggins
+DTSTART;TZID=America/Montevideo:20260520T190000
+DTEND;TZID=America/Montevideo:20260520T210000
+SUMMARY:Boston River🇺🇾 vs. O'Higgins🇨🇱
+DESCRIPTION:Grupo C - Fecha 5 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260526T190000Z_Millonarios_OHiggins
+DTSTART;TZID=America/Montevideo:20260526T190000
+DTEND;TZID=America/Montevideo:20260526T210000
+SUMMARY:Millonarios🇨🇴 vs. O'Higgins🇨🇱
+DESCRIPTION:Grupo C - Fecha 6 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Nemesio Camacho El Campín
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260723T213000Z_BocaJuniors_OHiggins
+DTSTART;TZID=America/Montevideo:20260723T213000
+DTEND;TZID=America/Montevideo:20260723T233000
+SUMMARY:Boca Juniors🇦🇷 vs. O'Higgins🇨🇱
+DESCRIPTION:Play-offs - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Alberto José Armando (La Bombonera)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260730T213000Z_OHiggins_BocaJuniors
+DTSTART;TZID=America/Montevideo:20260730T213000
+DTEND;TZID=America/Montevideo:20260730T233000
+SUMMARY:O'Higgins🇨🇱 vs. Boca Juniors🇦🇷
+DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio a definir
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//ES
+BEGIN:VEVENT
+UID:20260407T230000Z_DeportesTolima_Universitario
+DTSTART;TZID=America/Montevideo:20260407T230000
+DTEND;TZID=America/Montevideo:20260408T010000
+SUMMARY:Deportes Tolima🇨🇴 vs. Universitario🇵🇪
+DESCRIPTION:Grupo B - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Manuel Murillo Toro
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260414T190000Z_Nacional_DeportesTolima
+DTSTART;TZID=America/Montevideo:20260414T190000
+DTEND;TZID=America/Montevideo:20260414T210000
+SUMMARY:Nacional🇺🇾 vs. Deportes Tolima🇨🇴
+DESCRIPTION:Grupo B - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Gran Parque Central
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260428T230000Z_DeportesTolima_CoquimboUnido
+DTSTART;TZID=America/Montevideo:20260428T230000
+DTEND;TZID=America/Montevideo:20260429T010000
+SUMMARY:Deportes Tolima🇨🇴 vs. Coquimbo Unido🇨🇱
+DESCRIPTION:Grupo B - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Manuel Murillo Toro
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260506T230000Z_DeportesTolima_Nacional
+DTSTART;TZID=America/Montevideo:20260506T230000
+DTEND;TZID=America/Montevideo:20260507T010000
+SUMMARY:Deportes Tolima🇨🇴 vs. Nacional🇺🇾
+DESCRIPTION:Grupo B - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Manuel Murillo Toro
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260519T190000Z_CoquimboUnido_DeportesTolima
+DTSTART;TZID=America/Montevideo:20260519T190000
+DTEND;TZID=America/Montevideo:20260519T210000
+SUMMARY:Coquimbo Unido🇨🇱 vs. Deportes Tolima🇨🇴
+DESCRIPTION:Grupo B - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Francisco Sánchez Rumoroso
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260526T213000Z_Universitario_DeportesTolima
+DTSTART;TZID=America/Montevideo:20260526T213000
+DTEND;TZID=America/Montevideo:20260526T233000
+SUMMARY:Universitario🇵🇪 vs. Deportes Tolima🇨🇴
+DESCRIPTION:Grupo B - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Monumental de Lima
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260811T213000Z_DeportesTolima_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20260811T213000
+DTEND;TZID=America/Montevideo:20260811T233000
+SUMMARY:Deportes Tolima🇨🇴 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Octavos de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Manuel Murillo Toro
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260818T213000Z_IndependienteDelValle_DeportesTolima
+DTSTART;TZID=America/Montevideo:20260818T213000
+DTEND;TZID=America/Montevideo:20260818T233000
+SUMMARY:Independiente del Valle🇪🇨 vs. Deportes Tolima🇨🇴
+DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio a definir
+END:VEVENT
+END:VCALENDAR

@@ -2,7 +2,7 @@
 import TournamentCard from "./TournamentCard.astro";
 import { tournaments } from "../data.json";
 
-const imagePath = import.meta.env.PUBLIC_IMAGE_PATH ?? "";
+const basePath = `${import.meta.env.BASE_URL.replace(/\/$/, "")}/`;
 
 ---
 <ul role="list" class="flex flex-wrap justify-center gap-4">
@@ -11,7 +11,7 @@ const imagePath = import.meta.env.PUBLIC_IMAGE_PATH ?? "";
             <TournamentCard
                 href={href}
                 title={title}
-                imagePath={imagePath}
+                imagePath={basePath}
                 imgSrc={imgSrc}
                 backgroundImage={backgroundImage}
             />

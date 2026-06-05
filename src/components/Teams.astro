@@ -9,9 +9,23 @@ interface Group {
 interface Props {
     groups: Group[];
     tournament: string;
+    hrefBase?: string;
+    teamHrefBase?: string;
+    showGroupCalendar?: boolean;
+    compactGrid?: boolean;
 }
 
-const { groups, tournament } = Astro.props;
+const {
+    groups,
+    tournament,
+    hrefBase,
+    teamHrefBase,
+    showGroupCalendar = true,
+    compactGrid = false,
+} = Astro.props;
+const teamListClass = compactGrid
+    ? "grid grid-cols-2 md:grid-cols-4 justify-items-center gap-2"
+    : "flex flex-wrap justify-around gap-2";
 ---
 
 <ul role="list" class="flex flex-col">
@@ -19,9 +33,11 @@ const { groups, tournament } = Astro.props;
         groups.map(({ name, path, teams }) => (
             <li class="bg-cyan-700/50 my-2 pb-3 pt-2 px-2 rounded-xl">
                 <div class="w-full text-center mb-2">{name}</div>
-                <ul role="list" class="flex flex-wrap justify-around gap-2">
-                    <TeamCard type="group" name={name} path={path} tournament={tournament} />
-                    {teams.map(({ name, path, imageName }) => (
+                <ul role="list" class={teamListClass}>
+                    {showGroupCalendar && (
+                        <TeamCard type="group" name={name} path={path} tournament={tournament} hrefBase={hrefBase} />
+                    )}
+                    {teams.map(({ name, path, imageName, linkBase }) => (
                         <li>
                             <TeamCard
                                 type="team"
@@ -29,6 +45,7 @@ const { groups, tournament } = Astro.props;
                                 path={path}
                                 imageName={imageName}
                                 tournament={tournament}
+                                hrefBase={linkBase ?? teamHrefBase ?? hrefBase}
                             />
                         </li>
                     ))}

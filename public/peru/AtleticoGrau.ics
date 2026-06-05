@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//ES
+BEGIN:VEVENT
+UID:20250402T230000Z_AtleticoGrau_GodoyCruz
+DTSTART;TZID=America/Montevideo:20250402T230000
+DTEND;TZID=America/Montevideo:20250403T010000
+SUMMARY:Atlético Grau🇵🇪 vs. Godoy Cruz🇦🇷
+DESCRIPTION:Grupo D - Fecha 1 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Alejandro Villanueva
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250408T190000Z_Gremio_AtleticoGrau
+DTSTART;TZID=America/Montevideo:20250408T190000
+DTEND;TZID=America/Montevideo:20250408T210000
+SUMMARY:Gremio🇧🇷 vs. Atlético Grau🇵🇪
+DESCRIPTION:Grupo D - Fecha 2 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Grêmio Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250423T230000Z_AtleticoGrau_SportivoLuqueno
+DTSTART;TZID=America/Montevideo:20250423T230000
+DTEND;TZID=America/Montevideo:20250424T010000
+SUMMARY:Atlético Grau🇵🇪 vs. Sportivo Luqueño🇵🇾
+DESCRIPTION:Grupo D - Fecha 3 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Monumental de Lima
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250507T213000Z_AtleticoGrau_Gremio
+DTSTART;TZID=America/Montevideo:20250507T213000
+DTEND;TZID=America/Montevideo:20250507T233000
+SUMMARY:Atlético Grau🇵🇪 vs. Gremio🇧🇷
+DESCRIPTION:Grupo D - Fecha 4 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Alejandro Villanueva
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250514T190000Z_SportivoLuqueno_AtleticoGrau
+DTSTART;TZID=America/Montevideo:20250514T190000
+DTEND;TZID=America/Montevideo:20250514T210000
+SUMMARY:Sportivo Luqueño🇵🇾 vs. Atlético Grau🇵🇪
+DESCRIPTION:Grupo D - Fecha 5 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio ueno Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250529T190000Z_GodoyCruz_AtleticoGrau
+DTSTART;TZID=America/Montevideo:20250529T190000
+DTEND;TZID=America/Montevideo:20250529T210000
+SUMMARY:Godoy Cruz🇦🇷 vs. Atlético Grau🇵🇪
+DESCRIPTION:Grupo D - Fecha 6 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Malvinas Argentinas (Mendoza)
+END:VEVENT
+END:VCALENDAR

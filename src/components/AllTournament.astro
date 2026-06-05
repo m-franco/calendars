@@ -8,7 +8,7 @@ interface Props {
     backgroundImage: string;
 }
 
-const imagePath = import.meta.env.PUBLIC_IMAGE_PATH ?? "calendars/";
+const basePath = `${import.meta.env.BASE_URL.replace(/\/$/, "")}/`;
 
 const { title, href, imgSrc, backgroundImage } = Astro.props;
 ---
@@ -21,7 +21,7 @@ const { title, href, imgSrc, backgroundImage } = Astro.props;
                 <TournamentCard 
                 title={title} 
                 href={href} 
-                imagePath={`../../${imagePath}`}
+                imagePath={basePath}
                 imgSrc={imgSrc}
                 backgroundImage={backgroundImage} />
             </ul>

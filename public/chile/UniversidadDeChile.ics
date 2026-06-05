@@ -1,0 +1,143 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//ES
+BEGIN:VEVENT
+UID:20250402T213000Z_UniversidadDeChile_Botafogo
+DTSTART;TZID=America/Montevideo:20250402T213000
+DTEND;TZID=America/Montevideo:20250402T233000
+SUMMARY:Universidad de Chile🇨🇱 vs. Botafogo🇧🇷
+DESCRIPTION:Grupo A - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Nacional Julio Martínez Prádanos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250408T213000Z_Estudiantes_UniversidadDeChile
+DTSTART;TZID=America/Montevideo:20250408T213000
+DTEND;TZID=America/Montevideo:20250408T233000
+SUMMARY:Estudiantes🇦🇷 vs. Universidad de Chile🇨🇱
+DESCRIPTION:Grupo A - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Jorge Luis Hirschi
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250422T200000Z_Carabobo_UniversidadDeChile
+DTSTART;TZID=America/Montevideo:20250422T200000
+DTEND;TZID=America/Montevideo:20250422T220000
+SUMMARY:Carabobo🇻🇪 vs. Universidad de Chile🇨🇱
+DESCRIPTION:Grupo A - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Misael Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250507T210000Z_UniversidadDeChile_Estudiantes
+DTSTART;TZID=America/Montevideo:20250507T210000
+DTEND;TZID=America/Montevideo:20250507T230000
+SUMMARY:Universidad de Chile🇨🇱 vs. Estudiantes🇦🇷
+DESCRIPTION:Grupo A - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Nacional Julio Martínez Prádanos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250513T213000Z_UniversidadDeChile_Carabobo
+DTSTART;TZID=America/Montevideo:20250513T213000
+DTEND;TZID=America/Montevideo:20250513T233000
+SUMMARY:Universidad de Chile🇨🇱 vs. Carabobo🇻🇪
+DESCRIPTION:Grupo A - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Nacional Julio Martínez Prádanos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250527T213000Z_Botafogo_UniversidadDeChile
+DTSTART;TZID=America/Montevideo:20250527T213000
+DTEND;TZID=America/Montevideo:20250527T233000
+SUMMARY:Botafogo🇧🇷 vs. Universidad de Chile🇨🇱
+DESCRIPTION:Grupo A - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico Nilton Santos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250717T190000Z_UniversidadDeChile_Guarani
+DTSTART;TZID=America/Montevideo:20250717T190000
+DTEND;TZID=America/Montevideo:20250717T210000
+SUMMARY:Universidad de Chile🇨🇱 vs. Guaraní🇵🇾
+DESCRIPTION:Play-offs - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Nacional Julio Martínez Prádanos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250724T190000Z_Guarani_UniversidadDeChile
+DTSTART;TZID=America/Montevideo:20250724T190000
+DTEND;TZID=America/Montevideo:20250724T210000
+SUMMARY:Guaraní🇵🇾 vs. Universidad de Chile🇨🇱
+DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio ueno La Nueva Olla
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250813T213000Z_UniversidadDeChile_Independiente
+DTSTART;TZID=America/Montevideo:20250813T213000
+DTEND;TZID=America/Montevideo:20250813T233000
+SUMMARY:Universidad de Chile🇨🇱 vs. Independiente🇦🇷
+DESCRIPTION:Octavos de final - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Nacional Julio Martínez Prádanos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250820T213000Z_Independiente_UniversidadDeChile
+DTSTART;TZID=America/Montevideo:20250820T213000
+DTEND;TZID=America/Montevideo:20250820T233000
+SUMMARY:Independiente🇦🇷 vs. Universidad de Chile🇨🇱
+DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Libertadores de América
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250918T213000Z_AlianzaLima_UniversidadDeChile
+DTSTART;TZID=America/Montevideo:20250918T213000
+DTEND;TZID=America/Montevideo:20250918T233000
+SUMMARY:Alianza Lima🇵🇪 vs. Universidad de Chile🇨🇱
+DESCRIPTION:Cuartos de final - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Alejandro Villanueva
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250925T213000Z_UniversidadDeChile_AlianzaLima
+DTSTART;TZID=America/Montevideo:20250925T213000
+DTEND;TZID=America/Montevideo:20250925T233000
+SUMMARY:Universidad de Chile🇨🇱 vs. Alianza Lima🇵🇪
+DESCRIPTION:Cuartos de final - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Francisco Sánchez Rumoroso
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251023T190000Z_UniversidadDeChile_Lanus
+DTSTART;TZID=America/Montevideo:20251023T190000
+DTEND;TZID=America/Montevideo:20251023T210000
+SUMMARY:Universidad de Chile🇨🇱 vs. Lanús🇦🇷
+DESCRIPTION:Semifinal - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Nacional Julio Martínez Prádanos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251030T190000Z_Lanus_UniversidadDeChile
+DTSTART;TZID=America/Montevideo:20251030T190000
+DTEND;TZID=America/Montevideo:20251030T210000
+SUMMARY:Lanús🇦🇷 vs. Universidad de Chile🇨🇱
+DESCRIPTION:Semifinal - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Ciudad de Lanús
+END:VEVENT
+END:VCALENDAR

@@ -1,18 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID: github.com/m-franco
-METHOD:PUBLISH
-CALSCALE:GREGORIAN
-X-WR-CALNAME:Palestino🇨🇱 - Copa Libertadores
-X-WR-CALDESC:Partidos de Palestino🇨🇱 en la Copa Libertadores
-X-PUBLISHED-TTL:PT6H
-
+PRODID:-//Calendarios CONMEBOL//ES
 BEGIN:VEVENT
 UID:20240404T210000Z_Palestino_Bolívar
 DTSTART;TZID=America/Montevideo:20240404T210000
 DTEND;TZID=America/Montevideo:20240404T230000
 SUMMARY:Palestino🇨🇱 vs. Bolívar🇧🇴
-DESCRIPTION:Grupo E - Fecha 1
+DESCRIPTION:Grupo E - Fecha 1 - Copa Libertadores
 CLASS:PUBLIC
 LOCATION:Estadio a definir
 END:VEVENT
@@ -22,7 +16,7 @@ UID:20240409T190000Z_Flamengo_Palestino
 DTSTART;TZID=America/Montevideo:20240409T190000
 DTEND;TZID=America/Montevideo:20240409T210000
 SUMMARY:Flamengo🇧🇷 vs. Palestino🇨🇱
-DESCRIPTION:Grupo E - Fecha 2
+DESCRIPTION:Grupo E - Fecha 2 - Copa Libertadores
 CLASS:PUBLIC
 LOCATION:Estadio Maracaná
 END:VEVENT
@@ -32,7 +26,7 @@ UID:20240425T210000Z_Palestino_Millonarios
 DTSTART;TZID=America/Montevideo:20240425T210000
 DTEND;TZID=America/Montevideo:20240425T230000
 SUMMARY:Palestino🇨🇱 vs. Millonarios🇨🇴
-DESCRIPTION:Grupo E - Fecha 3
+DESCRIPTION:Grupo E - Fecha 3 - Copa Libertadores
 CLASS:PUBLIC
 LOCATION:Estadio a definir
 END:VEVENT
@@ -42,7 +36,7 @@ UID:20240507T210000Z_Palestino_Flamengo
 DTSTART;TZID=America/Montevideo:20240507T210000
 DTEND;TZID=America/Montevideo:20240507T230000
 SUMMARY:Palestino🇨🇱 vs. Flamengo🇧🇷
-DESCRIPTION:Grupo E - Fecha 4
+DESCRIPTION:Grupo E - Fecha 4 - Copa Libertadores
 CLASS:PUBLIC
 LOCATION:Estadio a definir
 END:VEVENT
@@ -52,7 +46,7 @@ UID:20240514T230000Z_Millonarios_Palestino
 DTSTART;TZID=America/Montevideo:20240514T230000
 DTEND;TZID=America/Montevideo:20240515T010000
 SUMMARY:Millonarios🇨🇴 vs. Palestino🇨🇱
-DESCRIPTION:Grupo E - Fecha 5
+DESCRIPTION:Grupo E - Fecha 5 - Copa Libertadores
 CLASS:PUBLIC
 LOCATION:Estadio Nemesio Camacho
 END:VEVENT
@@ -62,9 +56,148 @@ UID:20240528T210000Z_Bolívar_Palestino
 DTSTART;TZID=America/Montevideo:20240528T210000
 DTEND;TZID=America/Montevideo:20240528T230000
 SUMMARY:Bolívar🇧🇴 vs. Palestino🇨🇱
-DESCRIPTION:Grupo E - Fecha 6
+DESCRIPTION:Grupo E - Fecha 6 - Copa Libertadores
 CLASS:PUBLIC
 LOCATION:Estadio Hernando Siles
 END:VEVENT
 
+BEGIN:VEVENT
+UID:20250403T230000Z_MushucRuna_Palestino
+DTSTART;TZID=America/Montevideo:20250403T230000
+DTEND;TZID=America/Montevideo:20250404T010000
+SUMMARY:Mushuc Runa🇪🇨 vs. Palestino🇨🇱
+DESCRIPTION:Grupo E - Fecha 1 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Fernando Guerrero Guerrero
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250409T190000Z_Palestino_Union
+DTSTART;TZID=America/Montevideo:20250409T190000
+DTEND;TZID=America/Montevideo:20250409T210000
+SUMMARY:Palestino🇨🇱 vs. Unión🇦🇷
+DESCRIPTION:Grupo E - Fecha 2 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Nacional Julio Martínez Prádanos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250424T213000Z_Palestino_Cruzeiro
+DTSTART;TZID=America/Montevideo:20250424T213000
+DTEND;TZID=America/Montevideo:20250424T233000
+SUMMARY:Palestino🇨🇱 vs. Cruzeiro🇧🇷
+DESCRIPTION:Grupo E - Fecha 3 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Francisco Sánchez Rumoroso
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250507T190000Z_Union_Palestino
+DTSTART;TZID=America/Montevideo:20250507T190000
+DTEND;TZID=America/Montevideo:20250507T210000
+SUMMARY:Unión🇦🇷 vs. Palestino🇨🇱
+DESCRIPTION:Grupo E - Fecha 4 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:15 de Abril
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250514T213000Z_Cruzeiro_Palestino
+DTSTART;TZID=America/Montevideo:20250514T213000
+DTEND;TZID=America/Montevideo:20250514T233000
+SUMMARY:Cruzeiro🇧🇷 vs. Palestino🇨🇱
+DESCRIPTION:Grupo E - Fecha 5 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Mineirão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250528T213000Z_Palestino_MushucRuna
+DTSTART;TZID=America/Montevideo:20250528T213000
+DTEND;TZID=America/Montevideo:20250528T233000
+SUMMARY:Palestino🇨🇱 vs. Mushuc Runa🇪🇨
+DESCRIPTION:Grupo E - Fecha 6 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Municipal de La Florida
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250716T190000Z_Bolivar_Palestino
+DTSTART;TZID=America/Montevideo:20250716T190000
+DTEND;TZID=America/Montevideo:20250716T210000
+SUMMARY:Bolívar🇧🇴 vs. Palestino🇨🇱
+DESCRIPTION:Play-offs - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Hernando Siles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250723T190000Z_Palestino_Bolivar
+DTSTART;TZID=America/Montevideo:20250723T190000
+DTEND;TZID=America/Montevideo:20250723T210000
+SUMMARY:Palestino🇨🇱 vs. Bolívar🇧🇴
+DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Nacional Julio Martínez Prádanos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260408T190000Z_DeportivoRiestra_Palestino
+DTSTART;TZID=America/Montevideo:20260408T190000
+DTEND;TZID=America/Montevideo:20260408T210000
+SUMMARY:Deportivo Riestra🇦🇷 vs. Palestino🇨🇱
+DESCRIPTION:Grupo F - Fecha 1 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Pedro Bidegain
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260414T213000Z_Palestino_MontevideoCityTorque
+DTSTART;TZID=America/Montevideo:20260414T213000
+DTEND;TZID=America/Montevideo:20260414T233000
+SUMMARY:Palestino🇨🇱 vs. Montevideo City Torque🇺🇾
+DESCRIPTION:Grupo F - Fecha 2 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Municipal de La Cisterna
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260429T213000Z_Palestino_Gremio
+DTSTART;TZID=America/Montevideo:20260429T213000
+DTEND;TZID=America/Montevideo:20260429T233000
+SUMMARY:Palestino🇨🇱 vs. Gremio🇧🇷
+DESCRIPTION:Grupo F - Fecha 3 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Municipal de La Cisterna
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260506T190000Z_MontevideoCityTorque_Palestino
+DTSTART;TZID=America/Montevideo:20260506T190000
+DTEND;TZID=America/Montevideo:20260506T210000
+SUMMARY:Montevideo City Torque🇺🇾 vs. Palestino🇨🇱
+DESCRIPTION:Grupo F - Fecha 4 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260520T210000Z_Gremio_Palestino
+DTSTART;TZID=America/Montevideo:20260520T210000
+DTEND;TZID=America/Montevideo:20260520T230000
+SUMMARY:Gremio🇧🇷 vs. Palestino🇨🇱
+DESCRIPTION:Grupo F - Fecha 5 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Arena do Grêmio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260526T190000Z_Palestino_DeportivoRiestra
+DTSTART;TZID=America/Montevideo:20260526T190000
+DTEND;TZID=America/Montevideo:20260526T210000
+SUMMARY:Palestino🇨🇱 vs. Deportivo Riestra🇦🇷
+DESCRIPTION:Grupo F - Fecha 6 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Municipal de La Cisterna
+END:VEVENT
 END:VCALENDAR

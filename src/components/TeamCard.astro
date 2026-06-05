@@ -1,15 +1,30 @@
 ---
+import { getTeamImageFolder, getTeamImagePath } from "../utils/teamImages";
+
 interface Props {
     type: string;
     name: string;
     path?: string;
     imageName?: string | null;
     tournament: string;
+    hrefBase?: string;
 }
 
-const imagePath = import.meta.env.PUBLIC_IMAGE_PATH ?? "";
+const basePath = `${import.meta.env.BASE_URL.replace(/\/$/, "")}/`;
 
-const { type, name, path, imageName, tournament } = Astro.props;
+const { type, name, path, imageName, tournament, hrefBase } = Astro.props;
+const linkBase = hrefBase ?? tournament;
+const teamCountry = getTeamImageFolder(imageName);
+const href = type === "team"
+    ? `${basePath}${teamCountry ? `${teamCountry}/` : ""}${path}`
+    : `${basePath}${linkBase}/${path}`;
+const imagePath = imageName
+    ? type === "team"
+        ? getTeamImagePath(imageName)
+        : type === "country"
+            ? `icons/${imageName}`
+            : `${tournament}/${imageName}`
+    : "";
 ---
 
 {
@@ -19,17 +34,17 @@ const { type, name, path, imageName, tournament } = Astro.props;
                 <div
                     class="link-card w-36 h-44 flex items-center justify-center bg-center bg-cover"
                     style={{
-                        backgroundImage: `url(../${imagePath}img/icons/${tournament}-bg.jpg)`,
+                        backgroundImage: `url(${basePath}img/icons/${tournament}-bg.jpg)`,
                     }}
                 >
                     <a
-                        href={`../${imagePath}${tournament}/${path}`}
+                        href={href}
                         class="w-full h-full"
                     >
                         <div class="flex w-full h-full flex-col items-center justify-center">
                             <img
                                 class="w-24"
-                                src={`../${imagePath}img/icons/${tournament}/${imageName}`}
+                                src={`${basePath}img/${imagePath}`}
                                 alt={name}
                             />
                             <div class="text-center text-sm mt-3">{name}</div>
@@ -40,13 +55,13 @@ const { type, name, path, imageName, tournament } = Astro.props;
                 <div
                     class="link-card w-full h-48 flex items-center justify-center bg-center bg-cover rounded-md"
                     style={{
-                        backgroundImage: `url(../../${imagePath}img/icons/${tournament}-bg.jpg)`,
+                        backgroundImage: `url(${basePath}img/icons/${tournament}-bg.jpg)`,
                     }}
                 >
                     <div class="flex w-full h-full flex-col items-center justify-center">
                         <img
                             class="w-24"
-                            src={`../../${imagePath}img/icons/${type==="country"?"":tournament}/${imageName}`}
+                            src={`${basePath}img/${imagePath}`}
                             alt={name}
                         />
                         <div class="text-center text-md my-3 mx-12">{name}</div>
@@ -62,10 +77,10 @@ const { type, name, path, imageName, tournament } = Astro.props;
             md:w-36 h-32 md:h-44 flex 
             items-center justify-center bg-center bg-cover"
             style={{
-                backgroundImage: `url(../${imagePath}img/icons/${tournament}-bg.jpg)`,
+                backgroundImage: `url(${basePath}img/icons/${tournament}-bg.jpg)`,
             }}
         >
-            <a href={`../${imagePath}${tournament}/${path}`} class="w-full h-full">
+            <a href={href} class="w-full h-full">
                 <div class="flex px-8 sm:px-16 md:px-0 w-full h-full flex-col items-center justify-center">
                     <div class="text-center text-xl">
                         Todos los equipos del {name} 
@@ -88,7 +103,7 @@ const { type, name, path, imageName, tournament } = Astro.props;
                 <div
                     class="link-card w-full h-44 flex items-center justify-center bg-center bg-cover rounded-md"
                     style={{
-                        backgroundImage: `url(../../${imagePath}img/icons/${tournament}-bg.jpg)`,
+                        backgroundImage: `url(${basePath}img/icons/${tournament}-bg.jpg)`,
                     }}
                 >
                     <div class="flex px-16 w-full h-full flex-col items-center justify-center">

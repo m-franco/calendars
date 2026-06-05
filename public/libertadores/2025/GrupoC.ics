@@ -1,0 +1,293 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//ES
+BEGIN:VEVENT
+UID:20250403T190000Z_CentralCordoba_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20250403T190000
+DTEND;TZID=America/Montevideo:20250403T210000
+SUMMARY:Central Córdoba🇦🇷 vs. Liga de Quito🇪🇨
+DESCRIPTION:Grupo C - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Único Madre de Ciudades
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250403T213000Z_DeportivoTachira_Flamengo
+DTSTART;TZID=America/Montevideo:20250403T213000
+DTEND;TZID=America/Montevideo:20250403T233000
+SUMMARY:Deportivo Táchira🇻🇪 vs. Flamengo🇧🇷
+DESCRIPTION:Grupo C - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Pueblo Nuevo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250409T213000Z_Flamengo_CentralCordoba
+DTSTART;TZID=America/Montevideo:20250409T213000
+DTEND;TZID=America/Montevideo:20250409T233000
+SUMMARY:Flamengo🇧🇷 vs. Central Córdoba🇦🇷
+DESCRIPTION:Grupo C - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio do Maracana
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250409T230000Z_LigaDeQuito_DeportivoTachira
+DTSTART;TZID=America/Montevideo:20250409T230000
+DTEND;TZID=America/Montevideo:20250410T010000
+SUMMARY:Liga de Quito🇪🇨 vs. Deportivo Táchira🇻🇪
+DESCRIPTION:Grupo C - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250422T190000Z_LigaDeQuito_Flamengo
+DTSTART;TZID=America/Montevideo:20250422T190000
+DTEND;TZID=America/Montevideo:20250422T210000
+SUMMARY:Liga de Quito🇪🇨 vs. Flamengo🇧🇷
+DESCRIPTION:Grupo C - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250424T190000Z_CentralCordoba_DeportivoTachira
+DTSTART;TZID=America/Montevideo:20250424T190000
+DTEND;TZID=America/Montevideo:20250424T210000
+SUMMARY:Central Córdoba🇦🇷 vs. Deportivo Táchira🇻🇪
+DESCRIPTION:Grupo C - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Único Madre de Ciudades
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250507T190000Z_DeportivoTachira_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20250507T190000
+DTEND;TZID=America/Montevideo:20250507T210000
+SUMMARY:Deportivo Táchira🇻🇪 vs. Liga de Quito🇪🇨
+DESCRIPTION:Grupo C - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Pueblo Nuevo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250507T213000Z_CentralCordoba_Flamengo
+DTSTART;TZID=America/Montevideo:20250507T213000
+DTEND;TZID=America/Montevideo:20250507T233000
+SUMMARY:Central Córdoba🇦🇷 vs. Flamengo🇧🇷
+DESCRIPTION:Grupo C - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Único Madre de Ciudades
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250513T190000Z_DeportivoTachira_CentralCordoba
+DTSTART;TZID=America/Montevideo:20250513T190000
+DTEND;TZID=America/Montevideo:20250513T210000
+SUMMARY:Deportivo Táchira🇻🇪 vs. Central Córdoba🇦🇷
+DESCRIPTION:Grupo C - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Pueblo Nuevo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250515T213000Z_Flamengo_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20250515T213000
+DTEND;TZID=America/Montevideo:20250515T233000
+SUMMARY:Flamengo🇧🇷 vs. Liga de Quito🇪🇨
+DESCRIPTION:Grupo C - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio do Maracana
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250528T213000Z_Flamengo_DeportivoTachira
+DTSTART;TZID=America/Montevideo:20250528T213000
+DTEND;TZID=America/Montevideo:20250528T233000
+SUMMARY:Flamengo🇧🇷 vs. Deportivo Táchira🇻🇪
+DESCRIPTION:Grupo C - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio do Maracana
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250528T213000Z_LigaDeQuito_CentralCordoba
+DTSTART;TZID=America/Montevideo:20250528T213000
+DTEND;TZID=America/Montevideo:20250528T233000
+SUMMARY:Liga de Quito🇪🇨 vs. Central Córdoba🇦🇷
+DESCRIPTION:Grupo C - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250715T190000Z_CentralCordoba_CerroLargo
+DTSTART;TZID=America/Montevideo:20250715T190000
+DTEND;TZID=America/Montevideo:20250715T210000
+SUMMARY:Central Córdoba🇦🇷 vs. Cerro Largo🇺🇾
+DESCRIPTION:Play-offs - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Único Madre de Ciudades
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250722T190000Z_CerroLargo_CentralCordoba
+DTSTART;TZID=America/Montevideo:20250722T190000
+DTEND;TZID=America/Montevideo:20250722T210000
+SUMMARY:Cerro Largo🇺🇾 vs. Central Córdoba🇦🇷
+DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250813T213000Z_Flamengo_Internacional
+DTSTART;TZID=America/Montevideo:20250813T213000
+DTEND;TZID=America/Montevideo:20250813T233000
+SUMMARY:Flamengo🇧🇷 vs. Internacional🇧🇷
+DESCRIPTION:Octavos de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio do Maracana
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250814T190000Z_Botafogo_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20250814T190000
+DTEND;TZID=America/Montevideo:20250814T210000
+SUMMARY:Botafogo🇧🇷 vs. Liga de Quito🇪🇨
+DESCRIPTION:Octavos de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico Nilton Santos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250814T213000Z_CentralCordoba_Lanus
+DTSTART;TZID=America/Montevideo:20250814T213000
+DTEND;TZID=America/Montevideo:20250814T233000
+SUMMARY:Central Córdoba🇦🇷 vs. Lanús🇦🇷
+DESCRIPTION:Octavos de final - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Único Madre de Ciudades
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250820T213000Z_Internacional_Flamengo
+DTSTART;TZID=America/Montevideo:20250820T213000
+DTEND;TZID=America/Montevideo:20250820T233000
+SUMMARY:Internacional🇧🇷 vs. Flamengo🇧🇷
+DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Beira-Rio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250821T190000Z_LigaDeQuito_Botafogo
+DTSTART;TZID=America/Montevideo:20250821T190000
+DTEND;TZID=America/Montevideo:20250821T210000
+SUMMARY:Liga de Quito🇪🇨 vs. Botafogo🇧🇷
+DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250821T213000Z_Lanus_CentralCordoba
+DTSTART;TZID=America/Montevideo:20250821T213000
+DTEND;TZID=America/Montevideo:20250821T233000
+SUMMARY:Lanús🇦🇷 vs. Central Córdoba🇦🇷
+DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Ciudad de Lanús
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250918T190000Z_LigaDeQuito_SanPablo
+DTSTART;TZID=America/Montevideo:20250918T190000
+DTEND;TZID=America/Montevideo:20250918T210000
+SUMMARY:Liga de Quito🇪🇨 vs. San Pablo🇧🇷
+DESCRIPTION:Cuartos de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250918T213000Z_Flamengo_Estudiantes
+DTSTART;TZID=America/Montevideo:20250918T213000
+DTEND;TZID=America/Montevideo:20250918T233000
+SUMMARY:Flamengo🇧🇷 vs. Estudiantes🇦🇷
+DESCRIPTION:Cuartos de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio do Maracana
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250925T190000Z_SanPablo_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20250925T190000
+DTEND;TZID=America/Montevideo:20250925T210000
+SUMMARY:San Pablo🇧🇷 vs. Liga de Quito🇪🇨
+DESCRIPTION:Cuartos de final - Vuelta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:MorumBIS
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250925T213000Z_Estudiantes_Flamengo
+DTSTART;TZID=America/Montevideo:20250925T213000
+DTEND;TZID=America/Montevideo:20250925T233000
+SUMMARY:Estudiantes🇦🇷 vs. Flamengo🇧🇷
+DESCRIPTION:Cuartos de final - Vuelta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Jorge Luis Hirschi
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251022T213000Z_Flamengo_Racing
+DTSTART;TZID=America/Montevideo:20251022T213000
+DTEND;TZID=America/Montevideo:20251022T233000
+SUMMARY:Flamengo🇧🇷 vs. Racing🇦🇷
+DESCRIPTION:Semifinal - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio do Maracana
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251023T213000Z_LigaDeQuito_Palmeiras
+DTSTART;TZID=America/Montevideo:20251023T213000
+DTEND;TZID=America/Montevideo:20251023T233000
+SUMMARY:Liga de Quito🇪🇨 vs. Palmeiras🇧🇷
+DESCRIPTION:Semifinal - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251029T213000Z_Racing_Flamengo
+DTSTART;TZID=America/Montevideo:20251029T213000
+DTEND;TZID=America/Montevideo:20251029T233000
+SUMMARY:Racing🇦🇷 vs. Flamengo🇧🇷
+DESCRIPTION:Semifinal - Vuelta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Presidente Perón (Cilindro de Avellaneda)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251030T213000Z_Palmeiras_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20251030T213000
+DTEND;TZID=America/Montevideo:20251030T233000
+SUMMARY:Palmeiras🇧🇷 vs. Liga de Quito🇪🇨
+DESCRIPTION:Semifinal - Vuelta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251129T180000Z_Palmeiras_Flamengo
+DTSTART;TZID=America/Montevideo:20251129T180000
+DTEND;TZID=America/Montevideo:20251129T200000
+SUMMARY:Palmeiras🇧🇷 vs. Flamengo🇧🇷
+DESCRIPTION:Final - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Monumental de Lima
+END:VEVENT
+END:VCALENDAR

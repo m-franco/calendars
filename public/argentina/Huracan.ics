@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//ES
+BEGIN:VEVENT
+UID:20250402T190000Z_Corinthians_Huracan
+DTSTART;TZID=America/Montevideo:20250402T190000
+DTEND;TZID=America/Montevideo:20250402T210000
+SUMMARY:Corinthians🇧🇷 vs. Huracán🇦🇷
+DESCRIPTION:Grupo C - Fecha 1 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250409T190000Z_Huracan_RacingUruguay
+DTSTART;TZID=America/Montevideo:20250409T190000
+DTEND;TZID=America/Montevideo:20250409T210000
+SUMMARY:Huracán🇦🇷 vs. Racing (Uru)🇺🇾
+DESCRIPTION:Grupo C - Fecha 2 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Tomás Adolfo Ducó
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250423T190000Z_Huracan_AmericaDeCali
+DTSTART;TZID=America/Montevideo:20250423T190000
+DTEND;TZID=America/Montevideo:20250423T210000
+SUMMARY:Huracán🇦🇷 vs. América de Cali🇨🇴
+DESCRIPTION:Grupo C - Fecha 3 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Tomás Adolfo Ducó
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250508T190000Z_RacingUruguay_Huracan
+DTSTART;TZID=America/Montevideo:20250508T190000
+DTEND;TZID=America/Montevideo:20250508T210000
+SUMMARY:Racing (Uru)🇺🇾 vs. Huracán🇦🇷
+DESCRIPTION:Grupo C - Fecha 4 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250514T230000Z_AmericaDeCali_Huracan
+DTSTART;TZID=America/Montevideo:20250514T230000
+DTEND;TZID=America/Montevideo:20250515T010000
+SUMMARY:América de Cali🇨🇴 vs. Huracán🇦🇷
+DESCRIPTION:Grupo C - Fecha 5 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Pascual Guerrero
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250527T213000Z_Huracan_Corinthians
+DTSTART;TZID=America/Montevideo:20250527T213000
+DTEND;TZID=America/Montevideo:20250527T233000
+SUMMARY:Huracán🇦🇷 vs. Corinthians🇧🇷
+DESCRIPTION:Grupo C - Fecha 6 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Tomás Adolfo Ducó
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250812T190000Z_OnceCaldas_Huracan
+DTSTART;TZID=America/Montevideo:20250812T190000
+DTEND;TZID=America/Montevideo:20250812T210000
+SUMMARY:Once Caldas🇨🇴 vs. Huracán🇦🇷
+DESCRIPTION:Octavos de final - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Palogrande
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250819T190000Z_Huracan_OnceCaldas
+DTSTART;TZID=America/Montevideo:20250819T190000
+DTEND;TZID=America/Montevideo:20250819T210000
+SUMMARY:Huracán🇦🇷 vs. Once Caldas🇨🇴
+DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Tomás Adolfo Ducó
+END:VEVENT
+END:VCALENDAR

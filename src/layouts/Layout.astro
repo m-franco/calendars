@@ -6,15 +6,16 @@ interface Props {
 }
 
 const { title, description, image } = Astro.props;
+const basePath = `${import.meta.env.BASE_URL.replace(/\/$/, "")}/`;
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="es">
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="description" content={description} />
 		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" type="image/svg+xml" href="/calendars/calendar.svg" />
+		<link rel="icon" type="image/svg+xml" href={`${basePath}calendar.svg`} />
 		<meta name="generator" content={Astro.generator} />
 		<title>{title}</title>
 
@@ -27,19 +28,17 @@ const { title, description, image } = Astro.props;
         <meta property="og:title" content={title}>
         <meta property="og:description" content={description}>
         <meta property="og:image" content={image}>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5623233007287475"
+        <script is:inline async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5623233007287475"
             crossorigin="anonymous"></script>
 	</head>
-    <script type="text/partytown" async src="https://www.googletagmanager.com/gtag/js?id=G-GNCT8SRLL8"></script>
-    <script type="text/partytown">
+    <script is:inline type="text/partytown" async src="https://www.googletagmanager.com/gtag/js?id=G-GNCT8SRLL8"></script>
+    <script is:inline type="text/partytown">
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
 
         gtag('config', 'G-GNCT8SRLL8');
     </script>
-    <script type="text/partytown" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5623233007287475"
-    crossorigin="anonymous"></script>
 	<body>
         <div class="fixed inset-0 -z-10 h-full w-full items-center px-5 py-24 
         [background:radial-gradient(125%_125%_at_50%_10%,#000_40%,#63e_100%)]">

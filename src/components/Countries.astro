@@ -8,9 +8,10 @@ interface Group {
 interface Props {
     countries: Group[];
     tournament: string;
+    hrefBase?: string;
 }
 
-const { countries, tournament } = Astro.props;
+const { countries, tournament, hrefBase } = Astro.props;
 ---
 
 <ul role="list" class="flex flex-col">
@@ -26,6 +27,7 @@ const { countries, tournament } = Astro.props;
                                 path={path}
                                 imageName={imageName}
                                 tournament={tournament}
+                                hrefBase={hrefBase}
                             />
                         </li>
                     ))}

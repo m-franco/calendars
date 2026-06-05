@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//ES
+BEGIN:VEVENT
+UID:20250401T190000Z_Union_Cruzeiro
+DTSTART;TZID=America/Montevideo:20250401T190000
+DTEND;TZID=America/Montevideo:20250401T210000
+SUMMARY:Unión🇦🇷 vs. Cruzeiro🇧🇷
+DESCRIPTION:Grupo E - Fecha 1 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:15 de Abril
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250403T230000Z_MushucRuna_Palestino
+DTSTART;TZID=America/Montevideo:20250403T230000
+DTEND;TZID=America/Montevideo:20250404T010000
+SUMMARY:Mushuc Runa🇪🇨 vs. Palestino🇨🇱
+DESCRIPTION:Grupo E - Fecha 1 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Fernando Guerrero Guerrero
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250409T190000Z_Palestino_Union
+DTSTART;TZID=America/Montevideo:20250409T190000
+DTEND;TZID=America/Montevideo:20250409T210000
+SUMMARY:Palestino🇨🇱 vs. Unión🇦🇷
+DESCRIPTION:Grupo E - Fecha 2 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Nacional Julio Martínez Prádanos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250409T213000Z_Cruzeiro_MushucRuna
+DTSTART;TZID=America/Montevideo:20250409T213000
+DTEND;TZID=America/Montevideo:20250409T233000
+SUMMARY:Cruzeiro🇧🇷 vs. Mushuc Runa🇪🇨
+DESCRIPTION:Grupo E - Fecha 2 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Mineirão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250423T230000Z_MushucRuna_Union
+DTSTART;TZID=America/Montevideo:20250423T230000
+DTEND;TZID=America/Montevideo:20250424T010000
+SUMMARY:Mushuc Runa🇪🇨 vs. Unión🇦🇷
+DESCRIPTION:Grupo E - Fecha 3 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Banco Guayaquil
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250424T213000Z_Palestino_Cruzeiro
+DTSTART;TZID=America/Montevideo:20250424T213000
+DTEND;TZID=America/Montevideo:20250424T233000
+SUMMARY:Palestino🇨🇱 vs. Cruzeiro🇧🇷
+DESCRIPTION:Grupo E - Fecha 3 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Francisco Sánchez Rumoroso
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250507T190000Z_Union_Palestino
+DTSTART;TZID=America/Montevideo:20250507T190000
+DTEND;TZID=America/Montevideo:20250507T210000
+SUMMARY:Unión🇦🇷 vs. Palestino🇨🇱
+DESCRIPTION:Grupo E - Fecha 4 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:15 de Abril
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250507T213000Z_MushucRuna_Cruzeiro
+DTSTART;TZID=America/Montevideo:20250507T213000
+DTEND;TZID=America/Montevideo:20250507T233000
+SUMMARY:Mushuc Runa🇪🇨 vs. Cruzeiro🇧🇷
+DESCRIPTION:Grupo E - Fecha 4 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Fernando Guerrero Guerrero
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250513T213000Z_Union_MushucRuna
+DTSTART;TZID=America/Montevideo:20250513T213000
+DTEND;TZID=America/Montevideo:20250513T233000
+SUMMARY:Unión🇦🇷 vs. Mushuc Runa🇪🇨
+DESCRIPTION:Grupo E - Fecha 5 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:15 de Abril
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250514T213000Z_Cruzeiro_Palestino
+DTSTART;TZID=America/Montevideo:20250514T213000
+DTEND;TZID=America/Montevideo:20250514T233000
+SUMMARY:Cruzeiro🇧🇷 vs. Palestino🇨🇱
+DESCRIPTION:Grupo E - Fecha 5 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Mineirão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250528T213000Z_Cruzeiro_Union
+DTSTART;TZID=America/Montevideo:20250528T213000
+DTEND;TZID=America/Montevideo:20250528T233000
+SUMMARY:Cruzeiro🇧🇷 vs. Unión🇦🇷
+DESCRIPTION:Grupo E - Fecha 6 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Mineirão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250528T213000Z_Palestino_MushucRuna
+DTSTART;TZID=America/Montevideo:20250528T213000
+DTEND;TZID=America/Montevideo:20250528T233000
+SUMMARY:Palestino🇨🇱 vs. Mushuc Runa🇪🇨
+DESCRIPTION:Grupo E - Fecha 6 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Municipal de La Florida
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250716T190000Z_Bolivar_Palestino
+DTSTART;TZID=America/Montevideo:20250716T190000
+DTEND;TZID=America/Montevideo:20250716T210000
+SUMMARY:Bolívar🇧🇴 vs. Palestino🇨🇱
+DESCRIPTION:Play-offs - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Hernando Siles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250723T190000Z_Palestino_Bolivar
+DTSTART;TZID=America/Montevideo:20250723T190000
+DTEND;TZID=America/Montevideo:20250723T210000
+SUMMARY:Palestino🇨🇱 vs. Bolívar🇧🇴
+DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Nacional Julio Martínez Prádanos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250812T213000Z_IndependienteDelValle_MushucRuna
+DTSTART;TZID=America/Montevideo:20250812T213000
+DTEND;TZID=America/Montevideo:20250812T233000
+SUMMARY:Independiente del Valle🇪🇨 vs. Mushuc Runa🇪🇨
+DESCRIPTION:Octavos de final - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Banco Guayaquil
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250819T213000Z_MushucRuna_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20250819T213000
+DTEND;TZID=America/Montevideo:20250819T233000
+SUMMARY:Mushuc Runa🇪🇨 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Olímpico Atahualpa
+END:VEVENT
+END:VCALENDAR

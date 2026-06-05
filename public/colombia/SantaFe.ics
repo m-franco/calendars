@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//ES
+BEGIN:VEVENT
+UID:20260409T230000Z_SantaFe_Penarol
+DTSTART;TZID=America/Montevideo:20260409T230000
+DTEND;TZID=America/Montevideo:20260410T010000
+SUMMARY:Santa Fe🇨🇴 vs. Peñarol🇺🇾
+DESCRIPTION:Grupo E - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Nemesio Camacho El Campín
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260415T213000Z_Corinthians_SantaFe
+DTSTART;TZID=America/Montevideo:20260415T213000
+DTEND;TZID=America/Montevideo:20260415T233000
+SUMMARY:Corinthians🇧🇷 vs. Santa Fe🇨🇴
+DESCRIPTION:Grupo E - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260429T190000Z_Platense_SantaFe
+DTSTART;TZID=America/Montevideo:20260429T190000
+DTEND;TZID=America/Montevideo:20260429T210000
+SUMMARY:Platense🇦🇷 vs. Santa Fe🇨🇴
+DESCRIPTION:Grupo E - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Ciudad de Vicente López
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260506T213000Z_SantaFe_Corinthians
+DTSTART;TZID=America/Montevideo:20260506T213000
+DTEND;TZID=America/Montevideo:20260506T233000
+SUMMARY:Santa Fe🇨🇴 vs. Corinthians🇧🇷
+DESCRIPTION:Grupo E - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Nemesio Camacho El Campín
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260519T210000Z_SantaFe_Platense
+DTSTART;TZID=America/Montevideo:20260519T210000
+DTEND;TZID=America/Montevideo:20260519T230000
+SUMMARY:Santa Fe🇨🇴 vs. Platense🇦🇷
+DESCRIPTION:Grupo E - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Nemesio Camacho El Campín
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260527T213000Z_Penarol_SantaFe
+DTSTART;TZID=America/Montevideo:20260527T213000
+DTEND;TZID=America/Montevideo:20260527T233000
+SUMMARY:Peñarol🇺🇾 vs. Santa Fe🇨🇴
+DESCRIPTION:Grupo E - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260723T213000Z_SantaFe_Caracas
+DTSTART;TZID=America/Montevideo:20260723T213000
+DTEND;TZID=America/Montevideo:20260723T233000
+SUMMARY:Santa Fe🇨🇴 vs. Caracas🇻🇪
+DESCRIPTION:Play-offs - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Nemesio Camacho El Campín
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260730T213000Z_Caracas_SantaFe
+DTSTART;TZID=America/Montevideo:20260730T213000
+DTEND;TZID=America/Montevideo:20260730T233000
+SUMMARY:Caracas🇻🇪 vs. Santa Fe🇨🇴
+DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Olímpico de la UCV
+END:VEVENT
+END:VCALENDAR

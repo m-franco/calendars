@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//ES
+BEGIN:VEVENT
+UID:20260407T190000Z_IndependienteRivadavia_Bolivar
+DTSTART;TZID=America/Montevideo:20260407T190000
+DTEND;TZID=America/Montevideo:20260407T210000
+SUMMARY:Independiente Rivadavia🇦🇷 vs. Bolívar🇧🇴
+DESCRIPTION:Grupo C - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Malvinas Argentinas (Mendoza)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260415T213000Z_Fluminense_IndependienteRivadavia
+DTSTART;TZID=America/Montevideo:20260415T213000
+DTEND;TZID=America/Montevideo:20260415T233000
+SUMMARY:Fluminense🇧🇷 vs. Independiente Rivadavia🇦🇷
+DESCRIPTION:Grupo C - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio do Maracana
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260430T190000Z_IndependienteRivadavia_DeportivoLaGuaira
+DTSTART;TZID=America/Montevideo:20260430T190000
+DTEND;TZID=America/Montevideo:20260430T210000
+SUMMARY:Independiente Rivadavia🇦🇷 vs. Deportivo La Guaira🇻🇪
+DESCRIPTION:Grupo C - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Malvinas Argentinas (Mendoza)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260506T213000Z_IndependienteRivadavia_Fluminense
+DTSTART;TZID=America/Montevideo:20260506T213000
+DTEND;TZID=America/Montevideo:20260506T233000
+SUMMARY:Independiente Rivadavia🇦🇷 vs. Fluminense🇧🇷
+DESCRIPTION:Grupo C - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Malvinas Argentinas (Mendoza)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260521T190000Z_DeportivoLaGuaira_IndependienteRivadavia
+DTSTART;TZID=America/Montevideo:20260521T190000
+DTEND;TZID=America/Montevideo:20260521T210000
+SUMMARY:Deportivo La Guaira🇻🇪 vs. Independiente Rivadavia🇦🇷
+DESCRIPTION:Grupo C - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Olímpico de la UCV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260527T213000Z_Bolivar_IndependienteRivadavia
+DTSTART;TZID=America/Montevideo:20260527T213000
+DTEND;TZID=America/Montevideo:20260527T233000
+SUMMARY:Bolívar🇧🇴 vs. Independiente Rivadavia🇦🇷
+DESCRIPTION:Grupo C - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Ramón Tahuichi
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260811T190000Z_Fluminense_IndependienteRivadavia
+DTSTART;TZID=America/Montevideo:20260811T190000
+DTEND;TZID=America/Montevideo:20260811T210000
+SUMMARY:Fluminense🇧🇷 vs. Independiente Rivadavia🇦🇷
+DESCRIPTION:Octavos de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio do Maracana
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260818T190000Z_IndependienteRivadavia_Fluminense
+DTSTART;TZID=America/Montevideo:20260818T190000
+DTEND;TZID=America/Montevideo:20260818T210000
+SUMMARY:Independiente Rivadavia🇦🇷 vs. Fluminense🇧🇷
+DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Malvinas Argentinas (Mendoza)
+END:VEVENT
+END:VCALENDAR
