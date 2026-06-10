@@ -6,10 +6,13 @@ import CalendarCard from "../../components/CalendarCard.astro";
 import { calendarPages, calendars, tournaments } from "../../data.json";
 import { calendarPages as calendarPages2024 } from "../../data-2024.json";
 import { calendarPages as calendarPages2025 } from "../../data-2025.json";
+import { calendarPages as worldcupCalendarPages, tournaments as worldcupTournaments } from "../../worldcup-data.json";
+import { withCalendarSubscriptionName } from "../../utils/calendarLinks";
 import { getCalendarFilePath, getTeamImagePath } from "../../utils/teamImages";
 
 export async function getStaticPaths() {
     const allCalendarPages = [
+        ...worldcupCalendarPages.filter(({ type }) => type !== "group"),
         ...calendarPages2024,
         ...calendarPages2025,
         ...calendarPages,
@@ -21,8 +24,17 @@ export async function getStaticPaths() {
     );
 
     return uniqueCalendarPages.map(({ type, name, path, tournament, imageName }) => ({
-            params: { path, tournament },
-            props: { type, name, imageName },
+            params: {
+                path,
+                tournament: tournament === "mundial"
+                    ? type === "team"
+                        ? "seleccion"
+                        : type === "confederation"
+                            ? "selecciones"
+                            : tournament
+                    : tournament,
+            },
+            props: { type, name, imageName, sourceTournament: tournament },
     }));
 }
 
@@ -31,14 +43,22 @@ const calendarBasePath = "m-franco.github.io/calendars/";
 const basePath = `${import.meta.env.BASE_URL.replace(/\/$/, "")}/`;
 
 const { path, tournament } = Astro.params;
-const { type, name, imageName } = Astro.props;
+const { type, name, imageName, sourceTournament } = Astro.props;
+const pageTournament = sourceTournament ?? tournament;
 
 const currentEditionYear = "2026";
-const tournamentName = tournament === "libertadores"? "Copa Libertadores" : "Copa Sudamericana";
+const allTournaments = [...worldcupTournaments, ...tournaments];
+const tournamentData = allTournaments.find(({ href }) => href === pageTournament)! as any;
+const tournamentName = tournamentData.title;
+const tournamentCalendarFile = tournamentData.calendarFile ?? (pageTournament === "libertadores" ? "Libertadores.ics" : "Sudamericana.ics");
+const isWorldCup = pageTournament === "mundial";
 const calendarSubject = {
-    tournament: `la ${tournamentName}`,
+    tournament: isWorldCup ? `todas las selecciones de la ${tournamentName}` : `la ${tournamentName}`,
     country: `todos los ${name.toLocaleLowerCase()}`,
-    group: `todos los equipos del ${name} de la ${tournamentName} ${currentEditionYear}`,
+    confederation: name.toLocaleLowerCase(),
+    group: isWorldCup
+        ? `todas las selecciones del ${name} de la ${tournamentName} ${currentEditionYear}`
+        : `todos los equipos del ${name} de la ${tournamentName} ${currentEditionYear}`,
     team: name,
 }[type] ?? `${name} en la ${tournamentName}`;
 
@@ -51,15 +71,17 @@ const imagePath = imageName
         ? getTeamImagePath(imageName)
         : type === "country"
             ? `icons/${imageName}`
-            : `icons/${tournament}/${imageName}`
+            : type === "confederation"
+                ? `icons/${imageName}`
+                : `icons/${pageTournament}/${imageName}`
     : "";
 const image = imageName
     ? `../../img/${imagePath}`
-    : `../../img/icons/${tournament + (tournament === "libertadores" ? "-logo" : "")}.png`;
-const calendarFilePath = getCalendarFilePath(type, path!, tournament!, imageName);
+    : `../../img/icons/${pageTournament + (pageTournament === "libertadores" ? "-logo" : "")}.png`;
+const calendarFilePath = getCalendarFilePath(type, path!, pageTournament!, imageName);
 const groupTeams = type === "group"
-    ? tournaments
-        .find(({ href }) => href === tournament)
+    ? allTournaments
+        .find(({ href }) => href === pageTournament)
         ?.groups.find(({ path: groupPath }) => groupPath === path)
         ?.teams ?? []
     : [];
@@ -90,9 +112,24 @@ const groupTeams = type === "group"
         </div>
 
         <div class="w-full flex items-center justify-center my-4">
-            {type === "tournament" && <TournamentCalendarSubject name={name} imageName={imageName} tournament={tournament} />}
-            {type === "group" && <GroupCalendarSubject name={name} tournamentName={tournamentName} year={currentEditionYear} teams={groupTeams} />}
-            {(type === "team" || type === "country") && imageName && (
+            {type === "tournament" && (
+                <TournamentCalendarSubject
+                    name={name}
+                    imageName={imageName}
+                    tournament={pageTournament}
+                    title={isWorldCup ? `Calendario de todas las selecciones de la ${name}` : undefined}
+                />
+            )}
+            {type === "group" && (
+                <GroupCalendarSubject
+                    name={name}
+                    tournamentName={tournamentName}
+                    year={currentEditionYear}
+                    teams={groupTeams}
+                    title={isWorldCup ? `Calendario de todas las selecciones del ${name} de la ${tournamentName} ${currentEditionYear}` : undefined}
+                />
+            )}
+            {(type === "team" || type === "country" || type === "confederation") && imageName && (
                 <div class="calendar-subject">
                     <img
                         class="calendar-subject-image"
@@ -113,11 +150,11 @@ const groupTeams = type === "group"
                             <li class="">
                                 <CalendarCard
                                     calendar={calendar}
-                                    link={type==="tournament"
-                                    ?`${preLink}${calendarBasePath}${tournament === "libertadores"?"Libertadores":"Sudamericana"}.ics`
-                                    :`${preLink}${calendarBasePath}${calendarFilePath}`}
+                                    link={withCalendarSubscriptionName(type==="tournament"
+                                    ?`${preLink}${calendarBasePath}${tournamentCalendarFile}`
+                                    :`${preLink}${calendarBasePath}${calendarFilePath}`, title)}
                                     imageName={imageName}
-                                    tournament={tournament}
+                                    tournament={pageTournament}
                                     target={target}
                                 />
                             </li>

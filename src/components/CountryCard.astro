@@ -9,8 +9,10 @@ interface Props {
 
 const basePath = `${import.meta.env.BASE_URL.replace(/\/$/, "")}/`;
 
-const { name, path, imageName, tournament } = Astro.props;
-const href = `${basePath}${path}`;
+const { name, path, imageName, tournament, hrefBase } = Astro.props;
+const href = `${basePath}${hrefBase ? `${hrefBase}/` : ""}${path}`;
+const cardBackground = `${tournament}-bg.jpg`;
+const cardBackgroundImage = `url(${basePath}img/icons/${cardBackground})`;
 ---
 
 {
@@ -20,7 +22,7 @@ const href = `${basePath}${path}`;
                 <div
                     class="link-card w-36 h-44 flex items-center justify-center bg-center bg-cover"
                     style={{
-                        backgroundImage: `url(${basePath}img/icons/${tournament}-bg.jpg)`,
+                        backgroundImage: cardBackgroundImage,
                     }}
                 >
                     <a
@@ -60,7 +62,7 @@ const href = `${basePath}${path}`;
             md:w-36 h-32 md:h-44 flex 
             items-center justify-center bg-center bg-cover"
             style={{
-                backgroundImage: `url(${basePath}img/icons/${tournament}-bg.jpg)`,
+                backgroundImage: cardBackgroundImage,
             }}
         >
             <a href={href} class="w-full h-full">

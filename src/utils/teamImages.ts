@@ -141,6 +141,14 @@ export function getCalendarFilePath(
     imageName?: string | null,
     year?: string,
 ) {
+    if (tournament === "mundial" && type === "team") {
+        return `seleccion/${path}.ics`;
+    }
+
+    if (tournament === "mundial" && type === "confederation") {
+        return `selecciones/${path}.ics`;
+    }
+
     if (type === "team") {
         const folder = getTeamImageFolder(imageName);
         const fileName = countryCalendarFileNames[path] ?? path;

@@ -4,10 +4,11 @@ interface Props {
     imageName?: string | null;
     tournament: string;
     year?: string;
+    title?: string;
 }
 
 const basePath = `${import.meta.env.BASE_URL.replace(/\/$/, "")}/`;
-const { name, imageName, tournament, year } = Astro.props;
+const { name, imageName, tournament, year, title } = Astro.props;
 ---
 
 <div class="tournament-calendar-subject">
@@ -19,7 +20,7 @@ const { name, imageName, tournament, year } = Astro.props;
         />
     )}
     <div class="text-center text-md mt-3">
-        Calendario de todos los equipos de la {name}{year ? ` ${year}` : ""}
+        {title ?? `Calendario de todos los equipos de la ${name}${year ? ` ${year}` : ""}`}
     </div>
 </div>
 

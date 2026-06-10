@@ -5,9 +5,12 @@ import Countries from '../../components/Countries.astro';
 import AllTournament from '../../components/AllTournament.astro';
 import PreviousEditions from '../../components/PreviousEditions.astro';
 import { countries, tournaments, tournamentPages  } from "../../data.json";
+import { tournaments as worldcupTournaments, tournamentPages as worldcupTournamentPages } from "../../worldcup-data.json";
 
 export async function getStaticPaths() {
-    return tournamentPages.map(({ typeName, name, tournament }) => {
+    const allTournamentPages = [...worldcupTournamentPages, ...tournamentPages];
+
+    return allTournamentPages.map(({ typeName, name, tournament }) => {
         return {
             params: { tournament },
             props: { typeName, name },
@@ -18,13 +21,18 @@ export async function getStaticPaths() {
 const { tournament } = Astro.params;
 const { typeName, name } = Astro.props;
 const currentEditionYear = "2026";
+const allTournaments = [...worldcupTournaments, ...tournaments];
 
-const tournamentData = tournaments.find((t) => t.href === tournament)!;
+const tournamentData = allTournaments.find((t) => t.href === tournament)! as any;
 
 const { href, imgSrc, backgroundImage } = tournamentData;
 const groups = tournamentData["groups"];
+const countriesForTournament = tournamentData["countries"] ?? countries;
+const allTournamentTitle = href === "mundial"
+    ? `Calendario de todas las selecciones de la ${typeName} ${name}`
+    : `Calendario de todos los equipos de la ${typeName} ${name}`;
 const qualifiedFromLibertadores = tournamentData["qualifiedFromLibertadores"] ?? [];
-const previousEditions = [
+const previousEditions = href === "mundial" ? [] : [
     {
         year: "2025",
         title: tournamentData.title,
@@ -44,7 +52,7 @@ const previousEditions = [
 
 const description="Suscribite al calendario de tu equipo, de todo el grupo o de toda la copa y tendrás todos los partidos incluidos en el calendario de tu teléfono o tu computadora.";
 
-const image= href==="libertadores"?"../../calendars/libertadores-logo.png":`../../calendars/${imgSrc}`;
+const image=`../../${imgSrc}`;
 
 ---
 
@@ -67,12 +75,12 @@ const image= href==="libertadores"?"../../calendars/libertadores-logo.png":`../.
             {description}
         </p>
         <AllTournament 
-            title=`Calendario de todos los equipos de la ${typeName} ${name}`
+            title={allTournamentTitle}
             href=`${href}/Completa`
             imgSrc={imgSrc}
             backgroundImage={backgroundImage}
         />
-        <Countries countries={countries} tournament={href} />
+        <Countries countries={countriesForTournament} tournament={href} hrefBase={href === "mundial" ? "selecciones" : undefined} />
         {href === "sudamericana" && qualifiedFromLibertadores.length > 0 && (
             <section class="my-6">
                 <Teams
@@ -83,8 +91,8 @@ const image= href==="libertadores"?"../../calendars/libertadores-logo.png":`../.
                 />
             </section>
         )}
-        <Teams groups={groups} tournament={href} hrefBase={`${href}/${currentEditionYear}`} teamHrefBase={href} />
-        <PreviousEditions editions={previousEditions} />
+        <Teams groups={groups} tournament={href} hrefBase={`${href}/${currentEditionYear}`} teamHrefBase={href === "mundial" ? "seleccion" : undefined} />
+        {previousEditions.length > 0 && <PreviousEditions editions={previousEditions} />}
 	</main>
 </Layout>
 

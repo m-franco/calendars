@@ -1,13 +1,15 @@
 ---
 import TournamentCard from "./TournamentCard.astro";
 import { tournaments } from "../data.json";
+import { tournaments as worldcupTournaments } from "../worldcup-data.json";
 
 const basePath = `${import.meta.env.BASE_URL.replace(/\/$/, "")}/`;
+const allTournaments = [...worldcupTournaments, ...tournaments];
 
 ---
 <ul role="list" class="flex flex-wrap justify-center gap-4">
     {
-        tournaments.map(({href,title,imgSrc,backgroundImage}) => (
+        allTournaments.map(({href,title,imgSrc,backgroundImage}) => (
             <TournamentCard
                 href={href}
                 title={title}

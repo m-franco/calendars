@@ -11,15 +11,16 @@ interface Props {
     tournamentName: string;
     year?: string;
     teams: Team[];
+    title?: string;
 }
 
 const basePath = `${import.meta.env.BASE_URL.replace(/\/$/, "")}/`;
-const { name, tournamentName, year, teams } = Astro.props;
+const { name, tournamentName, year, teams, title } = Astro.props;
 ---
 
 <div class="group-subject">
     <div class="text-center text-md">
-        Calendario de todos los equipos del {name} de la {tournamentName}{year ? ` ${year}` : ""}
+        {title ?? `Calendario de todos los equipos del ${name} de la ${tournamentName}${year ? ` ${year}` : ""}`}
     </div>
     <ul role="list" class="group-teams">
         {teams.map(({ name: teamName, imageName }) => (

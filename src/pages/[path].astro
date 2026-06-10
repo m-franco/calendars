@@ -4,10 +4,13 @@ import CalendarCard from "../components/CalendarCard.astro";
 import { calendarPages, calendars } from "../data.json";
 import { calendarPages as calendarPages2024 } from "../data-2024.json";
 import { calendarPages as calendarPages2025 } from "../data-2025.json";
+import { calendarPages as worldcupCalendarPages } from "../worldcup-data.json";
+import { withCalendarSubscriptionName } from "../utils/calendarLinks";
 import { getCalendarFilePath, getTeamImagePath } from "../utils/teamImages";
 
 export async function getStaticPaths() {
     const globalCalendarPages = [
+        ...worldcupCalendarPages,
         ...calendarPages2024,
         ...calendarPages2025,
         ...calendarPages,
@@ -81,7 +84,7 @@ const calendarFilePath = getCalendarFilePath(type, path, tournament, imageName);
                         <li>
                             <CalendarCard
                                 calendar={calendar}
-                                link={`${preLink}${calendarBasePath}${calendarFilePath}`}
+                                link={withCalendarSubscriptionName(`${preLink}${calendarBasePath}${calendarFilePath}`, title)}
                                 imageName={imageName}
                                 tournament={tournament}
                                 target={target}

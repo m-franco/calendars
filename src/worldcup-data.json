@@ -1,0 +1,840 @@
+{
+    "tournaments": [
+        {
+            "href": "mundial",
+            "title": "Copa del Mundo",
+            "imgSrc": "img/icons/mundial/mundial.png",
+            "backgroundImage": "img/icons/mundial-bg.jpg",
+            "calendarFile": "Mundial.ics",
+            "countries": [
+                {
+                    "name": "Calendarios por confederación",
+                    "teams": [
+                        {
+                            "name": "Selecciones sudamericanas",
+                            "path": "Conmebol",
+                            "imageName": "confederations/conmebol.svg"
+                        },
+                        {
+                            "name": "Selecciones norteamericanas",
+                            "path": "Concacaf",
+                            "imageName": "confederations/concacaf.svg"
+                        },
+                        {
+                            "name": "Selecciones europeas",
+                            "path": "Uefa",
+                            "imageName": "confederations/uefa.svg"
+                        },
+                        {
+                            "name": "Selecciones africanas",
+                            "path": "Caf",
+                            "imageName": "confederations/caf.svg"
+                        },
+                        {
+                            "name": "Selecciones asiáticas",
+                            "path": "Afc",
+                            "imageName": "confederations/afc.svg"
+                        },
+                        {
+                            "name": "Selecciones de Oceanía",
+                            "path": "Ofc",
+                            "imageName": "confederations/ofc.svg"
+                        }
+                    ]
+                }
+            ],
+            "groups": [
+                {
+                    "name": "Grupo A",
+                    "path": "GrupoA",
+                    "teams": [
+                        {
+                            "name": "México",
+                            "path": "Mexico",
+                            "imageName": "seleccion/Mexico.png"
+                        },
+                        {
+                            "name": "República Checa",
+                            "path": "RepublicaCheca",
+                            "imageName": "seleccion/RepublicaCheca.png"
+                        },
+                        {
+                            "name": "Corea del Sur",
+                            "path": "CoreaDelSur",
+                            "imageName": "seleccion/CoreaDelSur.png"
+                        },
+                        {
+                            "name": "Sudáfrica",
+                            "path": "Sudafrica",
+                            "imageName": "seleccion/Sudafrica.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Grupo B",
+                    "path": "GrupoB",
+                    "teams": [
+                        {
+                            "name": "Canadá",
+                            "path": "Canada",
+                            "imageName": "seleccion/Canada.png"
+                        },
+                        {
+                            "name": "Bosnia y Herzegovina",
+                            "path": "BosniaYHerzegovina",
+                            "imageName": "seleccion/BosniaYHerzegovina.png"
+                        },
+                        {
+                            "name": "Suiza",
+                            "path": "Suiza",
+                            "imageName": "seleccion/Suiza.png"
+                        },
+                        {
+                            "name": "Qatar",
+                            "path": "Qatar",
+                            "imageName": "seleccion/Qatar.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Grupo C",
+                    "path": "GrupoC",
+                    "teams": [
+                        {
+                            "name": "Brasil",
+                            "path": "Brasil",
+                            "imageName": "seleccion/Brasil.png"
+                        },
+                        {
+                            "name": "Escocia",
+                            "path": "Escocia",
+                            "imageName": "seleccion/Escocia.png"
+                        },
+                        {
+                            "name": "Haití",
+                            "path": "Haiti",
+                            "imageName": "seleccion/Haiti.png"
+                        },
+                        {
+                            "name": "Marruecos",
+                            "path": "Marruecos",
+                            "imageName": "seleccion/Marruecos.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Grupo D",
+                    "path": "GrupoD",
+                    "teams": [
+                        {
+                            "name": "Paraguay",
+                            "path": "Paraguay",
+                            "imageName": "seleccion/Paraguay.png"
+                        },
+                        {
+                            "name": "Turquía",
+                            "path": "Turquia",
+                            "imageName": "seleccion/Turquia.png"
+                        },
+                        {
+                            "name": "Australia",
+                            "path": "Australia",
+                            "imageName": "seleccion/Australia.png"
+                        },
+                        {
+                            "name": "Estados Unidos",
+                            "path": "EstadosUnidos",
+                            "imageName": "seleccion/EstadosUnidos.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Grupo E",
+                    "path": "GrupoE",
+                    "teams": [
+                        {
+                            "name": "Ecuador",
+                            "path": "Ecuador",
+                            "imageName": "seleccion/Ecuador.png"
+                        },
+                        {
+                            "name": "Alemania",
+                            "path": "Alemania",
+                            "imageName": "seleccion/Alemania.png"
+                        },
+                        {
+                            "name": "Costa de Marfil",
+                            "path": "CostaDeMarfil",
+                            "imageName": "seleccion/CostaDeMarfil.png"
+                        },
+                        {
+                            "name": "Curazao",
+                            "path": "Curazao",
+                            "imageName": "seleccion/Curazao.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Grupo F",
+                    "path": "GrupoF",
+                    "teams": [
+                        {
+                            "name": "Países Bajos",
+                            "path": "PaisesBajos",
+                            "imageName": "seleccion/PaisesBajos.png"
+                        },
+                        {
+                            "name": "Suecia",
+                            "path": "Suecia",
+                            "imageName": "seleccion/Suecia.png"
+                        },
+                        {
+                            "name": "Japón",
+                            "path": "Japon",
+                            "imageName": "seleccion/Japon.png"
+                        },
+                        {
+                            "name": "Túnez",
+                            "path": "Tunez",
+                            "imageName": "seleccion/Tunez.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Grupo G",
+                    "path": "GrupoG",
+                    "teams": [
+                        {
+                            "name": "Bélgica",
+                            "path": "Belgica",
+                            "imageName": "seleccion/Belgica.png"
+                        },
+                        {
+                            "name": "Irán",
+                            "path": "Iran",
+                            "imageName": "seleccion/Iran.png"
+                        },
+                        {
+                            "name": "Egipto",
+                            "path": "Egipto",
+                            "imageName": "seleccion/Egipto.png"
+                        },
+                        {
+                            "name": "Nueva Zelanda",
+                            "path": "NuevaZelanda",
+                            "imageName": "seleccion/NuevaZelanda.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Grupo H",
+                    "path": "GrupoH",
+                    "teams": [
+                        {
+                            "name": "España",
+                            "path": "Espana",
+                            "imageName": "seleccion/Espana.png"
+                        },
+                        {
+                            "name": "Uruguay",
+                            "path": "Uruguay",
+                            "imageName": "seleccion/Uruguay.png"
+                        },
+                        {
+                            "name": "Arabia Saudita",
+                            "path": "ArabiaSaudita",
+                            "imageName": "seleccion/ArabiaSaudita.png"
+                        },
+                        {
+                            "name": "Cabo Verde",
+                            "path": "CaboVerde",
+                            "imageName": "seleccion/CaboVerde.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Grupo I",
+                    "path": "GrupoI",
+                    "teams": [
+                        {
+                            "name": "Noruega",
+                            "path": "Noruega",
+                            "imageName": "seleccion/Noruega.png"
+                        },
+                        {
+                            "name": "Francia",
+                            "path": "Francia",
+                            "imageName": "seleccion/Francia.png"
+                        },
+                        {
+                            "name": "Senegal",
+                            "path": "Senegal",
+                            "imageName": "seleccion/Senegal.png"
+                        },
+                        {
+                            "name": "Irak",
+                            "path": "Irak",
+                            "imageName": "seleccion/Irak.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Grupo J",
+                    "path": "GrupoJ",
+                    "teams": [
+                        {
+                            "name": "Argentina",
+                            "path": "Argentina",
+                            "imageName": "seleccion/Argentina.png"
+                        },
+                        {
+                            "name": "Austria",
+                            "path": "Austria",
+                            "imageName": "seleccion/Austria.png"
+                        },
+                        {
+                            "name": "Argelia",
+                            "path": "Argelia",
+                            "imageName": "seleccion/Argelia.png"
+                        },
+                        {
+                            "name": "Jordania",
+                            "path": "Jordania",
+                            "imageName": "seleccion/Jordania.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Grupo K",
+                    "path": "GrupoK",
+                    "teams": [
+                        {
+                            "name": "Colombia",
+                            "path": "Colombia",
+                            "imageName": "seleccion/Colombia.png"
+                        },
+                        {
+                            "name": "Portugal",
+                            "path": "Portugal",
+                            "imageName": "seleccion/Portugal.png"
+                        },
+                        {
+                            "name": "Uzbekistán",
+                            "path": "Uzbekistan",
+                            "imageName": "seleccion/Uzbekistan.png"
+                        },
+                        {
+                            "name": "República Democrática del Congo",
+                            "path": "RepublicaDemocraticaDelCongo",
+                            "imageName": "seleccion/RepublicaDemocraticaDelCongo.png"
+                        }
+                    ]
+                },
+                {
+                    "name": "Grupo L",
+                    "path": "GrupoL",
+                    "teams": [
+                        {
+                            "name": "Inglaterra",
+                            "path": "Inglaterra",
+                            "imageName": "seleccion/Inglaterra.png"
+                        },
+                        {
+                            "name": "Croacia",
+                            "path": "Croacia",
+                            "imageName": "seleccion/Croacia.png"
+                        },
+                        {
+                            "name": "Panamá",
+                            "path": "Panama",
+                            "imageName": "seleccion/Panama.png"
+                        },
+                        {
+                            "name": "Ghana",
+                            "path": "Ghana",
+                            "imageName": "seleccion/Ghana.png"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "tournamentPages": [
+        {
+            "typeName": "Copa del Mundo",
+            "name": "2026",
+            "tournament": "mundial"
+        }
+    ],
+    "calendarPages": [
+        {
+            "type": "team",
+            "name": "México",
+            "path": "Mexico",
+            "imageName": "seleccion/Mexico.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "República Checa",
+            "path": "RepublicaCheca",
+            "imageName": "seleccion/RepublicaCheca.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Corea del Sur",
+            "path": "CoreaDelSur",
+            "imageName": "seleccion/CoreaDelSur.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Sudáfrica",
+            "path": "Sudafrica",
+            "imageName": "seleccion/Sudafrica.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Canadá",
+            "path": "Canada",
+            "imageName": "seleccion/Canada.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Bosnia y Herzegovina",
+            "path": "BosniaYHerzegovina",
+            "imageName": "seleccion/BosniaYHerzegovina.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Suiza",
+            "path": "Suiza",
+            "imageName": "seleccion/Suiza.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Qatar",
+            "path": "Qatar",
+            "imageName": "seleccion/Qatar.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Brasil",
+            "path": "Brasil",
+            "imageName": "seleccion/Brasil.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Escocia",
+            "path": "Escocia",
+            "imageName": "seleccion/Escocia.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Haití",
+            "path": "Haiti",
+            "imageName": "seleccion/Haiti.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Marruecos",
+            "path": "Marruecos",
+            "imageName": "seleccion/Marruecos.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Paraguay",
+            "path": "Paraguay",
+            "imageName": "seleccion/Paraguay.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Turquía",
+            "path": "Turquia",
+            "imageName": "seleccion/Turquia.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Australia",
+            "path": "Australia",
+            "imageName": "seleccion/Australia.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Estados Unidos",
+            "path": "EstadosUnidos",
+            "imageName": "seleccion/EstadosUnidos.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Ecuador",
+            "path": "Ecuador",
+            "imageName": "seleccion/Ecuador.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Alemania",
+            "path": "Alemania",
+            "imageName": "seleccion/Alemania.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Costa de Marfil",
+            "path": "CostaDeMarfil",
+            "imageName": "seleccion/CostaDeMarfil.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Curazao",
+            "path": "Curazao",
+            "imageName": "seleccion/Curazao.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Países Bajos",
+            "path": "PaisesBajos",
+            "imageName": "seleccion/PaisesBajos.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Suecia",
+            "path": "Suecia",
+            "imageName": "seleccion/Suecia.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Japón",
+            "path": "Japon",
+            "imageName": "seleccion/Japon.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Túnez",
+            "path": "Tunez",
+            "imageName": "seleccion/Tunez.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Bélgica",
+            "path": "Belgica",
+            "imageName": "seleccion/Belgica.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Irán",
+            "path": "Iran",
+            "imageName": "seleccion/Iran.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Egipto",
+            "path": "Egipto",
+            "imageName": "seleccion/Egipto.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Nueva Zelanda",
+            "path": "NuevaZelanda",
+            "imageName": "seleccion/NuevaZelanda.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "España",
+            "path": "Espana",
+            "imageName": "seleccion/Espana.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Uruguay",
+            "path": "Uruguay",
+            "imageName": "seleccion/Uruguay.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Arabia Saudita",
+            "path": "ArabiaSaudita",
+            "imageName": "seleccion/ArabiaSaudita.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Cabo Verde",
+            "path": "CaboVerde",
+            "imageName": "seleccion/CaboVerde.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Noruega",
+            "path": "Noruega",
+            "imageName": "seleccion/Noruega.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Francia",
+            "path": "Francia",
+            "imageName": "seleccion/Francia.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Senegal",
+            "path": "Senegal",
+            "imageName": "seleccion/Senegal.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Irak",
+            "path": "Irak",
+            "imageName": "seleccion/Irak.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Argentina",
+            "path": "Argentina",
+            "imageName": "seleccion/Argentina.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Austria",
+            "path": "Austria",
+            "imageName": "seleccion/Austria.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Argelia",
+            "path": "Argelia",
+            "imageName": "seleccion/Argelia.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Jordania",
+            "path": "Jordania",
+            "imageName": "seleccion/Jordania.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Colombia",
+            "path": "Colombia",
+            "imageName": "seleccion/Colombia.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Portugal",
+            "path": "Portugal",
+            "imageName": "seleccion/Portugal.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Uzbekistán",
+            "path": "Uzbekistan",
+            "imageName": "seleccion/Uzbekistan.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "República Democrática del Congo",
+            "path": "RepublicaDemocraticaDelCongo",
+            "imageName": "seleccion/RepublicaDemocraticaDelCongo.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Inglaterra",
+            "path": "Inglaterra",
+            "imageName": "seleccion/Inglaterra.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Croacia",
+            "path": "Croacia",
+            "imageName": "seleccion/Croacia.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Panamá",
+            "path": "Panama",
+            "imageName": "seleccion/Panama.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "team",
+            "name": "Ghana",
+            "path": "Ghana",
+            "imageName": "seleccion/Ghana.png",
+            "tournament": "mundial"
+        },
+        {
+            "type": "confederation",
+            "name": "Selecciones sudamericanas",
+            "path": "Conmebol",
+            "imageName": "confederations/conmebol.svg",
+            "tournament": "mundial"
+        },
+        {
+            "type": "confederation",
+            "name": "Selecciones norteamericanas",
+            "path": "Concacaf",
+            "imageName": "confederations/concacaf.svg",
+            "tournament": "mundial"
+        },
+        {
+            "type": "confederation",
+            "name": "Selecciones europeas",
+            "path": "Uefa",
+            "imageName": "confederations/uefa.svg",
+            "tournament": "mundial"
+        },
+        {
+            "type": "confederation",
+            "name": "Selecciones africanas",
+            "path": "Caf",
+            "imageName": "confederations/caf.svg",
+            "tournament": "mundial"
+        },
+        {
+            "type": "confederation",
+            "name": "Selecciones asiáticas",
+            "path": "Afc",
+            "imageName": "confederations/afc.svg",
+            "tournament": "mundial"
+        },
+        {
+            "type": "confederation",
+            "name": "Selecciones de Oceanía",
+            "path": "Ofc",
+            "imageName": "confederations/ofc.svg",
+            "tournament": "mundial"
+        },
+        {
+            "type": "group",
+            "name": "Grupo A",
+            "path": "GrupoA",
+            "imageName": "",
+            "tournament": "mundial"
+        },
+        {
+            "type": "group",
+            "name": "Grupo B",
+            "path": "GrupoB",
+            "imageName": "",
+            "tournament": "mundial"
+        },
+        {
+            "type": "group",
+            "name": "Grupo C",
+            "path": "GrupoC",
+            "imageName": "",
+            "tournament": "mundial"
+        },
+        {
+            "type": "group",
+            "name": "Grupo D",
+            "path": "GrupoD",
+            "imageName": "",
+            "tournament": "mundial"
+        },
+        {
+            "type": "group",
+            "name": "Grupo E",
+            "path": "GrupoE",
+            "imageName": "",
+            "tournament": "mundial"
+        },
+        {
+            "type": "group",
+            "name": "Grupo F",
+            "path": "GrupoF",
+            "imageName": "",
+            "tournament": "mundial"
+        },
+        {
+            "type": "group",
+            "name": "Grupo G",
+            "path": "GrupoG",
+            "imageName": "",
+            "tournament": "mundial"
+        },
+        {
+            "type": "group",
+            "name": "Grupo H",
+            "path": "GrupoH",
+            "imageName": "",
+            "tournament": "mundial"
+        },
+        {
+            "type": "group",
+            "name": "Grupo I",
+            "path": "GrupoI",
+            "imageName": "",
+            "tournament": "mundial"
+        },
+        {
+            "type": "group",
+            "name": "Grupo J",
+            "path": "GrupoJ",
+            "imageName": "",
+            "tournament": "mundial"
+        },
+        {
+            "type": "group",
+            "name": "Grupo K",
+            "path": "GrupoK",
+            "imageName": "",
+            "tournament": "mundial"
+        },
+        {
+            "type": "group",
+            "name": "Grupo L",
+            "path": "GrupoL",
+            "imageName": "",
+            "tournament": "mundial"
+        },
+        {
+            "type": "tournament",
+            "name": "Copa del Mundo",
+            "path": "Completa",
+            "imageName": "mundial.png",
+            "tournament": "mundial"
+        }
+    ]
+}

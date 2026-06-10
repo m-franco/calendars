@@ -16,8 +16,12 @@ const { type, name, path, imageName, tournament, hrefBase } = Astro.props;
 const linkBase = hrefBase ?? tournament;
 const teamCountry = getTeamImageFolder(imageName);
 const href = type === "team"
-    ? `${basePath}${teamCountry ? `${teamCountry}/` : ""}${path}`
+    ? `${basePath}${hrefBase ? `${hrefBase}/` : teamCountry ? `${teamCountry}/` : ""}${path}`
     : `${basePath}${linkBase}/${path}`;
+const cardBackground = `${tournament}-bg.jpg`;
+const cardBackgroundImage = `url(${basePath}img/icons/${cardBackground})`;
+const imageClass = "w-24";
+const textClass = "text-center text-sm mt-3";
 const imagePath = imageName
     ? type === "team"
         ? getTeamImagePath(imageName)
@@ -34,7 +38,7 @@ const imagePath = imageName
                 <div
                     class="link-card w-36 h-44 flex items-center justify-center bg-center bg-cover"
                     style={{
-                        backgroundImage: `url(${basePath}img/icons/${tournament}-bg.jpg)`,
+                        backgroundImage: cardBackgroundImage,
                     }}
                 >
                     <a
@@ -43,11 +47,11 @@ const imagePath = imageName
                     >
                         <div class="flex w-full h-full flex-col items-center justify-center">
                             <img
-                                class="w-24"
+                                class={imageClass}
                                 src={`${basePath}img/${imagePath}`}
                                 alt={name}
                             />
-                            <div class="text-center text-sm mt-3">{name}</div>
+                            <div class={textClass}>{name}</div>
                         </div>
                     </a>
                 </div>
@@ -55,16 +59,16 @@ const imagePath = imageName
                 <div
                     class="link-card w-full h-48 flex items-center justify-center bg-center bg-cover rounded-md"
                     style={{
-                        backgroundImage: `url(${basePath}img/icons/${tournament}-bg.jpg)`,
+                        backgroundImage: cardBackgroundImage,
                     }}
                 >
                     <div class="flex w-full h-full flex-col items-center justify-center">
                         <img
-                            class="w-24"
+                            class={imageClass}
                             src={`${basePath}img/${imagePath}`}
                             alt={name}
                         />
-                        <div class="text-center text-md my-3 mx-12">{name}</div>
+                        <div class={`text-center text-md my-3 mx-12`}>{name}</div>
                     </div>
                 </div>
             )}
@@ -77,7 +81,7 @@ const imagePath = imageName
             md:w-36 h-32 md:h-44 flex 
             items-center justify-center bg-center bg-cover"
             style={{
-                backgroundImage: `url(${basePath}img/icons/${tournament}-bg.jpg)`,
+                backgroundImage: cardBackgroundImage,
             }}
         >
             <a href={href} class="w-full h-full">
@@ -103,7 +107,7 @@ const imagePath = imageName
                 <div
                     class="link-card w-full h-44 flex items-center justify-center bg-center bg-cover rounded-md"
                     style={{
-                        backgroundImage: `url(${basePath}img/icons/${tournament}-bg.jpg)`,
+                        backgroundImage: cardBackgroundImage,
                     }}
                 >
                     <div class="flex px-16 w-full h-full flex-col items-center justify-center">

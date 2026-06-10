@@ -8,16 +8,19 @@ interface Props {
 }
 
 const { href, title, imagePath, imgSrc, backgroundImage } = Astro.props;
+const isWorldCup = imgSrc.includes("mundial/");
+const cardBackgroundImage = `url(${imagePath}${backgroundImage})`;
 ---
 
-<li class="link-card w-80 h-80 flex items-center justify-center bg-center bg-cover"
+<li class={`link-card w-80 h-80 flex items-center justify-center bg-center bg-cover`}
     style={{
-        backgroundImage:`url(${imagePath}${backgroundImage})`,
+        backgroundImage: cardBackgroundImage,
+        "--worldcup-card-background": cardBackgroundImage,
         }}
  >
 	<a href={`${imagePath}${href}`}
     >
-        <img class="w-56"
+        <img class={isWorldCup ? "worldcup-logo max-h-60 w-60 object-contain" : "max-h-56 w-56 object-contain"}
         src={`${imagePath}${imgSrc}`}
         alt={title} />
 	</a>
@@ -35,6 +38,25 @@ const { href, title, imagePath, imgSrc, backgroundImage } = Astro.props;
 		background-position: 0;
 		background-image: var(--accent-gradient);
 	}
+    .worldcup-card {
+        position: relative;
+        overflow: hidden;
+        background-position: 50% 50%;
+        background-size: 122% 122%;
+        box-shadow:
+            inset 0 0 0 1px rgba(255, 255, 255, 0.16),
+            0 18px 42px rgba(18, 80, 170, 0.18);
+    }
+    .worldcup-card:is(:hover, :focus-within) {
+        background-image: var(--worldcup-card-background);
+        background-position: 65% 48%;
+    }
+    .worldcup-logo {
+        filter:
+            drop-shadow(0 0 10px rgba(255, 255, 255, 0.22))
+            drop-shadow(0 16px 28px rgba(0, 0, 0, 0.72));
+        transform: translateY(4px);
+    }
 	.link-card:is(:hover, :focus-within) h2 {
 		color: rgb(var(--accent-light));
 	}
