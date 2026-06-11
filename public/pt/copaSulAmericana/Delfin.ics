@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//PT
+BEGIN:VEVENT
+UID:20240404T230000Z_Real_Tomayapo_Delfin
+DTSTART;TZID=America/Montevideo:20240404T230000
+DTEND;TZID=America/Montevideo:20240405T010000
+SUMMARY:Real Tomayapo🇧🇴 vs. Delfín🇪🇨
+DESCRIPTION:Grupo C - Rodada 1 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio IV Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240411T230000Z_Delfin_Belgrano
+DTSTART;TZID=America/Montevideo:20240411T230000
+DTEND;TZID=America/Montevideo:20240412T010000
+SUMMARY:Delfín🇪🇨 vs. Belgrano🇦🇷
+DESCRIPTION:Grupo C - Rodada 2 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Jocay
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T230000Z_Delfin_Internacional
+DTSTART;TZID=America/Montevideo:20240425T230000
+DTEND;TZID=America/Montevideo:20240426T010000
+SUMMARY:Delfín🇪🇨 vs. Internacional🇧🇷
+DESCRIPTION:Grupo C - Rodada 3 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Jocay
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240509T190000Z_Belgrano_Delfin
+DTSTART;TZID=America/Montevideo:20240509T190000
+DTEND;TZID=America/Montevideo:20240509T210000
+SUMMARY:Belgrano🇦🇷 vs. Delfín🇪🇨
+DESCRIPTION:Grupo C - Rodada 4 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Mario Alberto Kempes
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240516T190000Z_Internacional_Delfin
+DTSTART;TZID=America/Montevideo:20240516T190000
+DTEND;TZID=America/Montevideo:20240516T210000
+SUMMARY:Internacional🇧🇷 vs. Delfín🇪🇨
+DESCRIPTION:Grupo C - Rodada 5 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Beira-Rio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240528T213000Z_Delfin_Real_Tomayapo
+DTSTART;TZID=America/Montevideo:20240528T213000
+DTEND;TZID=America/Montevideo:20240528T233000
+SUMMARY:Delfín🇪🇨 vs. Real Tomayapo🇧🇴
+DESCRIPTION:Grupo C - Rodada 6 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Jocay
+END:VEVENT
+END:VCALENDAR

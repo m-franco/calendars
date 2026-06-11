@@ -1,0 +1,263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//EN
+BEGIN:VEVENT
+UID:20240404T210000Z_Talleres_SanPablo
+DTSTART;TZID=America/Montevideo:20240404T210000
+DTEND;TZID=America/Montevideo:20240404T230000
+SUMMARY:Talleres🇦🇷 vs. San Pablo🇧🇷
+DESCRIPTION:Group B - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Mario Alberto Kempes Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T213000Z_SanPablo_Cobresal
+DTSTART;TZID=America/Montevideo:20240410T213000
+DTEND;TZID=America/Montevideo:20240410T233000
+SUMMARY:San Pablo🇧🇷 vs. Cobresal🇨🇱
+DESCRIPTION:Group B - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Morumbí Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T210000Z_Barcelona_SanPablo
+DTSTART;TZID=America/Montevideo:20240425T210000
+DTEND;TZID=America/Montevideo:20240425T230000
+SUMMARY:Barcelona🇪🇨 vs. San Pablo🇧🇷
+DESCRIPTION:Group B - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Monumental Banco Pichincha Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240508T213000Z_Cobresal_SanPablo
+DTSTART;TZID=America/Montevideo:20240508T213000
+DTEND;TZID=America/Montevideo:20240508T233000
+SUMMARY:Cobresal🇨🇱 vs. San Pablo🇧🇷
+DESCRIPTION:Group B - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Zorros del Desierto Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240516T210000Z_SanPablo_Barcelona
+DTSTART;TZID=America/Montevideo:20240516T210000
+DTEND;TZID=America/Montevideo:20240516T230000
+SUMMARY:San Pablo🇧🇷 vs. Barcelona🇪🇨
+DESCRIPTION:Group B - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Morumbí Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240529T213000Z_SanPablo_Talleres
+DTSTART;TZID=America/Montevideo:20240529T213000
+DTEND;TZID=America/Montevideo:20240529T233000
+SUMMARY:San Pablo🇧🇷 vs. Talleres🇦🇷
+DESCRIPTION:Group B - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Morumbí Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240815T190000Z_Nacional_SanPablo
+DTSTART;TZID=America/Montevideo:20240815T190000
+DTEND;TZID=America/Montevideo:20240815T210000
+SUMMARY:Nacional🇺🇾 vs. San Pablo🇧🇷
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+LOCATION:Gran Parque Central Stadium
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240822T190000Z_SanPablo_Nacional
+DTSTART;TZID=America/Montevideo:20240822T190000
+DTEND;TZID=America/Montevideo:20240822T210000
+SUMMARY:San Pablo🇧🇷 vs. Nacional🇺🇾
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+LOCATION:Morumbí Stadium
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240918T213000Z_Botafogo_SaoPaulo
+DTSTART;TZID=America/Montevideo:20240918T213000
+DTEND;TZID=America/Montevideo:20240918T233000
+SUMMARY:Botafogo🇧🇷 vs. San Pablo🇧🇷
+DESCRIPTION:Quarter-finals - First leg - Libertadores Cup
+LOCATION:Nilton Santos Stadium, Río de Janeiro
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240925T213000Z_SaoPaulo_Botafogo
+DTSTART;TZID=America/Montevideo:20240925T213000
+DTEND;TZID=America/Montevideo:20240925T233000
+SUMMARY:San Pablo🇧🇷 vs. Botafogo🇧🇷
+DESCRIPTION:Quarter-finals - Second leg - Libertadores Cup
+LOCATION:Morumbí Stadium, San Pablo
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250402T213000Z_Talleres_SanPablo
+DTSTART;TZID=America/Montevideo:20250402T213000
+DTEND;TZID=America/Montevideo:20250402T233000
+SUMMARY:Talleres🇦🇷 vs. San Pablo🇧🇷
+DESCRIPTION:Group D - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Mario Alberto Kempes
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250410T213000Z_SanPablo_AlianzaLima
+DTSTART;TZID=America/Montevideo:20250410T213000
+DTEND;TZID=America/Montevideo:20250410T233000
+SUMMARY:San Pablo🇧🇷 vs. Alianza Lima🇵🇪
+DESCRIPTION:Group D - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:MorumBIS
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250423T213000Z_Libertad_SanPablo
+DTSTART;TZID=America/Montevideo:20250423T213000
+DTEND;TZID=America/Montevideo:20250423T233000
+SUMMARY:Libertad🇵🇾 vs. San Pablo🇧🇷
+DESCRIPTION:Group D - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Tigo La Huerta Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250506T190000Z_AlianzaLima_SanPablo
+DTSTART;TZID=America/Montevideo:20250506T190000
+DTEND;TZID=America/Montevideo:20250506T210000
+SUMMARY:Alianza Lima🇵🇪 vs. San Pablo🇧🇷
+DESCRIPTION:Group D - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Alejandro Villanueva Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250514T213000Z_SanPablo_Libertad
+DTSTART;TZID=America/Montevideo:20250514T213000
+DTEND;TZID=America/Montevideo:20250514T233000
+SUMMARY:San Pablo🇧🇷 vs. Libertad🇵🇾
+DESCRIPTION:Group D - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:MorumBIS
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250527T190000Z_SanPablo_Talleres
+DTSTART;TZID=America/Montevideo:20250527T190000
+DTEND;TZID=America/Montevideo:20250527T210000
+SUMMARY:San Pablo🇧🇷 vs. Talleres🇦🇷
+DESCRIPTION:Group D - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:MorumBIS
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250812T213000Z_AtleticoNacional_SanPablo
+DTSTART;TZID=America/Montevideo:20250812T213000
+DTEND;TZID=America/Montevideo:20250812T233000
+SUMMARY:Atlético Nacional🇨🇴 vs. San Pablo🇧🇷
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Atanasio Girardot
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250819T213000Z_SanPablo_AtleticoNacional
+DTSTART;TZID=America/Montevideo:20250819T213000
+DTEND;TZID=America/Montevideo:20250819T233000
+SUMMARY:San Pablo🇧🇷 vs. Atlético Nacional🇨🇴
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:MorumBIS
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250918T190000Z_LigaDeQuito_SanPablo
+DTSTART;TZID=America/Montevideo:20250918T190000
+DTEND;TZID=America/Montevideo:20250918T210000
+SUMMARY:Liga de Quito🇪🇨 vs. San Pablo🇧🇷
+DESCRIPTION:Quarter-finals - First leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250925T190000Z_SanPablo_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20250925T190000
+DTEND;TZID=America/Montevideo:20250925T210000
+SUMMARY:San Pablo🇧🇷 vs. Liga de Quito🇪🇨
+DESCRIPTION:Quarter-finals - Second leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:MorumBIS
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260407T213000Z_BostonRiver_SanPablo
+DTSTART;TZID=America/Montevideo:20260407T213000
+DTEND;TZID=America/Montevideo:20260407T233000
+SUMMARY:Boston River🇺🇾 vs. San Pablo🇧🇷
+DESCRIPTION:Group C - Matchday 1 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Centenario Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260414T190000Z_SanPablo_OHiggins
+DTSTART;TZID=America/Montevideo:20260414T190000
+DTEND;TZID=America/Montevideo:20260414T210000
+SUMMARY:San Pablo🇧🇷 vs. O'Higgins🇨🇱
+DESCRIPTION:Group C - Matchday 2 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Estádio Cícero Pompeu de Toledo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260428T213000Z_Millonarios_SanPablo
+DTSTART;TZID=America/Montevideo:20260428T213000
+DTEND;TZID=America/Montevideo:20260428T233000
+SUMMARY:Millonarios🇨🇴 vs. San Pablo🇧🇷
+DESCRIPTION:Group C - Matchday 3 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Nemesio Camacho El Campín Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260507T190000Z_OHiggins_SanPablo
+DTSTART;TZID=America/Montevideo:20260507T190000
+DTEND;TZID=America/Montevideo:20260507T210000
+SUMMARY:O'Higgins🇨🇱 vs. San Pablo🇧🇷
+DESCRIPTION:Group C - Matchday 4 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:El Teniente Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260519T213000Z_SanPablo_Millonarios
+DTSTART;TZID=America/Montevideo:20260519T213000
+DTEND;TZID=America/Montevideo:20260519T233000
+SUMMARY:San Pablo🇧🇷 vs. Millonarios🇨🇴
+DESCRIPTION:Group C - Matchday 5 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Estádio Cícero Pompeu de Toledo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260526T190000Z_SanPablo_BostonRiver
+DTSTART;TZID=America/Montevideo:20260526T190000
+DTEND;TZID=America/Montevideo:20260526T210000
+SUMMARY:San Pablo🇧🇷 vs. Boston River🇺🇾
+DESCRIPTION:Group C - Matchday 6 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Estádio Cícero Pompeu de Toledo
+END:VEVENT
+END:VCALENDAR

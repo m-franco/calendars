@@ -1,154 +1,24 @@
 ---
-import Layout from "../../layouts/Layout.astro";
-import CalendarCard from "../../components/CalendarCard.astro";
-import { calendarPages, calendars } from "../../data.json";
-import { calendarPages as calendarPages2024 } from "../../data-2024.json";
-import { calendarPages as calendarPages2025 } from "../../data-2025.json";
-import { withCalendarSubscriptionName } from "../../utils/calendarLinks";
-import {
-    getCalendarFilePath,
-    getTeamImageFolder,
-    getTeamImagePath,
-} from "../../utils/teamImages";
+import CalendarDetail from "../../components/pages/CalendarDetail.astro";
+import { countryTeamPaths } from "../../i18n/paths";
+import { alternatesFor, urlFor } from "../../i18n/ui";
 
-export async function getStaticPaths() {
-    const teamPages = [
-        ...calendarPages2024,
-        ...calendarPages2025,
-        ...calendarPages,
-    ].filter(({ type, imageName }) => type === "team" && getTeamImageFolder(imageName));
-
-    const uniqueTeamPages = Array.from(
-        new Map(
-            teamPages.map((page) => [
-                `${getTeamImageFolder(page.imageName)}/${page.path}`,
-                page,
-            ])
-        ).values()
-    );
-
-    return uniqueTeamPages.map(({ type, name, path, tournament, imageName }) => ({
-        params: { country: getTeamImageFolder(imageName), path },
-        props: { type, name, tournament, imageName },
-    }));
+export function getStaticPaths() {
+    return countryTeamPaths("es");
 }
 
-const calendarBasePath = "m-franco.github.io/calendars/";
-const basePath = `${import.meta.env.BASE_URL.replace(/\/$/, "")}/`;
-
-const { path } = Astro.params;
-const { type, name, tournament, imageName } = Astro.props;
-const description = `Suscribite al calendario de ${name}. Tendrás todos los partidos incluidos en el calendario de tu teléfono o tu computadora.`;
-const title = `Calendario de ${name}`;
-const imagePath = getTeamImagePath(imageName!);
-const image = `../../img/${imagePath}`;
-const calendarFilePath = getCalendarFilePath(type, path!, tournament, imageName);
+const { country } = Astro.params;
+const { type, esName, esPath, tournament, imageName } = Astro.props as any;
+// Los clubes no cambian de slug entre idiomas.
+const alternates = alternatesFor((l) => urlFor(l, [country!, esPath]));
 ---
 
-<Layout title={title} description={description} image={image}>
-    <main>
-        <h1 class="
-            text-4xl sm:text-5xl md:text-6xl lg:text-7xl
-            text-center font-bold p-0.5 mb-4">
-            <span class="text-gradient">{name}</span>
-        </h1>
-
-        <div class="instructions flex flex-col justify-center
-        text-sm sm:text-base md:text-lg lg:text-xl my-12">
-            <p>Suscribite al calendario de {name}.</p>
-            <span>
-                Tendrás todos los partidos incluidos
-                en el calendario de tu teléfono o tu computadora.
-            </span>
-        </div>
-
-        <div class="w-full flex items-center justify-center my-4">
-            <div class="calendar-subject">
-                <img
-                    class="calendar-subject-image"
-                    src={`${basePath}img/${imagePath}`}
-                    alt={name}
-                />
-                <div class="text-center text-md mt-3">{name}</div>
-            </div>
-        </div>
-
-        <div role="list" class="flex flex-col">
-            <div class="bg-cyan-700/50 rounded-xl w-full px-1 py-4">
-                <ul role="list" class="flex flex-wrap justify-around gap-2">
-                    {calendars.map(({ calendar, imageName, preLink, target }) => (
-                        <li>
-                            <CalendarCard
-                                calendar={calendar}
-                                link={withCalendarSubscriptionName(`${preLink}${calendarBasePath}${calendarFilePath}`, title)}
-                                imageName={imageName}
-                                tournament={tournament}
-                                target={target}
-                            />
-                        </li>
-                    ))}
-                </ul>
-            </div>
-        </div>
-    </main>
-</Layout>
-
-<style>
-    main {
-        margin: auto;
-        padding: 1rem;
-        width: 800px;
-        max-width: calc(100% - 2rem);
-        color: white;
-        font-size: 20px;
-        line-height: 1.6;
-    }
-
-    .text-gradient {
-        background-image: var(--accent-gradient);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        background-size: 400%;
-        background-position: 0%;
-    }
-
-    .instructions {
-        margin-bottom: 2rem;
-        border: 1px solid rgba(var(--accent-light), 25%);
-        background: linear-gradient(
-            rgba(var(--accent-dark), 66%),
-            rgba(var(--accent-dark), 33%)
-        );
-        padding: 1.5rem;
-        border-radius: 8px;
-    }
-
-    .calendar-subject-image {
-        display: block;
-        width: 7rem;
-        height: 7rem;
-        object-fit: contain;
-        position: relative;
-        z-index: 1;
-    }
-
-    .calendar-subject {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        position: relative;
-    }
-
-    .calendar-subject::before {
-        content: "";
-        position: absolute;
-        top: -0.75rem;
-        width: 9rem;
-        height: 9rem;
-        border-radius: 50%;
-        background: rgba(255, 255, 255, 0.7);
-        filter: blur(1.25rem);
-        opacity: 0.65;
-        pointer-events: none;
-    }
-</style>
+<CalendarDetail
+    lang="es"
+    type={type}
+    esPath={esPath}
+    esName={esName}
+    tournament={tournament}
+    imageName={imageName}
+    alternates={alternates}
+/>

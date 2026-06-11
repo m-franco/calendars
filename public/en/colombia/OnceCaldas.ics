@@ -1,0 +1,123 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//EN
+BEGIN:VEVENT
+UID:20250401T213000Z_OnceCaldas_Fluminense
+DTSTART;TZID=America/Montevideo:20250401T213000
+DTEND;TZID=America/Montevideo:20250401T233000
+SUMMARY:Once Caldas🇨🇴 vs. Fluminense🇧🇷
+DESCRIPTION:Group F - Matchday 1 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Palogrande
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250409T213000Z_UnionEspanola_OnceCaldas
+DTSTART;TZID=America/Montevideo:20250409T213000
+DTEND;TZID=America/Montevideo:20250409T233000
+SUMMARY:Unión Española🇨🇱 vs. Once Caldas🇨🇴
+DESCRIPTION:Group F - Matchday 2 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Sausalito Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250422T213000Z_GVSanJose_OnceCaldas
+DTSTART;TZID=America/Montevideo:20250422T213000
+DTEND;TZID=America/Montevideo:20250422T233000
+SUMMARY:GV San José🇧🇴 vs. Once Caldas🇨🇴
+DESCRIPTION:Group F - Matchday 3 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Hernando Siles Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250507T230000Z_OnceCaldas_UnionEspanola
+DTSTART;TZID=America/Montevideo:20250507T230000
+DTEND;TZID=America/Montevideo:20250508T010000
+SUMMARY:Once Caldas🇨🇴 vs. Unión Española🇨🇱
+DESCRIPTION:Group F - Matchday 4 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Palogrande
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250515T230000Z_OnceCaldas_GVSanJose
+DTSTART;TZID=America/Montevideo:20250515T230000
+DTEND;TZID=America/Montevideo:20250516T010000
+SUMMARY:Once Caldas🇨🇴 vs. GV San José🇧🇴
+DESCRIPTION:Group F - Matchday 5 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Palogrande
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250529T213000Z_Fluminense_OnceCaldas
+DTSTART;TZID=America/Montevideo:20250529T213000
+DTEND;TZID=America/Montevideo:20250529T233000
+SUMMARY:Fluminense🇧🇷 vs. Once Caldas🇨🇴
+DESCRIPTION:Group F - Matchday 6 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:do Maracana Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250716T213000Z_SanAntonioBuloBulo_OnceCaldas
+DTSTART;TZID=America/Montevideo:20250716T213000
+DTEND;TZID=America/Montevideo:20250716T233000
+SUMMARY:San Antonio Bulo Bulo🇧🇴 vs. Once Caldas🇨🇴
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Félix Capriles Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250723T213000Z_OnceCaldas_SanAntonioBuloBulo
+DTSTART;TZID=America/Montevideo:20250723T213000
+DTEND;TZID=America/Montevideo:20250723T233000
+SUMMARY:Once Caldas🇨🇴 vs. San Antonio Bulo Bulo🇧🇴
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Palogrande
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250812T190000Z_OnceCaldas_Huracan
+DTSTART;TZID=America/Montevideo:20250812T190000
+DTEND;TZID=America/Montevideo:20250812T210000
+SUMMARY:Once Caldas🇨🇴 vs. Huracán🇦🇷
+DESCRIPTION:Round of 16 - First leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Palogrande
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250819T190000Z_Huracan_OnceCaldas
+DTSTART;TZID=America/Montevideo:20250819T190000
+DTEND;TZID=America/Montevideo:20250819T210000
+SUMMARY:Huracán🇦🇷 vs. Once Caldas🇨🇴
+DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Tomás Adolfo Ducó
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250917T213000Z_IndependienteDelValle_OnceCaldas
+DTSTART;TZID=America/Montevideo:20250917T213000
+DTEND;TZID=America/Montevideo:20250917T233000
+SUMMARY:Independiente del Valle🇪🇨 vs. Once Caldas🇨🇴
+DESCRIPTION:Quarter-finals - First leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Banco Guayaquil Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250924T213000Z_OnceCaldas_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20250924T213000
+DTEND;TZID=America/Montevideo:20250924T233000
+SUMMARY:Once Caldas🇨🇴 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Quarter-finals - Second leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Palogrande
+END:VEVENT
+END:VCALENDAR

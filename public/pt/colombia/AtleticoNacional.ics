@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//PT
+BEGIN:VEVENT
+UID:20250402T230000Z_AtleticoNacional_Nacional
+DTSTART;TZID=America/Montevideo:20250402T230000
+DTEND;TZID=America/Montevideo:20250403T010000
+SUMMARY:Atlético Nacional🇨🇴 vs. Nacional🇺🇾
+DESCRIPTION:Grupo F - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Atanasio Girardot
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250410T190000Z_Internacional_AtleticoNacional
+DTSTART;TZID=America/Montevideo:20250410T190000
+DTEND;TZID=America/Montevideo:20250410T210000
+SUMMARY:Internacional🇧🇷 vs. Atlético Nacional🇨🇴
+DESCRIPTION:Grupo F - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Beira-Rio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250424T210000Z_Bahia_AtleticoNacional
+DTSTART;TZID=America/Montevideo:20250424T210000
+DTEND;TZID=America/Montevideo:20250424T230000
+SUMMARY:Bahia🇧🇷 vs. Atlético Nacional🇨🇴
+DESCRIPTION:Grupo F - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Casa de Apostas Arena Fonte Nova
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250508T213000Z_AtleticoNacional_Internacional
+DTSTART;TZID=America/Montevideo:20250508T213000
+DTEND;TZID=America/Montevideo:20250508T233000
+SUMMARY:Atlético Nacional🇨🇴 vs. Internacional🇧🇷
+DESCRIPTION:Grupo F - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Atanasio Girardot
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250514T190000Z_AtleticoNacional_Bahia
+DTSTART;TZID=America/Montevideo:20250514T190000
+DTEND;TZID=America/Montevideo:20250514T210000
+SUMMARY:Atlético Nacional🇨🇴 vs. Bahia🇧🇷
+DESCRIPTION:Grupo F - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Atanasio Girardot
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250528T190000Z_Nacional_AtleticoNacional
+DTSTART;TZID=America/Montevideo:20250528T190000
+DTEND;TZID=America/Montevideo:20250528T210000
+SUMMARY:Nacional🇺🇾 vs. Atlético Nacional🇨🇴
+DESCRIPTION:Grupo F - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Gran Parque Central
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250812T213000Z_AtleticoNacional_SanPablo
+DTSTART;TZID=America/Montevideo:20250812T213000
+DTEND;TZID=America/Montevideo:20250812T233000
+SUMMARY:Atlético Nacional🇨🇴 vs. San Pablo🇧🇷
+DESCRIPTION:Oitavas de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Atanasio Girardot
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250819T213000Z_SanPablo_AtleticoNacional
+DTSTART;TZID=America/Montevideo:20250819T213000
+DTEND;TZID=America/Montevideo:20250819T233000
+SUMMARY:San Pablo🇧🇷 vs. Atlético Nacional🇨🇴
+DESCRIPTION:Oitavas de final - Volta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:MorumBIS
+END:VEVENT
+END:VCALENDAR

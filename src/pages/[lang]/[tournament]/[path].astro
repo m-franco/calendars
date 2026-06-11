@@ -1,0 +1,26 @@
+---
+import CalendarDetail from "../../../components/pages/CalendarDetail.astro";
+import { tournamentDetailPaths } from "../../../i18n/paths";
+import { alternatesFor, urlFor, localizedSlug, localizedTournamentSlug, type Lang } from "../../../i18n/ui";
+
+export function getStaticPaths() {
+    return (["en", "pt"] as Lang[]).flatMap((l) =>
+        tournamentDetailPaths(l).map((e) => ({ params: { lang: l, ...e.params }, props: e.props }))
+    );
+}
+
+const { lang, type, esName, esPath, imageName, sourceTournament, urlTournamentBase } = Astro.props as any;
+const alternates = alternatesFor((l) =>
+    urlFor(l, [localizedTournamentSlug(urlTournamentBase, l), localizedSlug(type, esPath, sourceTournament, l)])
+);
+---
+
+<CalendarDetail
+    lang={lang}
+    type={type}
+    esPath={esPath}
+    esName={esName}
+    tournament={sourceTournament}
+    imageName={imageName}
+    alternates={alternates}
+/>

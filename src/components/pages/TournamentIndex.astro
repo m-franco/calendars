@@ -1,0 +1,132 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import Teams from "../Teams.astro";
+import Countries from "../Countries.astro";
+import AllTournament from "../AllTournament.astro";
+import PreviousEditions from "../PreviousEditions.astro";
+import { data } from "../../i18n/paths";
+import { t, tournamentTitle, tournamentCaptionSubject, type Lang } from "../../i18n/ui";
+
+interface Props {
+    lang: Lang;
+    tournament: string;
+    year?: string;
+    alternates: Record<Lang, string>;
+}
+
+const { lang, tournament, year, alternates } = Astro.props;
+const d = t(lang);
+const isCurrent = !year;
+const currentEditionYear = "2026";
+
+const tournamentsForYear = !year
+    ? [...data.wcTournaments, ...data.tournaments]
+    : year === "2025"
+        ? data.t2025
+        : data.t2024;
+
+const tournamentData = (tournamentsForYear as any[]).find((x) => x.href === tournament)!;
+const { href, imgSrc, backgroundImage } = tournamentData;
+const groups = tournamentData.groups;
+const isWorldCup = href === "mundial";
+const countriesForTournament = tournamentData.countries ?? data.countries;
+const qualifiedFromLibertadores = tournamentData.qualifiedFromLibertadores ?? [];
+
+const editionYear = year ?? currentEditionYear;
+const hrefBase = `${href}/${editionYear}`;
+const allTournamentHref = isCurrent ? `${href}/completa` : `${hrefBase}/completa`;
+const teamHrefBase = isCurrent ? (isWorldCup ? "seleccion" : undefined) : href;
+
+const basePath = `${import.meta.env.BASE_URL.replace(/\/$/, "")}/`;
+const heading = `${tournamentTitle(href, lang)}${year ? ` ${year}` : ""}`;
+const allTournamentTitle = d.calendarOf(tournamentCaptionSubject(href, lang, year));
+const description = `${year ? d.yearArchivePrefix(year) : ""}${d.tournamentInstructions}`;
+const pageTitle = heading;
+const image = `${basePath}${imgSrc}`;
+
+const previousEditions = isCurrent && !isWorldCup
+    ? [
+        { year: "2025", title: tournamentData.title, href: `${href}/2025`, imgSrc, backgroundImage },
+        { year: "2024", title: tournamentData.title, href: `${href}/2024`, imgSrc, backgroundImage },
+    ]
+    : [];
+---
+
+<Layout title={pageTitle} description={description} image={image} lang={lang} alternates={alternates}>
+    <main>
+        <h1 class="text-4xl sm:text-5xl md:text-6xl lg:text-7xl text-center font-bold p-0.5 mb-4">
+            <span class="text-gradient">{heading}</span>
+        </h1>
+
+        <p class="instructions flex justify-center text-sm sm:text-base md:text-lg lg:text-xl mt-12">
+            {description}
+        </p>
+
+        <AllTournament
+            title={allTournamentTitle}
+            href={allTournamentHref}
+            imgSrc={imgSrc}
+            backgroundImage={backgroundImage}
+            lang={lang}
+        />
+
+        {isCurrent && (
+            <Countries
+                countries={countriesForTournament}
+                tournament={href}
+                hrefBase={isWorldCup ? "selecciones" : undefined}
+                lang={lang}
+            />
+        )}
+
+        {href === "sudamericana" && qualifiedFromLibertadores.length > 0 && (
+            <section class="my-6">
+                <Teams
+                    groups={qualifiedFromLibertadores}
+                    tournament={href}
+                    hrefBase={isCurrent ? undefined : hrefBase}
+                    teamHrefBase={isCurrent ? undefined : href}
+                    showGroupCalendar={false}
+                    compactGrid={true}
+                    lang={lang}
+                />
+            </section>
+        )}
+
+        <Teams
+            groups={groups}
+            tournament={href}
+            hrefBase={hrefBase}
+            teamHrefBase={teamHrefBase}
+            lang={lang}
+        />
+
+        {previousEditions.length > 0 && <PreviousEditions editions={previousEditions} lang={lang} />}
+    </main>
+</Layout>
+
+<style>
+    main {
+        margin: auto;
+        padding: 1rem;
+        width: 800px;
+        max-width: calc(100% - 2rem);
+        color: white;
+        font-size: 20px;
+        line-height: 1.6;
+    }
+    .text-gradient {
+        background-image: var(--accent-gradient);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-size: 400%;
+        background-position: 0%;
+    }
+    .instructions {
+        margin-bottom: 2rem;
+        border: 1px solid rgba(var(--accent-light), 25%);
+        background: linear-gradient(rgba(var(--accent-dark), 66%), rgba(var(--accent-dark), 33%));
+        padding: 1.5rem;
+        border-radius: 8px;
+    }
+</style>

@@ -1,0 +1,233 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//EN
+BEGIN:VEVENT
+UID:20250401T190000Z_DeportesIquique_Caracas
+DTSTART;TZID=America/Montevideo:20250401T190000
+DTEND;TZID=America/Montevideo:20250401T210000
+SUMMARY:Deportes Iquique🇨🇱 vs. Caracas🇻🇪
+DESCRIPTION:Group H - Matchday 1 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Tierra de Campeones Stadium (old)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250401T213000Z_Cienciano_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20250401T213000
+DTEND;TZID=America/Montevideo:20250401T233000
+SUMMARY:Cienciano🇵🇪 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Group H - Matchday 1 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Inca Garcilaso de la Vega Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250408T190000Z_Caracas_Cienciano
+DTSTART;TZID=America/Montevideo:20250408T190000
+DTEND;TZID=America/Montevideo:20250408T210000
+SUMMARY:Caracas🇻🇪 vs. Cienciano🇵🇪
+DESCRIPTION:Group H - Matchday 2 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Olímpico de la UCV Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250410T213000Z_AtleticoMineiro_DeportesIquique
+DTSTART;TZID=America/Montevideo:20250410T213000
+DTEND;TZID=America/Montevideo:20250410T233000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Deportes Iquique🇨🇱
+DESCRIPTION:Group H - Matchday 2 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Mineirão Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250423T213000Z_Caracas_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20250423T213000
+DTEND;TZID=America/Montevideo:20250423T233000
+SUMMARY:Caracas🇻🇪 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Group H - Matchday 3 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Olímpico de la UCV Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250424T213000Z_DeportesIquique_Cienciano
+DTSTART;TZID=America/Montevideo:20250424T213000
+DTEND;TZID=America/Montevideo:20250424T233000
+SUMMARY:Deportes Iquique🇨🇱 vs. Cienciano🇵🇪
+DESCRIPTION:Group H - Matchday 3 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Tierra de Campeones Stadium (old)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250508T190000Z_DeportesIquique_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20250508T190000
+DTEND;TZID=America/Montevideo:20250508T210000
+SUMMARY:Deportes Iquique🇨🇱 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Group H - Matchday 4 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Tierra de Campeones Stadium (old)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250508T230000Z_Cienciano_Caracas
+DTSTART;TZID=America/Montevideo:20250508T230000
+DTEND;TZID=America/Montevideo:20250509T010000
+SUMMARY:Cienciano🇵🇪 vs. Caracas🇻🇪
+DESCRIPTION:Group H - Matchday 4 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Inca Garcilaso de la Vega Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250515T213000Z_AtleticoMineiro_Caracas
+DTSTART;TZID=America/Montevideo:20250515T213000
+DTEND;TZID=America/Montevideo:20250515T233000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Caracas🇻🇪
+DESCRIPTION:Group H - Matchday 5 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250515T230000Z_Cienciano_DeportesIquique
+DTSTART;TZID=America/Montevideo:20250515T230000
+DTEND;TZID=America/Montevideo:20250516T010000
+SUMMARY:Cienciano🇵🇪 vs. Deportes Iquique🇨🇱
+DESCRIPTION:Group H - Matchday 5 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Inca Garcilaso de la Vega Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250529T213000Z_AtleticoMineiro_Cienciano
+DTSTART;TZID=America/Montevideo:20250529T213000
+DTEND;TZID=America/Montevideo:20250529T233000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Cienciano🇵🇪
+DESCRIPTION:Group H - Matchday 6 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250529T213000Z_Caracas_DeportesIquique
+DTSTART;TZID=America/Montevideo:20250529T213000
+DTEND;TZID=America/Montevideo:20250529T233000
+SUMMARY:Caracas🇻🇪 vs. Deportes Iquique🇨🇱
+DESCRIPTION:Group H - Matchday 6 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Olímpico de la UCV Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250717T213000Z_AtleticoBucaramanga_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20250717T213000
+DTEND;TZID=America/Montevideo:20250717T233000
+SUMMARY:Atlético Bucaramanga🇨🇴 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Américo Montanini Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250724T213000Z_AtleticoMineiro_AtleticoBucaramanga
+DTSTART;TZID=America/Montevideo:20250724T213000
+DTEND;TZID=America/Montevideo:20250724T233000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Atlético Bucaramanga🇨🇴
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250813T190000Z_Bolivar_Cienciano
+DTSTART;TZID=America/Montevideo:20250813T190000
+DTEND;TZID=America/Montevideo:20250813T210000
+SUMMARY:Bolívar🇧🇴 vs. Cienciano🇵🇪
+DESCRIPTION:Round of 16 - First leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Hernando Siles Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250814T190000Z_AtleticoMineiro_GodoyCruz
+DTSTART;TZID=America/Montevideo:20250814T190000
+DTEND;TZID=America/Montevideo:20250814T210000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Godoy Cruz🇦🇷
+DESCRIPTION:Round of 16 - First leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250820T190000Z_Cienciano_Bolivar
+DTSTART;TZID=America/Montevideo:20250820T190000
+DTEND;TZID=America/Montevideo:20250820T210000
+SUMMARY:Cienciano🇵🇪 vs. Bolívar🇧🇴
+DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Inca Garcilaso de la Vega Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250821T190000Z_GodoyCruz_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20250821T190000
+DTEND;TZID=America/Montevideo:20250821T210000
+SUMMARY:Godoy Cruz🇦🇷 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Feliciano Gambarte Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250917T190000Z_Bolivar_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20250917T190000
+DTEND;TZID=America/Montevideo:20250917T210000
+SUMMARY:Bolívar🇧🇴 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Quarter-finals - First leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Hernando Siles Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250924T190000Z_AtleticoMineiro_Bolivar
+DTSTART;TZID=America/Montevideo:20250924T190000
+DTEND;TZID=America/Montevideo:20250924T210000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Bolívar🇧🇴
+DESCRIPTION:Quarter-finals - Second leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251021T213000Z_IndependienteDelValle_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20251021T213000
+DTEND;TZID=America/Montevideo:20251021T233000
+SUMMARY:Independiente del Valle🇪🇨 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Semi-finals - First leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Banco Guayaquil Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251028T213000Z_AtleticoMineiro_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20251028T213000
+DTEND;TZID=America/Montevideo:20251028T233000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Semi-finals - Second leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251122T170000Z_Lanus_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20251122T170000
+DTEND;TZID=America/Montevideo:20251122T190000
+SUMMARY:Lanús🇦🇷 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Final - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Defensores del Chaco
+END:VEVENT
+END:VCALENDAR

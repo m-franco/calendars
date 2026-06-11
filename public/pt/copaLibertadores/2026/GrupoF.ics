@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//PT
+BEGIN:VEVENT
+UID:20260408T213000Z_Junior_Palmeiras
+DTSTART;TZID=America/Montevideo:20260408T213000
+DTEND;TZID=America/Montevideo:20260408T233000
+SUMMARY:Junior🇨🇴 vs. Palmeiras🇧🇷
+DESCRIPTION:Grupo F - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio a definir
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260408T230000Z_SportingCristal_CerroPorteno
+DTSTART;TZID=America/Montevideo:20260408T230000
+DTEND;TZID=America/Montevideo:20260409T010000
+SUMMARY:Sporting Cristal🇵🇪 vs. Cerro Porteño🇵🇾
+DESCRIPTION:Grupo F - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Miguel Grau del Callao
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260414T190000Z_CerroPorteno_Junior
+DTSTART;TZID=America/Montevideo:20260414T190000
+DTEND;TZID=America/Montevideo:20260414T210000
+SUMMARY:Cerro Porteño🇵🇾 vs. Junior🇨🇴
+DESCRIPTION:Grupo F - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio ueno La Nueva Olla
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260416T190000Z_Palmeiras_SportingCristal
+DTSTART;TZID=America/Montevideo:20260416T190000
+DTEND;TZID=America/Montevideo:20260416T210000
+SUMMARY:Palmeiras🇧🇷 vs. Sporting Cristal🇵🇪
+DESCRIPTION:Grupo F - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260428T230000Z_SportingCristal_Junior
+DTSTART;TZID=America/Montevideo:20260428T230000
+DTEND;TZID=America/Montevideo:20260429T010000
+SUMMARY:Sporting Cristal🇵🇪 vs. Junior🇨🇴
+DESCRIPTION:Grupo F - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Alejandro Villanueva
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260429T213000Z_CerroPorteno_Palmeiras
+DTSTART;TZID=America/Montevideo:20260429T213000
+DTEND;TZID=America/Montevideo:20260429T233000
+SUMMARY:Cerro Porteño🇵🇾 vs. Palmeiras🇧🇷
+DESCRIPTION:Grupo F - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio ueno La Nueva Olla
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260505T190000Z_SportingCristal_Palmeiras
+DTSTART;TZID=America/Montevideo:20260505T190000
+DTEND;TZID=America/Montevideo:20260505T210000
+SUMMARY:Sporting Cristal🇵🇪 vs. Palmeiras🇧🇷
+DESCRIPTION:Grupo F - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Alejandro Villanueva
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260507T230000Z_Junior_CerroPorteno
+DTSTART;TZID=America/Montevideo:20260507T230000
+DTEND;TZID=America/Montevideo:20260508T010000
+SUMMARY:Junior🇨🇴 vs. Cerro Porteño🇵🇾
+DESCRIPTION:Grupo F - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Romelio Martínez
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260520T213000Z_Palmeiras_CerroPorteno
+DTSTART;TZID=America/Montevideo:20260520T213000
+DTEND;TZID=America/Montevideo:20260520T233000
+SUMMARY:Palmeiras🇧🇷 vs. Cerro Porteño🇵🇾
+DESCRIPTION:Grupo F - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260520T230000Z_Junior_SportingCristal
+DTSTART;TZID=America/Montevideo:20260520T230000
+DTEND;TZID=America/Montevideo:20260521T010000
+SUMMARY:Junior🇨🇴 vs. Sporting Cristal🇵🇪
+DESCRIPTION:Grupo F - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio a definir
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260528T190000Z_CerroPorteno_SportingCristal
+DTSTART;TZID=America/Montevideo:20260528T190000
+DTEND;TZID=America/Montevideo:20260528T210000
+SUMMARY:Cerro Porteño🇵🇾 vs. Sporting Cristal🇵🇪
+DESCRIPTION:Grupo F - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio ueno La Nueva Olla
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260528T190000Z_Palmeiras_Junior
+DTSTART;TZID=America/Montevideo:20260528T190000
+DTEND;TZID=America/Montevideo:20260528T210000
+SUMMARY:Palmeiras🇧🇷 vs. Junior🇨🇴
+DESCRIPTION:Grupo F - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260722T213000Z_SportingCristal_RedBullBragantino
+DTSTART;TZID=America/Montevideo:20260722T213000
+DTEND;TZID=America/Montevideo:20260722T233000
+SUMMARY:Sporting Cristal🇵🇪 vs. Red Bull Bragantino🇧🇷
+DESCRIPTION:Play-offs - Ida - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Nacional de Lima
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260729T213000Z_RedBullBragantino_SportingCristal
+DTSTART;TZID=America/Montevideo:20260729T213000
+DTEND;TZID=America/Montevideo:20260729T233000
+SUMMARY:Red Bull Bragantino🇧🇷 vs. Sporting Cristal🇵🇪
+DESCRIPTION:Play-offs - Volta - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio a definir
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260812T190000Z_Palmeiras_CerroPorteno
+DTSTART;TZID=America/Montevideo:20260812T190000
+DTEND;TZID=America/Montevideo:20260812T210000
+SUMMARY:Palmeiras🇧🇷 vs. Cerro Porteño🇵🇾
+DESCRIPTION:Oitavas de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260819T190000Z_CerroPorteno_Palmeiras
+DTSTART;TZID=America/Montevideo:20260819T190000
+DTEND;TZID=America/Montevideo:20260819T210000
+SUMMARY:Cerro Porteño🇵🇾 vs. Palmeiras🇧🇷
+DESCRIPTION:Oitavas de final - Volta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio ueno La Nueva Olla
+END:VEVENT
+END:VCALENDAR

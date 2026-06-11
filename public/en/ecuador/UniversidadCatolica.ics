@@ -1,0 +1,243 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//EN
+BEGIN:VEVENT
+UID:20240404T210000Z_Universidad_Catolica_Cruzeiro
+DTSTART;TZID=America/Montevideo:20240404T210000
+DTEND;TZID=America/Montevideo:20240404T230000
+SUMMARY:Universidad Católica🇪🇨 vs. Cruzeiro🇧🇷
+DESCRIPTION:Group B - Matchday 1 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Olímpico Atahualpa Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T210000Z_Union_La_Calera_Universidad_Catolica
+DTSTART;TZID=America/Montevideo:20240410T210000
+DTEND;TZID=America/Montevideo:20240410T230000
+SUMMARY:Unión La Calera🇨🇱 vs. Universidad Católica🇪🇨
+DESCRIPTION:Group B - Matchday 2 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Elías Figueroa Brander Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240423T230000Z_Alianza_Universidad_Catolica
+DTSTART;TZID=America/Montevideo:20240423T230000
+DTEND;TZID=America/Montevideo:20240424T010000
+SUMMARY:Alianza🇨🇴 vs. Universidad Católica🇪🇨
+DESCRIPTION:Group B - Matchday 3 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Armando Maestre Pavajeau Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240509T230000Z_Universidad_Catolica_Union_La_Calera
+DTSTART;TZID=America/Montevideo:20240509T230000
+DTEND;TZID=America/Montevideo:20240510T010000
+SUMMARY:Universidad Católica🇪🇨 vs. Unión La Calera🇨🇱
+DESCRIPTION:Group B - Matchday 4 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Olímpico Atahualpa Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240516T230000Z_Universidad_Catolica_Alianza
+DTSTART;TZID=America/Montevideo:20240516T230000
+DTEND;TZID=America/Montevideo:20240517T010000
+SUMMARY:Universidad Católica🇪🇨 vs. Alianza🇨🇴
+DESCRIPTION:Group B - Matchday 5 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Olímpico Atahualpa Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240530T210000Z_Cruzeiro_Universidad_Catolica
+DTSTART;TZID=America/Montevideo:20240530T210000
+DTEND;TZID=America/Montevideo:20240530T230000
+SUMMARY:Cruzeiro🇧🇷 vs Universidad Católica🇪🇨
+DESCRIPTION:Group B - Matchday 6 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Mineirão Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240717T190000Z_Libertad_Universidad_Catolica
+DTSTART;TZID=America/Montevideo:20240717T190000
+DTEND;TZID=America/Montevideo:20240717T210000
+SUMMARY:Libertad🇵🇾 vs. Universidad Católica🇪🇨
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+LOCATION:Defensores del Chaco Stadium, Asunción
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240724T190000Z_Universidad_Catolica_Libertad
+DTSTART;TZID=America/Montevideo:20240724T190000
+DTEND;TZID=America/Montevideo:20240724T210000
+SUMMARY:Universidad Católica🇪🇨 vs. Libertad🇵🇾
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+LOCATION:Olímpico Atahualpa Stadium, Quito
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250402T213000Z_Vitoria_UniversidadCatolica
+DTSTART;TZID=America/Montevideo:20250402T213000
+DTEND;TZID=America/Montevideo:20250402T233000
+SUMMARY:Vitória🇧🇷 vs. Universidad Católica🇪🇨
+DESCRIPTION:Group B - Matchday 1 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Manoel Barradas Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250410T230000Z_UniversidadCatolica_CerroLargo
+DTSTART;TZID=America/Montevideo:20250410T230000
+DTEND;TZID=America/Montevideo:20250411T010000
+SUMMARY:Universidad Católica🇪🇨 vs. Cerro Largo🇺🇾
+DESCRIPTION:Group B - Matchday 2 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Olímpico Atahualpa Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250424T230000Z_UniversidadCatolica_DefensaYJusticia
+DTSTART;TZID=America/Montevideo:20250424T230000
+DTEND;TZID=America/Montevideo:20250425T010000
+SUMMARY:Universidad Católica🇪🇨 vs. Defensa Y Justicia🇦🇷
+DESCRIPTION:Group B - Matchday 3 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Olímpico Atahualpa Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250507T190000Z_CerroLargo_UniversidadCatolica
+DTSTART;TZID=America/Montevideo:20250507T190000
+DTEND;TZID=America/Montevideo:20250507T210000
+SUMMARY:Cerro Largo🇺🇾 vs. Universidad Católica🇪🇨
+DESCRIPTION:Group B - Matchday 4 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Centenario Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250514T190000Z_DefensaYJusticia_UniversidadCatolica
+DTSTART;TZID=America/Montevideo:20250514T190000
+DTEND;TZID=America/Montevideo:20250514T210000
+SUMMARY:Defensa Y Justicia🇦🇷 vs. Universidad Católica🇪🇨
+DESCRIPTION:Group B - Matchday 5 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Norberto Tomaghello
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250528T213000Z_UniversidadCatolica_Vitoria
+DTSTART;TZID=America/Montevideo:20250528T213000
+DTEND;TZID=America/Montevideo:20250528T233000
+SUMMARY:Universidad Católica🇪🇨 vs. Vitória🇧🇷
+DESCRIPTION:Group B - Matchday 6 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Olímpico Atahualpa Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250813T213000Z_AlianzaLima_UniversidadCatolica
+DTSTART;TZID=America/Montevideo:20250813T213000
+DTEND;TZID=America/Montevideo:20250813T233000
+SUMMARY:Alianza Lima🇵🇪 vs. Universidad Católica🇪🇨
+DESCRIPTION:Round of 16 - First leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Alejandro Villanueva Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250820T213000Z_UniversidadCatolica_AlianzaLima
+DTSTART;TZID=America/Montevideo:20250820T213000
+DTEND;TZID=America/Montevideo:20250820T233000
+SUMMARY:Universidad Católica🇪🇨 vs. Alianza Lima🇵🇪
+DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Olímpico Atahualpa Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260407T213000Z_UniversidadCatolica_BocaJuniors
+DTSTART;TZID=America/Montevideo:20260407T213000
+DTEND;TZID=America/Montevideo:20260407T233000
+SUMMARY:Universidad Católica🇪🇨 vs. Boca Juniors🇦🇷
+DESCRIPTION:Group D - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:San Carlos de Apoquindo Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260415T190000Z_Cruzeiro_UniversidadCatolica
+DTSTART;TZID=America/Montevideo:20260415T190000
+DTEND;TZID=America/Montevideo:20260415T210000
+SUMMARY:Cruzeiro🇧🇷 vs. Universidad Católica🇪🇨
+DESCRIPTION:Group D - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Mineirão Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260429T210000Z_Barcelona_UniversidadCatolica
+DTSTART;TZID=America/Montevideo:20260429T210000
+DTEND;TZID=America/Montevideo:20260429T230000
+SUMMARY:Barcelona🇪🇨 vs. Universidad Católica🇪🇨
+DESCRIPTION:Group D - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Banco Pichincha Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260506T230000Z_UniversidadCatolica_Cruzeiro
+DTSTART;TZID=America/Montevideo:20260506T230000
+DTEND;TZID=America/Montevideo:20260507T010000
+SUMMARY:Universidad Católica🇪🇨 vs. Cruzeiro🇧🇷
+DESCRIPTION:Group D - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:San Carlos de Apoquindo Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260521T213000Z_UniversidadCatolica_Barcelona
+DTSTART;TZID=America/Montevideo:20260521T213000
+DTEND;TZID=America/Montevideo:20260521T233000
+SUMMARY:Universidad Católica🇪🇨 vs. Barcelona🇪🇨
+DESCRIPTION:Group D - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:San Carlos de Apoquindo Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260528T213000Z_BocaJuniors_UniversidadCatolica
+DTSTART;TZID=America/Montevideo:20260528T213000
+DTEND;TZID=America/Montevideo:20260528T233000
+SUMMARY:Boca Juniors🇦🇷 vs. Universidad Católica🇪🇨
+DESCRIPTION:Group D - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Alberto José Armando (La Bombonera)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260811T213000Z_Estudiantes_UniversidadCatolica
+DTSTART;TZID=America/Montevideo:20260811T213000
+DTEND;TZID=America/Montevideo:20260811T233000
+SUMMARY:Estudiantes🇦🇷 vs. Universidad Católica🇪🇨
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Jorge Luis Hirschi Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260818T213000Z_UniversidadCatolica_Estudiantes
+DTSTART;TZID=America/Montevideo:20260818T213000
+DTEND;TZID=America/Montevideo:20260818T233000
+SUMMARY:Universidad Católica🇪🇨 vs. Estudiantes🇦🇷
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:San Carlos de Apoquindo Stadium
+END:VEVENT
+END:VCALENDAR

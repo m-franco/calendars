@@ -1,0 +1,223 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//PT
+BEGIN:VEVENT
+UID:20250401T213000Z_AtleticoBucaramanga_ColoColo
+DTSTART;TZID=America/Montevideo:20250401T213000
+DTEND;TZID=America/Montevideo:20250401T233000
+SUMMARY:Atlético Bucaramanga🇨🇴 vs. Colo-Colo🇨🇱
+DESCRIPTION:Grupo E - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Américo Montanini
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250401T213000Z_Fortaleza_Racing
+DTSTART;TZID=America/Montevideo:20250401T213000
+DTEND;TZID=America/Montevideo:20250401T233000
+SUMMARY:Fortaleza🇧🇷 vs. Racing🇦🇷
+DESCRIPTION:Grupo E - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Castelão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250410T190000Z_Racing_AtleticoBucaramanga
+DTSTART;TZID=America/Montevideo:20250410T190000
+DTEND;TZID=America/Montevideo:20250410T210000
+SUMMARY:Racing🇦🇷 vs. Atlético Bucaramanga🇨🇴
+DESCRIPTION:Grupo E - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Presidente Perón (Cilindro de Avellaneda)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250410T210000Z_ColoColo_Fortaleza
+DTSTART;TZID=America/Montevideo:20250410T210000
+DTEND;TZID=America/Montevideo:20250410T230000
+SUMMARY:Colo-Colo🇨🇱 vs. Fortaleza🇧🇷
+DESCRIPTION:Grupo E - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Monumental David Arellano
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250422T213000Z_ColoColo_Racing
+DTSTART;TZID=America/Montevideo:20250422T213000
+DTEND;TZID=America/Montevideo:20250422T233000
+SUMMARY:Colo-Colo🇨🇱 vs. Racing🇦🇷
+DESCRIPTION:Grupo E - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Monumental David Arellano
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250423T230000Z_AtleticoBucaramanga_Fortaleza
+DTSTART;TZID=America/Montevideo:20250423T230000
+DTEND;TZID=America/Montevideo:20250424T010000
+SUMMARY:Atlético Bucaramanga🇨🇴 vs. Fortaleza🇧🇷
+DESCRIPTION:Grupo E - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Américo Montanini
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250506T190000Z_AtleticoBucaramanga_Racing
+DTSTART;TZID=America/Montevideo:20250506T190000
+DTEND;TZID=America/Montevideo:20250506T210000
+SUMMARY:Atlético Bucaramanga🇨🇴 vs. Racing🇦🇷
+DESCRIPTION:Grupo E - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Américo Montanini
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250506T213000Z_Fortaleza_ColoColo
+DTSTART;TZID=America/Montevideo:20250506T213000
+DTEND;TZID=America/Montevideo:20250506T233000
+SUMMARY:Fortaleza🇧🇷 vs. Colo-Colo🇨🇱
+DESCRIPTION:Grupo E - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Castelão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250513T213000Z_Fortaleza_AtleticoBucaramanga
+DTSTART;TZID=America/Montevideo:20250513T213000
+DTEND;TZID=America/Montevideo:20250513T233000
+SUMMARY:Fortaleza🇧🇷 vs. Atlético Bucaramanga🇨🇴
+DESCRIPTION:Grupo E - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Castelão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250514T213000Z_Racing_ColoColo
+DTSTART;TZID=America/Montevideo:20250514T213000
+DTEND;TZID=America/Montevideo:20250514T233000
+SUMMARY:Racing🇦🇷 vs. Colo-Colo🇨🇱
+DESCRIPTION:Grupo E - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Presidente Perón (Cilindro de Avellaneda)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250529T213000Z_ColoColo_AtleticoBucaramanga
+DTSTART;TZID=America/Montevideo:20250529T213000
+DTEND;TZID=America/Montevideo:20250529T233000
+SUMMARY:Colo-Colo🇨🇱 vs. Atlético Bucaramanga🇨🇴
+DESCRIPTION:Grupo E - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Monumental David Arellano
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250529T213000Z_Racing_Fortaleza
+DTSTART;TZID=America/Montevideo:20250529T213000
+DTEND;TZID=America/Montevideo:20250529T233000
+SUMMARY:Racing🇦🇷 vs. Fortaleza🇧🇷
+DESCRIPTION:Grupo E - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Presidente Perón (Cilindro de Avellaneda)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250717T213000Z_AtleticoBucaramanga_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20250717T213000
+DTEND;TZID=America/Montevideo:20250717T233000
+SUMMARY:Atlético Bucaramanga🇨🇴 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Play-offs - Ida - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Américo Montanini
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250724T213000Z_AtleticoMineiro_AtleticoBucaramanga
+DTSTART;TZID=America/Montevideo:20250724T213000
+DTEND;TZID=America/Montevideo:20250724T233000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Atlético Bucaramanga🇨🇴
+DESCRIPTION:Play-offs - Volta - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250812T190000Z_Fortaleza_VelezSarsfield
+DTSTART;TZID=America/Montevideo:20250812T190000
+DTEND;TZID=America/Montevideo:20250812T210000
+SUMMARY:Fortaleza🇧🇷 vs. Vélez Sarsfield🇦🇷
+DESCRIPTION:Oitavas de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Castelão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250812T213000Z_Penarol_Racing
+DTSTART;TZID=America/Montevideo:20250812T213000
+DTEND;TZID=America/Montevideo:20250812T233000
+SUMMARY:Peñarol🇺🇾 vs. Racing🇦🇷
+DESCRIPTION:Oitavas de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250819T190000Z_VelezSarsfield_Fortaleza
+DTSTART;TZID=America/Montevideo:20250819T190000
+DTEND;TZID=America/Montevideo:20250819T210000
+SUMMARY:Vélez Sarsfield🇦🇷 vs. Fortaleza🇧🇷
+DESCRIPTION:Oitavas de final - Volta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:José Amalfitani
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250819T213000Z_Racing_Penarol
+DTSTART;TZID=America/Montevideo:20250819T213000
+DTEND;TZID=America/Montevideo:20250819T233000
+SUMMARY:Racing🇦🇷 vs. Peñarol🇺🇾
+DESCRIPTION:Oitavas de final - Volta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Presidente Perón (Cilindro de Avellaneda)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250916T190000Z_VelezSarsfield_Racing
+DTSTART;TZID=America/Montevideo:20250916T190000
+DTEND;TZID=America/Montevideo:20250916T210000
+SUMMARY:Vélez Sarsfield🇦🇷 vs. Racing🇦🇷
+DESCRIPTION:Quartas de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:José Amalfitani
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250923T190000Z_Racing_VelezSarsfield
+DTSTART;TZID=America/Montevideo:20250923T190000
+DTEND;TZID=America/Montevideo:20250923T210000
+SUMMARY:Racing🇦🇷 vs. Vélez Sarsfield🇦🇷
+DESCRIPTION:Quartas de final - Volta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Presidente Perón (Cilindro de Avellaneda)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251022T213000Z_Flamengo_Racing
+DTSTART;TZID=America/Montevideo:20251022T213000
+DTEND;TZID=America/Montevideo:20251022T233000
+SUMMARY:Flamengo🇧🇷 vs. Racing🇦🇷
+DESCRIPTION:Semifinal - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio do Maracana
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251029T213000Z_Racing_Flamengo
+DTSTART;TZID=America/Montevideo:20251029T213000
+DTEND;TZID=America/Montevideo:20251029T233000
+SUMMARY:Racing🇦🇷 vs. Flamengo🇧🇷
+DESCRIPTION:Semifinal - Volta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Presidente Perón (Cilindro de Avellaneda)
+END:VEVENT
+END:VCALENDAR

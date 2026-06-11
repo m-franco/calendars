@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//PT
+BEGIN:VEVENT
+UID:20260409T190000Z_Juventud_Cienciano
+DTSTART;TZID=America/Montevideo:20260409T190000
+DTEND;TZID=America/Montevideo:20260409T210000
+SUMMARY:Juventud🇺🇾 vs. Cienciano🇵🇪
+DESCRIPTION:Grupo B - Rodada 1 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260416T190000Z_AtleticoMineiro_Juventud
+DTSTART;TZID=America/Montevideo:20260416T190000
+DTEND;TZID=America/Montevideo:20260416T210000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Juventud🇺🇾
+DESCRIPTION:Grupo B - Rodada 2 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260429T190000Z_Juventud_AcademiaPuertoCabello
+DTSTART;TZID=America/Montevideo:20260429T190000
+DTEND;TZID=America/Montevideo:20260429T210000
+SUMMARY:Juventud🇺🇾 vs. Academia Puerto Cabello🇻🇪
+DESCRIPTION:Grupo B - Rodada 3 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260505T190000Z_Juventud_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20260505T190000
+DTEND;TZID=America/Montevideo:20260505T210000
+SUMMARY:Juventud🇺🇾 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Grupo B - Rodada 4 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260521T190000Z_AcademiaPuertoCabello_Juventud
+DTSTART;TZID=America/Montevideo:20260521T190000
+DTEND;TZID=America/Montevideo:20260521T210000
+SUMMARY:Academia Puerto Cabello🇻🇪 vs. Juventud🇺🇾
+DESCRIPTION:Grupo B - Rodada 5 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Misael Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260527T190000Z_Cienciano_Juventud
+DTSTART;TZID=America/Montevideo:20260527T190000
+DTEND;TZID=America/Montevideo:20260527T210000
+SUMMARY:Cienciano🇵🇪 vs. Juventud🇺🇾
+DESCRIPTION:Grupo B - Rodada 6 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Inca Garcilaso de la Vega
+END:VEVENT
+END:VCALENDAR

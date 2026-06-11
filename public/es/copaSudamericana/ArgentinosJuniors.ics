@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//ES
+BEGIN:VEVENT
+UID:20240402T190000Z_Nacional_Par_Argentinos_Juniors
+DTSTART;TZID=America/Montevideo:20240402T190000
+DTEND;TZID=America/Montevideo:20240402T210000
+SUMMARY:Nacional(Par)🇵🇾 vs. Argentinos Juniors🇦🇷
+DESCRIPTION:Grupo F - Fecha 1 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T190000Z_Argentinos_Juniors_Racing_Uru
+DTSTART;TZID=America/Montevideo:20240409T190000
+DTEND;TZID=America/Montevideo:20240409T210000
+SUMMARY:Argentinos Juniors🇦🇷 vs.Racing(Uru)🇺🇾
+DESCRIPTION:Grupo F - Fecha 2 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Diego Armando Maradona
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240423T213000Z_Argentinos_Juniors_Corinthians
+DTSTART;TZID=America/Montevideo:20240423T213000
+DTEND;TZID=America/Montevideo:20240423T233000
+SUMMARY:Argentinos Juniors🇦🇷 vs. Corinthians🇧🇷
+DESCRIPTION:Grupo F - Fecha 3 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Diego Armando Maradona
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T190000Z_Corinthians_Argentinos_Juniors
+DTSTART;TZID=America/Montevideo:20240507T190000
+DTEND;TZID=America/Montevideo:20240507T210000
+SUMMARY:Corinthians🇧🇷 vs. Argentinos Juniors🇦🇷
+DESCRIPTION:Grupo F - Fecha 4 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240514T213000Z_Corinthians_Argentinos_Juniors
+DTSTART;TZID=America/Montevideo:20240514T213000
+DTEND;TZID=America/Montevideo:20240514T233000
+SUMMARY:Corinthians🇧🇷 vs. Argentinos Juniors🇦🇷
+DESCRIPTION:Grupo F - Fecha 5 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240528T190000Z_Argentinos_Juniors_Nacional_Par
+DTSTART;TZID=America/Montevideo:20240528T190000
+DTEND;TZID=America/Montevideo:20240528T210000
+SUMMARY:Argentinos Juniors🇦🇷 vs. Nacional(Par)🇵🇾
+DESCRIPTION:Grupo F - Fecha 6 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Diego Armando Maradona
+END:VEVENT
+END:VCALENDAR

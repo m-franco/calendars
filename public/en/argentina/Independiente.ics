@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//EN
+BEGIN:VEVENT
+UID:20250401T190000Z_NacionalPotosi_Independiente
+DTSTART;TZID=America/Montevideo:20250401T190000
+DTEND;TZID=America/Montevideo:20250401T210000
+SUMMARY:Nacional Potosí🇧🇴 vs. Independiente🇦🇷
+DESCRIPTION:Group A - Matchday 1 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Víctor Agustín Ugarte Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250408T190000Z_Independiente_BostonRiver
+DTSTART;TZID=America/Montevideo:20250408T190000
+DTEND;TZID=America/Montevideo:20250408T210000
+SUMMARY:Independiente🇦🇷 vs. Boston River🇺🇾
+DESCRIPTION:Group A - Matchday 2 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Libertadores de América Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250422T190000Z_Guarani_Independiente
+DTSTART;TZID=America/Montevideo:20250422T190000
+DTEND;TZID=America/Montevideo:20250422T210000
+SUMMARY:Guaraní🇵🇾 vs. Independiente🇦🇷
+DESCRIPTION:Group A - Matchday 3 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:ueno Defensores del Chaco Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250506T213000Z_BostonRiver_Independiente
+DTSTART;TZID=America/Montevideo:20250506T213000
+DTEND;TZID=America/Montevideo:20250506T233000
+SUMMARY:Boston River🇺🇾 vs. Independiente🇦🇷
+DESCRIPTION:Group A - Matchday 4 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Centenario Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250515T190000Z_Independiente_Guarani
+DTSTART;TZID=America/Montevideo:20250515T190000
+DTEND;TZID=America/Montevideo:20250515T210000
+SUMMARY:Independiente🇦🇷 vs. Guaraní🇵🇾
+DESCRIPTION:Group A - Matchday 5 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Libertadores de América Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250528T190000Z_Independiente_NacionalPotosi
+DTSTART;TZID=America/Montevideo:20250528T190000
+DTEND;TZID=America/Montevideo:20250528T210000
+SUMMARY:Independiente🇦🇷 vs. Nacional Potosí🇧🇴
+DESCRIPTION:Group A - Matchday 6 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Libertadores de América Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250813T213000Z_UniversidadDeChile_Independiente
+DTSTART;TZID=America/Montevideo:20250813T213000
+DTEND;TZID=America/Montevideo:20250813T233000
+SUMMARY:Universidad de Chile🇨🇱 vs. Independiente🇦🇷
+DESCRIPTION:Round of 16 - First leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Nacional Julio Martínez Prádanos Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250820T213000Z_Independiente_UniversidadDeChile
+DTSTART;TZID=America/Montevideo:20250820T213000
+DTEND;TZID=America/Montevideo:20250820T233000
+SUMMARY:Independiente🇦🇷 vs. Universidad de Chile🇨🇱
+DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Libertadores de América Stadium
+END:VEVENT
+END:VCALENDAR

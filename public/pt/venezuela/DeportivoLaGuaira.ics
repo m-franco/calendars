@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//PT
+BEGIN:VEVENT
+UID:20260407T190000Z_DeportivoLaGuaira_Fluminense
+DTSTART;TZID=America/Montevideo:20260407T190000
+DTEND;TZID=America/Montevideo:20260407T210000
+SUMMARY:Deportivo La Guaira🇻🇪 vs. Fluminense🇧🇷
+DESCRIPTION:Grupo C - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico de la UCV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260414T210000Z_Bolivar_DeportivoLaGuaira
+DTSTART;TZID=America/Montevideo:20260414T210000
+DTEND;TZID=America/Montevideo:20260414T230000
+SUMMARY:Bolívar🇧🇴 vs. Deportivo La Guaira🇻🇪
+DESCRIPTION:Grupo C - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Hernando Siles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260430T190000Z_IndependienteRivadavia_DeportivoLaGuaira
+DTSTART;TZID=America/Montevideo:20260430T190000
+DTEND;TZID=America/Montevideo:20260430T210000
+SUMMARY:Independiente Rivadavia🇦🇷 vs. Deportivo La Guaira🇻🇪
+DESCRIPTION:Grupo C - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Malvinas Argentinas (Mendoza)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260506T190000Z_DeportivoLaGuaira_Bolivar
+DTSTART;TZID=America/Montevideo:20260506T190000
+DTEND;TZID=America/Montevideo:20260506T210000
+SUMMARY:Deportivo La Guaira🇻🇪 vs. Bolívar🇧🇴
+DESCRIPTION:Grupo C - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico de la UCV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260521T190000Z_DeportivoLaGuaira_IndependienteRivadavia
+DTSTART;TZID=America/Montevideo:20260521T190000
+DTEND;TZID=America/Montevideo:20260521T210000
+SUMMARY:Deportivo La Guaira🇻🇪 vs. Independiente Rivadavia🇦🇷
+DESCRIPTION:Grupo C - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico de la UCV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260527T213000Z_Fluminense_DeportivoLaGuaira
+DTSTART;TZID=America/Montevideo:20260527T213000
+DTEND;TZID=America/Montevideo:20260527T233000
+SUMMARY:Fluminense🇧🇷 vs. Deportivo La Guaira🇻🇪
+DESCRIPTION:Grupo C - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio do Maracana
+END:VEVENT
+END:VCALENDAR

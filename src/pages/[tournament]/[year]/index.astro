@@ -1,111 +1,14 @@
 ---
-import Layout from '../../../layouts/Layout.astro';
-import Teams from '../../../components/Teams.astro';
-import AllTournament from '../../../components/AllTournament.astro';
-import {
-    tournaments as tournaments2024,
-    tournamentPages as tournamentPages2024,
-} from "../../../data-2024.json";
-import {
-    tournaments as tournaments2025,
-    tournamentPages as tournamentPages2025,
-} from "../../../data-2025.json";
+import TournamentIndex from "../../../components/pages/TournamentIndex.astro";
+import { yearIndexPaths } from "../../../i18n/paths";
+import { alternatesFor, urlFor, localizedTournamentSlug } from "../../../i18n/ui";
 
-export async function getStaticPaths() {
-    const archivedEditions = [
-        { year: "2024", tournamentPages: tournamentPages2024 },
-        { year: "2025", tournamentPages: tournamentPages2025 },
-    ];
-
-    return archivedEditions.flatMap(({ year, tournamentPages }) => (
-        tournamentPages.map(({ typeName, name, tournament }) => ({
-            params: { tournament, year },
-            props: { typeName, name, year },
-        }))
-    ));
+export function getStaticPaths() {
+    return yearIndexPaths("es");
 }
 
-const { tournament, year } = Astro.params;
-const { typeName, name } = Astro.props;
-
-const editionData = year === "2025"
-    ? { tournaments: tournaments2025 }
-    : { tournaments: tournaments2024 };
-
-const { tournaments } = editionData;
-const tournamentData = tournaments.find((t) => t.href === tournament)!;
-
-const { href, imgSrc, backgroundImage } = tournamentData;
-const groups = tournamentData["groups"];
-const qualifiedFromLibertadores = tournamentData["qualifiedFromLibertadores"] ?? [];
-const hrefBase = `${href}/${year}`;
-
-const description = `Archivo ${year}: suscribite al calendario de tu equipo, de todo el grupo o de toda la copa y tendrás todos los partidos incluidos en el calendario de tu teléfono o tu computadora.`;
-
-const image = href === "libertadores" ? "../../../calendars/libertadores-logo.png" : `../../../calendars/${imgSrc}`;
+const { href, year } = Astro.props as any;
+const alternates = alternatesFor((l) => urlFor(l, [localizedTournamentSlug(href, l), year]));
 ---
 
-<Layout
-    title={`Calendarios de ${name} ${year}`}
-    description={description}
-    image={image}
->
-    <main>
-        <h1 class="
-            text-4xl sm:text-5xl md:text-6xl lg:text-7xl
-            text-center font-bold  p-0.5 mb-4">
-            {typeName} <span class="text-gradient">{name} {year}</span>
-        </h1>
-
-        <p class="instructions flex justify-center
-        text-sm sm:text-base md:text-lg lg:text-xl mt-12
-        ">
-            {description}
-        </p>
-        <AllTournament
-            title={`Calendario de todos los equipos de la ${typeName} ${name} ${year}`}
-            href={`${hrefBase}/Completa`}
-            imgSrc={imgSrc}
-            backgroundImage={backgroundImage}
-        />
-        {href === "sudamericana" && qualifiedFromLibertadores.length > 0 && (
-            <section class="my-6">
-                <Teams
-                    groups={qualifiedFromLibertadores}
-                    tournament={href}
-                    hrefBase={hrefBase}
-                    teamHrefBase={href}
-                    showGroupCalendar={false}
-                    compactGrid={true}
-                />
-            </section>
-        )}
-        <Teams groups={groups} tournament={href} hrefBase={hrefBase} teamHrefBase={href} />
-    </main>
-</Layout>
-
-<style>
-    main {
-        margin: auto;
-        padding: 1rem;
-        width: 800px;
-        max-width: calc(100% - 2rem);
-        color: white;
-        font-size: 20px;
-        line-height: 1.6;
-    }
-    .text-gradient {
-        background-image: var(--accent-gradient);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        background-size: 400%;
-        background-position: 0%;
-    }
-    .instructions {
-        margin-bottom: 2rem;
-        border: 1px solid rgba(var(--accent-light), 25%);
-        background: linear-gradient(rgba(var(--accent-dark), 66%), rgba(var(--accent-dark), 33%));
-        padding: 1.5rem;
-        border-radius: 8px;
-    }
-</style>
+<TournamentIndex lang="es" tournament={href} year={year} alternates={alternates} />

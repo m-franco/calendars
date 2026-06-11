@@ -1,0 +1,183 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//ES
+BEGIN:VEVENT
+UID:20240403T210000Z_Sportivo_Trinidense_Fortaleza
+DTSTART;TZID=America/Montevideo:20240403T210000
+DTEND;TZID=America/Montevideo:20240403T230000
+SUMMARY:Sportivo Trinidense🇵🇾 vs. Fortaleza🇧🇷
+DESCRIPTION:Grupo D - Fecha 1 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T190000Z_Fortaleza_Nacional_Potosi
+DTSTART;TZID=America/Fortaleza:20240410T190000
+DTEND;TZID=America/Fortaleza:20240410T210000
+SUMMARY:Fortaleza🇧🇷 vs. Nacional Potosí🇧🇴
+DESCRIPTION:Grupo D - Fecha 2 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Arena Castelão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T210000Z_Fortaleza_Boca_Juniors
+DTSTART;TZID=America/Fortaleza:20240425T210000
+DTEND;TZID=America/Fortaleza:20240425T230000
+SUMMARY:Fortaleza🇧🇷 vs. Boca Juniors🇦🇷
+DESCRIPTION:Grupo D - Fecha 3 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Arena Castelão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T213000Z_Sportivo_Trinidense_Fortaleza
+DTSTART;TZID=America/Montevideo:20240507T213000
+DTEND;TZID=America/Montevideo:20240507T233000
+SUMMARY:Sportivo Trinidense🇵🇾 vs. Fortaleza🇧🇷
+DESCRIPTION:Grupo D - Fecha 4 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T210000Z_Nacional_Potosi_Fortaleza
+DTSTART;TZID=America/Montevideo:20240515T210000
+DTEND;TZID=America/Montevideo:20240515T230000
+SUMMARY:Nacional Potosí🇧🇴 vs. Fortaleza🇧🇷
+DESCRIPTION:Grupo D - Fecha 5 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Víctor Agustín Ugarte
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240530T190000Z_Fortaleza_Boca_Juniors
+DTSTART;TZID=America/Fortaleza:20240530T190000
+DTEND;TZID=America/Fortaleza:20240530T210000
+SUMMARY:Fortaleza🇧🇷 vs. Boca Juniors🇦🇷
+DESCRIPTION:Grupo D - Fecha 6 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Arena Castelão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240814T190000Z_RosarioCentral_Fortaleza
+DTSTART;TZID=America/Montevideo:20240814T190000
+DTEND;TZID=America/Montevideo:20240814T210000
+SUMMARY:Rosario Central🇦🇷 vs. Fortaleza🇧🇷
+DESCRIPTION:Octavos de final - Ida - Copa Sudamericana
+LOCATION:Estadio Gigante de Arroyito, Rosario
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240821T190000Z_Fortaleza_RosarioCentral
+DTSTART;TZID=America/Montevideo:20240821T190000
+DTEND;TZID=America/Montevideo:20240821T210000
+SUMMARY:Fortaleza🇧🇷 vs. Rosario Central🇦🇷
+DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana
+LOCATION:Castelão, Fortaleza
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240917T213000Z_Fortaleza_Corinthians
+DTSTART;TZID=America/Montevideo:20240917T213000
+DTEND;TZID=America/Montevideo:20240917T233000
+SUMMARY:Fortaleza🇧🇷 vs. Corinthians🇧🇷
+DESCRIPTION:Cuartos de final - Ida - Copa Sudamericana
+LOCATION:Castelão, Fortaleza
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240924T213000Z_Corinthians_Fortaleza
+DTSTART;TZID=America/Montevideo:20240924T213000
+DTEND;TZID=America/Montevideo:20240924T233000
+SUMMARY:Corinthians🇧🇷 vs. Fortaleza🇧🇷
+DESCRIPTION:Cuartos de final - Vuelta - Copa Sudamericana
+LOCATION:Neo Química Arena, São Paulo
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250401T213000Z_Fortaleza_Racing
+DTSTART;TZID=America/Montevideo:20250401T213000
+DTEND;TZID=America/Montevideo:20250401T233000
+SUMMARY:Fortaleza🇧🇷 vs. Racing🇦🇷
+DESCRIPTION:Grupo E - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Castelão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250410T210000Z_ColoColo_Fortaleza
+DTSTART;TZID=America/Montevideo:20250410T210000
+DTEND;TZID=America/Montevideo:20250410T230000
+SUMMARY:Colo-Colo🇨🇱 vs. Fortaleza🇧🇷
+DESCRIPTION:Grupo E - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Monumental David Arellano
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250423T230000Z_AtleticoBucaramanga_Fortaleza
+DTSTART;TZID=America/Montevideo:20250423T230000
+DTEND;TZID=America/Montevideo:20250424T010000
+SUMMARY:Atlético Bucaramanga🇨🇴 vs. Fortaleza🇧🇷
+DESCRIPTION:Grupo E - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Américo Montanini
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250506T213000Z_Fortaleza_ColoColo
+DTSTART;TZID=America/Montevideo:20250506T213000
+DTEND;TZID=America/Montevideo:20250506T233000
+SUMMARY:Fortaleza🇧🇷 vs. Colo-Colo🇨🇱
+DESCRIPTION:Grupo E - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Castelão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250513T213000Z_Fortaleza_AtleticoBucaramanga
+DTSTART;TZID=America/Montevideo:20250513T213000
+DTEND;TZID=America/Montevideo:20250513T233000
+SUMMARY:Fortaleza🇧🇷 vs. Atlético Bucaramanga🇨🇴
+DESCRIPTION:Grupo E - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Castelão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250529T213000Z_Racing_Fortaleza
+DTSTART;TZID=America/Montevideo:20250529T213000
+DTEND;TZID=America/Montevideo:20250529T233000
+SUMMARY:Racing🇦🇷 vs. Fortaleza🇧🇷
+DESCRIPTION:Grupo E - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Presidente Perón (Cilindro de Avellaneda)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250812T190000Z_Fortaleza_VelezSarsfield
+DTSTART;TZID=America/Montevideo:20250812T190000
+DTEND;TZID=America/Montevideo:20250812T210000
+SUMMARY:Fortaleza🇧🇷 vs. Vélez Sarsfield🇦🇷
+DESCRIPTION:Octavos de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Castelão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250819T190000Z_VelezSarsfield_Fortaleza
+DTSTART;TZID=America/Montevideo:20250819T190000
+DTEND;TZID=America/Montevideo:20250819T210000
+SUMMARY:Vélez Sarsfield🇦🇷 vs. Fortaleza🇧🇷
+DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:José Amalfitani
+END:VEVENT
+END:VCALENDAR

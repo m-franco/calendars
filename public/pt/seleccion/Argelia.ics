@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios Copa del Mundo//PT
+BEGIN:VEVENT
+UID:20260616T220000Z_Argentina_Argelia
+DTSTART;TZID=America/Montevideo:20260616T220000
+DTEND;TZID=America/Montevideo:20260617T000000
+SUMMARY:Argentina vs. Argélia
+DESCRIPTION:Grupo J - Rodada 1 - Copa do Mundo
+CLASS:PUBLIC
+LOCATION:GEHA Field at Arrowhead Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260623T000000Z_Jordania_Argelia
+DTSTART;TZID=America/Montevideo:20260623T000000
+DTEND;TZID=America/Montevideo:20260623T020000
+SUMMARY:Jordânia vs. Argélia
+DESCRIPTION:Grupo J - Rodada 2 - Copa do Mundo
+CLASS:PUBLIC
+LOCATION:Levi's Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260627T230000Z_Argelia_Austria
+DTSTART;TZID=America/Montevideo:20260627T230000
+DTEND;TZID=America/Montevideo:20260628T010000
+SUMMARY:Argélia vs. Áustria
+DESCRIPTION:Grupo J - Rodada 3 - Copa do Mundo
+CLASS:PUBLIC
+LOCATION:GEHA Field at Arrowhead Stadium
+END:VEVENT
+END:VCALENDAR

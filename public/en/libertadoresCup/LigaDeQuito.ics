@@ -1,0 +1,263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//EN
+BEGIN:VEVENT
+UID:20240402T190000Z_Universitario_LigaQuito
+DTSTART;TZID=America/Montevideo:20240402T190000
+DTEND;TZID=America/Montevideo:20240402T210000
+SUMMARY:Universitario🇵🇪 vs. Liga de Quito🇪🇨
+DESCRIPTION:Group D - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Monumental U Marathon
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240411T190000Z_LigaQuito_Botafogo
+DTSTART;TZID=America/Montevideo:20240411T190000
+DTEND;TZID=America/Montevideo:20240411T210000
+SUMMARY:Liga de Quito🇪🇨 vs. Botafogo🇧🇷
+DESCRIPTION:Group D - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240423T230000Z_Junior_LigaQuito
+DTSTART;TZID=America/Montevideo:20240423T230000
+DTEND;TZID=America/Montevideo:20240424T010000
+SUMMARY:Junior🇨🇴 vs. Liga de Quito🇪🇨
+DESCRIPTION:Group D - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Metropolitano Roberto Meléndez Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240508T213000Z_Botafogo_LigaQuito
+DTSTART;TZID=America/Montevideo:20240508T213000
+DTEND;TZID=America/Montevideo:20240508T233000
+SUMMARY:Botafogo🇧🇷 vs. Liga de Quito🇪🇨
+DESCRIPTION:Group D - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Olímpico Nilton Santos Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240514T190000Z_LigaQuito_Junior
+DTSTART;TZID=America/Montevideo:20240514T190000
+DTEND;TZID=America/Montevideo:20240514T210000
+SUMMARY:Liga de Quito🇪🇨 vs. Junior🇨🇴
+DESCRIPTION:Group D - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240528T190000Z_LigaQuito_Universitario
+DTSTART;TZID=America/Montevideo:20240528T190000
+DTEND;TZID=America/Montevideo:20240528T210000
+SUMMARY:Liga de Quito🇪🇨 vs. Universitario🇵🇪
+DESCRIPTION:Group D - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250403T190000Z_CentralCordoba_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20250403T190000
+DTEND;TZID=America/Montevideo:20250403T210000
+SUMMARY:Central Córdoba🇦🇷 vs. Liga de Quito🇪🇨
+DESCRIPTION:Group C - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Único Madre de Ciudades Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250409T230000Z_LigaDeQuito_DeportivoTachira
+DTSTART;TZID=America/Montevideo:20250409T230000
+DTEND;TZID=America/Montevideo:20250410T010000
+SUMMARY:Liga de Quito🇪🇨 vs. Deportivo Táchira🇻🇪
+DESCRIPTION:Group C - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250422T190000Z_LigaDeQuito_Flamengo
+DTSTART;TZID=America/Montevideo:20250422T190000
+DTEND;TZID=America/Montevideo:20250422T210000
+SUMMARY:Liga de Quito🇪🇨 vs. Flamengo🇧🇷
+DESCRIPTION:Group C - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250507T190000Z_DeportivoTachira_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20250507T190000
+DTEND;TZID=America/Montevideo:20250507T210000
+SUMMARY:Deportivo Táchira🇻🇪 vs. Liga de Quito🇪🇨
+DESCRIPTION:Group C - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Pueblo Nuevo Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250515T213000Z_Flamengo_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20250515T213000
+DTEND;TZID=America/Montevideo:20250515T233000
+SUMMARY:Flamengo🇧🇷 vs. Liga de Quito🇪🇨
+DESCRIPTION:Group C - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:do Maracana Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250528T213000Z_LigaDeQuito_CentralCordoba
+DTSTART;TZID=America/Montevideo:20250528T213000
+DTEND;TZID=America/Montevideo:20250528T233000
+SUMMARY:Liga de Quito🇪🇨 vs. Central Córdoba🇦🇷
+DESCRIPTION:Group C - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250814T190000Z_Botafogo_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20250814T190000
+DTEND;TZID=America/Montevideo:20250814T210000
+SUMMARY:Botafogo🇧🇷 vs. Liga de Quito🇪🇨
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico Nilton Santos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250821T190000Z_LigaDeQuito_Botafogo
+DTSTART;TZID=America/Montevideo:20250821T190000
+DTEND;TZID=America/Montevideo:20250821T210000
+SUMMARY:Liga de Quito🇪🇨 vs. Botafogo🇧🇷
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250918T190000Z_LigaDeQuito_SanPablo
+DTSTART;TZID=America/Montevideo:20250918T190000
+DTEND;TZID=America/Montevideo:20250918T210000
+SUMMARY:Liga de Quito🇪🇨 vs. San Pablo🇧🇷
+DESCRIPTION:Quarter-finals - First leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250925T190000Z_SanPablo_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20250925T190000
+DTEND;TZID=America/Montevideo:20250925T210000
+SUMMARY:San Pablo🇧🇷 vs. Liga de Quito🇪🇨
+DESCRIPTION:Quarter-finals - Second leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:MorumBIS
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251023T213000Z_LigaDeQuito_Palmeiras
+DTSTART;TZID=America/Montevideo:20251023T213000
+DTEND;TZID=America/Montevideo:20251023T233000
+SUMMARY:Liga de Quito🇪🇨 vs. Palmeiras🇧🇷
+DESCRIPTION:Semi-finals - First leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251030T213000Z_Palmeiras_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20251030T213000
+DTEND;TZID=America/Montevideo:20251030T233000
+SUMMARY:Palmeiras🇧🇷 vs. Liga de Quito🇪🇨
+DESCRIPTION:Semi-finals - Second leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260407T210000Z_AlwaysReady_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20260407T210000
+DTEND;TZID=America/Montevideo:20260407T230000
+SUMMARY:Always Ready🇧🇴 vs. Liga de Quito🇪🇨
+DESCRIPTION:Group G - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Municipal Villa Ingenio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260414T230000Z_LigaDeQuito_Mirassol
+DTSTART;TZID=America/Montevideo:20260414T230000
+DTEND;TZID=America/Montevideo:20260415T010000
+SUMMARY:Liga de Quito🇪🇨 vs. Mirassol🇧🇷
+DESCRIPTION:Group G - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260428T190000Z_Lanus_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20260428T190000
+DTEND;TZID=America/Montevideo:20260428T210000
+SUMMARY:Lanús🇦🇷 vs. Liga de Quito🇪🇨
+DESCRIPTION:Group G - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Ciudad de Lanús
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260507T190000Z_Mirassol_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20260507T190000
+DTEND;TZID=America/Montevideo:20260507T210000
+SUMMARY:Mirassol🇧🇷 vs. Liga de Quito🇪🇨
+DESCRIPTION:Group G - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Municipal José Maria de Campos Maia Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260520T213000Z_LigaDeQuito_Lanus
+DTSTART;TZID=America/Montevideo:20260520T213000
+DTEND;TZID=America/Montevideo:20260520T233000
+SUMMARY:Liga de Quito🇪🇨 vs. Lanús🇦🇷
+DESCRIPTION:Group G - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260526T190000Z_LigaDeQuito_AlwaysReady
+DTSTART;TZID=America/Montevideo:20260526T190000
+DTEND;TZID=America/Montevideo:20260526T210000
+SUMMARY:Liga de Quito🇪🇨 vs. Always Ready🇧🇴
+DESCRIPTION:Group G - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260813T190000Z_Mirassol_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20260813T190000
+DTEND;TZID=America/Montevideo:20260813T210000
+SUMMARY:Mirassol🇧🇷 vs. Liga de Quito🇪🇨
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:a definir Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260820T190000Z_LigaDeQuito_Mirassol
+DTSTART;TZID=America/Montevideo:20260820T190000
+DTEND;TZID=America/Montevideo:20260820T210000
+SUMMARY:Liga de Quito🇪🇨 vs. Mirassol🇧🇷
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+END:VCALENDAR

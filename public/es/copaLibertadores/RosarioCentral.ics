@@ -1,0 +1,143 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//ES
+BEGIN:VEVENT
+UID:20240404T190000Z_RosarioCentral_Peñarol
+DTSTART;TZID=America/Montevideo:20240404T190000
+DTEND;TZID=America/Montevideo:20240404T210000
+SUMMARY:Rosario Central🇦🇷 vs. Peñarol🇺🇾
+DESCRIPTION:Grupo G - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Gigante de Arroyito
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T190000Z_AtléticoMineiro_RosarioCentral
+DTSTART;TZID=America/Montevideo:20240410T190000
+DTEND;TZID=America/Montevideo:20240410T210000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Rosario Central🇦🇷
+DESCRIPTION:Grupo G - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240423T190000Z_Caracas_RosarioCentral
+DTSTART;TZID=America/Montevideo:20240423T190000
+DTEND;TZID=America/Montevideo:20240423T210000
+SUMMARY:Caracas🇻🇪 vs. Rosario Central🇦🇷
+DESCRIPTION:Grupo G - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Olímpico U.C.V.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T190000Z_RosarioCentral_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20240507T190000
+DTEND;TZID=America/Montevideo:20240507T210000
+SUMMARY:Rosario Central🇦🇷 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Grupo G - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Gigante de Arroyito
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240516T190000Z_RosarioCentral_Caracas
+DTSTART;TZID=America/Montevideo:20240516T190000
+DTEND;TZID=America/Montevideo:20240516T210000
+SUMMARY:Rosario Central🇦🇷 vs. Caracas🇻🇪
+DESCRIPTION:Grupo G - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Gigante de Arroyito
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240528T190000Z_Peñarol_RosarioCentral
+DTSTART;TZID=America/Montevideo:20240528T190000
+DTEND;TZID=America/Montevideo:20240528T210000
+SUMMARY:Peñarol🇺🇾 vs. Rosario Central🇦🇷
+DESCRIPTION:Grupo G - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260409T190000Z_RosarioCentral_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20260409T190000
+DTEND;TZID=America/Montevideo:20260409T210000
+SUMMARY:Rosario Central🇦🇷 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Grupo H - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Gigante de Arroyito
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260415T190000Z_Libertad_RosarioCentral
+DTSTART;TZID=America/Montevideo:20260415T190000
+DTEND;TZID=America/Montevideo:20260415T210000
+SUMMARY:Libertad🇵🇾 vs. Rosario Central🇦🇷
+DESCRIPTION:Grupo H - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Tigo La Huerta
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260428T210000Z_UniversidadCentral_RosarioCentral
+DTSTART;TZID=America/Montevideo:20260428T210000
+DTEND;TZID=America/Montevideo:20260428T230000
+SUMMARY:Universidad Central🇻🇪 vs. Rosario Central🇦🇷
+DESCRIPTION:Grupo H - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Olímpico de la UCV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260505T190000Z_RosarioCentral_Libertad
+DTSTART;TZID=America/Montevideo:20260505T190000
+DTEND;TZID=America/Montevideo:20260505T210000
+SUMMARY:Rosario Central🇦🇷 vs. Libertad🇵🇾
+DESCRIPTION:Grupo H - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Gigante de Arroyito
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260519T190000Z_RosarioCentral_UniversidadCentral
+DTSTART;TZID=America/Montevideo:20260519T190000
+DTEND;TZID=America/Montevideo:20260519T210000
+SUMMARY:Rosario Central🇦🇷 vs. Universidad Central🇻🇪
+DESCRIPTION:Grupo H - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Gigante de Arroyito
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260527T190000Z_IndependienteDelValle_RosarioCentral
+DTSTART;TZID=America/Montevideo:20260527T190000
+DTEND;TZID=America/Montevideo:20260527T210000
+SUMMARY:Independiente del Valle🇪🇨 vs. Rosario Central🇦🇷
+DESCRIPTION:Grupo H - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Banco Guayaquil
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260813T213000Z_RosarioCentral_Corinthians
+DTSTART;TZID=America/Montevideo:20260813T213000
+DTEND;TZID=America/Montevideo:20260813T233000
+SUMMARY:Rosario Central🇦🇷 vs. Corinthians🇧🇷
+DESCRIPTION:Octavos de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Gigante de Arroyito
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260820T213000Z_Corinthians_RosarioCentral
+DTSTART;TZID=America/Montevideo:20260820T213000
+DTEND;TZID=America/Montevideo:20260820T233000
+SUMMARY:Corinthians🇧🇷 vs. Rosario Central🇦🇷
+DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
+END:VCALENDAR

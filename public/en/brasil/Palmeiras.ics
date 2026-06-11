@@ -1,0 +1,293 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//EN
+BEGIN:VEVENT
+UID:20240403T213000Z_SanLorenzo_Palmeiras
+DTSTART;TZID=America/Montevideo:20240403T213000
+DTEND;TZID=America/Montevideo:20240403T233000
+SUMMARY:San Lorenzo🇦🇷 vs. Palmeiras🇧🇷
+DESCRIPTION:Group F - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Nuevo Gasómetro Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240411T210000Z_Palmeiras_Liverpool
+DTSTART;TZID=America/Montevideo:20240411T210000
+DTEND;TZID=America/Montevideo:20240411T230000
+SUMMARY:Palmeiras🇧🇷 vs. Liverpool🇺🇾
+DESCRIPTION:Group F - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Allianz Parque Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240424T213000Z_IndependienteDelValle_Palmeiras
+DTSTART;TZID=America/Montevideo:20240424T213000
+DTEND;TZID=America/Montevideo:20240424T233000
+SUMMARY:Independiente del Valle🇪🇨 vs. Palmeiras🇧🇷
+DESCRIPTION:Group F - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Guayaquil Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240509T190000Z_Liverpool_Palmeiras
+DTSTART;TZID=America/Montevideo:20240509T190000
+DTEND;TZID=America/Montevideo:20240509T210000
+SUMMARY:Liverpool🇺🇾 vs.Palmeiras🇧🇷
+DESCRIPTION:Group F - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Centenario Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T213000Z_Palmeiras_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20240515T213000
+DTEND;TZID=America/Montevideo:20240515T233000
+SUMMARY:Palmeiras🇧🇷 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Group F - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Allianz Parque Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240530T190000Z_Palmeiras_SanLorenzo
+DTSTART;TZID=America/Montevideo:20240530T190000
+DTEND;TZID=America/Montevideo:20240530T210000
+SUMMARY:Palmeiras🇧🇷 vs. San Lorenzo🇦🇷
+DESCRIPTION:Group F - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Allianz Parque Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240814T213000Z_Botafogo_Palmeiras
+DTSTART;TZID=America/Montevideo:20240814T213000
+DTEND;TZID=America/Montevideo:20240814T233000
+SUMMARY:Botafogo🇧🇷 vs. Palmeiras🇧🇷
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+LOCATION:Olímpico Nilton Santos Stadium
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240821T213000Z_Palmeiras_Botafogo
+DTSTART;TZID=America/Montevideo:20240821T213000
+DTEND;TZID=America/Montevideo:20240821T233000
+SUMMARY:Palmeiras🇧🇷 vs. Botafogo🇧🇷
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+LOCATION:Allianz Parque Stadium
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250403T190000Z_SportingCristal_Palmeiras
+DTSTART;TZID=America/Montevideo:20250403T190000
+DTEND;TZID=America/Montevideo:20250403T210000
+SUMMARY:Sporting Cristal🇵🇪 vs. Palmeiras🇧🇷
+DESCRIPTION:Group G - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Nacional de Lima Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250409T213000Z_Palmeiras_CerroPorteno
+DTSTART;TZID=America/Montevideo:20250409T213000
+DTEND;TZID=America/Montevideo:20250409T233000
+SUMMARY:Palmeiras🇧🇷 vs. Cerro Porteño🇵🇾
+DESCRIPTION:Group G - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250424T190000Z_Bolivar_Palmeiras
+DTSTART;TZID=America/Montevideo:20250424T190000
+DTEND;TZID=America/Montevideo:20250424T210000
+SUMMARY:Bolívar🇧🇴 vs. Palmeiras🇧🇷
+DESCRIPTION:Group G - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Hernando Siles Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250507T213000Z_CerroPorteno_Palmeiras
+DTSTART;TZID=America/Montevideo:20250507T213000
+DTEND;TZID=America/Montevideo:20250507T233000
+SUMMARY:Cerro Porteño🇵🇾 vs. Palmeiras🇧🇷
+DESCRIPTION:Group G - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:ueno La Nueva Olla Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250515T190000Z_Palmeiras_Bolivar
+DTSTART;TZID=America/Montevideo:20250515T190000
+DTEND;TZID=America/Montevideo:20250515T210000
+SUMMARY:Palmeiras🇧🇷 vs. Bolívar🇧🇴
+DESCRIPTION:Group G - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250528T213000Z_Palmeiras_SportingCristal
+DTSTART;TZID=America/Montevideo:20250528T213000
+DTEND;TZID=America/Montevideo:20250528T233000
+SUMMARY:Palmeiras🇧🇷 vs. Sporting Cristal🇵🇪
+DESCRIPTION:Group G - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250814T213000Z_Universitario_Palmeiras
+DTSTART;TZID=America/Montevideo:20250814T213000
+DTEND;TZID=America/Montevideo:20250814T233000
+SUMMARY:Universitario🇵🇪 vs. Palmeiras🇧🇷
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Monumental de Lima Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250821T213000Z_Palmeiras_Universitario
+DTSTART;TZID=America/Montevideo:20250821T213000
+DTEND;TZID=America/Montevideo:20250821T233000
+SUMMARY:Palmeiras🇧🇷 vs. Universitario🇵🇪
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250917T213000Z_River_Palmeiras
+DTSTART;TZID=America/Montevideo:20250917T213000
+DTEND;TZID=America/Montevideo:20250917T233000
+SUMMARY:River🇦🇷 vs. Palmeiras🇧🇷
+DESCRIPTION:Quarter-finals - First leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Más Monumental
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250924T213000Z_Palmeiras_River
+DTSTART;TZID=America/Montevideo:20250924T213000
+DTEND;TZID=America/Montevideo:20250924T233000
+SUMMARY:Palmeiras🇧🇷 vs. River🇦🇷
+DESCRIPTION:Quarter-finals - Second leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251023T213000Z_LigaDeQuito_Palmeiras
+DTSTART;TZID=America/Montevideo:20251023T213000
+DTEND;TZID=America/Montevideo:20251023T233000
+SUMMARY:Liga de Quito🇪🇨 vs. Palmeiras🇧🇷
+DESCRIPTION:Semi-finals - First leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251030T213000Z_Palmeiras_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20251030T213000
+DTEND;TZID=America/Montevideo:20251030T233000
+SUMMARY:Palmeiras🇧🇷 vs. Liga de Quito🇪🇨
+DESCRIPTION:Semi-finals - Second leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251129T180000Z_Palmeiras_Flamengo
+DTSTART;TZID=America/Montevideo:20251129T180000
+DTEND;TZID=America/Montevideo:20251129T200000
+SUMMARY:Palmeiras🇧🇷 vs. Flamengo🇧🇷
+DESCRIPTION:Final - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Monumental de Lima Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260408T213000Z_Junior_Palmeiras
+DTSTART;TZID=America/Montevideo:20260408T213000
+DTEND;TZID=America/Montevideo:20260408T233000
+SUMMARY:Junior🇨🇴 vs. Palmeiras🇧🇷
+DESCRIPTION:Group F - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:a definir Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260416T190000Z_Palmeiras_SportingCristal
+DTSTART;TZID=America/Montevideo:20260416T190000
+DTEND;TZID=America/Montevideo:20260416T210000
+SUMMARY:Palmeiras🇧🇷 vs. Sporting Cristal🇵🇪
+DESCRIPTION:Group F - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260429T213000Z_CerroPorteno_Palmeiras
+DTSTART;TZID=America/Montevideo:20260429T213000
+DTEND;TZID=America/Montevideo:20260429T233000
+SUMMARY:Cerro Porteño🇵🇾 vs. Palmeiras🇧🇷
+DESCRIPTION:Group F - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:ueno La Nueva Olla Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260505T190000Z_SportingCristal_Palmeiras
+DTSTART;TZID=America/Montevideo:20260505T190000
+DTEND;TZID=America/Montevideo:20260505T210000
+SUMMARY:Sporting Cristal🇵🇪 vs. Palmeiras🇧🇷
+DESCRIPTION:Group F - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Alejandro Villanueva Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260520T213000Z_Palmeiras_CerroPorteno
+DTSTART;TZID=America/Montevideo:20260520T213000
+DTEND;TZID=America/Montevideo:20260520T233000
+SUMMARY:Palmeiras🇧🇷 vs. Cerro Porteño🇵🇾
+DESCRIPTION:Group F - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260528T190000Z_Palmeiras_Junior
+DTSTART;TZID=America/Montevideo:20260528T190000
+DTEND;TZID=America/Montevideo:20260528T210000
+SUMMARY:Palmeiras🇧🇷 vs. Junior🇨🇴
+DESCRIPTION:Group F - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260812T190000Z_Palmeiras_CerroPorteno
+DTSTART;TZID=America/Montevideo:20260812T190000
+DTEND;TZID=America/Montevideo:20260812T210000
+SUMMARY:Palmeiras🇧🇷 vs. Cerro Porteño🇵🇾
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260819T190000Z_CerroPorteno_Palmeiras
+DTSTART;TZID=America/Montevideo:20260819T190000
+DTEND;TZID=America/Montevideo:20260819T210000
+SUMMARY:Cerro Porteño🇵🇾 vs. Palmeiras🇧🇷
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:ueno La Nueva Olla Stadium
+END:VEVENT
+END:VCALENDAR

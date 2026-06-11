@@ -1,0 +1,183 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//EN
+BEGIN:VEVENT
+UID:20260408T210000Z_IndependienteDeMedellin_Estudiantes
+DTSTART;TZID=America/Montevideo:20260408T210000
+DTEND;TZID=America/Montevideo:20260408T230000
+SUMMARY:Independiente de Medellín🇨🇴 vs. Estudiantes🇦🇷
+DESCRIPTION:Group A - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Atanasio Girardot
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260408T213000Z_Cusco_Flamengo
+DTSTART;TZID=America/Montevideo:20260408T213000
+DTEND;TZID=America/Montevideo:20260408T233000
+SUMMARY:Cusco🇵🇪 vs. Flamengo🇧🇷
+DESCRIPTION:Group A - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Inca Garcilaso de la Vega Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260414T190000Z_Estudiantes_Cusco
+DTSTART;TZID=America/Montevideo:20260414T190000
+DTEND;TZID=America/Montevideo:20260414T210000
+SUMMARY:Estudiantes🇦🇷 vs. Cusco🇵🇪
+DESCRIPTION:Group A - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Jorge Luis Hirschi Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260416T213000Z_Flamengo_IndependienteDeMedellin
+DTSTART;TZID=America/Montevideo:20260416T213000
+DTEND;TZID=America/Montevideo:20260416T233000
+SUMMARY:Flamengo🇧🇷 vs. Independiente de Medellín🇨🇴
+DESCRIPTION:Group A - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:do Maracana Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260429T213000Z_Estudiantes_Flamengo
+DTSTART;TZID=America/Montevideo:20260429T213000
+DTEND;TZID=America/Montevideo:20260429T233000
+SUMMARY:Estudiantes🇦🇷 vs. Flamengo🇧🇷
+DESCRIPTION:Group A - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Jorge Luis Hirschi Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260430T230000Z_IndependienteDeMedellin_Cusco
+DTSTART;TZID=America/Montevideo:20260430T230000
+DTEND;TZID=America/Montevideo:20260501T010000
+SUMMARY:Independiente de Medellín🇨🇴 vs. Cusco🇵🇪
+DESCRIPTION:Group A - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Atanasio Girardot
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260506T190000Z_Cusco_Estudiantes
+DTSTART;TZID=America/Montevideo:20260506T190000
+DTEND;TZID=America/Montevideo:20260506T210000
+SUMMARY:Cusco🇵🇪 vs. Estudiantes🇦🇷
+DESCRIPTION:Group A - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Inca Garcilaso de la Vega Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260507T213000Z_IndependienteDeMedellin_Flamengo
+DTSTART;TZID=America/Montevideo:20260507T213000
+DTEND;TZID=America/Montevideo:20260507T233000
+SUMMARY:Independiente de Medellín🇨🇴 vs. Flamengo🇧🇷
+DESCRIPTION:Group A - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Atanasio Girardot
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260520T213000Z_Flamengo_Estudiantes
+DTSTART;TZID=America/Montevideo:20260520T213000
+DTEND;TZID=America/Montevideo:20260520T233000
+SUMMARY:Flamengo🇧🇷 vs. Estudiantes🇦🇷
+DESCRIPTION:Group A - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:do Maracana Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260520T230000Z_Cusco_IndependienteDeMedellin
+DTSTART;TZID=America/Montevideo:20260520T230000
+DTEND;TZID=America/Montevideo:20260521T010000
+SUMMARY:Cusco🇵🇪 vs. Independiente de Medellín🇨🇴
+DESCRIPTION:Group A - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Inca Garcilaso de la Vega Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260526T213000Z_Estudiantes_IndependienteDeMedellin
+DTSTART;TZID=America/Montevideo:20260526T213000
+DTEND;TZID=America/Montevideo:20260526T233000
+SUMMARY:Estudiantes🇦🇷 vs. Independiente de Medellín🇨🇴
+DESCRIPTION:Group A - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Jorge Luis Hirschi Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260526T213000Z_Flamengo_Cusco
+DTSTART;TZID=America/Montevideo:20260526T213000
+DTEND;TZID=America/Montevideo:20260526T233000
+SUMMARY:Flamengo🇧🇷 vs. Cusco🇵🇪
+DESCRIPTION:Group A - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:do Maracana Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260722T190000Z_IndependienteDeMedellin_VascoDaGama
+DTSTART;TZID=America/Montevideo:20260722T190000
+DTEND;TZID=America/Montevideo:20260722T210000
+SUMMARY:Independiente de Medellín🇨🇴 vs. Vasco da Gama🇧🇷
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Atanasio Girardot
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260729T190000Z_VascoDaGama_IndependienteDeMedellin
+DTSTART;TZID=America/Montevideo:20260729T190000
+DTEND;TZID=America/Montevideo:20260729T210000
+SUMMARY:Vasco da Gama🇧🇷 vs. Independiente de Medellín🇨🇴
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Estádio São Januário
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260811T213000Z_Estudiantes_UniversidadCatolica
+DTSTART;TZID=America/Montevideo:20260811T213000
+DTEND;TZID=America/Montevideo:20260811T233000
+SUMMARY:Estudiantes🇦🇷 vs. Universidad Católica🇪🇨
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Jorge Luis Hirschi Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260812T213000Z_Cruzeiro_Flamengo
+DTSTART;TZID=America/Montevideo:20260812T213000
+DTEND;TZID=America/Montevideo:20260812T233000
+SUMMARY:Cruzeiro🇧🇷 vs. Flamengo🇧🇷
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Mineirão Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260818T213000Z_UniversidadCatolica_Estudiantes
+DTSTART;TZID=America/Montevideo:20260818T213000
+DTEND;TZID=America/Montevideo:20260818T233000
+SUMMARY:Universidad Católica🇪🇨 vs. Estudiantes🇦🇷
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:San Carlos de Apoquindo Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260819T213000Z_Flamengo_Cruzeiro
+DTSTART;TZID=America/Montevideo:20260819T213000
+DTEND;TZID=America/Montevideo:20260819T233000
+SUMMARY:Flamengo🇧🇷 vs. Cruzeiro🇧🇷
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:do Maracana Stadium
+END:VEVENT
+END:VCALENDAR

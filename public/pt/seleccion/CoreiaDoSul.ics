@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios Copa del Mundo//PT
+BEGIN:VEVENT
+UID:20260611T230000Z_CoreiaDoSul_RepublicaTcheca
+DTSTART;TZID=America/Montevideo:20260611T230000
+DTEND;TZID=America/Montevideo:20260612T010000
+SUMMARY:Coreia do Sul vs. República Tcheca
+DESCRIPTION:Grupo A - Rodada 1 - Copa do Mundo
+CLASS:PUBLIC
+LOCATION:Estádio Akron
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260618T220000Z_Mexico_CoreiaDoSul
+DTSTART;TZID=America/Montevideo:20260618T220000
+DTEND;TZID=America/Montevideo:20260619T000000
+SUMMARY:México vs. Coreia do Sul
+DESCRIPTION:Grupo A - Rodada 2 - Copa do Mundo
+CLASS:PUBLIC
+LOCATION:Estádio Akron
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260624T220000Z_AfricaDoSul_CoreiaDoSul
+DTSTART;TZID=America/Montevideo:20260624T220000
+DTEND;TZID=America/Montevideo:20260625T000000
+SUMMARY:África do Sul vs. Coreia do Sul
+DESCRIPTION:Grupo A - Rodada 3 - Copa do Mundo
+CLASS:PUBLIC
+LOCATION:Estádio BBVA
+END:VEVENT
+END:VCALENDAR

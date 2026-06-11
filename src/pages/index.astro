@@ -1,53 +1,8 @@
 ---
-import Layout from '../layouts/Layout.astro';
-import Tournaments from '../components/Tournaments.astro';
+import Home from "../components/pages/Home.astro";
+import { alternatesFor, urlFor } from "../i18n/ui";
 
+const alternates = alternatesFor((l) => urlFor(l));
 ---
 
-<Layout 
-    title="Calendarios Deportivos"
-    description="Suscribite al calendario de tu equipo y tendrás todos los partidos incluidos en el calendario de tu teléfono o tu computadora."
-    image="img/cup1.jpg"
-    >
-	<main>
-
-        <h1 class="
-            text-4xl sm:text-5xl md:text-6xl lg:text-7xl  
-            text-center font-bold  p-0.5 mb-4">
-            Calendarios <span class="text-gradient">deportivos</span>
-        </h1>
-  
-		<p class="instructions flex justify-center 
-        text-sm sm:text-base md:text-lg lg:text-xl
-        ">
-			Suscribite al calendario de tu equipo y tendrás todos los partidos incluidos en el calendario de tu teléfono o tu computadora. 
-		</p>
-        <Tournaments/>
-	</main>
-</Layout>
-
-<style>
-	main {
-		margin: auto;
-		padding: 1rem;
-		width: 800px;
-		max-width: calc(100% - 2rem);
-		color: white;
-		font-size: 20px;
-		line-height: 1.6;
-	}
-	.text-gradient {
-		background-image: var(--accent-gradient);
-		-webkit-background-clip: text;
-		-webkit-text-fill-color: transparent;
-		background-size: 400%;
-		background-position: 0%;
-	}
-	.instructions {
-		margin-bottom: 5rem;
-		border: 1px solid rgba(var(--accent-light), 25%);
-		background: linear-gradient(rgba(var(--accent-dark), 66%), rgba(var(--accent-dark), 33%));
-		padding: 1.5rem;
-		border-radius: 8px;
-	}
-</style>
+<Home lang="es" alternates={alternates} />

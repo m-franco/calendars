@@ -1,0 +1,143 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//EN
+BEGIN:VEVENT
+UID:20240402T213000Z_Racing_Uru_Corinthians
+DTSTART;TZID=America/Montevideo:20240402T213000
+DTEND;TZID=America/Montevideo:20240402T233000
+SUMMARY:Racing(Uru)🇺🇾 vs. Corinthians🇧🇷
+DESCRIPTION:Group F - Matchday 1 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Centenario Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T190000Z_Argentinos_Juniors_Racing_Uru
+DTSTART;TZID=America/Montevideo:20240409T190000
+DTEND;TZID=America/Montevideo:20240409T210000
+SUMMARY:Argentinos Juniors🇦🇷 vs.Racing(Uru)🇺🇾
+DESCRIPTION:Group F - Matchday 2 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Diego Armando Maradona Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T190000Z_Nacional_Par_Racing_Uru
+DTSTART;TZID=America/Montevideo:20240425T190000
+DTEND;TZID=America/Montevideo:20240425T210000
+SUMMARY:Nacional(Par)🇵🇾 vs.Racing(Uru)🇺🇾
+DESCRIPTION:Group F - Matchday 3 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Defensores del Chaco Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T190000Z_Racing_Uru_Nacional_Par
+DTSTART;TZID=America/Montevideo:20240507T190000
+DTEND;TZID=America/Montevideo:20240507T210000
+SUMMARY:Racing(Uru)🇺🇾 vs. Nacional(Par)🇵🇾
+DESCRIPTION:Group F - Matchday 4 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Centenario Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240514T190000Z_Racing_Uru_Nacional_Par
+DTSTART;TZID=America/Montevideo:20240514T190000
+DTEND;TZID=America/Montevideo:20240514T210000
+SUMMARY:Racing(Uru)🇺🇾 vs. Nacional(Par)🇵🇾
+DESCRIPTION:Group F - Matchday 5 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Centenario Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240528T190000Z_Corinthians_Racing_Uru
+DTSTART;TZID=America/Montevideo:20240528T190000
+DTEND;TZID=America/Montevideo:20240528T210000
+SUMMARY:Corinthians🇧🇷 vs.Racing(Uru)🇺🇾
+DESCRIPTION:Group F - Matchday 6 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240716T190000Z_Huachipato_Racing_Uru
+DTSTART;TZID=America/Montevideo:20240716T190000
+DTEND;TZID=America/Montevideo:20240716T210000
+SUMMARY:Huachipato🇨🇱 vs. Racing(Uru)🇺🇾
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+LOCATION:Ester Roa Stadium, Concepción
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240723T190000Z_Racing_Uru_Huachipato
+DTSTART;TZID=America/Montevideo:20240723T190000
+DTEND;TZID=America/Montevideo:20240723T210000
+SUMMARY:Racing(Uru)🇺🇾 vs. Huachipato🇨🇱
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+LOCATION:Centenario Stadium, Montevideo
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250402T213000Z_RacingUruguay_AmericaDeCali
+DTSTART;TZID=America/Montevideo:20250402T213000
+DTEND;TZID=America/Montevideo:20250402T233000
+SUMMARY:Racing (Uru)🇺🇾 vs. América de Cali🇨🇴
+DESCRIPTION:Group C - Matchday 1 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Centenario Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250409T190000Z_Huracan_RacingUruguay
+DTSTART;TZID=America/Montevideo:20250409T190000
+DTEND;TZID=America/Montevideo:20250409T210000
+SUMMARY:Huracán🇦🇷 vs. Racing (Uru)🇺🇾
+DESCRIPTION:Group C - Matchday 2 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Tomás Adolfo Ducó
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250424T190000Z_Corinthians_RacingUruguay
+DTSTART;TZID=America/Montevideo:20250424T190000
+DTEND;TZID=America/Montevideo:20250424T210000
+SUMMARY:Corinthians🇧🇷 vs. Racing (Uru)🇺🇾
+DESCRIPTION:Group C - Matchday 3 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250508T190000Z_RacingUruguay_Huracan
+DTSTART;TZID=America/Montevideo:20250508T190000
+DTEND;TZID=America/Montevideo:20250508T210000
+SUMMARY:Racing (Uru)🇺🇾 vs. Huracán🇦🇷
+DESCRIPTION:Group C - Matchday 4 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Centenario Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250515T190000Z_RacingUruguay_Corinthians
+DTSTART;TZID=America/Montevideo:20250515T190000
+DTEND;TZID=America/Montevideo:20250515T210000
+SUMMARY:Racing (Uru)🇺🇾 vs. Corinthians🇧🇷
+DESCRIPTION:Group C - Matchday 5 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Centenario Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250527T213000Z_AmericaDeCali_RacingUruguay
+DTSTART;TZID=America/Montevideo:20250527T213000
+DTEND;TZID=America/Montevideo:20250527T233000
+SUMMARY:América de Cali🇨🇴 vs. Racing (Uru)🇺🇾
+DESCRIPTION:Group C - Matchday 6 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Pascual Guerrero
+END:VEVENT
+END:VCALENDAR

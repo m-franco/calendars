@@ -1,16 +1,19 @@
 ---
 import TournamentCard from "./TournamentCard.astro";
 
+import type { Lang } from "../i18n/ui";
+
 interface Props {
     title: string;
-    href: string;    
+    href: string;
     imgSrc: string;
     backgroundImage: string;
+    lang?: Lang;
 }
 
 const basePath = `${import.meta.env.BASE_URL.replace(/\/$/, "")}/`;
 
-const { title, href, imgSrc, backgroundImage } = Astro.props;
+const { title, href, imgSrc, backgroundImage, lang = "es" } = Astro.props;
 ---
 
 <ul role="list" class="flex flex-col">
@@ -18,12 +21,13 @@ const { title, href, imgSrc, backgroundImage } = Astro.props;
         <li class="bg-cyan-700/50 my-2 pb-3 pt-2 px-2 rounded-xl">
             <div class="w-full text-center mb-2">{title}</div>
             <ul role="list" class="flex flex-wrap justify-around gap-2">
-                <TournamentCard 
-                title={title} 
-                href={href} 
+                <TournamentCard
+                title={title}
+                href={href}
                 imagePath={basePath}
                 imgSrc={imgSrc}
-                backgroundImage={backgroundImage} />
+                backgroundImage={backgroundImage}
+                lang={lang} />
             </ul>
         </li>
     }

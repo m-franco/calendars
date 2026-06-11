@@ -1,0 +1,1023 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//EN
+BEGIN:VEVENT
+UID:20240402T190000Z_Cobresal_Barcelona
+DTSTART;TZID=America/Montevideo:20240402T190000
+DTEND;TZID=America/Montevideo:20240402T210000
+SUMMARY:Cobresal🇨🇱 vs. Barcelona🇪🇨
+DESCRIPTION:Group B - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Zorros del Desierto Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240402T190000Z_Liverpool_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20240402T190000
+DTEND;TZID=America/Montevideo:20240402T210000
+SUMMARY:Liverpool🇺🇾 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Group F - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Centenario Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240402T190000Z_Universitario_LigaQuito
+DTSTART;TZID=America/Montevideo:20240402T190000
+DTEND;TZID=America/Montevideo:20240402T210000
+SUMMARY:Universitario🇵🇪 vs. Liga de Quito🇪🇨
+DESCRIPTION:Group D - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Monumental U Marathon
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T210000Z_Barcelona_Talleres
+DTSTART;TZID=America/Montevideo:20240409T210000
+DTEND;TZID=America/Montevideo:20240409T230000
+SUMMARY:Barcelona🇪🇨 vs. Talleres🇦🇷
+DESCRIPTION:Group B - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Monumental Banco Pichincha Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T190000Z_IndependienteDelValle_SanLorenzo
+DTSTART;TZID=America/Montevideo:20240410T190000
+DTEND;TZID=America/Montevideo:20240410T210000
+SUMMARY:Independiente del Valle🇪🇨 vs. San Lorenzo🇦🇷
+DESCRIPTION:Group F - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Guayaquil Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240411T190000Z_LigaQuito_Botafogo
+DTSTART;TZID=America/Montevideo:20240411T190000
+DTEND;TZID=America/Montevideo:20240411T210000
+SUMMARY:Liga de Quito🇪🇨 vs. Botafogo🇧🇷
+DESCRIPTION:Group D - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240423T230000Z_Junior_LigaQuito
+DTSTART;TZID=America/Montevideo:20240423T230000
+DTEND;TZID=America/Montevideo:20240424T010000
+SUMMARY:Junior🇨🇴 vs. Liga de Quito🇪🇨
+DESCRIPTION:Group D - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Metropolitano Roberto Meléndez Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240424T213000Z_IndependienteDelValle_Palmeiras
+DTSTART;TZID=America/Montevideo:20240424T213000
+DTEND;TZID=America/Montevideo:20240424T233000
+SUMMARY:Independiente del Valle🇪🇨 vs. Palmeiras🇧🇷
+DESCRIPTION:Group F - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Guayaquil Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T210000Z_Barcelona_SanPablo
+DTSTART;TZID=America/Montevideo:20240425T210000
+DTEND;TZID=America/Montevideo:20240425T230000
+SUMMARY:Barcelona🇪🇨 vs. San Pablo🇧🇷
+DESCRIPTION:Group B - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Monumental Banco Pichincha Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240508T190000Z_Talleres_Barcelona
+DTSTART;TZID=America/Montevideo:20240508T190000
+DTEND;TZID=America/Montevideo:20240508T210000
+SUMMARY:Talleres🇦🇷 vs. Barcelona🇪🇨
+DESCRIPTION:Group B - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Mario Alberto Kempes Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240508T213000Z_Botafogo_LigaQuito
+DTSTART;TZID=America/Montevideo:20240508T213000
+DTEND;TZID=America/Montevideo:20240508T233000
+SUMMARY:Botafogo🇧🇷 vs. Liga de Quito🇪🇨
+DESCRIPTION:Group D - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Olímpico Nilton Santos Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240509T190000Z_SanLorenzo_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20240509T190000
+DTEND;TZID=America/Montevideo:20240509T210000
+SUMMARY:San Lorenzo🇦🇷 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Group F - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Nuevo Gasómetro Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240514T190000Z_LigaQuito_Junior
+DTSTART;TZID=America/Montevideo:20240514T190000
+DTEND;TZID=America/Montevideo:20240514T210000
+SUMMARY:Liga de Quito🇪🇨 vs. Junior🇨🇴
+DESCRIPTION:Group D - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T213000Z_Palmeiras_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20240515T213000
+DTEND;TZID=America/Montevideo:20240515T233000
+SUMMARY:Palmeiras🇧🇷 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Group F - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Allianz Parque Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240516T210000Z_SanPablo_Barcelona
+DTSTART;TZID=America/Montevideo:20240516T210000
+DTEND;TZID=America/Montevideo:20240516T230000
+SUMMARY:San Pablo🇧🇷 vs. Barcelona🇪🇨
+DESCRIPTION:Group B - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Morumbí Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240528T190000Z_LigaQuito_Universitario
+DTSTART;TZID=America/Montevideo:20240528T190000
+DTEND;TZID=America/Montevideo:20240528T210000
+SUMMARY:Liga de Quito🇪🇨 vs. Universitario🇵🇪
+DESCRIPTION:Group D - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240529T213000Z_Barcelona_Cobresal
+DTSTART;TZID=America/Montevideo:20240529T213000
+DTEND;TZID=America/Montevideo:20240529T233000
+SUMMARY:Barcelona🇪🇨 vs. Cobresal🇨🇱
+DESCRIPTION:Group B - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Monumental Banco Pichincha Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240530T190000Z_IndependienteDelValle_Liverpool
+DTSTART;TZID=America/Montevideo:20240530T190000
+DTEND;TZID=America/Montevideo:20240530T210000
+SUMMARY:Independiente del Valle🇪🇨 vs. Liverpool🇺🇾
+DESCRIPTION:Group F - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Guayaquil Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250401T230000Z_Barcelona_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20250401T230000
+DTEND;TZID=America/Montevideo:20250402T010000
+SUMMARY:Barcelona🇪🇨 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Group B - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Banco Pichincha Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250402T213000Z_Vitoria_UniversidadCatolica
+DTSTART;TZID=America/Montevideo:20250402T213000
+DTEND;TZID=America/Montevideo:20250402T233000
+SUMMARY:Vitória🇧🇷 vs. Universidad Católica🇪🇨
+DESCRIPTION:Group B - Matchday 1 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Manoel Barradas Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250403T190000Z_CentralCordoba_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20250403T190000
+DTEND;TZID=America/Montevideo:20250403T210000
+SUMMARY:Central Córdoba🇦🇷 vs. Liga de Quito🇪🇨
+DESCRIPTION:Group C - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Único Madre de Ciudades Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250403T230000Z_MushucRuna_Palestino
+DTSTART;TZID=America/Montevideo:20250403T230000
+DTEND;TZID=America/Montevideo:20250404T010000
+SUMMARY:Mushuc Runa🇪🇨 vs. Palestino🇨🇱
+DESCRIPTION:Group E - Matchday 1 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Fernando Guerrero Guerrero Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250408T213000Z_River_Barcelona
+DTSTART;TZID=America/Montevideo:20250408T213000
+DTEND;TZID=America/Montevideo:20250408T233000
+SUMMARY:River🇦🇷 vs. Barcelona🇪🇨
+DESCRIPTION:Group B - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Más Monumental
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250408T230000Z_IndependienteDelValle_Universitario
+DTSTART;TZID=America/Montevideo:20250408T230000
+DTEND;TZID=America/Montevideo:20250409T010000
+SUMMARY:Independiente del Valle🇪🇨 vs. Universitario🇵🇪
+DESCRIPTION:Group B - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Banco Guayaquil Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250409T213000Z_Cruzeiro_MushucRuna
+DTSTART;TZID=America/Montevideo:20250409T213000
+DTEND;TZID=America/Montevideo:20250409T233000
+SUMMARY:Cruzeiro🇧🇷 vs. Mushuc Runa🇪🇨
+DESCRIPTION:Group E - Matchday 2 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Mineirão Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250409T230000Z_LigaDeQuito_DeportivoTachira
+DTSTART;TZID=America/Montevideo:20250409T230000
+DTEND;TZID=America/Montevideo:20250410T010000
+SUMMARY:Liga de Quito🇪🇨 vs. Deportivo Táchira🇻🇪
+DESCRIPTION:Group C - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250410T230000Z_UniversidadCatolica_CerroLargo
+DTSTART;TZID=America/Montevideo:20250410T230000
+DTEND;TZID=America/Montevideo:20250411T010000
+SUMMARY:Universidad Católica🇪🇨 vs. Cerro Largo🇺🇾
+DESCRIPTION:Group B - Matchday 2 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Olímpico Atahualpa Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250422T190000Z_LigaDeQuito_Flamengo
+DTSTART;TZID=America/Montevideo:20250422T190000
+DTEND;TZID=America/Montevideo:20250422T210000
+SUMMARY:Liga de Quito🇪🇨 vs. Flamengo🇧🇷
+DESCRIPTION:Group C - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250422T230000Z_Barcelona_Universitario
+DTSTART;TZID=America/Montevideo:20250422T230000
+DTEND;TZID=America/Montevideo:20250423T010000
+SUMMARY:Barcelona🇪🇨 vs. Universitario🇵🇪
+DESCRIPTION:Group B - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Banco Pichincha Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250423T213000Z_IndependienteDelValle_River
+DTSTART;TZID=America/Montevideo:20250423T213000
+DTEND;TZID=America/Montevideo:20250423T233000
+SUMMARY:Independiente del Valle🇪🇨 vs. River🇦🇷
+DESCRIPTION:Group B - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Banco Guayaquil Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250423T230000Z_MushucRuna_Union
+DTSTART;TZID=America/Montevideo:20250423T230000
+DTEND;TZID=America/Montevideo:20250424T010000
+SUMMARY:Mushuc Runa🇪🇨 vs. Unión🇦🇷
+DESCRIPTION:Group E - Matchday 3 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Banco Guayaquil Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250424T230000Z_UniversidadCatolica_DefensaYJusticia
+DTSTART;TZID=America/Montevideo:20250424T230000
+DTEND;TZID=America/Montevideo:20250425T010000
+SUMMARY:Universidad Católica🇪🇨 vs. Defensa Y Justicia🇦🇷
+DESCRIPTION:Group B - Matchday 3 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Olímpico Atahualpa Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250507T190000Z_DeportivoTachira_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20250507T190000
+DTEND;TZID=America/Montevideo:20250507T210000
+SUMMARY:Deportivo Táchira🇻🇪 vs. Liga de Quito🇪🇨
+DESCRIPTION:Group C - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Pueblo Nuevo Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250507T190000Z_CerroLargo_UniversidadCatolica
+DTSTART;TZID=America/Montevideo:20250507T190000
+DTEND;TZID=America/Montevideo:20250507T210000
+SUMMARY:Cerro Largo🇺🇾 vs. Universidad Católica🇪🇨
+DESCRIPTION:Group B - Matchday 4 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Centenario Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250507T213000Z_MushucRuna_Cruzeiro
+DTSTART;TZID=America/Montevideo:20250507T213000
+DTEND;TZID=America/Montevideo:20250507T233000
+SUMMARY:Mushuc Runa🇪🇨 vs. Cruzeiro🇧🇷
+DESCRIPTION:Group E - Matchday 4 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Fernando Guerrero Guerrero Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250508T213000Z_Barcelona_River
+DTSTART;TZID=America/Montevideo:20250508T213000
+DTEND;TZID=America/Montevideo:20250508T233000
+SUMMARY:Barcelona🇪🇨 vs. River🇦🇷
+DESCRIPTION:Group B - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Banco Pichincha Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250508T230000Z_Universitario_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20250508T230000
+DTEND;TZID=America/Montevideo:20250509T010000
+SUMMARY:Universitario🇵🇪 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Group B - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Monumental de Lima Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250513T213000Z_Union_MushucRuna
+DTSTART;TZID=America/Montevideo:20250513T213000
+DTEND;TZID=America/Montevideo:20250513T233000
+SUMMARY:Unión🇦🇷 vs. Mushuc Runa🇪🇨
+DESCRIPTION:Group E - Matchday 5 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:15 de Abril
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250514T190000Z_DefensaYJusticia_UniversidadCatolica
+DTSTART;TZID=America/Montevideo:20250514T190000
+DTEND;TZID=America/Montevideo:20250514T210000
+SUMMARY:Defensa Y Justicia🇦🇷 vs. Universidad Católica🇪🇨
+DESCRIPTION:Group B - Matchday 5 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Norberto Tomaghello
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250514T230000Z_Universitario_Barcelona
+DTSTART;TZID=America/Montevideo:20250514T230000
+DTEND;TZID=America/Montevideo:20250515T010000
+SUMMARY:Universitario🇵🇪 vs. Barcelona🇪🇨
+DESCRIPTION:Group B - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Monumental de Lima Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250515T213000Z_Flamengo_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20250515T213000
+DTEND;TZID=America/Montevideo:20250515T233000
+SUMMARY:Flamengo🇧🇷 vs. Liga de Quito🇪🇨
+DESCRIPTION:Group C - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:do Maracana Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250515T213000Z_River_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20250515T213000
+DTEND;TZID=America/Montevideo:20250515T233000
+SUMMARY:River🇦🇷 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Group B - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Más Monumental
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250527T213000Z_IndependienteDelValle_Barcelona
+DTSTART;TZID=America/Montevideo:20250527T213000
+DTEND;TZID=America/Montevideo:20250527T233000
+SUMMARY:Independiente del Valle🇪🇨 vs. Barcelona🇪🇨
+DESCRIPTION:Group B - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Banco Guayaquil Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250528T213000Z_LigaDeQuito_CentralCordoba
+DTSTART;TZID=America/Montevideo:20250528T213000
+DTEND;TZID=America/Montevideo:20250528T233000
+SUMMARY:Liga de Quito🇪🇨 vs. Central Córdoba🇦🇷
+DESCRIPTION:Group C - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250528T213000Z_Palestino_MushucRuna
+DTSTART;TZID=America/Montevideo:20250528T213000
+DTEND;TZID=America/Montevideo:20250528T233000
+SUMMARY:Palestino🇨🇱 vs. Mushuc Runa🇪🇨
+DESCRIPTION:Group E - Matchday 6 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Municipal de La Florida Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250528T213000Z_UniversidadCatolica_Vitoria
+DTSTART;TZID=America/Montevideo:20250528T213000
+DTEND;TZID=America/Montevideo:20250528T233000
+SUMMARY:Universidad Católica🇪🇨 vs. Vitória🇧🇷
+DESCRIPTION:Group B - Matchday 6 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Olímpico Atahualpa Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250715T213000Z_IndependienteDelValle_VascoDaGama
+DTSTART;TZID=America/Montevideo:20250715T213000
+DTEND;TZID=America/Montevideo:20250715T233000
+SUMMARY:Independiente del Valle🇪🇨 vs. Vasco da Gama🇧🇷
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Olímpico Atahualpa Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250722T213000Z_VascoDaGama_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20250722T213000
+DTEND;TZID=America/Montevideo:20250722T233000
+SUMMARY:Vasco da Gama🇧🇷 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Estádio São Januário
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250812T213000Z_IndependienteDelValle_MushucRuna
+DTSTART;TZID=America/Montevideo:20250812T213000
+DTEND;TZID=America/Montevideo:20250812T233000
+SUMMARY:Independiente del Valle🇪🇨 vs. Mushuc Runa🇪🇨
+DESCRIPTION:Round of 16 - First leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Banco Guayaquil Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250813T213000Z_AlianzaLima_UniversidadCatolica
+DTSTART;TZID=America/Montevideo:20250813T213000
+DTEND;TZID=America/Montevideo:20250813T233000
+SUMMARY:Alianza Lima🇵🇪 vs. Universidad Católica🇪🇨
+DESCRIPTION:Round of 16 - First leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Alejandro Villanueva Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250814T190000Z_Botafogo_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20250814T190000
+DTEND;TZID=America/Montevideo:20250814T210000
+SUMMARY:Botafogo🇧🇷 vs. Liga de Quito🇪🇨
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico Nilton Santos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250819T213000Z_MushucRuna_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20250819T213000
+DTEND;TZID=America/Montevideo:20250819T233000
+SUMMARY:Mushuc Runa🇪🇨 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Olímpico Atahualpa Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250820T213000Z_UniversidadCatolica_AlianzaLima
+DTSTART;TZID=America/Montevideo:20250820T213000
+DTEND;TZID=America/Montevideo:20250820T233000
+SUMMARY:Universidad Católica🇪🇨 vs. Alianza Lima🇵🇪
+DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Olímpico Atahualpa Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250821T190000Z_LigaDeQuito_Botafogo
+DTSTART;TZID=America/Montevideo:20250821T190000
+DTEND;TZID=America/Montevideo:20250821T210000
+SUMMARY:Liga de Quito🇪🇨 vs. Botafogo🇧🇷
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250917T213000Z_IndependienteDelValle_OnceCaldas
+DTSTART;TZID=America/Montevideo:20250917T213000
+DTEND;TZID=America/Montevideo:20250917T233000
+SUMMARY:Independiente del Valle🇪🇨 vs. Once Caldas🇨🇴
+DESCRIPTION:Quarter-finals - First leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Banco Guayaquil Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250918T190000Z_LigaDeQuito_SanPablo
+DTSTART;TZID=America/Montevideo:20250918T190000
+DTEND;TZID=America/Montevideo:20250918T210000
+SUMMARY:Liga de Quito🇪🇨 vs. San Pablo🇧🇷
+DESCRIPTION:Quarter-finals - First leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250924T213000Z_OnceCaldas_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20250924T213000
+DTEND;TZID=America/Montevideo:20250924T233000
+SUMMARY:Once Caldas🇨🇴 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Quarter-finals - Second leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Palogrande
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250925T190000Z_SanPablo_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20250925T190000
+DTEND;TZID=America/Montevideo:20250925T210000
+SUMMARY:San Pablo🇧🇷 vs. Liga de Quito🇪🇨
+DESCRIPTION:Quarter-finals - Second leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:MorumBIS
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251021T213000Z_IndependienteDelValle_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20251021T213000
+DTEND;TZID=America/Montevideo:20251021T233000
+SUMMARY:Independiente del Valle🇪🇨 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Semi-finals - First leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Banco Guayaquil Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251023T213000Z_LigaDeQuito_Palmeiras
+DTSTART;TZID=America/Montevideo:20251023T213000
+DTEND;TZID=America/Montevideo:20251023T233000
+SUMMARY:Liga de Quito🇪🇨 vs. Palmeiras🇧🇷
+DESCRIPTION:Semi-finals - First leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251028T213000Z_AtleticoMineiro_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20251028T213000
+DTEND;TZID=America/Montevideo:20251028T233000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Semi-finals - Second leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251030T213000Z_Palmeiras_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20251030T213000
+DTEND;TZID=America/Montevideo:20251030T233000
+SUMMARY:Palmeiras🇧🇷 vs. Liga de Quito🇪🇨
+DESCRIPTION:Semi-finals - Second leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260407T210000Z_AlwaysReady_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20260407T210000
+DTEND;TZID=America/Montevideo:20260407T230000
+SUMMARY:Always Ready🇧🇴 vs. Liga de Quito🇪🇨
+DESCRIPTION:Group G - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Municipal Villa Ingenio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260407T210000Z_Barcelona_Cruzeiro
+DTSTART;TZID=America/Montevideo:20260407T210000
+DTEND;TZID=America/Montevideo:20260407T230000
+SUMMARY:Barcelona🇪🇨 vs. Cruzeiro🇧🇷
+DESCRIPTION:Group D - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Banco Pichincha Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260407T213000Z_UniversidadCatolica_BocaJuniors
+DTSTART;TZID=America/Montevideo:20260407T213000
+DTEND;TZID=America/Montevideo:20260407T233000
+SUMMARY:Universidad Católica🇪🇨 vs. Boca Juniors🇦🇷
+DESCRIPTION:Group D - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:San Carlos de Apoquindo Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260408T190000Z_DeportivoCuenca_Santos
+DTSTART;TZID=America/Montevideo:20260408T190000
+DTEND;TZID=America/Montevideo:20260408T210000
+SUMMARY:Deportivo Cuenca🇪🇨 vs. Santos🇧🇷
+DESCRIPTION:Group D - Matchday 1 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Banco del Austro Alejandro Serrano Aguil
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260409T190000Z_RosarioCentral_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20260409T190000
+DTEND;TZID=America/Montevideo:20260409T210000
+SUMMARY:Rosario Central🇦🇷 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Group H - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Gigante de Arroyito
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260409T213000Z_Macara_AmericaDeCali
+DTSTART;TZID=America/Montevideo:20260409T213000
+DTEND;TZID=America/Montevideo:20260409T233000
+SUMMARY:Macará🇪🇨 vs. América de Cali🇨🇴
+DESCRIPTION:Group A - Matchday 1 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Bellavista Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260414T210000Z_BocaJuniors_Barcelona
+DTSTART;TZID=America/Montevideo:20260414T210000
+DTEND;TZID=America/Montevideo:20260414T230000
+SUMMARY:Boca Juniors🇦🇷 vs. Barcelona🇪🇨
+DESCRIPTION:Group D - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Alberto José Armando (La Bombonera)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260414T230000Z_LigaDeQuito_Mirassol
+DTSTART;TZID=America/Montevideo:20260414T230000
+DTEND;TZID=America/Montevideo:20260415T010000
+SUMMARY:Liga de Quito🇪🇨 vs. Mirassol🇧🇷
+DESCRIPTION:Group G - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260415T190000Z_Cruzeiro_UniversidadCatolica
+DTSTART;TZID=America/Montevideo:20260415T190000
+DTEND;TZID=America/Montevideo:20260415T210000
+SUMMARY:Cruzeiro🇧🇷 vs. Universidad Católica🇪🇨
+DESCRIPTION:Group D - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Mineirão Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260415T230000Z_IndependienteDelValle_UniversidadCentral
+DTSTART;TZID=America/Montevideo:20260415T230000
+DTEND;TZID=America/Montevideo:20260416T010000
+SUMMARY:Independiente del Valle🇪🇨 vs. Universidad Central🇻🇪
+DESCRIPTION:Group H - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Banco Guayaquil Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260416T190000Z_Tigre_Macara
+DTSTART;TZID=America/Montevideo:20260416T190000
+DTEND;TZID=America/Montevideo:20260416T210000
+SUMMARY:Tigre🇦🇷 vs. Macará🇪🇨
+DESCRIPTION:Group A - Matchday 2 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Monumental de Victoria (José Dellagiovanna)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260416T213000Z_SanLorenzo_DeportivoCuenca
+DTSTART;TZID=America/Montevideo:20260416T213000
+DTEND;TZID=America/Montevideo:20260416T233000
+SUMMARY:San Lorenzo🇦🇷 vs. Deportivo Cuenca🇪🇨
+DESCRIPTION:Group D - Matchday 2 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Pedro Bidegain Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260428T190000Z_Lanus_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20260428T190000
+DTEND;TZID=America/Montevideo:20260428T210000
+SUMMARY:Lanús🇦🇷 vs. Liga de Quito🇪🇨
+DESCRIPTION:Group G - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Ciudad de Lanús
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260428T190000Z_Libertad_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20260428T190000
+DTEND;TZID=America/Montevideo:20260428T210000
+SUMMARY:Libertad🇵🇾 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Group H - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Tigo La Huerta Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260428T213000Z_Recoleta_DeportivoCuenca
+DTSTART;TZID=America/Montevideo:20260428T213000
+DTEND;TZID=America/Montevideo:20260428T233000
+SUMMARY:Recoleta🇵🇾 vs. Deportivo Cuenca🇪🇨
+DESCRIPTION:Group D - Matchday 3 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260429T210000Z_Barcelona_UniversidadCatolica
+DTSTART;TZID=America/Montevideo:20260429T210000
+DTEND;TZID=America/Montevideo:20260429T230000
+SUMMARY:Barcelona🇪🇨 vs. Universidad Católica🇪🇨
+DESCRIPTION:Group D - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Banco Pichincha Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260430T230000Z_AlianzaAtletico_Macara
+DTSTART;TZID=America/Montevideo:20260430T230000
+DTEND;TZID=America/Montevideo:20260501T010000
+SUMMARY:Alianza Atlético🇵🇪 vs. Macará🇪🇨
+DESCRIPTION:Group A - Matchday 3 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Miguel Grau del Callao Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260505T210000Z_Barcelona_BocaJuniors
+DTSTART;TZID=America/Montevideo:20260505T210000
+DTEND;TZID=America/Montevideo:20260505T230000
+SUMMARY:Barcelona🇪🇨 vs. Boca Juniors🇦🇷
+DESCRIPTION:Group D - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Banco Pichincha Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260505T210000Z_UniversidadCentral_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20260505T210000
+DTEND;TZID=America/Montevideo:20260505T230000
+SUMMARY:Universidad Central🇻🇪 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Group H - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Olímpico de la UCV Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260505T230000Z_DeportivoCuenca_SanLorenzo
+DTSTART;TZID=America/Montevideo:20260505T230000
+DTEND;TZID=America/Montevideo:20260506T010000
+SUMMARY:Deportivo Cuenca🇪🇨 vs. San Lorenzo🇦🇷
+DESCRIPTION:Group D - Matchday 4 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Banco del Austro Alejandro Serrano Aguil
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260506T210000Z_Macara_Tigre
+DTSTART;TZID=America/Montevideo:20260506T210000
+DTEND;TZID=America/Montevideo:20260506T230000
+SUMMARY:Macará🇪🇨 vs. Tigre🇦🇷
+DESCRIPTION:Group A - Matchday 4 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Bellavista Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260506T230000Z_UniversidadCatolica_Cruzeiro
+DTSTART;TZID=America/Montevideo:20260506T230000
+DTEND;TZID=America/Montevideo:20260507T010000
+SUMMARY:Universidad Católica🇪🇨 vs. Cruzeiro🇧🇷
+DESCRIPTION:Group D - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:San Carlos de Apoquindo Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260507T190000Z_Mirassol_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20260507T190000
+DTEND;TZID=America/Montevideo:20260507T210000
+SUMMARY:Mirassol🇧🇷 vs. Liga de Quito🇪🇨
+DESCRIPTION:Group G - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Municipal José Maria de Campos Maia Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260519T230000Z_IndependienteDelValle_Libertad
+DTSTART;TZID=America/Montevideo:20260519T230000
+DTEND;TZID=America/Montevideo:20260520T010000
+SUMMARY:Independiente del Valle🇪🇨 vs. Libertad🇵🇾
+DESCRIPTION:Group H - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Banco Guayaquil Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260519T230000Z_DeportivoCuenca_Recoleta
+DTSTART;TZID=America/Montevideo:20260519T230000
+DTEND;TZID=America/Montevideo:20260520T010000
+SUMMARY:Deportivo Cuenca🇪🇨 vs. Recoleta🇵🇾
+DESCRIPTION:Group D - Matchday 5 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Banco del Austro Alejandro Serrano Aguil
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260520T213000Z_LigaDeQuito_Lanus
+DTSTART;TZID=America/Montevideo:20260520T213000
+DTEND;TZID=America/Montevideo:20260520T233000
+SUMMARY:Liga de Quito🇪🇨 vs. Lanús🇦🇷
+DESCRIPTION:Group G - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260521T213000Z_UniversidadCatolica_Barcelona
+DTSTART;TZID=America/Montevideo:20260521T213000
+DTEND;TZID=America/Montevideo:20260521T233000
+SUMMARY:Universidad Católica🇪🇨 vs. Barcelona🇪🇨
+DESCRIPTION:Group D - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:San Carlos de Apoquindo Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260521T230000Z_Macara_AlianzaAtletico
+DTSTART;TZID=America/Montevideo:20260521T230000
+DTEND;TZID=America/Montevideo:20260522T010000
+SUMMARY:Macará🇪🇨 vs. Alianza Atlético🇵🇪
+DESCRIPTION:Group A - Matchday 5 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Bellavista Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260526T190000Z_LigaDeQuito_AlwaysReady
+DTSTART;TZID=America/Montevideo:20260526T190000
+DTEND;TZID=America/Montevideo:20260526T210000
+SUMMARY:Liga de Quito🇪🇨 vs. Always Ready🇧🇴
+DESCRIPTION:Group G - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260526T213000Z_Santos_DeportivoCuenca
+DTSTART;TZID=America/Montevideo:20260526T213000
+DTEND;TZID=America/Montevideo:20260526T233000
+SUMMARY:Santos🇧🇷 vs. Deportivo Cuenca🇪🇨
+DESCRIPTION:Group D - Matchday 6 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Estádio Vila Belmiro (Urbano Caldeira)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260527T190000Z_IndependienteDelValle_RosarioCentral
+DTSTART;TZID=America/Montevideo:20260527T190000
+DTEND;TZID=America/Montevideo:20260527T210000
+SUMMARY:Independiente del Valle🇪🇨 vs. Rosario Central🇦🇷
+DESCRIPTION:Group H - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Banco Guayaquil Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260528T213000Z_BocaJuniors_UniversidadCatolica
+DTSTART;TZID=America/Montevideo:20260528T213000
+DTEND;TZID=America/Montevideo:20260528T233000
+SUMMARY:Boca Juniors🇦🇷 vs. Universidad Católica🇪🇨
+DESCRIPTION:Group D - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Alberto José Armando (La Bombonera)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260528T213000Z_Cruzeiro_Barcelona
+DTSTART;TZID=America/Montevideo:20260528T213000
+DTEND;TZID=America/Montevideo:20260528T233000
+SUMMARY:Cruzeiro🇧🇷 vs. Barcelona🇪🇨
+DESCRIPTION:Group D - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Mineirão Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260528T213000Z_AmericaDeCali_Macara
+DTSTART;TZID=America/Montevideo:20260528T213000
+DTEND;TZID=America/Montevideo:20260528T233000
+SUMMARY:América de Cali🇨🇴 vs. Macará🇪🇨
+DESCRIPTION:Group A - Matchday 6 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Pascual Guerrero
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260811T213000Z_DeportesTolima_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20260811T213000
+DTEND;TZID=America/Montevideo:20260811T233000
+SUMMARY:Deportes Tolima🇨🇴 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Manuel Murillo Toro Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260811T213000Z_Estudiantes_UniversidadCatolica
+DTSTART;TZID=America/Montevideo:20260811T213000
+DTEND;TZID=America/Montevideo:20260811T233000
+SUMMARY:Estudiantes🇦🇷 vs. Universidad Católica🇪🇨
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Jorge Luis Hirschi Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260813T190000Z_Mirassol_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20260813T190000
+DTEND;TZID=America/Montevideo:20260813T210000
+SUMMARY:Mirassol🇧🇷 vs. Liga de Quito🇪🇨
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:a definir Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260818T213000Z_IndependienteDelValle_DeportesTolima
+DTSTART;TZID=America/Montevideo:20260818T213000
+DTEND;TZID=America/Montevideo:20260818T233000
+SUMMARY:Independiente del Valle🇪🇨 vs. Deportes Tolima🇨🇴
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:a definir Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260818T213000Z_UniversidadCatolica_Estudiantes
+DTSTART;TZID=America/Montevideo:20260818T213000
+DTEND;TZID=America/Montevideo:20260818T233000
+SUMMARY:Universidad Católica🇪🇨 vs. Estudiantes🇦🇷
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:San Carlos de Apoquindo Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260820T190000Z_LigaDeQuito_Mirassol
+DTSTART;TZID=America/Montevideo:20260820T190000
+DTEND;TZID=America/Montevideo:20260820T210000
+SUMMARY:Liga de Quito🇪🇨 vs. Mirassol🇧🇷
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+END:VCALENDAR

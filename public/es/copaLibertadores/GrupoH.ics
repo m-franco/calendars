@@ -1,0 +1,263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//ES
+BEGIN:VEVENT
+UID:20240402T213000Z_DeportivoTachira_River
+DTSTART;TZID=America/Montevideo:20240402T213000
+DTEND;TZID=America/Montevideo:20240402T233000
+SUMMARY:Deportivo Táchira🇻🇪 vs. River🇦🇷
+DESCRIPTION:Grupo H - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Polideportivo de Pueblo Nuevo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240403T190000Z_Nacional_Libertad
+DTSTART;TZID=America/Montevideo:20240403T190000
+DTEND;TZID=America/Montevideo:20240403T210000
+SUMMARY:Nacional🇺🇾 vs. Libertad🇵🇾
+DESCRIPTION:Grupo H - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Gran Parque Central
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T210000Z_Libertad_DeportivoTachira
+DTSTART;TZID=America/Montevideo:20240409T210000
+DTEND;TZID=America/Montevideo:20240409T230000
+SUMMARY:Libertad🇵🇾 vs. Deportivo Táchira🇻🇪
+DESCRIPTION:Grupo H - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio La Huerta
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240411T210000Z_River_Nacional
+DTSTART;TZID=America/Montevideo:20240411T210000
+DTEND;TZID=America/Montevideo:20240411T230000
+SUMMARY:River🇦🇷 vs. Nacional🇺🇾
+DESCRIPTION:Grupo H - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Monumental
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240424T190000Z_Nacional_DeportivoTachira
+DTSTART;TZID=America/Montevideo:20240424T190000
+DTEND;TZID=America/Montevideo:20240424T210000
+SUMMARY:Nacional🇺🇾 vs. Deportivo Táchira🇻🇪
+DESCRIPTION:Grupo H - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Gran Parque Central
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240424T210000Z_Libertad_River
+DTSTART;TZID=America/Montevideo:20240424T210000
+DTEND;TZID=America/Montevideo:20240424T230000
+SUMMARY:Libertad🇵🇾 vs. River🇦🇷
+DESCRIPTION:Grupo H - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T210000Z_DeportivoTachira_Libertad
+DTSTART;TZID=America/Montevideo:20240507T210000
+DTEND;TZID=America/Montevideo:20240507T230000
+SUMMARY:Deportivo Táchira🇻🇪 vs. Libertad🇵🇾
+DESCRIPTION:Grupo H - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Polideportivo de Pueblo Nuevo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T210000Z_Nacional_River
+DTSTART;TZID=America/Montevideo:20240507T210000
+DTEND;TZID=America/Montevideo:20240507T230000
+SUMMARY:Nacional🇺🇾 vs. River🇦🇷
+DESCRIPTION:Grupo H - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Gran Parque Central
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240514T210000Z_River_Libertad
+DTSTART;TZID=America/Montevideo:20240514T210000
+DTEND;TZID=America/Montevideo:20240514T230000
+SUMMARY:River🇦🇷 vs. Libertad🇵🇾
+DESCRIPTION:Grupo H - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Monumental
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T190000Z_DeportivoTachira_Nacional
+DTSTART;TZID=America/Montevideo:20240515T190000
+DTEND;TZID=America/Montevideo:20240515T210000
+SUMMARY:Deportivo Táchira🇻🇪  vs. Nacional🇺🇾
+DESCRIPTION:Grupo H - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Polideportivo de Pueblo Nuevo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240530T210000Z_Libertad_Nacional
+DTSTART;TZID=America/Montevideo:20240530T210000
+DTEND;TZID=America/Montevideo:20240530T230000
+SUMMARY:Libertad🇵🇾 vs. Nacional🇺🇾
+DESCRIPTION:Grupo H - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240530T210000Z_River_DeportivoTachira
+DTSTART;TZID=America/Montevideo:20240530T210000
+DTEND;TZID=America/Montevideo:20240530T230000
+SUMMARY:River🇦🇷 vs. Deportivo Táchira🇻🇪
+DESCRIPTION:Grupo H - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Monumental
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240717T190000Z_Libertad_Universidad_Catolica
+DTSTART;TZID=America/Montevideo:20240717T190000
+DTEND;TZID=America/Montevideo:20240717T210000
+SUMMARY:Libertad🇵🇾 vs. Universidad Católica🇪🇨
+DESCRIPTION:Play-offs - Ida - Copa Sudamericana
+LOCATION:Estadio Defensores del Chaco, Asunción
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240724T190000Z_Universidad_Catolica_Libertad
+DTSTART;TZID=America/Montevideo:20240724T190000
+DTEND;TZID=America/Montevideo:20240724T210000
+SUMMARY:Universidad Católica🇪🇨 vs. Libertad🇵🇾
+DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana
+LOCATION:Estadio Olímpico Atahualpa, Quito
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240814T213000Z_Talleres_River
+DTSTART;TZID=America/Montevideo:20240814T213000
+DTEND;TZID=America/Montevideo:20240814T233000
+SUMMARY:Talleres🇦🇷 vs. River🇦🇷
+DESCRIPTION:Octavos de final - Ida - Copa Libertadores
+LOCATION:Estadio Mario Alberto Kempes
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240815T190000Z_Libertad_Sportivo_Ameliano
+DTSTART;TZID=America/Montevideo:20240815T190000
+DTEND;TZID=America/Montevideo:20240815T210000
+SUMMARY:Libertad🇵🇾 vs. Sportivo Ameliano🇵🇾
+DESCRIPTION:Octavos de final - Ida - Copa Sudamericana
+LOCATION:Estadio Defensores del Chaco, Asunción
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240815T190000Z_Nacional_SanPablo
+DTSTART;TZID=America/Montevideo:20240815T190000
+DTEND;TZID=America/Montevideo:20240815T210000
+SUMMARY:Nacional🇺🇾 vs. San Pablo🇧🇷
+DESCRIPTION:Octavos de final - Ida - Copa Libertadores
+LOCATION:Estadio Gran Parque Central
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240821T213000Z_River_Talleres
+DTSTART;TZID=America/Montevideo:20240821T213000
+DTEND;TZID=America/Montevideo:20240821T233000
+SUMMARY:River🇦🇷 vs. Talleres🇦🇷
+DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
+LOCATION:Estadio Monumental
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240822T190000Z_SanPablo_Nacional
+DTSTART;TZID=America/Montevideo:20240822T190000
+DTEND;TZID=America/Montevideo:20240822T210000
+SUMMARY:San Pablo🇧🇷 vs. Nacional🇺🇾
+DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
+LOCATION:Estadio Morumbí
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240822T190000Z_Sportivo_Ameliano_Libertad
+DTSTART;TZID=America/Montevideo:20240822T190000
+DTEND;TZID=America/Montevideo:20240822T210000
+SUMMARY:Sportivo Ameliano🇵🇾 vs. Libertad🇵🇾
+DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana
+LOCATION:Estadio Defensores del Chaco, Asunción
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240917T213000Z_ColoColo_RiverPlate
+DTSTART;TZID=America/Montevideo:20240917T213000
+DTEND;TZID=America/Montevideo:20240917T233000
+SUMMARY:Colo Colo🇨🇱 vs. River Plate🇦🇷
+DESCRIPTION:Cuartos de final - Ida - Copa Libertadores
+LOCATION:Estadio Monumental, Santiago
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240919T213000Z_Libertad_Cruzeiro
+DTSTART;TZID=America/Montevideo:20240919T213000
+DTEND;TZID=America/Montevideo:20240919T233000
+SUMMARY:Libertad🇵🇾 vs. Cruzeiro🇧🇷
+DESCRIPTION:Cuartos de final - Ida - Copa Sudamericana
+LOCATION:Estadio Defensores del Chaco, Asunción
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240924T213000Z_RiverPlate_ColoColo
+DTSTART;TZID=America/Montevideo:20240924T213000
+DTEND;TZID=America/Montevideo:20240924T233000
+SUMMARY:River Plate🇦🇷 vs. Colo Colo🇨🇱
+DESCRIPTION:Cuartos de final - Vuelta - Copa Libertadores
+LOCATION:Estadio Monumental, Buenos Aires
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240926T213000Z_Cruzeiro_Libertad
+DTSTART;TZID=America/Montevideo:20240926T213000
+DTEND;TZID=America/Montevideo:20240926T233000
+SUMMARY:Cruzeiro🇧🇷 vs. Libertad🇵🇾
+DESCRIPTION:Cuartos de final - Vuelta - Copa Sudamericana
+LOCATION:Mineirão, Belo Horizonte
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20241022T213000Z_AtleticoMineiro_River
+DTSTART;TZID=America/Montevideo:20241022T213000
+DTEND;TZID=America/Montevideo:20241022T233000
+SUMMARY:Atlético Mineiro🇧🇷 vs. River🇦🇷
+DESCRIPTION:Semifinal - Ida - Copa Libertadores
+LOCATION:Arena MRV, Belo Horizonte
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20241029T213000Z_River_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20241029T213000
+DTEND;TZID=America/Montevideo:20241029T233000
+SUMMARY:River🇦🇷 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Semifinal - Vuelta - Copa Libertadores
+LOCATION:Estadio Monumental, Buenos Aires
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

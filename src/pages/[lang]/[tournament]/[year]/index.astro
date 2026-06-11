@@ -1,0 +1,16 @@
+---
+import TournamentIndex from "../../../../components/pages/TournamentIndex.astro";
+import { yearIndexPaths } from "../../../../i18n/paths";
+import { alternatesFor, urlFor, localizedTournamentSlug, type Lang } from "../../../../i18n/ui";
+
+export function getStaticPaths() {
+    return (["en", "pt"] as Lang[]).flatMap((l) =>
+        yearIndexPaths(l).map((e) => ({ params: { lang: l, ...e.params }, props: e.props }))
+    );
+}
+
+const { lang, href, year } = Astro.props as any;
+const alternates = alternatesFor((l) => urlFor(l, [localizedTournamentSlug(href, l), year]));
+---
+
+<TournamentIndex lang={lang} tournament={href} year={year} alternates={alternates} />

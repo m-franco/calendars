@@ -1,0 +1,123 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//ES
+BEGIN:VEVENT
+UID:20240403T210000Z_Nacional_Potosi_Boca_Juniors
+DTSTART;TZID=America/Montevideo:20240403T210000
+DTEND;TZID=America/Montevideo:20240403T230000
+SUMMARY:Nacional Potosí🇧🇴 vs. Boca Juniors🇦🇷
+DESCRIPTION:Grupo D - Fecha 1 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Víctor Agustín Ugarte
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T190000Z_Fortaleza_Nacional_Potosi
+DTSTART;TZID=America/Fortaleza:20240410T190000
+DTEND;TZID=America/Fortaleza:20240410T210000
+SUMMARY:Fortaleza🇧🇷 vs. Nacional Potosí🇧🇴
+DESCRIPTION:Grupo D - Fecha 2 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Arena Castelão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240423T210000Z_Sportivo_Trinidense_Nacional_Potosi
+DTSTART;TZID=America/Montevideo:20240423T210000
+DTEND;TZID=America/Montevideo:20240423T230000
+SUMMARY:Sportivo Trinidense🇵🇾 vs. Nacional Potosí🇧🇴
+DESCRIPTION:Grupo D - Fecha 3 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T213000Z_Boca_Juniors_Nacional_Potosi
+DTSTART;TZID=America/Montevideo:20240507T213000
+DTEND;TZID=America/Montevideo:20240507T233000
+SUMMARY:Boca Juniors🇦🇷 vs. Nacional Potosí🇧🇴
+DESCRIPTION:Grupo D - Fecha 4 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Alberto José Armando (La Bombonera)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T210000Z_Nacional_Potosi_Fortaleza
+DTSTART;TZID=America/Montevideo:20240515T210000
+DTEND;TZID=America/Montevideo:20240515T230000
+SUMMARY:Nacional Potosí🇧🇴 vs. Fortaleza🇧🇷
+DESCRIPTION:Grupo D - Fecha 5 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Víctor Agustín Ugarte
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240529T190000Z_Sportivo_Trinidense_Nacional_Potosi
+DTSTART;TZID=America/Montevideo:20240529T190000
+DTEND;TZID=America/Montevideo:20240529T210000
+SUMMARY:Sportivo Trinidense🇵🇾 vs. Nacional Potosí🇧🇴
+DESCRIPTION:Grupo D - Fecha 6 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250401T190000Z_NacionalPotosi_Independiente
+DTSTART;TZID=America/Montevideo:20250401T190000
+DTEND;TZID=America/Montevideo:20250401T210000
+SUMMARY:Nacional Potosí🇧🇴 vs. Independiente🇦🇷
+DESCRIPTION:Grupo A - Fecha 1 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Víctor Agustín Ugarte
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250410T213000Z_Guarani_NacionalPotosi
+DTSTART;TZID=America/Montevideo:20250410T213000
+DTEND;TZID=America/Montevideo:20250410T233000
+SUMMARY:Guaraní🇵🇾 vs. Nacional Potosí🇧🇴
+DESCRIPTION:Grupo A - Fecha 2 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio ueno Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250422T190000Z_BostonRiver_NacionalPotosi
+DTSTART;TZID=America/Montevideo:20250422T190000
+DTEND;TZID=America/Montevideo:20250422T210000
+SUMMARY:Boston River🇺🇾 vs. Nacional Potosí🇧🇴
+DESCRIPTION:Grupo A - Fecha 3 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250506T190000Z_NacionalPotosi_Guarani
+DTSTART;TZID=America/Montevideo:20250506T190000
+DTEND;TZID=America/Montevideo:20250506T210000
+SUMMARY:Nacional Potosí🇧🇴 vs. Guaraní🇵🇾
+DESCRIPTION:Grupo A - Fecha 4 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Víctor Agustín Ugarte
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250513T190000Z_NacionalPotosi_BostonRiver
+DTSTART;TZID=America/Montevideo:20250513T190000
+DTEND;TZID=America/Montevideo:20250513T210000
+SUMMARY:Nacional Potosí🇧🇴 vs. Boston River🇺🇾
+DESCRIPTION:Grupo A - Fecha 5 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Víctor Agustín Ugarte
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250528T190000Z_Independiente_NacionalPotosi
+DTSTART;TZID=America/Montevideo:20250528T190000
+DTEND;TZID=America/Montevideo:20250528T210000
+SUMMARY:Independiente🇦🇷 vs. Nacional Potosí🇧🇴
+DESCRIPTION:Grupo A - Fecha 6 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Libertadores de América
+END:VEVENT
+END:VCALENDAR

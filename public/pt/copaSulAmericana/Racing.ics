@@ -1,0 +1,313 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//PT
+BEGIN:VEVENT
+UID:20240404T210000Z_Sportivo_Luqueno_Racing_Arg
+DTSTART;TZID=America/Montevideo:20240404T210000
+DTEND;TZID=America/Montevideo:20240404T230000
+SUMMARY:Sportivo Luqueño🇵🇾 vs. Racing(Arg)🇦🇷
+DESCRIPTION:Grupo H - Rodada 1 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T213000Z_Racing_Arg_Red_Bull_Bragantino
+DTSTART;TZID=America/Montevideo:20240410T213000
+DTEND;TZID=America/Montevideo:20240410T233000
+SUMMARY:Racing(Arg)🇦🇷 vs. Red Bull Bragantino🇧🇷
+DESCRIPTION:Grupo H - Rodada 2 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Presidente Perón
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240424T190000Z_Coquimbo_Unido_Racing_Arg
+DTSTART;TZID=America/Montevideo:20240424T190000
+DTEND;TZID=America/Montevideo:20240424T210000
+SUMMARY:Coquimbo Unido🇨🇱 vs. Racing(Arg)🇦🇷
+DESCRIPTION:Grupo H - Rodada 3 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Francisco Sánchez Rumoroso
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240509T210000Z_Red_Bull_Bragantino_Racing_Arg
+DTSTART;TZID=America/Montevideo:20240509T210000
+DTEND;TZID=America/Montevideo:20240509T230000
+SUMMARY:Red Bull Bragantino🇧🇷 vs. Racing(Arg)🇦🇷
+DESCRIPTION:Grupo H - Rodada 4 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Nabi Abi Chedid
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240522T190000Z_Racing_Arg_Sportivo_Luqueno
+DTSTART;TZID=America/Montevideo:20240522T190000
+DTEND;TZID=America/Montevideo:20240522T210000
+SUMMARY:Racing(Arg)🇦🇷 vs. Sportivo Luqueño🇵🇾
+DESCRIPTION:Grupo H - Rodada 5 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Presidente Perón
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240605T210000Z_Racing_Arg_Coquimbo_Unido
+DTSTART;TZID=America/Montevideo:20240605T210000
+DTEND;TZID=America/Montevideo:20240605T230000
+SUMMARY:Racing(Arg)🇦🇷 vs. Coquimbo Unido🇨🇱
+DESCRIPTION:Grupo H - Rodada 6 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Presidente Perón
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240813T190000Z_Huachipato_Racing_Arg
+DTSTART;TZID=America/Montevideo:20240813T190000
+DTEND;TZID=America/Montevideo:20240813T210000
+SUMMARY:Huachipato🇨🇱 vs. Racing(Arg)🇦🇷
+DESCRIPTION:Oitavas de final - Ida - Copa Sul-Americana
+LOCATION:Estádio Sausalito, Viña del Mar
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240820T190000Z_Racing_Arg_Huachipato
+DTSTART;TZID=America/Montevideo:20240820T190000
+DTEND;TZID=America/Montevideo:20240820T210000
+SUMMARY:Racing(Arg)🇦🇷 vs. Huachipato🇨🇱
+DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana
+LOCATION:Estádio Presidente Perón, Avellaneda
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240919T213000Z_Atletico_Paranaense_Racing_Arg
+DTSTART;TZID=America/Montevideo:20240919T213000
+DTEND;TZID=America/Montevideo:20240919T233000
+SUMMARY:Atlético Paranaense🇧🇷 vs. Racing(Arg)🇦🇷
+DESCRIPTION:Quartas de final - Ida - Copa Sul-Americana
+LOCATION:Arena da Baixada, Curitiba
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240926T213000Z_Racing_Arg_Atletico_Paranaense
+DTSTART;TZID=America/Montevideo:20240926T213000
+DTEND;TZID=America/Montevideo:20240926T233000
+SUMMARY:Racing(Arg)🇦🇷 vs. Atlético Paranaense🇧🇷
+DESCRIPTION:Quartas de final - Volta - Copa Sul-Americana
+LOCATION:Estádio Presidente Perón, Avellaneda
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20241024T213000Z_Corinthians_Racing_Arg
+DTSTART;TZID=America/Montevideo:20241024T213000
+DTEND;TZID=America/Montevideo:20241024T233000
+SUMMARY:Corinthians🇧🇷 vs. Racing(Arg)🇦🇷
+DESCRIPTION:Semifinal - Ida - Copa Sul-Americana
+LOCATION:Neo Química Arena, São Paulo
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20241031T213000Z_Racing_Arg_Corinthians
+DTSTART;TZID=America/Montevideo:20241031T213000
+DTEND;TZID=America/Montevideo:20241031T233000
+SUMMARY:Racing(Arg)🇦🇷 vs. Corinthians🇧🇷
+DESCRIPTION:Semifinal - Volta - Copa Sul-Americana
+LOCATION:Estádio Presidente Perón, Avellaneda
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20241123T170000Z_Racing_Arg_Cruzeiro
+DTSTART;TZID=America/Montevideo:20241123T170000
+DTEND;TZID=America/Montevideo:20241123T190000
+SUMMARY:Racing(Arg)🇦🇷 vs. Cruzeiro🇧🇷
+DESCRIPTION:Final - Copa Sul-Americana
+LOCATION:Estádio General Pablo Rojas, Asunción
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250401T213000Z_Fortaleza_Racing
+DTSTART;TZID=America/Montevideo:20250401T213000
+DTEND;TZID=America/Montevideo:20250401T233000
+SUMMARY:Fortaleza🇧🇷 vs. Racing🇦🇷
+DESCRIPTION:Grupo E - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Castelão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250410T190000Z_Racing_AtleticoBucaramanga
+DTSTART;TZID=America/Montevideo:20250410T190000
+DTEND;TZID=America/Montevideo:20250410T210000
+SUMMARY:Racing🇦🇷 vs. Atlético Bucaramanga🇨🇴
+DESCRIPTION:Grupo E - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Presidente Perón (Cilindro de Avellaneda)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250422T213000Z_ColoColo_Racing
+DTSTART;TZID=America/Montevideo:20250422T213000
+DTEND;TZID=America/Montevideo:20250422T233000
+SUMMARY:Colo-Colo🇨🇱 vs. Racing🇦🇷
+DESCRIPTION:Grupo E - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Monumental David Arellano
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250506T190000Z_AtleticoBucaramanga_Racing
+DTSTART;TZID=America/Montevideo:20250506T190000
+DTEND;TZID=America/Montevideo:20250506T210000
+SUMMARY:Atlético Bucaramanga🇨🇴 vs. Racing🇦🇷
+DESCRIPTION:Grupo E - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Américo Montanini
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250514T213000Z_Racing_ColoColo
+DTSTART;TZID=America/Montevideo:20250514T213000
+DTEND;TZID=America/Montevideo:20250514T233000
+SUMMARY:Racing🇦🇷 vs. Colo-Colo🇨🇱
+DESCRIPTION:Grupo E - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Presidente Perón (Cilindro de Avellaneda)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250529T213000Z_Racing_Fortaleza
+DTSTART;TZID=America/Montevideo:20250529T213000
+DTEND;TZID=America/Montevideo:20250529T233000
+SUMMARY:Racing🇦🇷 vs. Fortaleza🇧🇷
+DESCRIPTION:Grupo E - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Presidente Perón (Cilindro de Avellaneda)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250812T213000Z_Penarol_Racing
+DTSTART;TZID=America/Montevideo:20250812T213000
+DTEND;TZID=America/Montevideo:20250812T233000
+SUMMARY:Peñarol🇺🇾 vs. Racing🇦🇷
+DESCRIPTION:Oitavas de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250819T213000Z_Racing_Penarol
+DTSTART;TZID=America/Montevideo:20250819T213000
+DTEND;TZID=America/Montevideo:20250819T233000
+SUMMARY:Racing🇦🇷 vs. Peñarol🇺🇾
+DESCRIPTION:Oitavas de final - Volta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Presidente Perón (Cilindro de Avellaneda)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250916T190000Z_VelezSarsfield_Racing
+DTSTART;TZID=America/Montevideo:20250916T190000
+DTEND;TZID=America/Montevideo:20250916T210000
+SUMMARY:Vélez Sarsfield🇦🇷 vs. Racing🇦🇷
+DESCRIPTION:Quartas de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:José Amalfitani
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250923T190000Z_Racing_VelezSarsfield
+DTSTART;TZID=America/Montevideo:20250923T190000
+DTEND;TZID=America/Montevideo:20250923T210000
+SUMMARY:Racing🇦🇷 vs. Vélez Sarsfield🇦🇷
+DESCRIPTION:Quartas de final - Volta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Presidente Perón (Cilindro de Avellaneda)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251022T213000Z_Flamengo_Racing
+DTSTART;TZID=America/Montevideo:20251022T213000
+DTEND;TZID=America/Montevideo:20251022T233000
+SUMMARY:Flamengo🇧🇷 vs. Racing🇦🇷
+DESCRIPTION:Semifinal - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio do Maracana
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251029T213000Z_Racing_Flamengo
+DTSTART;TZID=America/Montevideo:20251029T213000
+DTEND;TZID=America/Montevideo:20251029T233000
+SUMMARY:Racing🇦🇷 vs. Flamengo🇧🇷
+DESCRIPTION:Semifinal - Volta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Presidente Perón (Cilindro de Avellaneda)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260407T190000Z_IndependientePetrolero_Racing
+DTSTART;TZID=America/Montevideo:20260407T190000
+DTEND;TZID=America/Montevideo:20260407T210000
+SUMMARY:Independiente Petrolero🇧🇴 vs. Racing🇦🇷
+DESCRIPTION:Grupo E - Rodada 1 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico Patria
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260415T190000Z_Racing_Botafogo
+DTSTART;TZID=America/Montevideo:20260415T190000
+DTEND;TZID=America/Montevideo:20260415T210000
+SUMMARY:Racing🇦🇷 vs. Botafogo🇧🇷
+DESCRIPTION:Grupo E - Rodada 2 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Presidente Perón (Cilindro de Avellaneda)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260429T190000Z_Caracas_Racing
+DTSTART;TZID=America/Montevideo:20260429T190000
+DTEND;TZID=America/Montevideo:20260429T210000
+SUMMARY:Caracas🇻🇪 vs. Racing🇦🇷
+DESCRIPTION:Grupo E - Rodada 3 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico de la UCV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260506T213000Z_Botafogo_Racing
+DTSTART;TZID=America/Montevideo:20260506T213000
+DTEND;TZID=America/Montevideo:20260506T233000
+SUMMARY:Botafogo🇧🇷 vs. Racing🇦🇷
+DESCRIPTION:Grupo E - Rodada 4 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Joao Havelange Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260521T210000Z_Racing_Caracas
+DTSTART;TZID=America/Montevideo:20260521T210000
+DTEND;TZID=America/Montevideo:20260521T230000
+SUMMARY:Racing🇦🇷 vs. Caracas🇻🇪
+DESCRIPTION:Grupo E - Rodada 5 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Presidente Perón (Cilindro de Avellaneda)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260527T190000Z_Racing_IndependientePetrolero
+DTSTART;TZID=America/Montevideo:20260527T190000
+DTEND;TZID=America/Montevideo:20260527T210000
+SUMMARY:Racing🇦🇷 vs. Independiente Petrolero🇧🇴
+DESCRIPTION:Grupo E - Rodada 6 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Presidente Perón (Cilindro de Avellaneda)
+END:VEVENT
+END:VCALENDAR

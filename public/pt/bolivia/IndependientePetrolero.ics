@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//PT
+BEGIN:VEVENT
+UID:20260407T190000Z_IndependientePetrolero_Racing
+DTSTART;TZID=America/Montevideo:20260407T190000
+DTEND;TZID=America/Montevideo:20260407T210000
+SUMMARY:Independiente Petrolero🇧🇴 vs. Racing🇦🇷
+DESCRIPTION:Grupo E - Rodada 1 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico Patria
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260415T190000Z_Caracas_IndependientePetrolero
+DTSTART;TZID=America/Montevideo:20260415T190000
+DTEND;TZID=America/Montevideo:20260415T210000
+SUMMARY:Caracas🇻🇪 vs. Independiente Petrolero🇧🇴
+DESCRIPTION:Grupo E - Rodada 2 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico de la UCV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260428T190000Z_Botafogo_IndependientePetrolero
+DTSTART;TZID=America/Montevideo:20260428T190000
+DTEND;TZID=America/Montevideo:20260428T210000
+SUMMARY:Botafogo🇧🇷 vs. Independiente Petrolero🇧🇴
+DESCRIPTION:Grupo E - Rodada 3 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Joao Havelange Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260505T190000Z_IndependientePetrolero_Caracas
+DTSTART;TZID=America/Montevideo:20260505T190000
+DTEND;TZID=America/Montevideo:20260505T210000
+SUMMARY:Independiente Petrolero🇧🇴 vs. Caracas🇻🇪
+DESCRIPTION:Grupo E - Rodada 4 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico Patria
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260520T210000Z_IndependientePetrolero_Botafogo
+DTSTART;TZID=America/Montevideo:20260520T210000
+DTEND;TZID=America/Montevideo:20260520T230000
+SUMMARY:Independiente Petrolero🇧🇴 vs. Botafogo🇧🇷
+DESCRIPTION:Grupo E - Rodada 5 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Tigo La Huerta
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260527T190000Z_Racing_IndependientePetrolero
+DTSTART;TZID=America/Montevideo:20260527T190000
+DTEND;TZID=America/Montevideo:20260527T210000
+SUMMARY:Racing🇦🇷 vs. Independiente Petrolero🇧🇴
+DESCRIPTION:Grupo E - Rodada 6 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Presidente Perón (Cilindro de Avellaneda)
+END:VEVENT
+END:VCALENDAR

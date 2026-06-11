@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//EN
+BEGIN:VEVENT
+UID:20260407T190000Z_DeportivoLaGuaira_Fluminense
+DTSTART;TZID=America/Montevideo:20260407T190000
+DTEND;TZID=America/Montevideo:20260407T210000
+SUMMARY:Deportivo La Guaira🇻🇪 vs. Fluminense🇧🇷
+DESCRIPTION:Group C - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Olímpico de la UCV Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260407T190000Z_IndependienteRivadavia_Bolivar
+DTSTART;TZID=America/Montevideo:20260407T190000
+DTEND;TZID=America/Montevideo:20260407T210000
+SUMMARY:Independiente Rivadavia🇦🇷 vs. Bolívar🇧🇴
+DESCRIPTION:Group C - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Malvinas Argentinas (Mendoza)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260414T210000Z_Bolivar_DeportivoLaGuaira
+DTSTART;TZID=America/Montevideo:20260414T210000
+DTEND;TZID=America/Montevideo:20260414T230000
+SUMMARY:Bolívar🇧🇴 vs. Deportivo La Guaira🇻🇪
+DESCRIPTION:Group C - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Hernando Siles Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260415T213000Z_Fluminense_IndependienteRivadavia
+DTSTART;TZID=America/Montevideo:20260415T213000
+DTEND;TZID=America/Montevideo:20260415T233000
+SUMMARY:Fluminense🇧🇷 vs. Independiente Rivadavia🇦🇷
+DESCRIPTION:Group C - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:do Maracana Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260430T190000Z_Bolivar_Fluminense
+DTSTART;TZID=America/Montevideo:20260430T190000
+DTEND;TZID=America/Montevideo:20260430T210000
+SUMMARY:Bolívar🇧🇴 vs. Fluminense🇧🇷
+DESCRIPTION:Group C - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Hernando Siles Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260430T190000Z_IndependienteRivadavia_DeportivoLaGuaira
+DTSTART;TZID=America/Montevideo:20260430T190000
+DTEND;TZID=America/Montevideo:20260430T210000
+SUMMARY:Independiente Rivadavia🇦🇷 vs. Deportivo La Guaira🇻🇪
+DESCRIPTION:Group C - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Malvinas Argentinas (Mendoza)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260506T190000Z_DeportivoLaGuaira_Bolivar
+DTSTART;TZID=America/Montevideo:20260506T190000
+DTEND;TZID=America/Montevideo:20260506T210000
+SUMMARY:Deportivo La Guaira🇻🇪 vs. Bolívar🇧🇴
+DESCRIPTION:Group C - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Olímpico de la UCV Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260506T213000Z_IndependienteRivadavia_Fluminense
+DTSTART;TZID=America/Montevideo:20260506T213000
+DTEND;TZID=America/Montevideo:20260506T233000
+SUMMARY:Independiente Rivadavia🇦🇷 vs. Fluminense🇧🇷
+DESCRIPTION:Group C - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Malvinas Argentinas (Mendoza)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260519T190000Z_Fluminense_Bolivar
+DTSTART;TZID=America/Montevideo:20260519T190000
+DTEND;TZID=America/Montevideo:20260519T210000
+SUMMARY:Fluminense🇧🇷 vs. Bolívar🇧🇴
+DESCRIPTION:Group C - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:do Maracana Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260521T190000Z_DeportivoLaGuaira_IndependienteRivadavia
+DTSTART;TZID=America/Montevideo:20260521T190000
+DTEND;TZID=America/Montevideo:20260521T210000
+SUMMARY:Deportivo La Guaira🇻🇪 vs. Independiente Rivadavia🇦🇷
+DESCRIPTION:Group C - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Olímpico de la UCV Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260527T213000Z_Bolivar_IndependienteRivadavia
+DTSTART;TZID=America/Montevideo:20260527T213000
+DTEND;TZID=America/Montevideo:20260527T233000
+SUMMARY:Bolívar🇧🇴 vs. Independiente Rivadavia🇦🇷
+DESCRIPTION:Group C - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Ramón Tahuichi Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260527T213000Z_Fluminense_DeportivoLaGuaira
+DTSTART;TZID=America/Montevideo:20260527T213000
+DTEND;TZID=America/Montevideo:20260527T233000
+SUMMARY:Fluminense🇧🇷 vs. Deportivo La Guaira🇻🇪
+DESCRIPTION:Group C - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:do Maracana Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260723T190000Z_Bolivar_Gremio
+DTSTART;TZID=America/Montevideo:20260723T190000
+DTEND;TZID=America/Montevideo:20260723T210000
+SUMMARY:Bolívar🇧🇴 vs. Gremio🇧🇷
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Hernando Siles Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260730T190000Z_Gremio_Bolivar
+DTSTART;TZID=America/Montevideo:20260730T190000
+DTEND;TZID=America/Montevideo:20260730T210000
+SUMMARY:Gremio🇧🇷 vs. Bolívar🇧🇴
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Arena do Grêmio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260811T190000Z_Fluminense_IndependienteRivadavia
+DTSTART;TZID=America/Montevideo:20260811T190000
+DTEND;TZID=America/Montevideo:20260811T210000
+SUMMARY:Fluminense🇧🇷 vs. Independiente Rivadavia🇦🇷
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:do Maracana Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260818T190000Z_IndependienteRivadavia_Fluminense
+DTSTART;TZID=America/Montevideo:20260818T190000
+DTEND;TZID=America/Montevideo:20260818T210000
+SUMMARY:Independiente Rivadavia🇦🇷 vs. Fluminense🇧🇷
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Malvinas Argentinas (Mendoza)
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,223 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//EN
+BEGIN:VEVENT
+UID:20240403T210000Z_ColoColo_CerroPorteño
+DTSTART;TZID=America/Montevideo:20240403T210000
+DTEND;TZID=America/Montevideo:20240403T230000
+SUMMARY:Colo-Colo🇨🇱 vs. Cerro Porteño🇵🇾
+DESCRIPTION:Group A - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Monumental David Arellano Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240403T213000Z_AlianzaLima_Fluminense
+DTSTART;TZID=America/Montevideo:20240403T213000
+DTEND;TZID=America/Montevideo:20240403T233000
+SUMMARY:Alianza Lima🇵🇪 vs. Fluminense🇧🇷
+DESCRIPTION:Group A - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Alejandro Villanueva Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T213000Z_Fluminense_ColoColo
+DTSTART;TZID=America/Montevideo:20240409T213000
+DTEND;TZID=America/Montevideo:20240409T233000
+SUMMARY:Fluminense🇧🇷 vs. Colo-Colo🇨🇱
+DESCRIPTION:Group A - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Maracaná Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T190000Z_CerroPorteño_AlianzaLima
+DTSTART;TZID=America/Montevideo:20240410T190000
+DTEND;TZID=America/Montevideo:20240410T210000
+SUMMARY:Cerro Porteño🇵🇾 vs. Alianza Lima🇵🇪
+DESCRIPTION:Group A - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Ueno La Nueva Olla Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240423T190000Z_ColoColo_AlianzaLima
+DTSTART;TZID=America/Montevideo:20240423T190000
+DTEND;TZID=America/Montevideo:20240423T210000
+SUMMARY:Colo-Colo🇨🇱 vs. Alianza Lima🇵🇪
+DESCRIPTION:Group A - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:a definir Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T190000Z_CerroPorteño_Fluminense
+DTSTART;TZID=America/Montevideo:20240425T190000
+DTEND;TZID=America/Montevideo:20240425T210000
+SUMMARY:Cerro Porteño🇵🇾 vs. Fluminense🇧🇷
+DESCRIPTION:Group A - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Ueno La Nueva Olla Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240508T190000Z_AlianzaLima_CerroPorteño
+DTSTART;TZID=America/Montevideo:20240508T190000
+DTEND;TZID=America/Montevideo:20240508T210000
+SUMMARY:Alianza Lima🇵🇪 vs. Cerro Porteño🇵🇾
+DESCRIPTION:Group A - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Alejandro Villanueva Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240509T210000Z_ColoColo_Fluminense
+DTSTART;TZID=America/Montevideo:20240509T210000
+DTEND;TZID=America/Montevideo:20240509T230000
+SUMMARY:Colo-Colo🇨🇱 vs. Fluminense🇧🇷
+DESCRIPTION:Group A - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:a definir Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T210000Z_AlianzaLima_ColoColo
+DTSTART;TZID=America/Montevideo:20240515T210000
+DTEND;TZID=America/Montevideo:20240515T230000
+SUMMARY:Alianza Lima🇵🇪 vs. Colo-Colo🇨🇱
+DESCRIPTION:Group A - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Alejandro Villanueva Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240516T190000Z_Fluminense_CerroPorteño
+DTSTART;TZID=America/Montevideo:20240516T190000
+DTEND;TZID=America/Montevideo:20240516T210000
+SUMMARY:Fluminense🇧🇷 vs. Cerro Porteño🇵🇾
+DESCRIPTION:Group A - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Maracaná Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240529T213000Z_CerroPorteño_ColoColo
+DTSTART;TZID=America/Montevideo:20240529T213000
+DTEND;TZID=America/Montevideo:20240529T233000
+SUMMARY:Cerro Porteño🇵🇾 vs. Colo-Colo🇨🇱
+DESCRIPTION:Group A - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Ueno La Nueva Olla Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240529T213000Z_Fluminense_AlianzaLima
+DTSTART;TZID=America/Montevideo:20240529T213000
+DTEND;TZID=America/Montevideo:20240529T233000
+SUMMARY:Fluminense🇧🇷 vs. Alianza Lima🇵🇪
+DESCRIPTION:Group A - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Maracaná Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240718T213000Z_Cerro_Porteno_Atletico_Paranaense
+DTSTART;TZID=America/Montevideo:20240718T213000
+DTEND;TZID=America/Montevideo:20240718T233000
+SUMMARY:Cerro Porteño🇵🇾 vs. Atlético Paranaense🇧🇷
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+LOCATION:General Pablo Rojas Stadium, Asunción
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240725T213000Z_Atletico_Paranaense_Cerro_Porteno
+DTSTART;TZID=America/Montevideo:20240725T213000
+DTEND;TZID=America/Montevideo:20240725T233000
+SUMMARY:Atlético Paranaense🇧🇷 vs. Cerro Porteño🇵🇾
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+LOCATION:Arena da Baixada, Curitiba
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240813T190000Z_Gremio_Fluminense
+DTSTART;TZID=America/Montevideo:20240813T190000
+DTEND;TZID=America/Montevideo:20240813T210000
+SUMMARY:Gremio🇧🇷 vs. Fluminense🇧🇷
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+LOCATION:Arena do Gremio Stadium
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240813T213000Z_ColoColo_Junior
+DTSTART;TZID=America/Montevideo:20240813T213000
+DTEND;TZID=America/Montevideo:20240813T233000
+SUMMARY:Colo Colo🇨🇱 vs. Junior🇨🇴
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+LOCATION:Monumental David Arellano Stadium
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240820T190000Z_Fluminense_Gremio
+DTSTART;TZID=America/Montevideo:20240820T190000
+DTEND;TZID=America/Montevideo:20240820T210000
+SUMMARY:Fluminense🇧🇷 vs. Gremio🇧🇷
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+LOCATION:Maracaná Stadium
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240820T213000Z_Junior_ColoColo
+DTSTART;TZID=America/Montevideo:20240820T213000
+DTEND;TZID=America/Montevideo:20240820T233000
+SUMMARY:Junior🇨🇴 vs. Colo Colo🇨🇱
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+LOCATION:Metropolitano Roberto Meléndez Stadium
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240917T213000Z_ColoColo_RiverPlate
+DTSTART;TZID=America/Montevideo:20240917T213000
+DTEND;TZID=America/Montevideo:20240917T233000
+SUMMARY:Colo Colo🇨🇱 vs. River Plate🇦🇷
+DESCRIPTION:Quarter-finals - First leg - Libertadores Cup
+LOCATION:Monumental Stadium, Santiago
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240918T190000Z_Fluminense_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20240918T190000
+DTEND;TZID=America/Montevideo:20240918T210000
+SUMMARY:Fluminense🇧🇷 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Quarter-finals - First leg - Libertadores Cup
+LOCATION:Maracaná Stadium, Río de Janeiro
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240924T213000Z_RiverPlate_ColoColo
+DTSTART;TZID=America/Montevideo:20240924T213000
+DTEND;TZID=America/Montevideo:20240924T233000
+SUMMARY:River Plate🇦🇷 vs. Colo Colo🇨🇱
+DESCRIPTION:Quarter-finals - Second leg - Libertadores Cup
+LOCATION:Monumental Stadium, Buenos Aires
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240925T190000Z_AtleticoMineiro_Fluminense
+DTSTART;TZID=America/Montevideo:20240925T190000
+DTEND;TZID=America/Montevideo:20240925T210000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Fluminense🇧🇷
+DESCRIPTION:Quarter-finals - Second leg - Libertadores Cup
+LOCATION:Arena MRV, Belo Horizonte
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

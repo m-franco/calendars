@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//EN
+BEGIN:VEVENT
+UID:20250401T190000Z_DeportesIquique_Caracas
+DTSTART;TZID=America/Montevideo:20250401T190000
+DTEND;TZID=America/Montevideo:20250401T210000
+SUMMARY:Deportes Iquique🇨🇱 vs. Caracas🇻🇪
+DESCRIPTION:Group H - Matchday 1 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Tierra de Campeones Stadium (old)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250410T213000Z_AtleticoMineiro_DeportesIquique
+DTSTART;TZID=America/Montevideo:20250410T213000
+DTEND;TZID=America/Montevideo:20250410T233000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Deportes Iquique🇨🇱
+DESCRIPTION:Group H - Matchday 2 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Mineirão Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250424T213000Z_DeportesIquique_Cienciano
+DTSTART;TZID=America/Montevideo:20250424T213000
+DTEND;TZID=America/Montevideo:20250424T233000
+SUMMARY:Deportes Iquique🇨🇱 vs. Cienciano🇵🇪
+DESCRIPTION:Group H - Matchday 3 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Tierra de Campeones Stadium (old)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250508T190000Z_DeportesIquique_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20250508T190000
+DTEND;TZID=America/Montevideo:20250508T210000
+SUMMARY:Deportes Iquique🇨🇱 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Group H - Matchday 4 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Tierra de Campeones Stadium (old)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250515T230000Z_Cienciano_DeportesIquique
+DTSTART;TZID=America/Montevideo:20250515T230000
+DTEND;TZID=America/Montevideo:20250516T010000
+SUMMARY:Cienciano🇵🇪 vs. Deportes Iquique🇨🇱
+DESCRIPTION:Group H - Matchday 5 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Inca Garcilaso de la Vega Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250529T213000Z_Caracas_DeportesIquique
+DTSTART;TZID=America/Montevideo:20250529T213000
+DTEND;TZID=America/Montevideo:20250529T233000
+SUMMARY:Caracas🇻🇪 vs. Deportes Iquique🇨🇱
+DESCRIPTION:Group H - Matchday 6 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Olímpico de la UCV Stadium
+END:VEVENT
+END:VCALENDAR

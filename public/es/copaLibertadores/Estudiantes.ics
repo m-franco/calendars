@@ -1,0 +1,243 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//ES
+BEGIN:VEVENT
+UID:20240402T210000Z_Huachipato_Estudiantes
+DTSTART;TZID=America/Montevideo:20240402T210000
+DTEND;TZID=America/Montevideo:20240402T230000
+SUMMARY:Huachipato🇨🇱 vs. Estudiantes🇦🇷
+DESCRIPTION:Grupo C - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Huachipato
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T190000Z_Estudiantes_TheStrongest
+DTSTART;TZID=America/Montevideo:20240409T190000
+DTEND;TZID=America/Montevideo:20240409T210000
+SUMMARY:Estudiantes🇦🇷 vs. The Strongest🇧🇴
+DESCRIPTION:Grupo C - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio UNO Jorge Luis Hirschi
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240423T190000Z_Estudiantes_Gremio
+DTSTART;TZID=America/Montevideo:20240423T190000
+DTEND;TZID=America/Montevideo:20240423T210000
+SUMMARY:Estudiantes🇦🇷 vs. Gremio🇧🇷
+DESCRIPTION:Grupo C - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio UNO Jorge Luis Hirschi
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240509T210000Z_TheStrongest_Estudiantes
+DTSTART;TZID=America/Montevideo:20240509T210000
+DTEND;TZID=America/Montevideo:20240509T230000
+SUMMARY:The Strongest🇧🇴 vs. Estudiantes🇦🇷
+DESCRIPTION:Grupo C - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Hernando Siles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240529T190000Z_Estudiantes_Huachipato
+DTSTART;TZID=America/Montevideo:20240529T190000
+DTEND;TZID=America/Montevideo:20240529T210000
+SUMMARY:Estudiantes🇦🇷 vs. Huachipato🇨🇱
+DESCRIPTION:Grupo C - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio UNO Jorge Luis Hirschi
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240608T190000Z_Gremio_Estudiantes
+DTSTART;TZID=America/Montevideo:20240608T190000
+DTEND;TZID=America/Montevideo:20240608T210000
+SUMMARY:Gremio🇧🇷 vs. Estudiantes🇦🇷
+DESCRIPTION:Grupo C - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Couto Pereira
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250401T190000Z_Carabobo_Estudiantes
+DTSTART;TZID=America/Montevideo:20250401T190000
+DTEND;TZID=America/Montevideo:20250401T210000
+SUMMARY:Carabobo🇻🇪 vs. Estudiantes🇦🇷
+DESCRIPTION:Grupo A - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Misael Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250408T213000Z_Estudiantes_UniversidadDeChile
+DTSTART;TZID=America/Montevideo:20250408T213000
+DTEND;TZID=America/Montevideo:20250408T233000
+SUMMARY:Estudiantes🇦🇷 vs. Universidad de Chile🇨🇱
+DESCRIPTION:Grupo A - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Jorge Luis Hirschi
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250423T213000Z_Estudiantes_Botafogo
+DTSTART;TZID=America/Montevideo:20250423T213000
+DTEND;TZID=America/Montevideo:20250423T233000
+SUMMARY:Estudiantes🇦🇷 vs. Botafogo🇧🇷
+DESCRIPTION:Grupo A - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Jorge Luis Hirschi
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250507T210000Z_UniversidadDeChile_Estudiantes
+DTSTART;TZID=America/Montevideo:20250507T210000
+DTEND;TZID=America/Montevideo:20250507T230000
+SUMMARY:Universidad de Chile🇨🇱 vs. Estudiantes🇦🇷
+DESCRIPTION:Grupo A - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Nacional Julio Martínez Prádanos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250514T213000Z_Botafogo_Estudiantes
+DTSTART;TZID=America/Montevideo:20250514T213000
+DTEND;TZID=America/Montevideo:20250514T233000
+SUMMARY:Botafogo🇧🇷 vs. Estudiantes🇦🇷
+DESCRIPTION:Grupo A - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico Nilton Santos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250527T213000Z_Estudiantes_Carabobo
+DTSTART;TZID=America/Montevideo:20250527T213000
+DTEND;TZID=America/Montevideo:20250527T233000
+SUMMARY:Estudiantes🇦🇷 vs. Carabobo🇻🇪
+DESCRIPTION:Grupo A - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Jorge Luis Hirschi
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250813T190000Z_CerroPorteno_Estudiantes
+DTSTART;TZID=America/Montevideo:20250813T190000
+DTEND;TZID=America/Montevideo:20250813T210000
+SUMMARY:Cerro Porteño🇵🇾 vs. Estudiantes🇦🇷
+DESCRIPTION:Octavos de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio ueno La Nueva Olla
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250820T190000Z_Estudiantes_CerroPorteno
+DTSTART;TZID=America/Montevideo:20250820T190000
+DTEND;TZID=America/Montevideo:20250820T210000
+SUMMARY:Estudiantes🇦🇷 vs. Cerro Porteño🇵🇾
+DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Jorge Luis Hirschi
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250918T213000Z_Flamengo_Estudiantes
+DTSTART;TZID=America/Montevideo:20250918T213000
+DTEND;TZID=America/Montevideo:20250918T233000
+SUMMARY:Flamengo🇧🇷 vs. Estudiantes🇦🇷
+DESCRIPTION:Cuartos de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio do Maracana
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250925T213000Z_Estudiantes_Flamengo
+DTSTART;TZID=America/Montevideo:20250925T213000
+DTEND;TZID=America/Montevideo:20250925T233000
+SUMMARY:Estudiantes🇦🇷 vs. Flamengo🇧🇷
+DESCRIPTION:Cuartos de final - Vuelta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Jorge Luis Hirschi
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260408T210000Z_IndependienteDeMedellin_Estudiantes
+DTSTART;TZID=America/Montevideo:20260408T210000
+DTEND;TZID=America/Montevideo:20260408T230000
+SUMMARY:Independiente de Medellín🇨🇴 vs. Estudiantes🇦🇷
+DESCRIPTION:Grupo A - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Atanasio Girardot
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260414T190000Z_Estudiantes_Cusco
+DTSTART;TZID=America/Montevideo:20260414T190000
+DTEND;TZID=America/Montevideo:20260414T210000
+SUMMARY:Estudiantes🇦🇷 vs. Cusco🇵🇪
+DESCRIPTION:Grupo A - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Jorge Luis Hirschi
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260429T213000Z_Estudiantes_Flamengo
+DTSTART;TZID=America/Montevideo:20260429T213000
+DTEND;TZID=America/Montevideo:20260429T233000
+SUMMARY:Estudiantes🇦🇷 vs. Flamengo🇧🇷
+DESCRIPTION:Grupo A - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Jorge Luis Hirschi
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260506T190000Z_Cusco_Estudiantes
+DTSTART;TZID=America/Montevideo:20260506T190000
+DTEND;TZID=America/Montevideo:20260506T210000
+SUMMARY:Cusco🇵🇪 vs. Estudiantes🇦🇷
+DESCRIPTION:Grupo A - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Inca Garcilaso de la Vega
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260520T213000Z_Flamengo_Estudiantes
+DTSTART;TZID=America/Montevideo:20260520T213000
+DTEND;TZID=America/Montevideo:20260520T233000
+SUMMARY:Flamengo🇧🇷 vs. Estudiantes🇦🇷
+DESCRIPTION:Grupo A - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio do Maracana
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260526T213000Z_Estudiantes_IndependienteDeMedellin
+DTSTART;TZID=America/Montevideo:20260526T213000
+DTEND;TZID=America/Montevideo:20260526T233000
+SUMMARY:Estudiantes🇦🇷 vs. Independiente de Medellín🇨🇴
+DESCRIPTION:Grupo A - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Jorge Luis Hirschi
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260811T213000Z_Estudiantes_UniversidadCatolica
+DTSTART;TZID=America/Montevideo:20260811T213000
+DTEND;TZID=America/Montevideo:20260811T233000
+SUMMARY:Estudiantes🇦🇷 vs. Universidad Católica🇪🇨
+DESCRIPTION:Octavos de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Jorge Luis Hirschi
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260818T213000Z_UniversidadCatolica_Estudiantes
+DTSTART;TZID=America/Montevideo:20260818T213000
+DTEND;TZID=America/Montevideo:20260818T233000
+SUMMARY:Universidad Católica🇪🇨 vs. Estudiantes🇦🇷
+DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio San Carlos de Apoquindo
+END:VEVENT
+END:VCALENDAR

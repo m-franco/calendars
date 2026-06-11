@@ -1,16 +1,22 @@
 ---
+import { langSegment, localizedEntityName, localizedSlug, localizeUrlPath, allTeamsCardTitle, tournamentSubtitle, type Lang } from "../i18n/ui";
+
 interface Props {
     name: string;
     path?: string;
     imageName?: string | null;
     tournament: string;
     hrefBase?: string;
+    type?: string;
+    lang?: Lang;
 }
 
 const basePath = `${import.meta.env.BASE_URL.replace(/\/$/, "")}/`;
 
-const { name, path, imageName, tournament, hrefBase } = Astro.props;
-const href = `${basePath}${hrefBase ? `${hrefBase}/` : ""}${path}`;
+const { name, path, imageName, tournament, hrefBase, type = "country", lang = "es" } = Astro.props;
+const slug = localizedSlug(type, path ?? "", tournament, lang);
+const displayName = localizedEntityName(type, path ?? "", name, tournament, lang);
+const href = `${basePath}${langSegment(lang)}${hrefBase ? `${localizeUrlPath(hrefBase, lang)}/` : ""}${slug}`;
 const cardBackground = `${tournament}-bg.jpg`;
 const cardBackgroundImage = `url(${basePath}img/icons/${cardBackground})`;
 ---
@@ -33,9 +39,9 @@ const cardBackgroundImage = `url(${basePath}img/icons/${cardBackground})`;
                             <img
                                 class="w-24"
                                 src={`${basePath}img/icons/${imageName}`}
-                                alt={name}
+                                alt={displayName}
                             />
-                            <div class="text-center text-sm mt-3">{name}</div>
+                            <div class="text-center text-sm mt-3">{displayName}</div>
                         </div>
                     </a>
                 </div>
@@ -47,9 +53,9 @@ const cardBackgroundImage = `url(${basePath}img/icons/${cardBackground})`;
                         <img
                             class="w-24"
                             src={`${basePath}img/icons/${tournament}/${imageName}`}
-                            alt={name}
+                            alt={displayName}
                         />
-                        <div class="text-center text-md mt-3">{name}</div>
+                        <div class="text-center text-md mt-3">{displayName}</div>
                     </div>
                 </div>
             )}
@@ -68,19 +74,13 @@ const cardBackgroundImage = `url(${basePath}img/icons/${cardBackground})`;
             <a href={href} class="w-full h-full">
                 <div class="flex px-8 sm:px-16 md:px-0 w-full h-full flex-col items-center justify-center">
                     <div class="text-center text-xl">
-                        Todos los equipos del {name} 
+                        {allTeamsCardTitle(displayName, lang)}
                     </div>
-                    {tournament === "libertadores" && (
+                    {(tournament === "libertadores" || tournament === "sudamericana") && (
                         <div class="text-center text-md text-yellow-400">
-                            de la Copa Libertadores
+                            {tournamentSubtitle(tournament, lang)}
                         </div>
                     )}
-                    {tournament === "sudamericana" && (
-                        <div class="text-center text-md text-yellow-400">
-                            de la Copa Sudamericana
-                        </div>
-                    )}
-                    
                 </div>
             </a>
         </div>
@@ -90,19 +90,13 @@ const cardBackgroundImage = `url(${basePath}img/icons/${cardBackground})`;
                 >
                     <div class="flex px-16 md:px-0 w-full h-full flex-col items-center justify-center">
                         <div class="text-center text-xl">
-                            Todos los equipos del {name} 
+                            {allTeamsCardTitle(displayName, lang)}
                         </div>
-                        {tournament === "libertadores" && (
+                        {(tournament === "libertadores" || tournament === "sudamericana") && (
                             <div class="text-center text-md text-yellow-400">
-                                de la Copa Libertadores
+                                {tournamentSubtitle(tournament, lang)}
                             </div>
                         )}
-                        {tournament === "sudamericana" && (
-                            <div class="text-center text-md text-yellow-400">
-                                de la Copa Sudamericana
-                            </div>
-                        )}
-                        
                     </div>
                 </div>
             )}

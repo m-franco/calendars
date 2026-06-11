@@ -1,0 +1,203 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//EN
+BEGIN:VEVENT
+UID:20240404T210000Z_Palestino_Bolívar
+DTSTART;TZID=America/Montevideo:20240404T210000
+DTEND;TZID=America/Montevideo:20240404T230000
+SUMMARY:Palestino🇨🇱 vs. Bolívar🇧🇴
+DESCRIPTION:Group E - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:a definir Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T190000Z_Flamengo_Palestino
+DTSTART;TZID=America/Montevideo:20240409T190000
+DTEND;TZID=America/Montevideo:20240409T210000
+SUMMARY:Flamengo🇧🇷 vs. Palestino🇨🇱
+DESCRIPTION:Group E - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Maracaná Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T210000Z_Palestino_Millonarios
+DTSTART;TZID=America/Montevideo:20240425T210000
+DTEND;TZID=America/Montevideo:20240425T230000
+SUMMARY:Palestino🇨🇱 vs. Millonarios🇨🇴
+DESCRIPTION:Group E - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:a definir Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T210000Z_Palestino_Flamengo
+DTSTART;TZID=America/Montevideo:20240507T210000
+DTEND;TZID=America/Montevideo:20240507T230000
+SUMMARY:Palestino🇨🇱 vs. Flamengo🇧🇷
+DESCRIPTION:Group E - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:a definir Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240514T230000Z_Millonarios_Palestino
+DTSTART;TZID=America/Montevideo:20240514T230000
+DTEND;TZID=America/Montevideo:20240515T010000
+SUMMARY:Millonarios🇨🇴 vs. Palestino🇨🇱
+DESCRIPTION:Group E - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Nemesio Camacho Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240528T210000Z_Bolívar_Palestino
+DTSTART;TZID=America/Montevideo:20240528T210000
+DTEND;TZID=America/Montevideo:20240528T230000
+SUMMARY:Bolívar🇧🇴 vs. Palestino🇨🇱
+DESCRIPTION:Group E - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Hernando Siles Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250403T230000Z_MushucRuna_Palestino
+DTSTART;TZID=America/Montevideo:20250403T230000
+DTEND;TZID=America/Montevideo:20250404T010000
+SUMMARY:Mushuc Runa🇪🇨 vs. Palestino🇨🇱
+DESCRIPTION:Group E - Matchday 1 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Fernando Guerrero Guerrero Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250409T190000Z_Palestino_Union
+DTSTART;TZID=America/Montevideo:20250409T190000
+DTEND;TZID=America/Montevideo:20250409T210000
+SUMMARY:Palestino🇨🇱 vs. Unión🇦🇷
+DESCRIPTION:Group E - Matchday 2 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Nacional Julio Martínez Prádanos Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250424T213000Z_Palestino_Cruzeiro
+DTSTART;TZID=America/Montevideo:20250424T213000
+DTEND;TZID=America/Montevideo:20250424T233000
+SUMMARY:Palestino🇨🇱 vs. Cruzeiro🇧🇷
+DESCRIPTION:Group E - Matchday 3 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Francisco Sánchez Rumoroso
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250507T190000Z_Union_Palestino
+DTSTART;TZID=America/Montevideo:20250507T190000
+DTEND;TZID=America/Montevideo:20250507T210000
+SUMMARY:Unión🇦🇷 vs. Palestino🇨🇱
+DESCRIPTION:Group E - Matchday 4 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:15 de Abril
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250514T213000Z_Cruzeiro_Palestino
+DTSTART;TZID=America/Montevideo:20250514T213000
+DTEND;TZID=America/Montevideo:20250514T233000
+SUMMARY:Cruzeiro🇧🇷 vs. Palestino🇨🇱
+DESCRIPTION:Group E - Matchday 5 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Mineirão Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250528T213000Z_Palestino_MushucRuna
+DTSTART;TZID=America/Montevideo:20250528T213000
+DTEND;TZID=America/Montevideo:20250528T233000
+SUMMARY:Palestino🇨🇱 vs. Mushuc Runa🇪🇨
+DESCRIPTION:Group E - Matchday 6 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Municipal de La Florida Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250716T190000Z_Bolivar_Palestino
+DTSTART;TZID=America/Montevideo:20250716T190000
+DTEND;TZID=America/Montevideo:20250716T210000
+SUMMARY:Bolívar🇧🇴 vs. Palestino🇨🇱
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Hernando Siles Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250723T190000Z_Palestino_Bolivar
+DTSTART;TZID=America/Montevideo:20250723T190000
+DTEND;TZID=America/Montevideo:20250723T210000
+SUMMARY:Palestino🇨🇱 vs. Bolívar🇧🇴
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Nacional Julio Martínez Prádanos Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260408T190000Z_DeportivoRiestra_Palestino
+DTSTART;TZID=America/Montevideo:20260408T190000
+DTEND;TZID=America/Montevideo:20260408T210000
+SUMMARY:Deportivo Riestra🇦🇷 vs. Palestino🇨🇱
+DESCRIPTION:Group F - Matchday 1 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Pedro Bidegain Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260414T213000Z_Palestino_MontevideoCityTorque
+DTSTART;TZID=America/Montevideo:20260414T213000
+DTEND;TZID=America/Montevideo:20260414T233000
+SUMMARY:Palestino🇨🇱 vs. Montevideo City Torque🇺🇾
+DESCRIPTION:Group F - Matchday 2 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Municipal de La Cisterna Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260429T213000Z_Palestino_Gremio
+DTSTART;TZID=America/Montevideo:20260429T213000
+DTEND;TZID=America/Montevideo:20260429T233000
+SUMMARY:Palestino🇨🇱 vs. Gremio🇧🇷
+DESCRIPTION:Group F - Matchday 3 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Municipal de La Cisterna Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260506T190000Z_MontevideoCityTorque_Palestino
+DTSTART;TZID=America/Montevideo:20260506T190000
+DTEND;TZID=America/Montevideo:20260506T210000
+SUMMARY:Montevideo City Torque🇺🇾 vs. Palestino🇨🇱
+DESCRIPTION:Group F - Matchday 4 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Centenario Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260520T210000Z_Gremio_Palestino
+DTSTART;TZID=America/Montevideo:20260520T210000
+DTEND;TZID=America/Montevideo:20260520T230000
+SUMMARY:Gremio🇧🇷 vs. Palestino🇨🇱
+DESCRIPTION:Group F - Matchday 5 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Arena do Grêmio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260526T190000Z_Palestino_DeportivoRiestra
+DTSTART;TZID=America/Montevideo:20260526T190000
+DTEND;TZID=America/Montevideo:20260526T210000
+SUMMARY:Palestino🇨🇱 vs. Deportivo Riestra🇦🇷
+DESCRIPTION:Group F - Matchday 6 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Municipal de La Cisterna Stadium
+END:VEVENT
+END:VCALENDAR

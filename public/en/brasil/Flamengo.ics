@@ -1,0 +1,313 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//EN
+BEGIN:VEVENT
+UID:20240402T190000Z_Millonarios_Flamengo
+DTSTART;TZID=America/Montevideo:20240402T190000
+DTEND;TZID=America/Montevideo:20240402T210000
+SUMMARY:Millonarios🇨🇴 vs. Flamengo🇧🇷
+DESCRIPTION:Group E - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Nemesio Camacho Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T190000Z_Flamengo_Palestino
+DTSTART;TZID=America/Montevideo:20240409T190000
+DTEND;TZID=America/Montevideo:20240409T210000
+SUMMARY:Flamengo🇧🇷 vs. Palestino🇨🇱
+DESCRIPTION:Group E - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Maracaná Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240424T213000Z_Bolívar_Flamengo
+DTSTART;TZID=America/Montevideo:20240424T213000
+DTEND;TZID=America/Montevideo:20240424T233000
+SUMMARY:Bolívar🇧🇴 vs. Flamengo🇧🇷
+DESCRIPTION:Group E - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Hernando Siles Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T210000Z_Palestino_Flamengo
+DTSTART;TZID=America/Montevideo:20240507T210000
+DTEND;TZID=America/Montevideo:20240507T230000
+SUMMARY:Palestino🇨🇱 vs. Flamengo🇧🇷
+DESCRIPTION:Group E - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:a definir Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T213000Z_Flamengo_Bolívar
+DTSTART;TZID=America/Montevideo:20240515T213000
+DTEND;TZID=America/Montevideo:20240515T233000
+SUMMARY:Flamengo🇧🇷 vs. Bolívar🇧🇴
+DESCRIPTION:Group E - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Maracaná Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240528T210000Z_Flamengo_Millonarios
+DTSTART;TZID=America/Montevideo:20240528T210000
+DTEND;TZID=America/Montevideo:20240528T230000
+SUMMARY:Flamengo🇧🇷 vs. Millonarios🇨🇴
+DESCRIPTION:Group E - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Maracaná Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240815T213000Z_Flamengo_Bolivar
+DTSTART;TZID=America/Montevideo:20240815T213000
+DTEND;TZID=America/Montevideo:20240815T233000
+SUMMARY:Flamengo🇧🇷 vs. Bolívar🇧🇴
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+LOCATION:Maracaná Stadium
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240822T213000Z_Bolivar_Flamengo
+DTSTART;TZID=America/Montevideo:20240822T213000
+DTEND;TZID=America/Montevideo:20240822T233000
+SUMMARY:Bolívar🇧🇴 vs. Flamengo🇧🇷
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+LOCATION:Hernando Siles Stadium
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240919T190000Z_Flamengo_Penarol
+DTSTART;TZID=America/Montevideo:20240919T190000
+DTEND;TZID=America/Montevideo:20240919T210000
+SUMMARY:Flamengo🇧🇷 vs. Peñarol🇺🇾
+DESCRIPTION:Quarter-finals - First leg - Libertadores Cup
+LOCATION:Maracaná Stadium, Río de Janeiro
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240926T190000Z_Penarol_Flamengo
+DTSTART;TZID=America/Montevideo:20240926T190000
+DTEND;TZID=America/Montevideo:20240926T210000
+SUMMARY:Peñarol🇺🇾 vs. Flamengo🇧🇷
+DESCRIPTION:Quarter-finals - Second leg - Libertadores Cup
+LOCATION:Campeón del Siglo Stadium, Montevideo
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250403T213000Z_DeportivoTachira_Flamengo
+DTSTART;TZID=America/Montevideo:20250403T213000
+DTEND;TZID=America/Montevideo:20250403T233000
+SUMMARY:Deportivo Táchira🇻🇪 vs. Flamengo🇧🇷
+DESCRIPTION:Group C - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Pueblo Nuevo Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250409T213000Z_Flamengo_CentralCordoba
+DTSTART;TZID=America/Montevideo:20250409T213000
+DTEND;TZID=America/Montevideo:20250409T233000
+SUMMARY:Flamengo🇧🇷 vs. Central Córdoba🇦🇷
+DESCRIPTION:Group C - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:do Maracana Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250422T190000Z_LigaDeQuito_Flamengo
+DTSTART;TZID=America/Montevideo:20250422T190000
+DTEND;TZID=America/Montevideo:20250422T210000
+SUMMARY:Liga de Quito🇪🇨 vs. Flamengo🇧🇷
+DESCRIPTION:Group C - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250507T213000Z_CentralCordoba_Flamengo
+DTSTART;TZID=America/Montevideo:20250507T213000
+DTEND;TZID=America/Montevideo:20250507T233000
+SUMMARY:Central Córdoba🇦🇷 vs. Flamengo🇧🇷
+DESCRIPTION:Group C - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Único Madre de Ciudades Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250515T213000Z_Flamengo_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20250515T213000
+DTEND;TZID=America/Montevideo:20250515T233000
+SUMMARY:Flamengo🇧🇷 vs. Liga de Quito🇪🇨
+DESCRIPTION:Group C - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:do Maracana Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250528T213000Z_Flamengo_DeportivoTachira
+DTSTART;TZID=America/Montevideo:20250528T213000
+DTEND;TZID=America/Montevideo:20250528T233000
+SUMMARY:Flamengo🇧🇷 vs. Deportivo Táchira🇻🇪
+DESCRIPTION:Group C - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:do Maracana Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250813T213000Z_Flamengo_Internacional
+DTSTART;TZID=America/Montevideo:20250813T213000
+DTEND;TZID=America/Montevideo:20250813T233000
+SUMMARY:Flamengo🇧🇷 vs. Internacional🇧🇷
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:do Maracana Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250820T213000Z_Internacional_Flamengo
+DTSTART;TZID=America/Montevideo:20250820T213000
+DTEND;TZID=America/Montevideo:20250820T233000
+SUMMARY:Internacional🇧🇷 vs. Flamengo🇧🇷
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Beira-Rio Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250918T213000Z_Flamengo_Estudiantes
+DTSTART;TZID=America/Montevideo:20250918T213000
+DTEND;TZID=America/Montevideo:20250918T233000
+SUMMARY:Flamengo🇧🇷 vs. Estudiantes🇦🇷
+DESCRIPTION:Quarter-finals - First leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:do Maracana Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250925T213000Z_Estudiantes_Flamengo
+DTSTART;TZID=America/Montevideo:20250925T213000
+DTEND;TZID=America/Montevideo:20250925T233000
+SUMMARY:Estudiantes🇦🇷 vs. Flamengo🇧🇷
+DESCRIPTION:Quarter-finals - Second leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Jorge Luis Hirschi
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251022T213000Z_Flamengo_Racing
+DTSTART;TZID=America/Montevideo:20251022T213000
+DTEND;TZID=America/Montevideo:20251022T233000
+SUMMARY:Flamengo🇧🇷 vs. Racing🇦🇷
+DESCRIPTION:Semi-finals - First leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:do Maracana Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251029T213000Z_Racing_Flamengo
+DTSTART;TZID=America/Montevideo:20251029T213000
+DTEND;TZID=America/Montevideo:20251029T233000
+SUMMARY:Racing🇦🇷 vs. Flamengo🇧🇷
+DESCRIPTION:Semi-finals - Second leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Presidente Perón (Cilindro de Avellaneda)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251129T180000Z_Palmeiras_Flamengo
+DTSTART;TZID=America/Montevideo:20251129T180000
+DTEND;TZID=America/Montevideo:20251129T200000
+SUMMARY:Palmeiras🇧🇷 vs. Flamengo🇧🇷
+DESCRIPTION:Final - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Monumental de Lima Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260408T213000Z_Cusco_Flamengo
+DTSTART;TZID=America/Montevideo:20260408T213000
+DTEND;TZID=America/Montevideo:20260408T233000
+SUMMARY:Cusco🇵🇪 vs. Flamengo🇧🇷
+DESCRIPTION:Group A - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Inca Garcilaso de la Vega Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260416T213000Z_Flamengo_IndependienteDeMedellin
+DTSTART;TZID=America/Montevideo:20260416T213000
+DTEND;TZID=America/Montevideo:20260416T233000
+SUMMARY:Flamengo🇧🇷 vs. Independiente de Medellín🇨🇴
+DESCRIPTION:Group A - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:do Maracana Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260429T213000Z_Estudiantes_Flamengo
+DTSTART;TZID=America/Montevideo:20260429T213000
+DTEND;TZID=America/Montevideo:20260429T233000
+SUMMARY:Estudiantes🇦🇷 vs. Flamengo🇧🇷
+DESCRIPTION:Group A - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Jorge Luis Hirschi Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260507T213000Z_IndependienteDeMedellin_Flamengo
+DTSTART;TZID=America/Montevideo:20260507T213000
+DTEND;TZID=America/Montevideo:20260507T233000
+SUMMARY:Independiente de Medellín🇨🇴 vs. Flamengo🇧🇷
+DESCRIPTION:Group A - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Atanasio Girardot
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260520T213000Z_Flamengo_Estudiantes
+DTSTART;TZID=America/Montevideo:20260520T213000
+DTEND;TZID=America/Montevideo:20260520T233000
+SUMMARY:Flamengo🇧🇷 vs. Estudiantes🇦🇷
+DESCRIPTION:Group A - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:do Maracana Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260526T213000Z_Flamengo_Cusco
+DTSTART;TZID=America/Montevideo:20260526T213000
+DTEND;TZID=America/Montevideo:20260526T233000
+SUMMARY:Flamengo🇧🇷 vs. Cusco🇵🇪
+DESCRIPTION:Group A - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:do Maracana Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260812T213000Z_Cruzeiro_Flamengo
+DTSTART;TZID=America/Montevideo:20260812T213000
+DTEND;TZID=America/Montevideo:20260812T233000
+SUMMARY:Cruzeiro🇧🇷 vs. Flamengo🇧🇷
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Mineirão Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260819T213000Z_Flamengo_Cruzeiro
+DTSTART;TZID=America/Montevideo:20260819T213000
+DTEND;TZID=America/Montevideo:20260819T233000
+SUMMARY:Flamengo🇧🇷 vs. Cruzeiro🇧🇷
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:do Maracana Stadium
+END:VEVENT
+END:VCALENDAR

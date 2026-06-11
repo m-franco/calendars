@@ -1,0 +1,243 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//PT
+BEGIN:VEVENT
+UID:20240717T213000Z_IndependienteDelValle_Boca_Juniors
+DTSTART;TZID=America/Montevideo:20240717T213000
+DTEND;TZID=America/Montevideo:20240717T233000
+SUMMARY:Independiente del Valle🇪🇨 vs. Boca Juniors🇦🇷
+DESCRIPTION:Play-offs - Ida - Copa Sul-Americana
+LOCATION:Estádio Banco Guayaquil, Quito
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240724T213000Z_Boca_Juniors_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20240724T213000
+DTEND;TZID=America/Montevideo:20240724T233000
+SUMMARY:Boca Juniors🇦🇷 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Play-offs - Volta - Copa Sul-Americana
+LOCATION:La Bombonera, Buenos Aires
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250401T230000Z_Barcelona_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20250401T230000
+DTEND;TZID=America/Montevideo:20250402T010000
+SUMMARY:Barcelona🇪🇨 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Grupo B - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Banco Pichincha
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250408T230000Z_IndependienteDelValle_Universitario
+DTSTART;TZID=America/Montevideo:20250408T230000
+DTEND;TZID=America/Montevideo:20250409T010000
+SUMMARY:Independiente del Valle🇪🇨 vs. Universitario🇵🇪
+DESCRIPTION:Grupo B - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Banco Guayaquil
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250423T213000Z_IndependienteDelValle_River
+DTSTART;TZID=America/Montevideo:20250423T213000
+DTEND;TZID=America/Montevideo:20250423T233000
+SUMMARY:Independiente del Valle🇪🇨 vs. River🇦🇷
+DESCRIPTION:Grupo B - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Banco Guayaquil
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250508T230000Z_Universitario_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20250508T230000
+DTEND;TZID=America/Montevideo:20250509T010000
+SUMMARY:Universitario🇵🇪 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Grupo B - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Monumental de Lima
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250515T213000Z_River_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20250515T213000
+DTEND;TZID=America/Montevideo:20250515T233000
+SUMMARY:River🇦🇷 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Grupo B - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Más Monumental
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250527T213000Z_IndependienteDelValle_Barcelona
+DTSTART;TZID=America/Montevideo:20250527T213000
+DTEND;TZID=America/Montevideo:20250527T233000
+SUMMARY:Independiente del Valle🇪🇨 vs. Barcelona🇪🇨
+DESCRIPTION:Grupo B - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Banco Guayaquil
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250715T213000Z_IndependienteDelValle_VascoDaGama
+DTSTART;TZID=America/Montevideo:20250715T213000
+DTEND;TZID=America/Montevideo:20250715T233000
+SUMMARY:Independiente del Valle🇪🇨 vs. Vasco da Gama🇧🇷
+DESCRIPTION:Play-offs - Ida - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico Atahualpa
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250722T213000Z_VascoDaGama_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20250722T213000
+DTEND;TZID=America/Montevideo:20250722T233000
+SUMMARY:Vasco da Gama🇧🇷 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Play-offs - Volta - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio São Januário
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250812T213000Z_IndependienteDelValle_MushucRuna
+DTSTART;TZID=America/Montevideo:20250812T213000
+DTEND;TZID=America/Montevideo:20250812T233000
+SUMMARY:Independiente del Valle🇪🇨 vs. Mushuc Runa🇪🇨
+DESCRIPTION:Oitavas de final - Ida - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Banco Guayaquil
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250819T213000Z_MushucRuna_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20250819T213000
+DTEND;TZID=America/Montevideo:20250819T233000
+SUMMARY:Mushuc Runa🇪🇨 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico Atahualpa
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250917T213000Z_IndependienteDelValle_OnceCaldas
+DTSTART;TZID=America/Montevideo:20250917T213000
+DTEND;TZID=America/Montevideo:20250917T233000
+SUMMARY:Independiente del Valle🇪🇨 vs. Once Caldas🇨🇴
+DESCRIPTION:Quartas de final - Ida - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Banco Guayaquil
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250924T213000Z_OnceCaldas_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20250924T213000
+DTEND;TZID=America/Montevideo:20250924T233000
+SUMMARY:Once Caldas🇨🇴 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Quartas de final - Volta - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Palogrande
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251021T213000Z_IndependienteDelValle_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20251021T213000
+DTEND;TZID=America/Montevideo:20251021T233000
+SUMMARY:Independiente del Valle🇪🇨 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Semifinal - Ida - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Banco Guayaquil
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251028T213000Z_AtleticoMineiro_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20251028T213000
+DTEND;TZID=America/Montevideo:20251028T233000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Semifinal - Volta - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260409T190000Z_RosarioCentral_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20260409T190000
+DTEND;TZID=America/Montevideo:20260409T210000
+SUMMARY:Rosario Central🇦🇷 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Grupo H - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Gigante de Arroyito
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260415T230000Z_IndependienteDelValle_UniversidadCentral
+DTSTART;TZID=America/Montevideo:20260415T230000
+DTEND;TZID=America/Montevideo:20260416T010000
+SUMMARY:Independiente del Valle🇪🇨 vs. Universidad Central🇻🇪
+DESCRIPTION:Grupo H - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Banco Guayaquil
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260428T190000Z_Libertad_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20260428T190000
+DTEND;TZID=America/Montevideo:20260428T210000
+SUMMARY:Libertad🇵🇾 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Grupo H - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Tigo La Huerta
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260505T210000Z_UniversidadCentral_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20260505T210000
+DTEND;TZID=America/Montevideo:20260505T230000
+SUMMARY:Universidad Central🇻🇪 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Grupo H - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico de la UCV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260519T230000Z_IndependienteDelValle_Libertad
+DTSTART;TZID=America/Montevideo:20260519T230000
+DTEND;TZID=America/Montevideo:20260520T010000
+SUMMARY:Independiente del Valle🇪🇨 vs. Libertad🇵🇾
+DESCRIPTION:Grupo H - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Banco Guayaquil
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260527T190000Z_IndependienteDelValle_RosarioCentral
+DTSTART;TZID=America/Montevideo:20260527T190000
+DTEND;TZID=America/Montevideo:20260527T210000
+SUMMARY:Independiente del Valle🇪🇨 vs. Rosario Central🇦🇷
+DESCRIPTION:Grupo H - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Banco Guayaquil
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260811T213000Z_DeportesTolima_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20260811T213000
+DTEND;TZID=America/Montevideo:20260811T233000
+SUMMARY:Deportes Tolima🇨🇴 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Oitavas de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Manuel Murillo Toro
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260818T213000Z_IndependienteDelValle_DeportesTolima
+DTSTART;TZID=America/Montevideo:20260818T213000
+DTEND;TZID=America/Montevideo:20260818T233000
+SUMMARY:Independiente del Valle🇪🇨 vs. Deportes Tolima🇨🇴
+DESCRIPTION:Oitavas de final - Volta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio a definir
+END:VEVENT
+END:VCALENDAR

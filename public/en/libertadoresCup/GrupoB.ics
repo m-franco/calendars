@@ -1,0 +1,203 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//EN
+BEGIN:VEVENT
+UID:20240402T190000Z_Cobresal_Barcelona
+DTSTART;TZID=America/Montevideo:20240402T190000
+DTEND;TZID=America/Montevideo:20240402T210000
+SUMMARY:Cobresal🇨🇱 vs. Barcelona🇪🇨
+DESCRIPTION:Group B - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Zorros del Desierto Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240404T210000Z_Talleres_SanPablo
+DTSTART;TZID=America/Montevideo:20240404T210000
+DTEND;TZID=America/Montevideo:20240404T230000
+SUMMARY:Talleres🇦🇷 vs. San Pablo🇧🇷
+DESCRIPTION:Group B - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Mario Alberto Kempes Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T210000Z_Barcelona_Talleres
+DTSTART;TZID=America/Montevideo:20240409T210000
+DTEND;TZID=America/Montevideo:20240409T230000
+SUMMARY:Barcelona🇪🇨 vs. Talleres🇦🇷
+DESCRIPTION:Group B - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Monumental Banco Pichincha Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T213000Z_SanPablo_Cobresal
+DTSTART;TZID=America/Montevideo:20240410T213000
+DTEND;TZID=America/Montevideo:20240410T233000
+SUMMARY:San Pablo🇧🇷 vs. Cobresal🇨🇱
+DESCRIPTION:Group B - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Morumbí Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T190000Z_Cobresal_Talleres
+DTSTART;TZID=America/Montevideo:20240425T190000
+DTEND;TZID=America/Montevideo:20240425T210000
+SUMMARY:Cobresal🇨🇱 vs. Talleres🇦🇷
+DESCRIPTION:Group B - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Zorros del Desierto Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T210000Z_Barcelona_SanPablo
+DTSTART;TZID=America/Montevideo:20240425T210000
+DTEND;TZID=America/Montevideo:20240425T230000
+SUMMARY:Barcelona🇪🇨 vs. San Pablo🇧🇷
+DESCRIPTION:Group B - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Monumental Banco Pichincha Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240508T190000Z_Talleres_Barcelona
+DTSTART;TZID=America/Montevideo:20240508T190000
+DTEND;TZID=America/Montevideo:20240508T210000
+SUMMARY:Talleres🇦🇷 vs. Barcelona🇪🇨
+DESCRIPTION:Group B - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Mario Alberto Kempes Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240508T213000Z_Cobresal_SanPablo
+DTSTART;TZID=America/Montevideo:20240508T213000
+DTEND;TZID=America/Montevideo:20240508T233000
+SUMMARY:Cobresal🇨🇱 vs. San Pablo🇧🇷
+DESCRIPTION:Group B - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Zorros del Desierto Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240514T190000Z_Talleres_Cobresal
+DTSTART;TZID=America/Montevideo:20240514T190000
+DTEND;TZID=America/Montevideo:20240514T210000
+SUMMARY:Talleres🇦🇷 vs. Cobresal🇨🇱
+DESCRIPTION:Group B - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Mario Alberto Kempes Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240516T210000Z_SanPablo_Barcelona
+DTSTART;TZID=America/Montevideo:20240516T210000
+DTEND;TZID=America/Montevideo:20240516T230000
+SUMMARY:San Pablo🇧🇷 vs. Barcelona🇪🇨
+DESCRIPTION:Group B - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Morumbí Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240529T213000Z_Barcelona_Cobresal
+DTSTART;TZID=America/Montevideo:20240529T213000
+DTEND;TZID=America/Montevideo:20240529T233000
+SUMMARY:Barcelona🇪🇨 vs. Cobresal🇨🇱
+DESCRIPTION:Group B - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Monumental Banco Pichincha Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240529T213000Z_SanPablo_Talleres
+DTSTART;TZID=America/Montevideo:20240529T213000
+DTEND;TZID=America/Montevideo:20240529T233000
+SUMMARY:San Pablo🇧🇷 vs. Talleres🇦🇷
+DESCRIPTION:Group B - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Morumbí Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240717T213000Z_Barcelona_Red_Bull_Bragantino
+DTSTART;TZID=America/Montevideo:20240717T213000
+DTEND;TZID=America/Montevideo:20240717T233000
+SUMMARY:Barcelona🇪🇨 vs. Red Bull Bragantino🇧🇷
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+LOCATION:Monumental Isidro Romero Carbo Stadium, Guayaquil
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240724T213000Z_Red_Bull_Bragantino_Barcelona
+DTSTART;TZID=America/Montevideo:20240724T213000
+DTEND;TZID=America/Montevideo:20240724T233000
+SUMMARY:Red Bull Bragantino🇧🇷 vs. Barcelona🇪🇨
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+LOCATION:Estádio Nabi Abi Chedid, Bragança Paulista
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240814T213000Z_Talleres_River
+DTSTART;TZID=America/Montevideo:20240814T213000
+DTEND;TZID=America/Montevideo:20240814T233000
+SUMMARY:Talleres🇦🇷 vs. River🇦🇷
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+LOCATION:Mario Alberto Kempes Stadium
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240815T190000Z_Nacional_SanPablo
+DTSTART;TZID=America/Montevideo:20240815T190000
+DTEND;TZID=America/Montevideo:20240815T210000
+SUMMARY:Nacional🇺🇾 vs. San Pablo🇧🇷
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+LOCATION:Gran Parque Central Stadium
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240821T213000Z_River_Talleres
+DTSTART;TZID=America/Montevideo:20240821T213000
+DTEND;TZID=America/Montevideo:20240821T233000
+SUMMARY:River🇦🇷 vs. Talleres🇦🇷
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+LOCATION:Monumental Stadium
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240822T190000Z_SanPablo_Nacional
+DTSTART;TZID=America/Montevideo:20240822T190000
+DTEND;TZID=America/Montevideo:20240822T210000
+SUMMARY:San Pablo🇧🇷 vs. Nacional🇺🇾
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+LOCATION:Morumbí Stadium
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240918T213000Z_Botafogo_SaoPaulo
+DTSTART;TZID=America/Montevideo:20240918T213000
+DTEND;TZID=America/Montevideo:20240918T233000
+SUMMARY:Botafogo🇧🇷 vs. San Pablo🇧🇷
+DESCRIPTION:Quarter-finals - First leg - Libertadores Cup
+LOCATION:Nilton Santos Stadium, Río de Janeiro
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240925T213000Z_SaoPaulo_Botafogo
+DTSTART;TZID=America/Montevideo:20240925T213000
+DTEND;TZID=America/Montevideo:20240925T233000
+SUMMARY:San Pablo🇧🇷 vs. Botafogo🇧🇷
+DESCRIPTION:Quarter-finals - Second leg - Libertadores Cup
+LOCATION:Morumbí Stadium, San Pablo
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

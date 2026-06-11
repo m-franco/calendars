@@ -1,0 +1,123 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//ES
+BEGIN:VEVENT
+UID:20240402T190000Z_Sportivo_Ameliano_Atletico_Paranaense
+DTSTART;TZID=America/Montevideo:20240402T190000
+DTEND;TZID=America/Montevideo:20240402T210000
+SUMMARY:Sportivo Ameliano🇵🇾 vs. Atlético Paranaense🇧🇷
+DESCRIPTION:Grupo E - Fecha 1 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio La Nueva Olla
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T213000Z_Atletico_Paranaense_Rayo_Zuliano
+DTSTART;TZID=America/Montevideo:20240409T213000
+DTEND;TZID=America/Montevideo:20240409T233000
+SUMMARY:Atlético Paranaense🇧🇷 vs. Rayo Zuliano🇻🇪
+DESCRIPTION:Grupo E - Fecha 2 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Ligga Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240424T190000Z_Danubio_Atletico_Paranaense
+DTSTART;TZID=America/Montevideo:20240424T190000
+DTEND;TZID=America/Montevideo:20240424T210000
+SUMMARY:Danubio🇺🇾 vs. Atlético Paranaense🇧🇷
+DESCRIPTION:Grupo E - Fecha 3 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240508T190000Z_Rayo_Zuliano_Atletico_Paranaense
+DTSTART;TZID=America/Montevideo:20240508T190000
+DTEND;TZID=America/Montevideo:20240508T210000
+SUMMARY:Rayo Zuliano🇻🇪 vs. Atlético Paranaense🇧🇷
+DESCRIPTION:Grupo E - Fecha 4 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Brígido Iriarte
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T190000Z_Atletico_Paranaense_Danubio
+DTSTART;TZID=America/Montevideo:20240515T190000
+DTEND;TZID=America/Montevideo:20240515T210000
+SUMMARY:Atlético Paranaense🇧🇷 vs. Danubio🇺🇾
+DESCRIPTION:Grupo E - Fecha 5 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Ligga Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240530T220000Z_Atletico_Paranaense_Sportivo_Ameliano
+DTSTART;TZID=America/Montevideo:20240530T220000
+DTEND;TZID=America/Montevideo:20240530T000000
+SUMMARY:Atlético Paranaense🇧🇷 vs. Sportivo Ameliano🇵🇾
+DESCRIPTION:Grupo E - Fecha 6 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Ligga Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240718T213000Z_Cerro_Porteno_Atletico_Paranaense
+DTSTART;TZID=America/Montevideo:20240718T213000
+DTEND;TZID=America/Montevideo:20240718T233000
+SUMMARY:Cerro Porteño🇵🇾 vs. Atlético Paranaense🇧🇷
+DESCRIPTION:Play-offs - Ida - Copa Sudamericana
+LOCATION:Estadio General Pablo Rojas, Asunción
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240725T213000Z_Atletico_Paranaense_Cerro_Porteno
+DTSTART;TZID=America/Montevideo:20240725T213000
+DTEND;TZID=America/Montevideo:20240725T233000
+SUMMARY:Atlético Paranaense🇧🇷 vs. Cerro Porteño🇵🇾
+DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana
+LOCATION:Arena da Baixada, Curitiba
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240815T190000Z_Atletico_Paranaense_Belgrano
+DTSTART;TZID=America/Montevideo:20240815T190000
+DTEND;TZID=America/Montevideo:20240815T210000
+SUMMARY:Atlético Paranaense🇧🇷 vs. Belgrano🇦🇷
+DESCRIPTION:Octavos de final - Ida - Copa Sudamericana
+LOCATION:Arena da Baixada, Curitiba
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240822T190000Z_Belgrano_Atletico_Paranaense
+DTSTART;TZID=America/Montevideo:20240822T190000
+DTEND;TZID=America/Montevideo:20240822T210000
+SUMMARY:Belgrano🇦🇷 vs. Atlético Paranaense🇧🇷
+DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana
+LOCATION:Estadio Mario Alberto Kempes, Córdoba
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240919T213000Z_Atletico_Paranaense_Racing_Arg
+DTSTART;TZID=America/Montevideo:20240919T213000
+DTEND;TZID=America/Montevideo:20240919T233000
+SUMMARY:Atlético Paranaense🇧🇷 vs. Racing(Arg)🇦🇷
+DESCRIPTION:Cuartos de final - Ida - Copa Sudamericana
+LOCATION:Arena da Baixada, Curitiba
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240926T213000Z_Racing_Arg_Atletico_Paranaense
+DTSTART;TZID=America/Montevideo:20240926T213000
+DTEND;TZID=America/Montevideo:20240926T233000
+SUMMARY:Racing(Arg)🇦🇷 vs. Atlético Paranaense🇧🇷
+DESCRIPTION:Cuartos de final - Vuelta - Copa Sudamericana
+LOCATION:Estadio Presidente Perón, Avellaneda
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

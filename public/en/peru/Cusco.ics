@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//EN
+BEGIN:VEVENT
+UID:20260408T213000Z_Cusco_Flamengo
+DTSTART;TZID=America/Montevideo:20260408T213000
+DTEND;TZID=America/Montevideo:20260408T233000
+SUMMARY:Cusco🇵🇪 vs. Flamengo🇧🇷
+DESCRIPTION:Group A - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Inca Garcilaso de la Vega Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260414T190000Z_Estudiantes_Cusco
+DTSTART;TZID=America/Montevideo:20260414T190000
+DTEND;TZID=America/Montevideo:20260414T210000
+SUMMARY:Estudiantes🇦🇷 vs. Cusco🇵🇪
+DESCRIPTION:Group A - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Jorge Luis Hirschi Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260430T230000Z_IndependienteDeMedellin_Cusco
+DTSTART;TZID=America/Montevideo:20260430T230000
+DTEND;TZID=America/Montevideo:20260501T010000
+SUMMARY:Independiente de Medellín🇨🇴 vs. Cusco🇵🇪
+DESCRIPTION:Group A - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Atanasio Girardot
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260506T190000Z_Cusco_Estudiantes
+DTSTART;TZID=America/Montevideo:20260506T190000
+DTEND;TZID=America/Montevideo:20260506T210000
+SUMMARY:Cusco🇵🇪 vs. Estudiantes🇦🇷
+DESCRIPTION:Group A - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Inca Garcilaso de la Vega Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260520T230000Z_Cusco_IndependienteDeMedellin
+DTSTART;TZID=America/Montevideo:20260520T230000
+DTEND;TZID=America/Montevideo:20260521T010000
+SUMMARY:Cusco🇵🇪 vs. Independiente de Medellín🇨🇴
+DESCRIPTION:Group A - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Inca Garcilaso de la Vega Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260526T213000Z_Flamengo_Cusco
+DTSTART;TZID=America/Montevideo:20260526T213000
+DTEND;TZID=America/Montevideo:20260526T233000
+SUMMARY:Flamengo🇧🇷 vs. Cusco🇵🇪
+DESCRIPTION:Group A - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:do Maracana Stadium
+END:VEVENT
+END:VCALENDAR

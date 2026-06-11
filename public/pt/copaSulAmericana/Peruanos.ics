@@ -1,0 +1,923 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//PT
+BEGIN:VEVENT
+UID:20240402T230000Z_UCV_Defensa_y_Justicia
+DTSTART;TZID=America/Montevideo:20240402T230000
+DTEND;TZID=America/Montevideo:20240403T010000
+SUMMARY:Universidad César Vallejo🇵🇪 vs. Defensa y Justicia🇦🇷
+DESCRIPTION:Grupo A - Rodada 1 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Mansiche
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240404T190000Z_Deportivo_Garcilaso_Metropolitanos
+DTSTART;TZID=America/Montevideo:20240404T190000
+DTEND;TZID=America/Montevideo:20240404T210000
+SUMMARY:Deportivo Garcilaso🇵🇪 vs. Metropolitanos🇻🇪
+DESCRIPTION:Grupo G - Rodada 1 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Inca Garcilaso de la Vega
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T230000Z_Independiente_Medellin_UCV
+DTSTART;TZID=America/Montevideo:20240410T230000
+DTEND;TZID=America/Montevideo:20240411T010000
+SUMMARY:Independiente de Medellín🇨🇴 vs. Universidad César Vallejo🇵🇪
+DESCRIPTION:Grupo A - Rodada 2 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Atanasio Girardot
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240411T190000Z_Lanus_Deportivo_Garcilaso
+DTSTART;TZID=America/Montevideo:20240411T190000
+DTEND;TZID=America/Montevideo:20240411T210000
+SUMMARY:Lanús🇦🇷 vs. Deportivo Garcilaso🇵🇪
+DESCRIPTION:Grupo G - Rodada 2 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Ciudad de Lanús
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240423T210000Z_Deportivo_Garcilaso_Cuiaba
+DTSTART;TZID=America/Montevideo:20240423T210000
+DTEND;TZID=America/Montevideo:20240423T230000
+SUMMARY:Deportivo Garcilaso🇵🇪 vs. Cuiabá🇧🇷
+DESCRIPTION:Grupo G - Rodada 3 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Inca Garcilaso de la Vega
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T210000Z_Always_Ready_UCV
+DTSTART;TZID=America/Montevideo:20240425T210000
+DTEND;TZID=America/Montevideo:20240425T230000
+SUMMARY:Always Ready🇧🇴 vs. Universidad César Vallejo🇵🇪
+DESCRIPTION:Grupo A - Rodada 3 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Municipal Villa Ingenio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T210000Z_UCV_Independiente_Medellin
+DTSTART;TZID=America/Montevideo:20240507T210000
+DTEND;TZID=America/Montevideo:20240507T230000
+SUMMARY:Universidad César Vallejo🇵🇪 vs. Independiente de Medellín🇨🇴
+DESCRIPTION:Grupo A - Rodada 4 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Mansiche
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240509T230000Z_Deportivo_Garcilaso_Lanus
+DTSTART;TZID=America/Montevideo:20240509T230000
+DTEND;TZID=America/Montevideo:20240510T010000
+SUMMARY:Deportivo Garcilaso🇵🇪 vs. Lanús🇦🇷
+DESCRIPTION:Grupo G - Rodada 4 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Inca Garcilaso de la Vega
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T210000Z_Cuiaba_Deportivo_Garcilaso
+DTSTART;TZID=America/Montevideo:20240515T210000
+DTEND;TZID=America/Montevideo:20240515T230000
+SUMMARY:Cuiabá🇧🇷 vs. Deportivo Garcilaso🇵🇪
+DESCRIPTION:Grupo G - Rodada 5 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Arena Pantanal
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T230000Z_UCV_Always_Ready
+DTSTART;TZID=America/Montevideo:20240515T230000
+DTEND;TZID=America/Montevideo:20240516T010000
+SUMMARY:Universidad César Vallejo🇵🇪 vs. Always Ready🇧🇴
+DESCRIPTION:Grupo A - Rodada 5 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Mansiche
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240529T190000Z_Metropolitanos_Deportivo_Garcilaso
+DTSTART;TZID=America/Montevideo:20240529T190000
+DTEND;TZID=America/Montevideo:20240529T210000
+SUMMARY:Metropolitanos🇻🇪 vs. Deportivo Garcilaso🇵🇪
+DESCRIPTION:Grupo G - Rodada 6 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico de la UCV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240529T210000Z_Defensa_y_Justicia_UCV
+DTSTART;TZID=America/Montevideo:20240529T210000
+DTEND;TZID=America/Montevideo:20240529T230000
+SUMMARY:Defensa y Justicia🇦🇷 vs. Universidad César Vallejo🇵🇪
+DESCRIPTION:Grupo A - Rodada 6 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Norberto Tomaghello
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250401T213000Z_Cienciano_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20250401T213000
+DTEND;TZID=America/Montevideo:20250401T233000
+SUMMARY:Cienciano🇵🇪 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Grupo H - Rodada 1 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Inca Garcilaso de la Vega
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250401T230000Z_AlianzaLima_Libertad
+DTSTART;TZID=America/Montevideo:20250401T230000
+DTEND;TZID=America/Montevideo:20250402T010000
+SUMMARY:Alianza Lima🇵🇪 vs. Libertad🇵🇾
+DESCRIPTION:Grupo D - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Alejandro Villanueva
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250402T190000Z_Melgar_VascoDaGama
+DTSTART;TZID=America/Montevideo:20250402T190000
+DTEND;TZID=America/Montevideo:20250402T210000
+SUMMARY:Melgar🇵🇪 vs. Vasco da Gama🇧🇷
+DESCRIPTION:Grupo G - Rodada 1 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Monumental de la UNSA
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250402T213000Z_Universitario_River
+DTSTART;TZID=America/Montevideo:20250402T213000
+DTEND;TZID=America/Montevideo:20250402T233000
+SUMMARY:Universitario🇵🇪 vs. River🇦🇷
+DESCRIPTION:Grupo B - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Monumental de Lima
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250402T230000Z_AtleticoGrau_GodoyCruz
+DTSTART;TZID=America/Montevideo:20250402T230000
+DTEND;TZID=America/Montevideo:20250403T010000
+SUMMARY:Atlético Grau🇵🇪 vs. Godoy Cruz🇦🇷
+DESCRIPTION:Grupo D - Rodada 1 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Alejandro Villanueva
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250403T190000Z_SportingCristal_Palmeiras
+DTSTART;TZID=America/Montevideo:20250403T190000
+DTEND;TZID=America/Montevideo:20250403T210000
+SUMMARY:Sporting Cristal🇵🇪 vs. Palmeiras🇧🇷
+DESCRIPTION:Grupo G - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Nacional de Lima
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250408T190000Z_Caracas_Cienciano
+DTSTART;TZID=America/Montevideo:20250408T190000
+DTEND;TZID=America/Montevideo:20250408T210000
+SUMMARY:Caracas🇻🇪 vs. Cienciano🇵🇪
+DESCRIPTION:Grupo H - Rodada 2 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico de la UCV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250408T190000Z_Gremio_AtleticoGrau
+DTSTART;TZID=America/Montevideo:20250408T190000
+DTEND;TZID=America/Montevideo:20250408T210000
+SUMMARY:Gremio🇧🇷 vs. Atlético Grau🇵🇪
+DESCRIPTION:Grupo D - Rodada 2 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Grêmio Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250408T230000Z_IndependienteDelValle_Universitario
+DTSTART;TZID=America/Montevideo:20250408T230000
+DTEND;TZID=America/Montevideo:20250409T010000
+SUMMARY:Independiente del Valle🇪🇨 vs. Universitario🇵🇪
+DESCRIPTION:Grupo B - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Banco Guayaquil
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250409T213000Z_Bolivar_SportingCristal
+DTSTART;TZID=America/Montevideo:20250409T213000
+DTEND;TZID=America/Montevideo:20250409T233000
+SUMMARY:Bolívar🇧🇴 vs. Sporting Cristal🇵🇪
+DESCRIPTION:Grupo G - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Hernando Siles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250409T213000Z_Lanus_Melgar
+DTSTART;TZID=America/Montevideo:20250409T213000
+DTEND;TZID=America/Montevideo:20250409T233000
+SUMMARY:Lanús🇦🇷 vs. Melgar🇵🇪
+DESCRIPTION:Grupo G - Rodada 2 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Ciudad de Lanús
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250410T213000Z_SanPablo_AlianzaLima
+DTSTART;TZID=America/Montevideo:20250410T213000
+DTEND;TZID=America/Montevideo:20250410T233000
+SUMMARY:San Pablo🇧🇷 vs. Alianza Lima🇵🇪
+DESCRIPTION:Grupo D - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:MorumBIS
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250422T190000Z_AlianzaLima_Talleres
+DTSTART;TZID=America/Montevideo:20250422T190000
+DTEND;TZID=America/Montevideo:20250422T210000
+SUMMARY:Alianza Lima🇵🇪 vs. Talleres🇦🇷
+DESCRIPTION:Grupo D - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Alejandro Villanueva
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250422T230000Z_Barcelona_Universitario
+DTSTART;TZID=America/Montevideo:20250422T230000
+DTEND;TZID=America/Montevideo:20250423T010000
+SUMMARY:Barcelona🇪🇨 vs. Universitario🇵🇪
+DESCRIPTION:Grupo B - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Banco Pichincha
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250422T230000Z_Melgar_AcademiaPuertoCabello
+DTSTART;TZID=America/Montevideo:20250422T230000
+DTEND;TZID=America/Montevideo:20250423T010000
+SUMMARY:Melgar🇵🇪 vs. Academia Puerto Cabello🇻🇪
+DESCRIPTION:Grupo G - Rodada 3 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Monumental de la UNSA
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250423T230000Z_AtleticoGrau_SportivoLuqueno
+DTSTART;TZID=America/Montevideo:20250423T230000
+DTEND;TZID=America/Montevideo:20250424T010000
+SUMMARY:Atlético Grau🇵🇪 vs. Sportivo Luqueño🇵🇾
+DESCRIPTION:Grupo D - Rodada 3 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Monumental de Lima
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250424T213000Z_CerroPorteno_SportingCristal
+DTSTART;TZID=America/Montevideo:20250424T213000
+DTEND;TZID=America/Montevideo:20250424T233000
+SUMMARY:Cerro Porteño🇵🇾 vs. Sporting Cristal🇵🇪
+DESCRIPTION:Grupo G - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio ueno La Nueva Olla
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250424T213000Z_DeportesIquique_Cienciano
+DTSTART;TZID=America/Montevideo:20250424T213000
+DTEND;TZID=America/Montevideo:20250424T233000
+SUMMARY:Deportes Iquique🇨🇱 vs. Cienciano🇵🇪
+DESCRIPTION:Grupo H - Rodada 3 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Tierra de Campeones (old)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250506T190000Z_AlianzaLima_SanPablo
+DTSTART;TZID=America/Montevideo:20250506T190000
+DTEND;TZID=America/Montevideo:20250506T210000
+SUMMARY:Alianza Lima🇵🇪 vs. San Pablo🇧🇷
+DESCRIPTION:Grupo D - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Alejandro Villanueva
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250506T230000Z_Melgar_Lanus
+DTSTART;TZID=America/Montevideo:20250506T230000
+DTEND;TZID=America/Montevideo:20250507T010000
+SUMMARY:Melgar🇵🇪 vs. Lanús🇦🇷
+DESCRIPTION:Grupo G - Rodada 4 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Monumental de la UNSA
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250507T213000Z_AtleticoGrau_Gremio
+DTSTART;TZID=America/Montevideo:20250507T213000
+DTEND;TZID=America/Montevideo:20250507T233000
+SUMMARY:Atlético Grau🇵🇪 vs. Gremio🇧🇷
+DESCRIPTION:Grupo D - Rodada 4 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Alejandro Villanueva
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250507T230000Z_SportingCristal_Bolivar
+DTSTART;TZID=America/Montevideo:20250507T230000
+DTEND;TZID=America/Montevideo:20250508T010000
+SUMMARY:Sporting Cristal🇵🇪 vs. Bolívar🇧🇴
+DESCRIPTION:Grupo G - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Nacional de Lima
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250508T230000Z_Universitario_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20250508T230000
+DTEND;TZID=America/Montevideo:20250509T010000
+SUMMARY:Universitario🇵🇪 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Grupo B - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Monumental de Lima
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250508T230000Z_Cienciano_Caracas
+DTSTART;TZID=America/Montevideo:20250508T230000
+DTEND;TZID=America/Montevideo:20250509T010000
+SUMMARY:Cienciano🇵🇪 vs. Caracas🇻🇪
+DESCRIPTION:Grupo H - Rodada 4 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Inca Garcilaso de la Vega
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250513T213000Z_SportingCristal_CerroPorteno
+DTSTART;TZID=America/Montevideo:20250513T213000
+DTEND;TZID=America/Montevideo:20250513T233000
+SUMMARY:Sporting Cristal🇵🇪 vs. Cerro Porteño🇵🇾
+DESCRIPTION:Grupo G - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Nacional de Lima
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250513T213000Z_AcademiaPuertoCabello_Melgar
+DTSTART;TZID=America/Montevideo:20250513T213000
+DTEND;TZID=America/Montevideo:20250513T233000
+SUMMARY:Academia Puerto Cabello🇻🇪 vs. Melgar🇵🇪
+DESCRIPTION:Grupo G - Rodada 5 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Misael Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250514T190000Z_SportivoLuqueno_AtleticoGrau
+DTSTART;TZID=America/Montevideo:20250514T190000
+DTEND;TZID=America/Montevideo:20250514T210000
+SUMMARY:Sportivo Luqueño🇵🇾 vs. Atlético Grau🇵🇪
+DESCRIPTION:Grupo D - Rodada 5 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio ueno Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250514T230000Z_Universitario_Barcelona
+DTSTART;TZID=America/Montevideo:20250514T230000
+DTEND;TZID=America/Montevideo:20250515T010000
+SUMMARY:Universitario🇵🇪 vs. Barcelona🇪🇨
+DESCRIPTION:Grupo B - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Monumental de Lima
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250515T190000Z_Talleres_AlianzaLima
+DTSTART;TZID=America/Montevideo:20250515T190000
+DTEND;TZID=America/Montevideo:20250515T210000
+SUMMARY:Talleres🇦🇷 vs. Alianza Lima🇵🇪
+DESCRIPTION:Grupo D - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Mario Alberto Kempes
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250515T230000Z_Cienciano_DeportesIquique
+DTSTART;TZID=America/Montevideo:20250515T230000
+DTEND;TZID=America/Montevideo:20250516T010000
+SUMMARY:Cienciano🇵🇪 vs. Deportes Iquique🇨🇱
+DESCRIPTION:Grupo H - Rodada 5 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Inca Garcilaso de la Vega
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250527T190000Z_VascoDaGama_Melgar
+DTSTART;TZID=America/Montevideo:20250527T190000
+DTEND;TZID=America/Montevideo:20250527T210000
+SUMMARY:Vasco da Gama🇧🇷 vs. Melgar🇵🇪
+DESCRIPTION:Grupo G - Rodada 6 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio São Januário
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250527T193000Z_Libertad_AlianzaLima
+DTSTART;TZID=America/Montevideo:20250527T193000
+DTEND;TZID=America/Montevideo:20250527T213000
+SUMMARY:Libertad🇵🇾 vs. Alianza Lima🇵🇪
+DESCRIPTION:Grupo D - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Tigo La Huerta
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250527T213000Z_River_Universitario
+DTSTART;TZID=America/Montevideo:20250527T213000
+DTEND;TZID=America/Montevideo:20250527T233000
+SUMMARY:River🇦🇷 vs. Universitario🇵🇪
+DESCRIPTION:Grupo B - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Más Monumental
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250528T213000Z_Palmeiras_SportingCristal
+DTSTART;TZID=America/Montevideo:20250528T213000
+DTEND;TZID=America/Montevideo:20250528T233000
+SUMMARY:Palmeiras🇧🇷 vs. Sporting Cristal🇵🇪
+DESCRIPTION:Grupo G - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250529T190000Z_GodoyCruz_AtleticoGrau
+DTSTART;TZID=America/Montevideo:20250529T190000
+DTEND;TZID=America/Montevideo:20250529T210000
+SUMMARY:Godoy Cruz🇦🇷 vs. Atlético Grau🇵🇪
+DESCRIPTION:Grupo D - Rodada 6 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Malvinas Argentinas (Mendoza)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250529T213000Z_AtleticoMineiro_Cienciano
+DTSTART;TZID=America/Montevideo:20250529T213000
+DTEND;TZID=America/Montevideo:20250529T233000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Cienciano🇵🇪
+DESCRIPTION:Grupo H - Rodada 6 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250716T213000Z_AlianzaLima_Gremio
+DTSTART;TZID=America/Montevideo:20250716T213000
+DTEND;TZID=America/Montevideo:20250716T233000
+SUMMARY:Alianza Lima🇵🇪 vs. Gremio🇧🇷
+DESCRIPTION:Play-offs - Ida - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Alejandro Villanueva
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250723T213000Z_Gremio_AlianzaLima
+DTSTART;TZID=America/Montevideo:20250723T213000
+DTEND;TZID=America/Montevideo:20250723T233000
+SUMMARY:Gremio🇧🇷 vs. Alianza Lima🇵🇪
+DESCRIPTION:Play-offs - Volta - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Grêmio Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250813T190000Z_Bolivar_Cienciano
+DTSTART;TZID=America/Montevideo:20250813T190000
+DTEND;TZID=America/Montevideo:20250813T210000
+SUMMARY:Bolívar🇧🇴 vs. Cienciano🇵🇪
+DESCRIPTION:Oitavas de final - Ida - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Hernando Siles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250813T213000Z_AlianzaLima_UniversidadCatolica
+DTSTART;TZID=America/Montevideo:20250813T213000
+DTEND;TZID=America/Montevideo:20250813T233000
+SUMMARY:Alianza Lima🇵🇪 vs. Universidad Católica🇪🇨
+DESCRIPTION:Oitavas de final - Ida - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Alejandro Villanueva
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250814T213000Z_Universitario_Palmeiras
+DTSTART;TZID=America/Montevideo:20250814T213000
+DTEND;TZID=America/Montevideo:20250814T233000
+SUMMARY:Universitario🇵🇪 vs. Palmeiras🇧🇷
+DESCRIPTION:Oitavas de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Monumental de Lima
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250820T190000Z_Cienciano_Bolivar
+DTSTART;TZID=America/Montevideo:20250820T190000
+DTEND;TZID=America/Montevideo:20250820T210000
+SUMMARY:Cienciano🇵🇪 vs. Bolívar🇧🇴
+DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Inca Garcilaso de la Vega
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250820T213000Z_UniversidadCatolica_AlianzaLima
+DTSTART;TZID=America/Montevideo:20250820T213000
+DTEND;TZID=America/Montevideo:20250820T233000
+SUMMARY:Universidad Católica🇪🇨 vs. Alianza Lima🇵🇪
+DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico Atahualpa
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250821T213000Z_Palmeiras_Universitario
+DTSTART;TZID=America/Montevideo:20250821T213000
+DTEND;TZID=America/Montevideo:20250821T233000
+SUMMARY:Palmeiras🇧🇷 vs. Universitario🇵🇪
+DESCRIPTION:Oitavas de final - Volta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250918T213000Z_AlianzaLima_UniversidadDeChile
+DTSTART;TZID=America/Montevideo:20250918T213000
+DTEND;TZID=America/Montevideo:20250918T233000
+SUMMARY:Alianza Lima🇵🇪 vs. Universidad de Chile🇨🇱
+DESCRIPTION:Quartas de final - Ida - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Alejandro Villanueva
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250925T213000Z_UniversidadDeChile_AlianzaLima
+DTSTART;TZID=America/Montevideo:20250925T213000
+DTEND;TZID=America/Montevideo:20250925T233000
+SUMMARY:Universidad de Chile🇨🇱 vs. Alianza Lima🇵🇪
+DESCRIPTION:Quartas de final - Volta - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Francisco Sánchez Rumoroso
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260407T230000Z_DeportesTolima_Universitario
+DTSTART;TZID=America/Montevideo:20260407T230000
+DTEND;TZID=America/Montevideo:20260408T010000
+SUMMARY:Deportes Tolima🇨🇴 vs. Universitario🇵🇪
+DESCRIPTION:Grupo B - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Manuel Murillo Toro
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260407T230000Z_AlianzaAtletico_Tigre
+DTSTART;TZID=America/Montevideo:20260407T230000
+DTEND;TZID=America/Montevideo:20260408T010000
+SUMMARY:Alianza Atlético🇵🇪 vs. Tigre🇦🇷
+DESCRIPTION:Grupo A - Rodada 1 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Miguel Grau del Callao
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260408T213000Z_Cusco_Flamengo
+DTSTART;TZID=America/Montevideo:20260408T213000
+DTEND;TZID=America/Montevideo:20260408T233000
+SUMMARY:Cusco🇵🇪 vs. Flamengo🇧🇷
+DESCRIPTION:Grupo A - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Inca Garcilaso de la Vega
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260408T230000Z_SportingCristal_CerroPorteno
+DTSTART;TZID=America/Montevideo:20260408T230000
+DTEND;TZID=America/Montevideo:20260409T010000
+SUMMARY:Sporting Cristal🇵🇪 vs. Cerro Porteño🇵🇾
+DESCRIPTION:Grupo F - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Miguel Grau del Callao
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260409T190000Z_Juventud_Cienciano
+DTSTART;TZID=America/Montevideo:20260409T190000
+DTEND;TZID=America/Montevideo:20260409T210000
+SUMMARY:Juventud🇺🇾 vs. Cienciano🇵🇪
+DESCRIPTION:Grupo B - Rodada 1 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260414T190000Z_Estudiantes_Cusco
+DTSTART;TZID=America/Montevideo:20260414T190000
+DTEND;TZID=America/Montevideo:20260414T210000
+SUMMARY:Estudiantes🇦🇷 vs. Cusco🇵🇪
+DESCRIPTION:Grupo A - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Jorge Luis Hirschi
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260414T230000Z_Universitario_CoquimboUnido
+DTSTART;TZID=America/Montevideo:20260414T230000
+DTEND;TZID=America/Montevideo:20260415T010000
+SUMMARY:Universitario🇵🇪 vs. Coquimbo Unido🇨🇱
+DESCRIPTION:Grupo B - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Monumental de Lima
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260415T230000Z_AmericaDeCali_AlianzaAtletico
+DTSTART;TZID=America/Montevideo:20260415T230000
+DTEND;TZID=America/Montevideo:20260416T010000
+SUMMARY:América de Cali🇨🇴 vs. Alianza Atlético🇵🇪
+DESCRIPTION:Grupo A - Rodada 2 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Pascual Guerrero
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260416T190000Z_Palmeiras_SportingCristal
+DTSTART;TZID=America/Montevideo:20260416T190000
+DTEND;TZID=America/Montevideo:20260416T210000
+SUMMARY:Palmeiras🇧🇷 vs. Sporting Cristal🇵🇪
+DESCRIPTION:Grupo F - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260416T230000Z_Cienciano_AcademiaPuertoCabello
+DTSTART;TZID=America/Montevideo:20260416T230000
+DTEND;TZID=America/Montevideo:20260417T010000
+SUMMARY:Cienciano🇵🇪 vs. Academia Puerto Cabello🇻🇪
+DESCRIPTION:Grupo B - Rodada 2 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Inca Garcilaso de la Vega
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260428T230000Z_SportingCristal_Junior
+DTSTART;TZID=America/Montevideo:20260428T230000
+DTEND;TZID=America/Montevideo:20260429T010000
+SUMMARY:Sporting Cristal🇵🇪 vs. Junior🇨🇴
+DESCRIPTION:Grupo F - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Alejandro Villanueva
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260429T213000Z_Cienciano_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20260429T213000
+DTEND;TZID=America/Montevideo:20260429T233000
+SUMMARY:Cienciano🇵🇪 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Grupo B - Rodada 3 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Inca Garcilaso de la Vega
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260429T230000Z_Universitario_Nacional
+DTSTART;TZID=America/Montevideo:20260429T230000
+DTEND;TZID=America/Montevideo:20260430T010000
+SUMMARY:Universitario🇵🇪 vs. Nacional🇺🇾
+DESCRIPTION:Grupo B - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Monumental de Lima
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260430T230000Z_IndependienteDeMedellin_Cusco
+DTSTART;TZID=America/Montevideo:20260430T230000
+DTEND;TZID=America/Montevideo:20260501T010000
+SUMMARY:Independiente de Medellín🇨🇴 vs. Cusco🇵🇪
+DESCRIPTION:Grupo A - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Atanasio Girardot
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260430T230000Z_AlianzaAtletico_Macara
+DTSTART;TZID=America/Montevideo:20260430T230000
+DTEND;TZID=America/Montevideo:20260501T010000
+SUMMARY:Alianza Atlético🇵🇪 vs. Macará🇪🇨
+DESCRIPTION:Grupo A - Rodada 3 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Miguel Grau del Callao
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260505T190000Z_SportingCristal_Palmeiras
+DTSTART;TZID=America/Montevideo:20260505T190000
+DTEND;TZID=America/Montevideo:20260505T210000
+SUMMARY:Sporting Cristal🇵🇪 vs. Palmeiras🇧🇷
+DESCRIPTION:Grupo F - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Alejandro Villanueva
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260505T213000Z_AcademiaPuertoCabello_Cienciano
+DTSTART;TZID=America/Montevideo:20260505T213000
+DTEND;TZID=America/Montevideo:20260505T233000
+SUMMARY:Academia Puerto Cabello🇻🇪 vs. Cienciano🇵🇪
+DESCRIPTION:Grupo B - Rodada 4 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Misael Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260506T190000Z_Cusco_Estudiantes
+DTSTART;TZID=America/Montevideo:20260506T190000
+DTEND;TZID=America/Montevideo:20260506T210000
+SUMMARY:Cusco🇵🇪 vs. Estudiantes🇦🇷
+DESCRIPTION:Grupo A - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Inca Garcilaso de la Vega
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260506T230000Z_AlianzaAtletico_AmericaDeCali
+DTSTART;TZID=America/Montevideo:20260506T230000
+DTEND;TZID=America/Montevideo:20260507T010000
+SUMMARY:Alianza Atlético🇵🇪 vs. América de Cali🇨🇴
+DESCRIPTION:Grupo A - Rodada 4 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Miguel Grau del Callao
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260507T210000Z_CoquimboUnido_Universitario
+DTSTART;TZID=America/Montevideo:20260507T210000
+DTEND;TZID=America/Montevideo:20260507T230000
+SUMMARY:Coquimbo Unido🇨🇱 vs. Universitario🇵🇪
+DESCRIPTION:Grupo B - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Francisco Sánchez Rumoroso
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260520T190000Z_Nacional_Universitario
+DTSTART;TZID=America/Montevideo:20260520T190000
+DTEND;TZID=America/Montevideo:20260520T210000
+SUMMARY:Nacional🇺🇾 vs. Universitario🇵🇪
+DESCRIPTION:Grupo B - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Gran Parque Central
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260520T230000Z_Junior_SportingCristal
+DTSTART;TZID=America/Montevideo:20260520T230000
+DTEND;TZID=America/Montevideo:20260521T010000
+SUMMARY:Junior🇨🇴 vs. Sporting Cristal🇵🇪
+DESCRIPTION:Grupo F - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio a definir
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260520T230000Z_Cusco_IndependienteDeMedellin
+DTSTART;TZID=America/Montevideo:20260520T230000
+DTEND;TZID=America/Montevideo:20260521T010000
+SUMMARY:Cusco🇵🇪 vs. Independiente de Medellín🇨🇴
+DESCRIPTION:Grupo A - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Inca Garcilaso de la Vega
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260521T190000Z_AtleticoMineiro_Cienciano
+DTSTART;TZID=America/Montevideo:20260521T190000
+DTEND;TZID=America/Montevideo:20260521T210000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Cienciano🇵🇪
+DESCRIPTION:Grupo B - Rodada 5 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260521T230000Z_Macara_AlianzaAtletico
+DTSTART;TZID=America/Montevideo:20260521T230000
+DTEND;TZID=America/Montevideo:20260522T010000
+SUMMARY:Macará🇪🇨 vs. Alianza Atlético🇵🇪
+DESCRIPTION:Grupo A - Rodada 5 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Bellavista
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260526T213000Z_Flamengo_Cusco
+DTSTART;TZID=America/Montevideo:20260526T213000
+DTEND;TZID=America/Montevideo:20260526T233000
+SUMMARY:Flamengo🇧🇷 vs. Cusco🇵🇪
+DESCRIPTION:Grupo A - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio do Maracana
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260526T213000Z_Universitario_DeportesTolima
+DTSTART;TZID=America/Montevideo:20260526T213000
+DTEND;TZID=America/Montevideo:20260526T233000
+SUMMARY:Universitario🇵🇪 vs. Deportes Tolima🇨🇴
+DESCRIPTION:Grupo B - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Monumental de Lima
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260527T190000Z_Cienciano_Juventud
+DTSTART;TZID=America/Montevideo:20260527T190000
+DTEND;TZID=America/Montevideo:20260527T210000
+SUMMARY:Cienciano🇵🇪 vs. Juventud🇺🇾
+DESCRIPTION:Grupo B - Rodada 6 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Inca Garcilaso de la Vega
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260528T190000Z_CerroPorteno_SportingCristal
+DTSTART;TZID=America/Montevideo:20260528T190000
+DTEND;TZID=America/Montevideo:20260528T210000
+SUMMARY:Cerro Porteño🇵🇾 vs. Sporting Cristal🇵🇪
+DESCRIPTION:Grupo F - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio ueno La Nueva Olla
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260528T213000Z_Tigre_AlianzaAtletico
+DTSTART;TZID=America/Montevideo:20260528T213000
+DTEND;TZID=America/Montevideo:20260528T233000
+SUMMARY:Tigre🇦🇷 vs. Alianza Atlético🇵🇪
+DESCRIPTION:Grupo A - Rodada 6 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Monumental de Victoria (José Dellagiovanna)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260722T213000Z_Lanus_Cienciano
+DTSTART;TZID=America/Montevideo:20260722T213000
+DTEND;TZID=America/Montevideo:20260722T233000
+SUMMARY:Lanús🇦🇷 vs. Cienciano🇵🇪
+DESCRIPTION:Play-offs - Ida - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Ciudad de Lanús
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260722T213000Z_SportingCristal_RedBullBragantino
+DTSTART;TZID=America/Montevideo:20260722T213000
+DTEND;TZID=America/Montevideo:20260722T233000
+SUMMARY:Sporting Cristal🇵🇪 vs. Red Bull Bragantino🇧🇷
+DESCRIPTION:Play-offs - Ida - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Nacional de Lima
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260729T213000Z_Cienciano_Lanus
+DTSTART;TZID=America/Montevideo:20260729T213000
+DTEND;TZID=America/Montevideo:20260729T233000
+SUMMARY:Cienciano🇵🇪 vs. Lanús🇦🇷
+DESCRIPTION:Play-offs - Volta - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Inca Garcilaso de la Vega
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260729T213000Z_RedBullBragantino_SportingCristal
+DTSTART;TZID=America/Montevideo:20260729T213000
+DTEND;TZID=America/Montevideo:20260729T233000
+SUMMARY:Red Bull Bragantino🇧🇷 vs. Sporting Cristal🇵🇪
+DESCRIPTION:Play-offs - Volta - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio a definir
+END:VEVENT
+END:VCALENDAR

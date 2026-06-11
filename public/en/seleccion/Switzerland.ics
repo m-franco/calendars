@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios Copa del Mundo//EN
+BEGIN:VEVENT
+UID:20260613T160000Z_Qatar_Switzerland
+DTSTART;TZID=America/Montevideo:20260613T160000
+DTEND;TZID=America/Montevideo:20260613T180000
+SUMMARY:Qatar vs. Switzerland
+DESCRIPTION:Group B - Matchday 1 - World Cup
+CLASS:PUBLIC
+LOCATION:Levi's Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260618T160000Z_Switzerland_BosniaAndHerzegovina
+DTSTART;TZID=America/Montevideo:20260618T160000
+DTEND;TZID=America/Montevideo:20260618T180000
+SUMMARY:Switzerland vs. Bosnia and Herzegovina
+DESCRIPTION:Group B - Matchday 2 - World Cup
+CLASS:PUBLIC
+LOCATION:SoFi Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260624T160000Z_Switzerland_Canada
+DTSTART;TZID=America/Montevideo:20260624T160000
+DTEND;TZID=America/Montevideo:20260624T180000
+SUMMARY:Switzerland vs. Canada
+DESCRIPTION:Group B - Matchday 3 - World Cup
+CLASS:PUBLIC
+LOCATION:BC Place
+END:VEVENT
+END:VCALENDAR

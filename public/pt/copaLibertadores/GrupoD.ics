@@ -1,0 +1,253 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//PT
+BEGIN:VEVENT
+UID:20240402T190000Z_Universitario_LigaQuito
+DTSTART;TZID=America/Montevideo:20240402T190000
+DTEND;TZID=America/Montevideo:20240402T210000
+SUMMARY:Universitario🇵🇪 vs. Liga de Quito🇪🇨
+DESCRIPTION:Grupo D - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Monumental U Marathon
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240403T230000Z_Botafogo_Junior
+DTSTART;TZID=America/Montevideo:20240403T230000
+DTEND;TZID=America/Montevideo:20240404T010000
+SUMMARY:Botafogo🇧🇷 vs. Junior🇨🇴
+DESCRIPTION:Grupo D - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico Nilton Santos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T230000Z_Junior_Universitario
+DTSTART;TZID=America/Montevideo:20240409T230000
+DTEND;TZID=America/Montevideo:20240410T010000
+SUMMARY:Junior🇨🇴 vs. Universitario🇵🇪
+DESCRIPTION:Grupo D - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Metropolitano Roberto Meléndez
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240411T190000Z_LigaQuito_Botafogo
+DTSTART;TZID=America/Montevideo:20240411T190000
+DTEND;TZID=America/Montevideo:20240411T210000
+SUMMARY:Liga de Quito🇪🇨 vs. Botafogo🇧🇷
+DESCRIPTION:Grupo D - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240423T230000Z_Junior_LigaQuito
+DTSTART;TZID=America/Montevideo:20240423T230000
+DTEND;TZID=America/Montevideo:20240424T010000
+SUMMARY:Junior🇨🇴 vs. Liga de Quito🇪🇨
+DESCRIPTION:Grupo D - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Metropolitano Roberto Meléndez
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240424T190000Z_Botafogo_Universitario
+DTSTART;TZID=America/Montevideo:20240424T190000
+DTEND;TZID=America/Montevideo:20240424T210000
+SUMMARY:Botafogo🇧🇷 vs. Universitario🇵🇪
+DESCRIPTION:Grupo D - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico Nilton Santos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T230000Z_Universitario_Junior
+DTSTART;TZID=America/Montevideo:20240507T230000
+DTEND;TZID=America/Montevideo:20240508T010000
+SUMMARY:Universitario🇵🇪 vs. Junior🇨🇴
+DESCRIPTION:Grupo D - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Monumental U Marathon
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240508T213000Z_Botafogo_LigaQuito
+DTSTART;TZID=America/Montevideo:20240508T213000
+DTEND;TZID=America/Montevideo:20240508T233000
+SUMMARY:Botafogo🇧🇷 vs. Liga de Quito🇪🇨
+DESCRIPTION:Grupo D - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico Nilton Santos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240514T190000Z_LigaQuito_Junior
+DTSTART;TZID=America/Montevideo:20240514T190000
+DTEND;TZID=America/Montevideo:20240514T210000
+SUMMARY:Liga de Quito🇪🇨 vs. Junior🇨🇴
+DESCRIPTION:Grupo D - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240516T230000Z_Universitario_Botafogo
+DTSTART;TZID=America/Montevideo:20240516T230000
+DTEND;TZID=America/Montevideo:20240517T010000
+SUMMARY:Universitario🇵🇪 vs. Botafogo🇧🇷
+DESCRIPTION:Grupo D - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Monumental U Marathon
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240528T190000Z_Junior_Botafogo
+DTSTART;TZID=America/Montevideo:20240528T190000
+DTEND;TZID=America/Montevideo:20240528T210000
+SUMMARY:Junior🇨🇴 vs. Botafogo🇧🇷
+DESCRIPTION:Grupo D - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Metropolitano Roberto Meléndez
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240528T190000Z_LigaQuito_Universitario
+DTSTART;TZID=America/Montevideo:20240528T190000
+DTEND;TZID=America/Montevideo:20240528T210000
+SUMMARY:Liga de Quito🇪🇨 vs. Universitario🇵🇪
+DESCRIPTION:Grupo D - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240718T213000Z_LigaQuito_Always_Ready
+DTSTART;TZID=America/Montevideo:20240718T213000
+DTEND;TZID=America/Montevideo:20240718T233000
+SUMMARY:Liga de Quito🇪🇨 vs. Always Ready🇧🇴
+DESCRIPTION:Play-offs - Ida - Copa Sul-Americana
+LOCATION:Estádio Rodrigo Paz Delgado, Quito
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240725T213000Z_Always_Ready_LigaQuito
+DTSTART;TZID=America/Montevideo:20240725T213000
+DTEND;TZID=America/Montevideo:20240725T233000
+SUMMARY:Always Ready🇧🇴 vs. Liga de Quito🇪🇨
+DESCRIPTION:Play-offs - Volta - Copa Sul-Americana
+LOCATION:Estádio Municipal de Villa Ingenio, El Alto
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240813T213000Z_ColoColo_Junior
+DTSTART;TZID=America/Montevideo:20240813T213000
+DTEND;TZID=America/Montevideo:20240813T233000
+SUMMARY:Colo Colo🇨🇱 vs. Junior🇨🇴
+DESCRIPTION:Oitavas de final - Ida - Copa Libertadores
+LOCATION:Estádio Monumental David Arellano
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240814T213000Z_Botafogo_Palmeiras
+DTSTART;TZID=America/Montevideo:20240814T213000
+DTEND;TZID=America/Montevideo:20240814T233000
+SUMMARY:Botafogo🇧🇷 vs. Palmeiras🇧🇷
+DESCRIPTION:Oitavas de final - Ida - Copa Libertadores
+LOCATION:Estádio Olímpico Nilton Santos
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240814T213000Z_LigaQuito_Lanus
+DTSTART;TZID=America/Montevideo:20240814T213000
+DTEND;TZID=America/Montevideo:20240814T233000
+SUMMARY:Liga de Quito🇪🇨 vs. Lanús🇦🇷
+DESCRIPTION:Oitavas de final - Ida - Copa Sul-Americana
+LOCATION:Estádio Rodrigo Paz Delgado, Quito
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240820T213000Z_Junior_ColoColo
+DTSTART;TZID=America/Montevideo:20240820T213000
+DTEND;TZID=America/Montevideo:20240820T233000
+SUMMARY:Junior🇨🇴 vs. Colo Colo🇨🇱
+DESCRIPTION:Oitavas de final - Volta - Copa Libertadores
+LOCATION:Estádio Metropolitano Roberto Meléndez
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240821T213000Z_Lanus_LigaQuito
+DTSTART;TZID=America/Montevideo:20240821T213000
+DTEND;TZID=America/Montevideo:20240821T233000
+SUMMARY:Lanús🇦🇷 vs. Liga de Quito🇪🇨
+DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana
+LOCATION:Estádio Ciudad de Lanús, Lanús
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240821T213000Z_Palmeiras_Botafogo
+DTSTART;TZID=America/Montevideo:20240821T213000
+DTEND;TZID=America/Montevideo:20240821T233000
+SUMMARY:Palmeiras🇧🇷 vs. Botafogo🇧🇷
+DESCRIPTION:Oitavas de final - Volta - Copa Libertadores
+LOCATION:Estádio Allianz Parque
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240918T213000Z_Botafogo_SaoPaulo
+DTSTART;TZID=America/Montevideo:20240918T213000
+DTEND;TZID=America/Montevideo:20240918T233000
+SUMMARY:Botafogo🇧🇷 vs. San Pablo🇧🇷
+DESCRIPTION:Quartas de final - Ida - Copa Libertadores
+LOCATION:Estádio Nilton Santos, Río de Janeiro
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240925T213000Z_SaoPaulo_Botafogo
+DTSTART;TZID=America/Montevideo:20240925T213000
+DTEND;TZID=America/Montevideo:20240925T233000
+SUMMARY:San Pablo🇧🇷 vs. Botafogo🇧🇷
+DESCRIPTION:Quartas de final - Volta - Copa Libertadores
+LOCATION:Estádio Morumbí, San Pablo
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20241023T213000Z_Botafogo_Penarol
+DTSTART;TZID=America/Montevideo:20241023T213000
+DTEND;TZID=America/Montevideo:20241023T233000
+SUMMARY:Botafogo🇧🇷 vs. Peñarol🇺🇾
+DESCRIPTION:Semifinal - Ida - Copa Libertadores
+LOCATION:Estádio Olímpico Nilton Santos, Rio de Janeiro
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20241030T213000Z_Penarol_Botafogo
+DTSTART;TZID=America/Montevideo:20241030T213000
+DTEND;TZID=America/Montevideo:20241030T233000
+SUMMARY:Peñarol🇺🇾 vs. Botafogo🇧🇷
+DESCRIPTION:Semifinal - Volta - Copa Libertadores
+LOCATION:Estádio Centenario, Montevideo
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20241130T170000Z_AtleticoMineiro_Botafogo
+DTSTART;TZID=America/Montevideo:20241130T170000
+DTEND;TZID=America/Montevideo:20241130T190000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Botafogo🇧🇷
+DESCRIPTION:Final - Copa Libertadores
+LOCATION:Estádio Monumental, Buenos Aires
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

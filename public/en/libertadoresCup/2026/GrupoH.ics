@@ -1,0 +1,183 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//EN
+BEGIN:VEVENT
+UID:20260409T190000Z_RosarioCentral_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20260409T190000
+DTEND;TZID=America/Montevideo:20260409T210000
+SUMMARY:Rosario Central🇦🇷 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Group H - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Gigante de Arroyito
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260409T190000Z_UniversidadCentral_Libertad
+DTSTART;TZID=America/Montevideo:20260409T190000
+DTEND;TZID=America/Montevideo:20260409T210000
+SUMMARY:Universidad Central🇻🇪 vs. Libertad🇵🇾
+DESCRIPTION:Group H - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Olímpico de la UCV Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260415T190000Z_Libertad_RosarioCentral
+DTSTART;TZID=America/Montevideo:20260415T190000
+DTEND;TZID=America/Montevideo:20260415T210000
+SUMMARY:Libertad🇵🇾 vs. Rosario Central🇦🇷
+DESCRIPTION:Group H - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Tigo La Huerta Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260415T230000Z_IndependienteDelValle_UniversidadCentral
+DTSTART;TZID=America/Montevideo:20260415T230000
+DTEND;TZID=America/Montevideo:20260416T010000
+SUMMARY:Independiente del Valle🇪🇨 vs. Universidad Central🇻🇪
+DESCRIPTION:Group H - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Banco Guayaquil Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260428T190000Z_Libertad_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20260428T190000
+DTEND;TZID=America/Montevideo:20260428T210000
+SUMMARY:Libertad🇵🇾 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Group H - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Tigo La Huerta Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260428T210000Z_UniversidadCentral_RosarioCentral
+DTSTART;TZID=America/Montevideo:20260428T210000
+DTEND;TZID=America/Montevideo:20260428T230000
+SUMMARY:Universidad Central🇻🇪 vs. Rosario Central🇦🇷
+DESCRIPTION:Group H - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Olímpico de la UCV Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260505T190000Z_RosarioCentral_Libertad
+DTSTART;TZID=America/Montevideo:20260505T190000
+DTEND;TZID=America/Montevideo:20260505T210000
+SUMMARY:Rosario Central🇦🇷 vs. Libertad🇵🇾
+DESCRIPTION:Group H - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Gigante de Arroyito
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260505T210000Z_UniversidadCentral_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20260505T210000
+DTEND;TZID=America/Montevideo:20260505T230000
+SUMMARY:Universidad Central🇻🇪 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Group H - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Olímpico de la UCV Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260519T190000Z_RosarioCentral_UniversidadCentral
+DTSTART;TZID=America/Montevideo:20260519T190000
+DTEND;TZID=America/Montevideo:20260519T210000
+SUMMARY:Rosario Central🇦🇷 vs. Universidad Central🇻🇪
+DESCRIPTION:Group H - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Gigante de Arroyito
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260519T230000Z_IndependienteDelValle_Libertad
+DTSTART;TZID=America/Montevideo:20260519T230000
+DTEND;TZID=America/Montevideo:20260520T010000
+SUMMARY:Independiente del Valle🇪🇨 vs. Libertad🇵🇾
+DESCRIPTION:Group H - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Banco Guayaquil Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260527T190000Z_IndependienteDelValle_RosarioCentral
+DTSTART;TZID=America/Montevideo:20260527T190000
+DTEND;TZID=America/Montevideo:20260527T210000
+SUMMARY:Independiente del Valle🇪🇨 vs. Rosario Central🇦🇷
+DESCRIPTION:Group H - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Banco Guayaquil Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260527T190000Z_Libertad_UniversidadCentral
+DTSTART;TZID=America/Montevideo:20260527T190000
+DTEND;TZID=America/Montevideo:20260527T210000
+SUMMARY:Libertad🇵🇾 vs. Universidad Central🇻🇪
+DESCRIPTION:Group H - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Tigo La Huerta Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260721T213000Z_UniversidadCentral_Santos
+DTSTART;TZID=America/Montevideo:20260721T213000
+DTEND;TZID=America/Montevideo:20260721T233000
+SUMMARY:Universidad Central🇻🇪 vs. Santos🇧🇷
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Olímpico de la UCV Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260728T213000Z_Santos_UniversidadCentral
+DTSTART;TZID=America/Montevideo:20260728T213000
+DTEND;TZID=America/Montevideo:20260728T233000
+SUMMARY:Santos🇧🇷 vs. Universidad Central🇻🇪
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Estádio Vila Belmiro (Urbano Caldeira)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260811T213000Z_DeportesTolima_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20260811T213000
+DTEND;TZID=America/Montevideo:20260811T233000
+SUMMARY:Deportes Tolima🇨🇴 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Manuel Murillo Toro Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260813T213000Z_RosarioCentral_Corinthians
+DTSTART;TZID=America/Montevideo:20260813T213000
+DTEND;TZID=America/Montevideo:20260813T233000
+SUMMARY:Rosario Central🇦🇷 vs. Corinthians🇧🇷
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Gigante de Arroyito
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260818T213000Z_IndependienteDelValle_DeportesTolima
+DTSTART;TZID=America/Montevideo:20260818T213000
+DTEND;TZID=America/Montevideo:20260818T233000
+SUMMARY:Independiente del Valle🇪🇨 vs. Deportes Tolima🇨🇴
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:a definir Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260820T213000Z_Corinthians_RosarioCentral
+DTSTART;TZID=America/Montevideo:20260820T213000
+DTEND;TZID=America/Montevideo:20260820T233000
+SUMMARY:Corinthians🇧🇷 vs. Rosario Central🇦🇷
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,343 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//ES
+BEGIN:VEVENT
+UID:20240404T190000Z_Caracas_AtléticoMineiro
+DTSTART;TZID=America/Montevideo:20240404T190000
+DTEND;TZID=America/Montevideo:20240404T021000
+SUMMARY:Caracas🇻🇪 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Grupo G - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Olímpico U.C.V.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T190000Z_AtléticoMineiro_RosarioCentral
+DTSTART;TZID=America/Montevideo:20240410T190000
+DTEND;TZID=America/Montevideo:20240410T210000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Rosario Central🇦🇷
+DESCRIPTION:Grupo G - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240423T210000Z_AtléticoMineiro_Peñarol
+DTSTART;TZID=America/Montevideo:20240423T210000
+DTEND;TZID=America/Montevideo:20240423T230000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Peñarol🇺🇾
+DESCRIPTION:Grupo G - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T190000Z_RosarioCentral_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20240507T190000
+DTEND;TZID=America/Montevideo:20240507T210000
+SUMMARY:Rosario Central🇦🇷 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Grupo G - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Gigante de Arroyito
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240514T190000Z_Peñarol_AtléticoMineiro
+DTSTART;TZID=America/Montevideo:20240514T190000
+DTEND;TZID=America/Montevideo:20240514T210000
+SUMMARY:Peñarol🇺🇾 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Grupo G - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240528T190000Z_AtléticoMineiro_Caracas
+DTSTART;TZID=America/Montevideo:20240528T190000
+DTEND;TZID=America/Montevideo:20240528T210000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Caracas🇻🇪
+DESCRIPTION:Grupo G - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240813T213000Z_SanLorenzo_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20240813T213000
+DTEND;TZID=America/Montevideo:20240813T233000
+SUMMARY:San Lorenzo🇦🇷 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Octavos de final - Ida - Copa Libertadores
+LOCATION:Estadio Nuevo Gasómetro
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240820T213000Z_AtleticoMineiro_SanLorenzo
+DTSTART;TZID=America/Montevideo:20240820T213000
+DTEND;TZID=America/Montevideo:20240820T233000
+SUMMARY:Atlético Mineiro🇧🇷 vs. San Lorenzo🇦🇷
+DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
+LOCATION:Estadio Arena MRV
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240918T190000Z_Fluminense_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20240918T190000
+DTEND;TZID=America/Montevideo:20240918T210000
+SUMMARY:Fluminense🇧🇷 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Cuartos de final - Ida - Copa Libertadores
+LOCATION:Estadio Maracaná, Río de Janeiro
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240925T190000Z_AtleticoMineiro_Fluminense
+DTSTART;TZID=America/Montevideo:20240925T190000
+DTEND;TZID=America/Montevideo:20240925T210000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Fluminense🇧🇷
+DESCRIPTION:Cuartos de final - Vuelta - Copa Libertadores
+LOCATION:Arena MRV, Belo Horizonte
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20241022T213000Z_AtleticoMineiro_River
+DTSTART;TZID=America/Montevideo:20241022T213000
+DTEND;TZID=America/Montevideo:20241022T233000
+SUMMARY:Atlético Mineiro🇧🇷 vs. River🇦🇷
+DESCRIPTION:Semifinal - Ida - Copa Libertadores
+LOCATION:Arena MRV, Belo Horizonte
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20241029T213000Z_River_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20241029T213000
+DTEND;TZID=America/Montevideo:20241029T233000
+SUMMARY:River🇦🇷 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Semifinal - Vuelta - Copa Libertadores
+LOCATION:Estadio Monumental, Buenos Aires
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20241130T170000Z_AtleticoMineiro_Botafogo
+DTSTART;TZID=America/Montevideo:20241130T170000
+DTEND;TZID=America/Montevideo:20241130T190000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Botafogo🇧🇷
+DESCRIPTION:Final - Copa Libertadores
+LOCATION:Estadio Monumental, Buenos Aires
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250401T213000Z_Cienciano_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20250401T213000
+DTEND;TZID=America/Montevideo:20250401T233000
+SUMMARY:Cienciano🇵🇪 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Grupo H - Fecha 1 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Inca Garcilaso de la Vega
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250410T213000Z_AtleticoMineiro_DeportesIquique
+DTSTART;TZID=America/Montevideo:20250410T213000
+DTEND;TZID=America/Montevideo:20250410T233000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Deportes Iquique🇨🇱
+DESCRIPTION:Grupo H - Fecha 2 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Mineirão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250423T213000Z_Caracas_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20250423T213000
+DTEND;TZID=America/Montevideo:20250423T233000
+SUMMARY:Caracas🇻🇪 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Grupo H - Fecha 3 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Olímpico de la UCV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250508T190000Z_DeportesIquique_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20250508T190000
+DTEND;TZID=America/Montevideo:20250508T210000
+SUMMARY:Deportes Iquique🇨🇱 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Grupo H - Fecha 4 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Tierra de Campeones (old)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250515T213000Z_AtleticoMineiro_Caracas
+DTSTART;TZID=America/Montevideo:20250515T213000
+DTEND;TZID=America/Montevideo:20250515T233000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Caracas🇻🇪
+DESCRIPTION:Grupo H - Fecha 5 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250529T213000Z_AtleticoMineiro_Cienciano
+DTSTART;TZID=America/Montevideo:20250529T213000
+DTEND;TZID=America/Montevideo:20250529T233000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Cienciano🇵🇪
+DESCRIPTION:Grupo H - Fecha 6 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250717T213000Z_AtleticoBucaramanga_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20250717T213000
+DTEND;TZID=America/Montevideo:20250717T233000
+SUMMARY:Atlético Bucaramanga🇨🇴 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Play-offs - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Américo Montanini
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250724T213000Z_AtleticoMineiro_AtleticoBucaramanga
+DTSTART;TZID=America/Montevideo:20250724T213000
+DTEND;TZID=America/Montevideo:20250724T233000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Atlético Bucaramanga🇨🇴
+DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250814T190000Z_AtleticoMineiro_GodoyCruz
+DTSTART;TZID=America/Montevideo:20250814T190000
+DTEND;TZID=America/Montevideo:20250814T210000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Godoy Cruz🇦🇷
+DESCRIPTION:Octavos de final - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250821T190000Z_GodoyCruz_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20250821T190000
+DTEND;TZID=America/Montevideo:20250821T210000
+SUMMARY:Godoy Cruz🇦🇷 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Feliciano Gambarte
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250917T190000Z_Bolivar_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20250917T190000
+DTEND;TZID=America/Montevideo:20250917T210000
+SUMMARY:Bolívar🇧🇴 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Cuartos de final - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Hernando Siles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250924T190000Z_AtleticoMineiro_Bolivar
+DTSTART;TZID=America/Montevideo:20250924T190000
+DTEND;TZID=America/Montevideo:20250924T210000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Bolívar🇧🇴
+DESCRIPTION:Cuartos de final - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251021T213000Z_IndependienteDelValle_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20251021T213000
+DTEND;TZID=America/Montevideo:20251021T233000
+SUMMARY:Independiente del Valle🇪🇨 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Semifinal - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Banco Guayaquil
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251028T213000Z_AtleticoMineiro_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20251028T213000
+DTEND;TZID=America/Montevideo:20251028T233000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Semifinal - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251122T170000Z_Lanus_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20251122T170000
+DTEND;TZID=America/Montevideo:20251122T190000
+SUMMARY:Lanús🇦🇷 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Final - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260408T230000Z_AcademiaPuertoCabello_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20260408T230000
+DTEND;TZID=America/Montevideo:20260409T010000
+SUMMARY:Academia Puerto Cabello🇻🇪 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Grupo B - Fecha 1 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Misael Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260416T190000Z_AtleticoMineiro_Juventud
+DTSTART;TZID=America/Montevideo:20260416T190000
+DTEND;TZID=America/Montevideo:20260416T210000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Juventud🇺🇾
+DESCRIPTION:Grupo B - Fecha 2 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260429T213000Z_Cienciano_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20260429T213000
+DTEND;TZID=America/Montevideo:20260429T233000
+SUMMARY:Cienciano🇵🇪 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Grupo B - Fecha 3 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Inca Garcilaso de la Vega
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260505T190000Z_Juventud_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20260505T190000
+DTEND;TZID=America/Montevideo:20260505T210000
+SUMMARY:Juventud🇺🇾 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Grupo B - Fecha 4 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260521T190000Z_AtleticoMineiro_Cienciano
+DTSTART;TZID=America/Montevideo:20260521T190000
+DTEND;TZID=America/Montevideo:20260521T210000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Cienciano🇵🇪
+DESCRIPTION:Grupo B - Fecha 5 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260527T190000Z_AtleticoMineiro_AcademiaPuertoCabello
+DTSTART;TZID=America/Montevideo:20260527T190000
+DTEND;TZID=America/Montevideo:20260527T210000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Academia Puerto Cabello🇻🇪
+DESCRIPTION:Grupo B - Fecha 6 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Arena MRV
+END:VEVENT
+END:VCALENDAR

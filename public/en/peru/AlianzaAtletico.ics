@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//EN
+BEGIN:VEVENT
+UID:20260407T230000Z_AlianzaAtletico_Tigre
+DTSTART;TZID=America/Montevideo:20260407T230000
+DTEND;TZID=America/Montevideo:20260408T010000
+SUMMARY:Alianza Atlético🇵🇪 vs. Tigre🇦🇷
+DESCRIPTION:Group A - Matchday 1 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Miguel Grau del Callao Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260415T230000Z_AmericaDeCali_AlianzaAtletico
+DTSTART;TZID=America/Montevideo:20260415T230000
+DTEND;TZID=America/Montevideo:20260416T010000
+SUMMARY:América de Cali🇨🇴 vs. Alianza Atlético🇵🇪
+DESCRIPTION:Group A - Matchday 2 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Pascual Guerrero
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260430T230000Z_AlianzaAtletico_Macara
+DTSTART;TZID=America/Montevideo:20260430T230000
+DTEND;TZID=America/Montevideo:20260501T010000
+SUMMARY:Alianza Atlético🇵🇪 vs. Macará🇪🇨
+DESCRIPTION:Group A - Matchday 3 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Miguel Grau del Callao Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260506T230000Z_AlianzaAtletico_AmericaDeCali
+DTSTART;TZID=America/Montevideo:20260506T230000
+DTEND;TZID=America/Montevideo:20260507T010000
+SUMMARY:Alianza Atlético🇵🇪 vs. América de Cali🇨🇴
+DESCRIPTION:Group A - Matchday 4 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Miguel Grau del Callao Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260521T230000Z_Macara_AlianzaAtletico
+DTSTART;TZID=America/Montevideo:20260521T230000
+DTEND;TZID=America/Montevideo:20260522T010000
+SUMMARY:Macará🇪🇨 vs. Alianza Atlético🇵🇪
+DESCRIPTION:Group A - Matchday 5 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Bellavista Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260528T213000Z_Tigre_AlianzaAtletico
+DTSTART;TZID=America/Montevideo:20260528T213000
+DTEND;TZID=America/Montevideo:20260528T233000
+SUMMARY:Tigre🇦🇷 vs. Alianza Atlético🇵🇪
+DESCRIPTION:Group A - Matchday 6 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Monumental de Victoria (José Dellagiovanna)
+END:VEVENT
+END:VCALENDAR

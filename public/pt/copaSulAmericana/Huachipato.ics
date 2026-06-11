@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//PT
+BEGIN:VEVENT
+UID:20240716T190000Z_Huachipato_Racing_Uru
+DTSTART;TZID=America/Montevideo:20240716T190000
+DTEND;TZID=America/Montevideo:20240716T210000
+SUMMARY:Huachipato🇨🇱 vs. Racing(Uru)🇺🇾
+DESCRIPTION:Play-offs - Ida - Copa Sul-Americana
+LOCATION:Estádio Ester Roa, Concepción
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240723T190000Z_Racing_Uru_Huachipato
+DTSTART;TZID=America/Montevideo:20240723T190000
+DTEND;TZID=America/Montevideo:20240723T210000
+SUMMARY:Racing(Uru)🇺🇾 vs. Huachipato🇨🇱
+DESCRIPTION:Play-offs - Volta - Copa Sul-Americana
+LOCATION:Estádio Centenario, Montevideo
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240813T190000Z_Huachipato_Racing_Arg
+DTSTART;TZID=America/Montevideo:20240813T190000
+DTEND;TZID=America/Montevideo:20240813T210000
+SUMMARY:Huachipato🇨🇱 vs. Racing(Arg)🇦🇷
+DESCRIPTION:Oitavas de final - Ida - Copa Sul-Americana
+LOCATION:Estádio Sausalito, Viña del Mar
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240820T190000Z_Racing_Arg_Huachipato
+DTSTART;TZID=America/Montevideo:20240820T190000
+DTEND;TZID=America/Montevideo:20240820T210000
+SUMMARY:Racing(Arg)🇦🇷 vs. Huachipato🇨🇱
+DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana
+LOCATION:Estádio Presidente Perón, Avellaneda
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

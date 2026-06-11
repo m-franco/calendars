@@ -1,0 +1,183 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//EN
+BEGIN:VEVENT
+UID:20260407T230000Z_DeportesTolima_Universitario
+DTSTART;TZID=America/Montevideo:20260407T230000
+DTEND;TZID=America/Montevideo:20260408T010000
+SUMMARY:Deportes Tolima🇨🇴 vs. Universitario🇵🇪
+DESCRIPTION:Group B - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Manuel Murillo Toro Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260408T190000Z_CoquimboUnido_Nacional
+DTSTART;TZID=America/Montevideo:20260408T190000
+DTEND;TZID=America/Montevideo:20260408T210000
+SUMMARY:Coquimbo Unido🇨🇱 vs. Nacional🇺🇾
+DESCRIPTION:Group B - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Francisco Sánchez Rumoroso Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260414T190000Z_Nacional_DeportesTolima
+DTSTART;TZID=America/Montevideo:20260414T190000
+DTEND;TZID=America/Montevideo:20260414T210000
+SUMMARY:Nacional🇺🇾 vs. Deportes Tolima🇨🇴
+DESCRIPTION:Group B - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Gran Parque Central
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260414T230000Z_Universitario_CoquimboUnido
+DTSTART;TZID=America/Montevideo:20260414T230000
+DTEND;TZID=America/Montevideo:20260415T010000
+SUMMARY:Universitario🇵🇪 vs. Coquimbo Unido🇨🇱
+DESCRIPTION:Group B - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Monumental de Lima Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260428T230000Z_DeportesTolima_CoquimboUnido
+DTSTART;TZID=America/Montevideo:20260428T230000
+DTEND;TZID=America/Montevideo:20260429T010000
+SUMMARY:Deportes Tolima🇨🇴 vs. Coquimbo Unido🇨🇱
+DESCRIPTION:Group B - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Manuel Murillo Toro Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260429T230000Z_Universitario_Nacional
+DTSTART;TZID=America/Montevideo:20260429T230000
+DTEND;TZID=America/Montevideo:20260430T010000
+SUMMARY:Universitario🇵🇪 vs. Nacional🇺🇾
+DESCRIPTION:Group B - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Monumental de Lima Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260506T230000Z_DeportesTolima_Nacional
+DTSTART;TZID=America/Montevideo:20260506T230000
+DTEND;TZID=America/Montevideo:20260507T010000
+SUMMARY:Deportes Tolima🇨🇴 vs. Nacional🇺🇾
+DESCRIPTION:Group B - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Manuel Murillo Toro Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260507T210000Z_CoquimboUnido_Universitario
+DTSTART;TZID=America/Montevideo:20260507T210000
+DTEND;TZID=America/Montevideo:20260507T230000
+SUMMARY:Coquimbo Unido🇨🇱 vs. Universitario🇵🇪
+DESCRIPTION:Group B - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Francisco Sánchez Rumoroso Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260519T190000Z_CoquimboUnido_DeportesTolima
+DTSTART;TZID=America/Montevideo:20260519T190000
+DTEND;TZID=America/Montevideo:20260519T210000
+SUMMARY:Coquimbo Unido🇨🇱 vs. Deportes Tolima🇨🇴
+DESCRIPTION:Group B - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Francisco Sánchez Rumoroso Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260520T190000Z_Nacional_Universitario
+DTSTART;TZID=America/Montevideo:20260520T190000
+DTEND;TZID=America/Montevideo:20260520T210000
+SUMMARY:Nacional🇺🇾 vs. Universitario🇵🇪
+DESCRIPTION:Group B - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Gran Parque Central
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260526T213000Z_Nacional_CoquimboUnido
+DTSTART;TZID=America/Montevideo:20260526T213000
+DTEND;TZID=America/Montevideo:20260526T233000
+SUMMARY:Nacional🇺🇾 vs. Coquimbo Unido🇨🇱
+DESCRIPTION:Group B - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Gran Parque Central
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260526T213000Z_Universitario_DeportesTolima
+DTSTART;TZID=America/Montevideo:20260526T213000
+DTEND;TZID=America/Montevideo:20260526T233000
+SUMMARY:Universitario🇵🇪 vs. Deportes Tolima🇨🇴
+DESCRIPTION:Group B - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Monumental de Lima Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260721T190000Z_Nacional_Tigre
+DTSTART;TZID=America/Montevideo:20260721T190000
+DTEND;TZID=America/Montevideo:20260721T210000
+SUMMARY:Nacional🇺🇾 vs. Tigre🇦🇷
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Gran Parque Central
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260728T190000Z_Tigre_Nacional
+DTSTART;TZID=America/Montevideo:20260728T190000
+DTEND;TZID=America/Montevideo:20260728T210000
+SUMMARY:Tigre🇦🇷 vs. Nacional🇺🇾
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Monumental de Victoria (José Dellagiovanna)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260811T213000Z_DeportesTolima_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20260811T213000
+DTEND;TZID=America/Montevideo:20260811T233000
+SUMMARY:Deportes Tolima🇨🇴 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Manuel Murillo Toro Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260812T190000Z_Platense_CoquimboUnido
+DTSTART;TZID=America/Montevideo:20260812T190000
+DTEND;TZID=America/Montevideo:20260812T210000
+SUMMARY:Platense🇦🇷 vs. Coquimbo Unido🇨🇱
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Ciudad de Vicente López
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260818T213000Z_IndependienteDelValle_DeportesTolima
+DTSTART;TZID=America/Montevideo:20260818T213000
+DTEND;TZID=America/Montevideo:20260818T233000
+SUMMARY:Independiente del Valle🇪🇨 vs. Deportes Tolima🇨🇴
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:a definir Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260819T190000Z_CoquimboUnido_Platense
+DTSTART;TZID=America/Montevideo:20260819T190000
+DTEND;TZID=America/Montevideo:20260819T210000
+SUMMARY:Coquimbo Unido🇨🇱 vs. Platense🇦🇷
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:a definir Stadium
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//PT
+BEGIN:VEVENT
+UID:20250402T190000Z_SanAntonioBuloBulo_Olimpia
+DTSTART;TZID=America/Montevideo:20250402T190000
+DTEND;TZID=America/Montevideo:20250402T210000
+SUMMARY:San Antonio Bulo Bulo🇧🇴 vs. Olimpia🇵🇾
+DESCRIPTION:Grupo H - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Félix Capriles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250408T210000Z_Penarol_SanAntonioBuloBulo
+DTSTART;TZID=America/Montevideo:20250408T210000
+DTEND;TZID=America/Montevideo:20250408T230000
+SUMMARY:Peñarol🇺🇾 vs. San Antonio Bulo Bulo🇧🇴
+DESCRIPTION:Grupo H - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250423T190000Z_SanAntonioBuloBulo_VelezSarsfield
+DTSTART;TZID=America/Montevideo:20250423T190000
+DTEND;TZID=America/Montevideo:20250423T210000
+SUMMARY:San Antonio Bulo Bulo🇧🇴 vs. Vélez Sarsfield🇦🇷
+DESCRIPTION:Grupo H - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Félix Capriles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250506T230000Z_SanAntonioBuloBulo_Penarol
+DTSTART;TZID=America/Montevideo:20250506T230000
+DTEND;TZID=America/Montevideo:20250507T010000
+SUMMARY:San Antonio Bulo Bulo🇧🇴 vs. Peñarol🇺🇾
+DESCRIPTION:Grupo H - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Félix Capriles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250514T190000Z_VelezSarsfield_SanAntonioBuloBulo
+DTSTART;TZID=America/Montevideo:20250514T190000
+DTEND;TZID=America/Montevideo:20250514T210000
+SUMMARY:Vélez Sarsfield🇦🇷 vs. San Antonio Bulo Bulo🇧🇴
+DESCRIPTION:Grupo H - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:José Amalfitani
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250529T190000Z_Olimpia_SanAntonioBuloBulo
+DTSTART;TZID=America/Montevideo:20250529T190000
+DTEND;TZID=America/Montevideo:20250529T210000
+SUMMARY:Olimpia🇵🇾 vs. San Antonio Bulo Bulo🇧🇴
+DESCRIPTION:Grupo H - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio ueno Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250716T213000Z_SanAntonioBuloBulo_OnceCaldas
+DTSTART;TZID=America/Montevideo:20250716T213000
+DTEND;TZID=America/Montevideo:20250716T233000
+SUMMARY:San Antonio Bulo Bulo🇧🇴 vs. Once Caldas🇨🇴
+DESCRIPTION:Play-offs - Ida - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Félix Capriles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250723T213000Z_OnceCaldas_SanAntonioBuloBulo
+DTSTART;TZID=America/Montevideo:20250723T213000
+DTEND;TZID=America/Montevideo:20250723T233000
+SUMMARY:Once Caldas🇨🇴 vs. San Antonio Bulo Bulo🇧🇴
+DESCRIPTION:Play-offs - Volta - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Palogrande
+END:VEVENT
+END:VCALENDAR

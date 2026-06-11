@@ -1,0 +1,183 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//EN
+BEGIN:VEVENT
+UID:20240718T213000Z_Cerro_Porteno_Atletico_Paranaense
+DTSTART;TZID=America/Montevideo:20240718T213000
+DTEND;TZID=America/Montevideo:20240718T233000
+SUMMARY:Cerro Porteño🇵🇾 vs. Atlético Paranaense🇧🇷
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+LOCATION:General Pablo Rojas Stadium, Asunción
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240725T213000Z_Atletico_Paranaense_Cerro_Porteno
+DTSTART;TZID=America/Montevideo:20240725T213000
+DTEND;TZID=America/Montevideo:20240725T233000
+SUMMARY:Atlético Paranaense🇧🇷 vs. Cerro Porteño🇵🇾
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+LOCATION:Arena da Baixada, Curitiba
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250401T190000Z_CerroPorteno_Bolivar
+DTSTART;TZID=America/Montevideo:20250401T190000
+DTEND;TZID=America/Montevideo:20250401T210000
+SUMMARY:Cerro Porteño🇵🇾 vs. Bolívar🇧🇴
+DESCRIPTION:Group G - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:ueno La Nueva Olla Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250409T213000Z_Palmeiras_CerroPorteno
+DTSTART;TZID=America/Montevideo:20250409T213000
+DTEND;TZID=America/Montevideo:20250409T233000
+SUMMARY:Palmeiras🇧🇷 vs. Cerro Porteño🇵🇾
+DESCRIPTION:Group G - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250424T213000Z_CerroPorteno_SportingCristal
+DTSTART;TZID=America/Montevideo:20250424T213000
+DTEND;TZID=America/Montevideo:20250424T233000
+SUMMARY:Cerro Porteño🇵🇾 vs. Sporting Cristal🇵🇪
+DESCRIPTION:Group G - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:ueno La Nueva Olla Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250507T213000Z_CerroPorteno_Palmeiras
+DTSTART;TZID=America/Montevideo:20250507T213000
+DTEND;TZID=America/Montevideo:20250507T233000
+SUMMARY:Cerro Porteño🇵🇾 vs. Palmeiras🇧🇷
+DESCRIPTION:Group G - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:ueno La Nueva Olla Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250513T213000Z_SportingCristal_CerroPorteno
+DTSTART;TZID=America/Montevideo:20250513T213000
+DTEND;TZID=America/Montevideo:20250513T233000
+SUMMARY:Sporting Cristal🇵🇪 vs. Cerro Porteño🇵🇾
+DESCRIPTION:Group G - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Nacional de Lima Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250528T213000Z_Bolivar_CerroPorteno
+DTSTART;TZID=America/Montevideo:20250528T213000
+DTEND;TZID=America/Montevideo:20250528T233000
+SUMMARY:Bolívar🇧🇴 vs. Cerro Porteño🇵🇾
+DESCRIPTION:Group G - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Hernando Siles Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250813T190000Z_CerroPorteno_Estudiantes
+DTSTART;TZID=America/Montevideo:20250813T190000
+DTEND;TZID=America/Montevideo:20250813T210000
+SUMMARY:Cerro Porteño🇵🇾 vs. Estudiantes🇦🇷
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:ueno La Nueva Olla Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250820T190000Z_Estudiantes_CerroPorteno
+DTSTART;TZID=America/Montevideo:20250820T190000
+DTEND;TZID=America/Montevideo:20250820T210000
+SUMMARY:Estudiantes🇦🇷 vs. Cerro Porteño🇵🇾
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Jorge Luis Hirschi
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260408T230000Z_SportingCristal_CerroPorteno
+DTSTART;TZID=America/Montevideo:20260408T230000
+DTEND;TZID=America/Montevideo:20260409T010000
+SUMMARY:Sporting Cristal🇵🇪 vs. Cerro Porteño🇵🇾
+DESCRIPTION:Group F - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Miguel Grau del Callao Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260414T190000Z_CerroPorteno_Junior
+DTSTART;TZID=America/Montevideo:20260414T190000
+DTEND;TZID=America/Montevideo:20260414T210000
+SUMMARY:Cerro Porteño🇵🇾 vs. Junior🇨🇴
+DESCRIPTION:Group F - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:ueno La Nueva Olla Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260429T213000Z_CerroPorteno_Palmeiras
+DTSTART;TZID=America/Montevideo:20260429T213000
+DTEND;TZID=America/Montevideo:20260429T233000
+SUMMARY:Cerro Porteño🇵🇾 vs. Palmeiras🇧🇷
+DESCRIPTION:Group F - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:ueno La Nueva Olla Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260507T230000Z_Junior_CerroPorteno
+DTSTART;TZID=America/Montevideo:20260507T230000
+DTEND;TZID=America/Montevideo:20260508T010000
+SUMMARY:Junior🇨🇴 vs. Cerro Porteño🇵🇾
+DESCRIPTION:Group F - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Romelio Martínez
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260520T213000Z_Palmeiras_CerroPorteno
+DTSTART;TZID=America/Montevideo:20260520T213000
+DTEND;TZID=America/Montevideo:20260520T233000
+SUMMARY:Palmeiras🇧🇷 vs. Cerro Porteño🇵🇾
+DESCRIPTION:Group F - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260528T190000Z_CerroPorteno_SportingCristal
+DTSTART;TZID=America/Montevideo:20260528T190000
+DTEND;TZID=America/Montevideo:20260528T210000
+SUMMARY:Cerro Porteño🇵🇾 vs. Sporting Cristal🇵🇪
+DESCRIPTION:Group F - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:ueno La Nueva Olla Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260812T190000Z_Palmeiras_CerroPorteno
+DTSTART;TZID=America/Montevideo:20260812T190000
+DTEND;TZID=America/Montevideo:20260812T210000
+SUMMARY:Palmeiras🇧🇷 vs. Cerro Porteño🇵🇾
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260819T190000Z_CerroPorteno_Palmeiras
+DTSTART;TZID=America/Montevideo:20260819T190000
+DTEND;TZID=America/Montevideo:20260819T210000
+SUMMARY:Cerro Porteño🇵🇾 vs. Palmeiras🇧🇷
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:ueno La Nueva Olla Stadium
+END:VEVENT
+END:VCALENDAR

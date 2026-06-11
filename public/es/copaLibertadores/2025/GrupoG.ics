@@ -1,0 +1,273 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//ES
+BEGIN:VEVENT
+UID:20250401T190000Z_CerroPorteno_Bolivar
+DTSTART;TZID=America/Montevideo:20250401T190000
+DTEND;TZID=America/Montevideo:20250401T210000
+SUMMARY:Cerro Porteño🇵🇾 vs. Bolívar🇧🇴
+DESCRIPTION:Grupo G - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio ueno La Nueva Olla
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250403T190000Z_SportingCristal_Palmeiras
+DTSTART;TZID=America/Montevideo:20250403T190000
+DTEND;TZID=America/Montevideo:20250403T210000
+SUMMARY:Sporting Cristal🇵🇪 vs. Palmeiras🇧🇷
+DESCRIPTION:Grupo G - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Nacional de Lima
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250409T213000Z_Bolivar_SportingCristal
+DTSTART;TZID=America/Montevideo:20250409T213000
+DTEND;TZID=America/Montevideo:20250409T233000
+SUMMARY:Bolívar🇧🇴 vs. Sporting Cristal🇵🇪
+DESCRIPTION:Grupo G - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Hernando Siles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250409T213000Z_Palmeiras_CerroPorteno
+DTSTART;TZID=America/Montevideo:20250409T213000
+DTEND;TZID=America/Montevideo:20250409T233000
+SUMMARY:Palmeiras🇧🇷 vs. Cerro Porteño🇵🇾
+DESCRIPTION:Grupo G - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250424T190000Z_Bolivar_Palmeiras
+DTSTART;TZID=America/Montevideo:20250424T190000
+DTEND;TZID=America/Montevideo:20250424T210000
+SUMMARY:Bolívar🇧🇴 vs. Palmeiras🇧🇷
+DESCRIPTION:Grupo G - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Hernando Siles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250424T213000Z_CerroPorteno_SportingCristal
+DTSTART;TZID=America/Montevideo:20250424T213000
+DTEND;TZID=America/Montevideo:20250424T233000
+SUMMARY:Cerro Porteño🇵🇾 vs. Sporting Cristal🇵🇪
+DESCRIPTION:Grupo G - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio ueno La Nueva Olla
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250507T213000Z_CerroPorteno_Palmeiras
+DTSTART;TZID=America/Montevideo:20250507T213000
+DTEND;TZID=America/Montevideo:20250507T233000
+SUMMARY:Cerro Porteño🇵🇾 vs. Palmeiras🇧🇷
+DESCRIPTION:Grupo G - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio ueno La Nueva Olla
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250507T230000Z_SportingCristal_Bolivar
+DTSTART;TZID=America/Montevideo:20250507T230000
+DTEND;TZID=America/Montevideo:20250508T010000
+SUMMARY:Sporting Cristal🇵🇪 vs. Bolívar🇧🇴
+DESCRIPTION:Grupo G - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Nacional de Lima
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250513T213000Z_SportingCristal_CerroPorteno
+DTSTART;TZID=America/Montevideo:20250513T213000
+DTEND;TZID=America/Montevideo:20250513T233000
+SUMMARY:Sporting Cristal🇵🇪 vs. Cerro Porteño🇵🇾
+DESCRIPTION:Grupo G - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Nacional de Lima
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250515T190000Z_Palmeiras_Bolivar
+DTSTART;TZID=America/Montevideo:20250515T190000
+DTEND;TZID=America/Montevideo:20250515T210000
+SUMMARY:Palmeiras🇧🇷 vs. Bolívar🇧🇴
+DESCRIPTION:Grupo G - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250528T213000Z_Bolivar_CerroPorteno
+DTSTART;TZID=America/Montevideo:20250528T213000
+DTEND;TZID=America/Montevideo:20250528T233000
+SUMMARY:Bolívar🇧🇴 vs. Cerro Porteño🇵🇾
+DESCRIPTION:Grupo G - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Hernando Siles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250528T213000Z_Palmeiras_SportingCristal
+DTSTART;TZID=America/Montevideo:20250528T213000
+DTEND;TZID=America/Montevideo:20250528T233000
+SUMMARY:Palmeiras🇧🇷 vs. Sporting Cristal🇵🇪
+DESCRIPTION:Grupo G - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250716T190000Z_Bolivar_Palestino
+DTSTART;TZID=America/Montevideo:20250716T190000
+DTEND;TZID=America/Montevideo:20250716T210000
+SUMMARY:Bolívar🇧🇴 vs. Palestino🇨🇱
+DESCRIPTION:Play-offs - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Hernando Siles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250723T190000Z_Palestino_Bolivar
+DTSTART;TZID=America/Montevideo:20250723T190000
+DTEND;TZID=America/Montevideo:20250723T210000
+SUMMARY:Palestino🇨🇱 vs. Bolívar🇧🇴
+DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Nacional Julio Martínez Prádanos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250813T190000Z_CerroPorteno_Estudiantes
+DTSTART;TZID=America/Montevideo:20250813T190000
+DTEND;TZID=America/Montevideo:20250813T210000
+SUMMARY:Cerro Porteño🇵🇾 vs. Estudiantes🇦🇷
+DESCRIPTION:Octavos de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio ueno La Nueva Olla
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250813T190000Z_Bolivar_Cienciano
+DTSTART;TZID=America/Montevideo:20250813T190000
+DTEND;TZID=America/Montevideo:20250813T210000
+SUMMARY:Bolívar🇧🇴 vs. Cienciano🇵🇪
+DESCRIPTION:Octavos de final - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Hernando Siles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250814T213000Z_Universitario_Palmeiras
+DTSTART;TZID=America/Montevideo:20250814T213000
+DTEND;TZID=America/Montevideo:20250814T233000
+SUMMARY:Universitario🇵🇪 vs. Palmeiras🇧🇷
+DESCRIPTION:Octavos de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Monumental de Lima
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250820T190000Z_Estudiantes_CerroPorteno
+DTSTART;TZID=America/Montevideo:20250820T190000
+DTEND;TZID=America/Montevideo:20250820T210000
+SUMMARY:Estudiantes🇦🇷 vs. Cerro Porteño🇵🇾
+DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Jorge Luis Hirschi
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250820T190000Z_Cienciano_Bolivar
+DTSTART;TZID=America/Montevideo:20250820T190000
+DTEND;TZID=America/Montevideo:20250820T210000
+SUMMARY:Cienciano🇵🇪 vs. Bolívar🇧🇴
+DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Inca Garcilaso de la Vega
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250821T213000Z_Palmeiras_Universitario
+DTSTART;TZID=America/Montevideo:20250821T213000
+DTEND;TZID=America/Montevideo:20250821T233000
+SUMMARY:Palmeiras🇧🇷 vs. Universitario🇵🇪
+DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250917T190000Z_Bolivar_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20250917T190000
+DTEND;TZID=America/Montevideo:20250917T210000
+SUMMARY:Bolívar🇧🇴 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Cuartos de final - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Hernando Siles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250917T213000Z_River_Palmeiras
+DTSTART;TZID=America/Montevideo:20250917T213000
+DTEND;TZID=America/Montevideo:20250917T233000
+SUMMARY:River🇦🇷 vs. Palmeiras🇧🇷
+DESCRIPTION:Cuartos de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Más Monumental
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250924T190000Z_AtleticoMineiro_Bolivar
+DTSTART;TZID=America/Montevideo:20250924T190000
+DTEND;TZID=America/Montevideo:20250924T210000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Bolívar🇧🇴
+DESCRIPTION:Cuartos de final - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250924T213000Z_Palmeiras_River
+DTSTART;TZID=America/Montevideo:20250924T213000
+DTEND;TZID=America/Montevideo:20250924T233000
+SUMMARY:Palmeiras🇧🇷 vs. River🇦🇷
+DESCRIPTION:Cuartos de final - Vuelta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251023T213000Z_LigaDeQuito_Palmeiras
+DTSTART;TZID=America/Montevideo:20251023T213000
+DTEND;TZID=America/Montevideo:20251023T233000
+SUMMARY:Liga de Quito🇪🇨 vs. Palmeiras🇧🇷
+DESCRIPTION:Semifinal - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251030T213000Z_Palmeiras_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20251030T213000
+DTEND;TZID=America/Montevideo:20251030T233000
+SUMMARY:Palmeiras🇧🇷 vs. Liga de Quito🇪🇨
+DESCRIPTION:Semifinal - Vuelta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251129T180000Z_Palmeiras_Flamengo
+DTSTART;TZID=America/Montevideo:20251129T180000
+DTEND;TZID=America/Montevideo:20251129T200000
+SUMMARY:Palmeiras🇧🇷 vs. Flamengo🇧🇷
+DESCRIPTION:Final - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Monumental de Lima
+END:VEVENT
+END:VCALENDAR

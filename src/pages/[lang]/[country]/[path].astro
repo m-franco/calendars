@@ -1,0 +1,25 @@
+---
+import CalendarDetail from "../../../components/pages/CalendarDetail.astro";
+import { countryTeamPaths } from "../../../i18n/paths";
+import { alternatesFor, urlFor, type Lang } from "../../../i18n/ui";
+
+export function getStaticPaths() {
+    return (["en", "pt"] as Lang[]).flatMap((l) =>
+        countryTeamPaths(l).map((e) => ({ params: { lang: l, ...e.params }, props: e.props }))
+    );
+}
+
+const { country } = Astro.params;
+const { lang, type, esName, esPath, tournament, imageName } = Astro.props as any;
+const alternates = alternatesFor((l) => urlFor(l, [country!, esPath]));
+---
+
+<CalendarDetail
+    lang={lang}
+    type={type}
+    esPath={esPath}
+    esName={esName}
+    tournament={tournament}
+    imageName={imageName}
+    alternates={alternates}
+/>

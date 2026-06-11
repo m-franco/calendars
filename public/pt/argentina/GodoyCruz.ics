@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//PT
+BEGIN:VEVENT
+UID:20250402T230000Z_AtleticoGrau_GodoyCruz
+DTSTART;TZID=America/Montevideo:20250402T230000
+DTEND;TZID=America/Montevideo:20250403T010000
+SUMMARY:Atlético Grau🇵🇪 vs. Godoy Cruz🇦🇷
+DESCRIPTION:Grupo D - Rodada 1 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Alejandro Villanueva
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250408T213000Z_GodoyCruz_SportivoLuqueno
+DTSTART;TZID=America/Montevideo:20250408T213000
+DTEND;TZID=America/Montevideo:20250408T233000
+SUMMARY:Godoy Cruz🇦🇷 vs. Sportivo Luqueño🇵🇾
+DESCRIPTION:Grupo D - Rodada 2 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Malvinas Argentinas (Mendoza)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250424T190000Z_GodoyCruz_Gremio
+DTSTART;TZID=America/Montevideo:20250424T190000
+DTEND;TZID=America/Montevideo:20250424T210000
+SUMMARY:Godoy Cruz🇦🇷 vs. Gremio🇧🇷
+DESCRIPTION:Grupo D - Rodada 3 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Malvinas Argentinas (Mendoza)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250506T190000Z_SportivoLuqueno_GodoyCruz
+DTSTART;TZID=America/Montevideo:20250506T190000
+DTEND;TZID=America/Montevideo:20250506T210000
+SUMMARY:Sportivo Luqueño🇵🇾 vs. Godoy Cruz🇦🇷
+DESCRIPTION:Grupo D - Rodada 4 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Tigo La Huerta
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250513T190000Z_Gremio_GodoyCruz
+DTSTART;TZID=America/Montevideo:20250513T190000
+DTEND;TZID=America/Montevideo:20250513T210000
+SUMMARY:Gremio🇧🇷 vs. Godoy Cruz🇦🇷
+DESCRIPTION:Grupo D - Rodada 5 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Grêmio Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250529T190000Z_GodoyCruz_AtleticoGrau
+DTSTART;TZID=America/Montevideo:20250529T190000
+DTEND;TZID=America/Montevideo:20250529T210000
+SUMMARY:Godoy Cruz🇦🇷 vs. Atlético Grau🇵🇪
+DESCRIPTION:Grupo D - Rodada 6 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Malvinas Argentinas (Mendoza)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250814T190000Z_AtleticoMineiro_GodoyCruz
+DTSTART;TZID=America/Montevideo:20250814T190000
+DTEND;TZID=America/Montevideo:20250814T210000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Godoy Cruz🇦🇷
+DESCRIPTION:Oitavas de final - Ida - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250821T190000Z_GodoyCruz_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20250821T190000
+DTEND;TZID=America/Montevideo:20250821T210000
+SUMMARY:Godoy Cruz🇦🇷 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Feliciano Gambarte
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,143 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//EN
+BEGIN:VEVENT
+UID:20260408T213000Z_Blooming_River
+DTSTART;TZID=America/Montevideo:20260408T213000
+DTEND;TZID=America/Montevideo:20260408T233000
+SUMMARY:Blooming🇧🇴 vs. River🇦🇷
+DESCRIPTION:Group H - Matchday 1 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Ramón Tahuichi Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260409T213000Z_Carabobo_RedBullBragantino
+DTSTART;TZID=America/Montevideo:20260409T213000
+DTEND;TZID=America/Montevideo:20260409T233000
+SUMMARY:Carabobo🇻🇪 vs. Red Bull Bragantino🇧🇷
+DESCRIPTION:Group H - Matchday 1 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Misael Delgado Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260415T213000Z_River_Carabobo
+DTSTART;TZID=America/Montevideo:20260415T213000
+DTEND;TZID=America/Montevideo:20260415T233000
+SUMMARY:River🇦🇷 vs. Carabobo🇻🇪
+DESCRIPTION:Group H - Matchday 2 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Más Monumental Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260416T213000Z_RedBullBragantino_Blooming
+DTSTART;TZID=America/Montevideo:20260416T213000
+DTEND;TZID=America/Montevideo:20260416T233000
+SUMMARY:Red Bull Bragantino🇧🇷 vs. Blooming🇧🇴
+DESCRIPTION:Group H - Matchday 2 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Estádio Municipal Cicero de Souza Marques
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260430T190000Z_Carabobo_Blooming
+DTSTART;TZID=America/Montevideo:20260430T190000
+DTEND;TZID=America/Montevideo:20260430T210000
+SUMMARY:Carabobo🇻🇪 vs. Blooming🇧🇴
+DESCRIPTION:Group H - Matchday 3 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Misael Delgado Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260430T213000Z_RedBullBragantino_River
+DTSTART;TZID=America/Montevideo:20260430T213000
+DTEND;TZID=America/Montevideo:20260430T233000
+SUMMARY:Red Bull Bragantino🇧🇷 vs. River🇦🇷
+DESCRIPTION:Group H - Matchday 3 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Estádio Municipal Cicero de Souza Marques
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260507T213000Z_Blooming_RedBullBragantino
+DTSTART;TZID=America/Montevideo:20260507T213000
+DTEND;TZID=America/Montevideo:20260507T233000
+SUMMARY:Blooming🇧🇴 vs. Red Bull Bragantino🇧🇷
+DESCRIPTION:Group H - Matchday 4 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Ramón Tahuichi Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260507T213000Z_Carabobo_River
+DTSTART;TZID=America/Montevideo:20260507T213000
+DTEND;TZID=America/Montevideo:20260507T233000
+SUMMARY:Carabobo🇻🇪 vs. River🇦🇷
+DESCRIPTION:Group H - Matchday 4 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Misael Delgado Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260520T213000Z_River_RedBullBragantino
+DTSTART;TZID=America/Montevideo:20260520T213000
+DTEND;TZID=America/Montevideo:20260520T233000
+SUMMARY:River🇦🇷 vs. Red Bull Bragantino🇧🇷
+DESCRIPTION:Group H - Matchday 5 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Más Monumental Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260521T213000Z_Blooming_Carabobo
+DTSTART;TZID=America/Montevideo:20260521T213000
+DTEND;TZID=America/Montevideo:20260521T233000
+SUMMARY:Blooming🇧🇴 vs. Carabobo🇻🇪
+DESCRIPTION:Group H - Matchday 5 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Ramón Tahuichi Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260527T213000Z_RedBullBragantino_Carabobo
+DTSTART;TZID=America/Montevideo:20260527T213000
+DTEND;TZID=America/Montevideo:20260527T233000
+SUMMARY:Red Bull Bragantino🇧🇷 vs. Carabobo🇻🇪
+DESCRIPTION:Group H - Matchday 6 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Estádio Municipal Cicero de Souza Marques
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260527T213000Z_River_Blooming
+DTSTART;TZID=America/Montevideo:20260527T213000
+DTEND;TZID=America/Montevideo:20260527T233000
+SUMMARY:River🇦🇷 vs. Blooming🇧🇴
+DESCRIPTION:Group H - Matchday 6 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Más Monumental Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260722T213000Z_SportingCristal_RedBullBragantino
+DTSTART;TZID=America/Montevideo:20260722T213000
+DTEND;TZID=America/Montevideo:20260722T233000
+SUMMARY:Sporting Cristal🇵🇪 vs. Red Bull Bragantino🇧🇷
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Nacional de Lima Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260729T213000Z_RedBullBragantino_SportingCristal
+DTSTART;TZID=America/Montevideo:20260729T213000
+DTEND;TZID=America/Montevideo:20260729T233000
+SUMMARY:Red Bull Bragantino🇧🇷 vs. Sporting Cristal🇵🇪
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:a definir Stadium
+END:VEVENT
+END:VCALENDAR

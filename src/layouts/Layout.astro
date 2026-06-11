@@ -1,16 +1,44 @@
 ---
+import { LANGS, LANG_NAMES, LANG_FLAGS, urlFor, type Lang } from "../i18n/ui";
+
 interface Props {
 	title: string;
     description: string;
     image: string;
+    lang?: Lang;
+    alternates?: Record<Lang, string>;
 }
 
-const { title, description, image } = Astro.props;
+const { title, description, image, lang = "es", alternates } = Astro.props;
 const basePath = `${import.meta.env.BASE_URL.replace(/\/$/, "")}/`;
+const langLinks: Record<Lang, string> = alternates ?? {
+    es: urlFor("es"),
+    en: urlFor("en"),
+    pt: urlFor("pt"),
+} as Record<Lang, string>;
+
+// Origen del sitio para construir URLs absolutas (las redes sociales no
+// resuelven rutas relativas al compartir).
+const site = Astro.site ?? new URL("https://m-franco.github.io");
+const canonicalURL = new URL(Astro.url.pathname, site);
+
+// Normaliza la imagen a una ruta absoluta. WhatsApp/Twitter no renderizan SVG,
+// así que para esos casos usamos una imagen de respaldo.
+let imagePath = image;
+if (!/^https?:\/\//.test(imagePath)) {
+    if (!imagePath.startsWith("/")) imagePath = basePath + imagePath;
+    if (imagePath.endsWith(".svg")) imagePath = `${basePath}img/cup1.jpg`;
+}
+const socialImage = /^https?:\/\//.test(imagePath)
+    ? imagePath
+    : new URL(imagePath, site).href;
+
+const ogLocale: Record<Lang, string> = { es: "es_ES", en: "en_US", pt: "pt_BR" };
+const localeAlternates = (Object.keys(ogLocale) as Lang[]).filter((l) => l !== lang);
 ---
 
 <!doctype html>
-<html lang="es">
+<html lang={lang}>
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="description" content={description} />
@@ -18,16 +46,31 @@ const basePath = `${import.meta.env.BASE_URL.replace(/\/$/, "")}/`;
 		<link rel="icon" type="image/svg+xml" href={`${basePath}calendar.svg`} />
 		<meta name="generator" content={Astro.generator} />
 		<title>{title}</title>
+        <link rel="canonical" href={canonicalURL.href} />
+        {Object.entries(langLinks).map(([l, href]) => (
+            <link rel="alternate" hreflang={l} href={new URL(href, site).href} />
+        ))}
 
-        <!-- Twitter meta tags -->
+        <!-- Open Graph (WhatsApp, Facebook, etc.) -->
+        <meta property="og:type" content="website">
+        <meta property="og:site_name" content="Calendarios Deportivos">
+        <meta property="og:locale" content={ogLocale[lang]}>
+        {localeAlternates.map((l) => (
+            <meta property="og:locale:alternate" content={ogLocale[l]}>
+        ))}
+        <meta property="og:url" content={canonicalURL.href}>
+        <meta property="og:title" content={title}>
+        <meta property="og:description" content={description}>
+        <meta property="og:image" content={socialImage}>
+        <meta property="og:image:secure_url" content={socialImage}>
+        <meta property="og:image:alt" content={title}>
+
+        <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:title" content={title}>
         <meta name="twitter:description" content={description}>
-        <meta name="twitter:image" content={image}>
-        <!-- WhatsApp meta tags -->
-        <meta property="og:title" content={title}>
-        <meta property="og:description" content={description}>
-        <meta property="og:image" content={image}>
+        <meta name="twitter:image" content={socialImage}>
+        <meta name="twitter:image:alt" content={title}>
         <script is:inline async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5623233007287475"
             crossorigin="anonymous"></script>
 	</head>
@@ -40,9 +83,24 @@ const basePath = `${import.meta.env.BASE_URL.replace(/\/$/, "")}/`;
         gtag('config', 'G-GNCT8SRLL8');
     </script>
 	<body>
-        <div class="fixed inset-0 -z-10 h-full w-full items-center px-5 py-24 
+        <div class="fixed inset-0 -z-10 h-full w-full items-center px-5 py-24
         [background:radial-gradient(125%_125%_at_50%_10%,#000_40%,#63e_100%)]">
         </div>
+        <div class="lang-switcher">
+            <select id="lang-select" aria-label="Language">
+                {LANGS.map((l) => (
+                    <option value={langLinks[l]} selected={l === lang}>
+                        {LANG_FLAGS[l]} {LANG_NAMES[l]}
+                    </option>
+                ))}
+            </select>
+        </div>
+        <script is:inline>
+            document.getElementById("lang-select")?.addEventListener("change", (e) => {
+                const value = e.target.value;
+                if (value) window.location.href = value;
+            });
+        </script>
         <slot />
 	</body>
 </html>
@@ -62,6 +120,35 @@ const basePath = `${import.meta.env.BASE_URL.replace(/\/$/, "")}/`;
 		font-family: system-ui, sans-serif;
 		background: #13151a;
 		background-size: 224px;
+	}
+	.lang-switcher {
+		position: fixed;
+		top: 0.75rem;
+		right: 0.75rem;
+		z-index: 50;
+	}
+	.lang-switcher select {
+		appearance: none;
+		-webkit-appearance: none;
+		cursor: pointer;
+		color: white;
+		background-color: rgba(8, 47, 73, 0.85);
+		background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 8' fill='none' stroke='white' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M1 1.5l5 5 5-5'/%3E%3C/svg%3E");
+		background-repeat: no-repeat;
+		background-position: right 0.85rem center;
+		background-size: 0.7rem;
+		border: 1px solid rgba(var(--accent-light), 35%);
+		border-radius: 9999px;
+		padding: 0.4rem 2.1rem 0.4rem 1.1rem;
+		font-size: 0.9rem;
+		backdrop-filter: blur(6px);
+		box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35);
+	}
+	.lang-switcher select:focus {
+		outline: 2px solid rgb(var(--accent-light));
+	}
+	.lang-switcher option {
+		color: black;
 	}
 	code {
 		font-family:

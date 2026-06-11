@@ -1,0 +1,183 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//EN
+BEGIN:VEVENT
+UID:20240403T210000Z_Nacional_Potosi_Boca_Juniors
+DTSTART;TZID=America/Montevideo:20240403T210000
+DTEND;TZID=America/Montevideo:20240403T230000
+SUMMARY:Nacional Potosí🇧🇴 vs. Boca Juniors🇦🇷
+DESCRIPTION:Group D - Matchday 1 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Víctor Agustín Ugarte Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T210000Z_Boca_Juniors_Sportivo_Trinidense
+DTSTART;TZID=America/Montevideo:20240409T210000
+DTEND;TZID=America/Montevideo:20240409T230000
+SUMMARY:Boca Juniors🇦🇷 vs. Sportivo Trinidense🇵🇾
+DESCRIPTION:Group D - Matchday 2 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Alberto José Armando Stadium (La Bombonera)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T210000Z_Fortaleza_Boca_Juniors
+DTSTART;TZID=America/Fortaleza:20240425T210000
+DTEND;TZID=America/Fortaleza:20240425T230000
+SUMMARY:Fortaleza🇧🇷 vs. Boca Juniors🇦🇷
+DESCRIPTION:Group D - Matchday 3 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Arena Castelão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T213000Z_Boca_Juniors_Nacional_Potosi
+DTSTART;TZID=America/Montevideo:20240507T213000
+DTEND;TZID=America/Montevideo:20240507T233000
+SUMMARY:Boca Juniors🇦🇷 vs. Nacional Potosí🇧🇴
+DESCRIPTION:Group D - Matchday 4 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Alberto José Armando Stadium (La Bombonera)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T190000Z_Boca_Juniors_Sportivo_Trinidense
+DTSTART;TZID=America/Montevideo:20240515T190000
+DTEND;TZID=America/Montevideo:20240515T210000
+SUMMARY:Boca Juniors🇦🇷 vs. Sportivo Trinidense🇵🇾
+DESCRIPTION:Group D - Matchday 5 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Alberto José Armando Stadium (La Bombonera)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240530T190000Z_Fortaleza_Boca_Juniors
+DTSTART;TZID=America/Fortaleza:20240530T190000
+DTEND;TZID=America/Fortaleza:20240530T210000
+SUMMARY:Fortaleza🇧🇷 vs. Boca Juniors🇦🇷
+DESCRIPTION:Group D - Matchday 6 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Arena Castelão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240717T213000Z_IndependienteDelValle_Boca_Juniors
+DTSTART;TZID=America/Montevideo:20240717T213000
+DTEND;TZID=America/Montevideo:20240717T233000
+SUMMARY:Independiente del Valle🇪🇨 vs. Boca Juniors🇦🇷
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+LOCATION:Banco Guayaquil Stadium, Quito
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240724T213000Z_Boca_Juniors_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20240724T213000
+DTEND;TZID=America/Montevideo:20240724T233000
+SUMMARY:Boca Juniors🇦🇷 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+LOCATION:La Bombonera, Buenos Aires
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240815T213000Z_Boca_Juniors_Cruzeiro
+DTSTART;TZID=America/Montevideo:20240815T213000
+DTEND;TZID=America/Montevideo:20240815T233000
+SUMMARY:Boca Juniors🇦🇷 vs. Cruzeiro🇧🇷
+DESCRIPTION:Round of 16 - First leg - Sudamericana Cup
+LOCATION:La Bombonera, Buenos Aires
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240822T213000Z_Cruzeiro_Boca_Juniors
+DTSTART;TZID=America/Montevideo:20240822T213000
+DTEND;TZID=America/Montevideo:20240822T233000
+SUMMARY:Cruzeiro🇧🇷 vs. Boca Juniors🇦🇷
+DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup
+LOCATION:Mineirão, Belo Horizonte
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260407T213000Z_UniversidadCatolica_BocaJuniors
+DTSTART;TZID=America/Montevideo:20260407T213000
+DTEND;TZID=America/Montevideo:20260407T233000
+SUMMARY:Universidad Católica🇪🇨 vs. Boca Juniors🇦🇷
+DESCRIPTION:Group D - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:San Carlos de Apoquindo Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260414T210000Z_BocaJuniors_Barcelona
+DTSTART;TZID=America/Montevideo:20260414T210000
+DTEND;TZID=America/Montevideo:20260414T230000
+SUMMARY:Boca Juniors🇦🇷 vs. Barcelona🇪🇨
+DESCRIPTION:Group D - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Alberto José Armando (La Bombonera)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260428T213000Z_Cruzeiro_BocaJuniors
+DTSTART;TZID=America/Montevideo:20260428T213000
+DTEND;TZID=America/Montevideo:20260428T233000
+SUMMARY:Cruzeiro🇧🇷 vs. Boca Juniors🇦🇷
+DESCRIPTION:Group D - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Mineirão Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260505T210000Z_Barcelona_BocaJuniors
+DTSTART;TZID=America/Montevideo:20260505T210000
+DTEND;TZID=America/Montevideo:20260505T230000
+SUMMARY:Barcelona🇪🇨 vs. Boca Juniors🇦🇷
+DESCRIPTION:Group D - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Banco Pichincha Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260519T213000Z_BocaJuniors_Cruzeiro
+DTSTART;TZID=America/Montevideo:20260519T213000
+DTEND;TZID=America/Montevideo:20260519T233000
+SUMMARY:Boca Juniors🇦🇷 vs. Cruzeiro🇧🇷
+DESCRIPTION:Group D - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Alberto José Armando (La Bombonera)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260528T213000Z_BocaJuniors_UniversidadCatolica
+DTSTART;TZID=America/Montevideo:20260528T213000
+DTEND;TZID=America/Montevideo:20260528T233000
+SUMMARY:Boca Juniors🇦🇷 vs. Universidad Católica🇪🇨
+DESCRIPTION:Group D - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Alberto José Armando (La Bombonera)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260723T213000Z_BocaJuniors_OHiggins
+DTSTART;TZID=America/Montevideo:20260723T213000
+DTEND;TZID=America/Montevideo:20260723T233000
+SUMMARY:Boca Juniors🇦🇷 vs. O'Higgins🇨🇱
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Alberto José Armando (La Bombonera)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260730T213000Z_OHiggins_BocaJuniors
+DTSTART;TZID=America/Montevideo:20260730T213000
+DTEND;TZID=America/Montevideo:20260730T233000
+SUMMARY:O'Higgins🇨🇱 vs. Boca Juniors🇦🇷
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:a definir Stadium
+END:VEVENT
+END:VCALENDAR

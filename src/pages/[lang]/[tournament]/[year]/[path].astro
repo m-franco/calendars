@@ -1,0 +1,29 @@
+---
+import CalendarDetail from "../../../../components/pages/CalendarDetail.astro";
+import { yearDetailPaths } from "../../../../i18n/paths";
+import { alternatesFor, urlFor, localizedSlug, localizedTournamentSlug, type Lang } from "../../../../i18n/ui";
+
+export function getStaticPaths() {
+    return (["en", "pt"] as Lang[]).flatMap((l) =>
+        yearDetailPaths(l).map((e) => ({ params: { lang: l, ...e.params }, props: e.props }))
+    );
+}
+
+const { year } = Astro.params;
+const { lang, type, esName, esPath, tournament, imageName } = Astro.props as any;
+const alternates = alternatesFor((l) =>
+    urlFor(l, [localizedTournamentSlug(tournament, l), year!, localizedSlug(type, esPath, tournament, l)])
+);
+---
+
+<CalendarDetail
+    lang={lang}
+    type={type}
+    esPath={esPath}
+    esName={esName}
+    tournament={tournament}
+    imageName={imageName}
+    year={year}
+    archived={year !== "2026"}
+    alternates={alternates}
+/>

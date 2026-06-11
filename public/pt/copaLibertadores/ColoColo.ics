@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//PT
+BEGIN:VEVENT
+UID:20240403T210000Z_ColoColo_CerroPorteño
+DTSTART;TZID=America/Montevideo:20240403T210000
+DTEND;TZID=America/Montevideo:20240403T230000
+SUMMARY:Colo-Colo🇨🇱 vs. Cerro Porteño🇵🇾
+DESCRIPTION:Grupo A - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Monumental David Arellano
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T213000Z_Fluminense_ColoColo
+DTSTART;TZID=America/Montevideo:20240409T213000
+DTEND;TZID=America/Montevideo:20240409T233000
+SUMMARY:Fluminense🇧🇷 vs. Colo-Colo🇨🇱
+DESCRIPTION:Grupo A - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Maracaná
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240423T190000Z_ColoColo_AlianzaLima
+DTSTART;TZID=America/Montevideo:20240423T190000
+DTEND;TZID=America/Montevideo:20240423T210000
+SUMMARY:Colo-Colo🇨🇱 vs. Alianza Lima🇵🇪
+DESCRIPTION:Grupo A - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Monumental David Arellano
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240509T210000Z_ColoColo_Fluminense
+DTSTART;TZID=America/Montevideo:20240509T210000
+DTEND;TZID=America/Montevideo:20240509T230000
+SUMMARY:Colo-Colo🇨🇱 vs. Fluminense🇧🇷
+DESCRIPTION:Grupo A - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Monumental David Arellano
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T210000Z_AlianzaLima_ColoColo
+DTSTART;TZID=America/Montevideo:20240515T210000
+DTEND;TZID=America/Montevideo:20240515T230000
+SUMMARY:Alianza Lima🇵🇪 vs. Colo-Colo🇨🇱
+DESCRIPTION:Grupo A - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Alejandro Villanueva
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240529T213000Z_CerroPorteño_ColoColo
+DTSTART;TZID=America/Montevideo:20240529T213000
+DTEND;TZID=America/Montevideo:20240529T233000
+SUMMARY:Cerro Porteño🇵🇾 vs. Colo-Colo🇨🇱
+DESCRIPTION:Grupo A - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Ueno La Nueva Olla
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240813T213000Z_ColoColo_Junior
+DTSTART;TZID=America/Montevideo:20240813T213000
+DTEND;TZID=America/Montevideo:20240813T233000
+SUMMARY:Colo Colo🇨🇱 vs. Junior🇨🇴
+DESCRIPTION:Oitavas de final - Ida - Copa Libertadores
+LOCATION:Estádio Monumental David Arellano
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240820T213000Z_Junior_ColoColo
+DTSTART;TZID=America/Montevideo:20240820T213000
+DTEND;TZID=America/Montevideo:20240820T233000
+SUMMARY:Junior🇨🇴 vs. Colo Colo🇨🇱
+DESCRIPTION:Oitavas de final - Volta - Copa Libertadores
+LOCATION:Estádio Metropolitano Roberto Meléndez
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240917T213000Z_ColoColo_RiverPlate
+DTSTART;TZID=America/Montevideo:20240917T213000
+DTEND;TZID=America/Montevideo:20240917T233000
+SUMMARY:Colo Colo🇨🇱 vs. River Plate🇦🇷
+DESCRIPTION:Quartas de final - Ida - Copa Libertadores
+LOCATION:Estádio Monumental, Santiago
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240924T213000Z_RiverPlate_ColoColo
+DTSTART;TZID=America/Montevideo:20240924T213000
+DTEND;TZID=America/Montevideo:20240924T233000
+SUMMARY:River Plate🇦🇷 vs. Colo Colo🇨🇱
+DESCRIPTION:Quartas de final - Volta - Copa Libertadores
+LOCATION:Estádio Monumental, Buenos Aires
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250401T213000Z_AtleticoBucaramanga_ColoColo
+DTSTART;TZID=America/Montevideo:20250401T213000
+DTEND;TZID=America/Montevideo:20250401T233000
+SUMMARY:Atlético Bucaramanga🇨🇴 vs. Colo-Colo🇨🇱
+DESCRIPTION:Grupo E - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Américo Montanini
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250410T210000Z_ColoColo_Fortaleza
+DTSTART;TZID=America/Montevideo:20250410T210000
+DTEND;TZID=America/Montevideo:20250410T230000
+SUMMARY:Colo-Colo🇨🇱 vs. Fortaleza🇧🇷
+DESCRIPTION:Grupo E - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Monumental David Arellano
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250422T213000Z_ColoColo_Racing
+DTSTART;TZID=America/Montevideo:20250422T213000
+DTEND;TZID=America/Montevideo:20250422T233000
+SUMMARY:Colo-Colo🇨🇱 vs. Racing🇦🇷
+DESCRIPTION:Grupo E - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Monumental David Arellano
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250506T213000Z_Fortaleza_ColoColo
+DTSTART;TZID=America/Montevideo:20250506T213000
+DTEND;TZID=America/Montevideo:20250506T233000
+SUMMARY:Fortaleza🇧🇷 vs. Colo-Colo🇨🇱
+DESCRIPTION:Grupo E - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Castelão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250514T213000Z_Racing_ColoColo
+DTSTART;TZID=America/Montevideo:20250514T213000
+DTEND;TZID=America/Montevideo:20250514T233000
+SUMMARY:Racing🇦🇷 vs. Colo-Colo🇨🇱
+DESCRIPTION:Grupo E - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Presidente Perón (Cilindro de Avellaneda)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250529T213000Z_ColoColo_AtleticoBucaramanga
+DTSTART;TZID=America/Montevideo:20250529T213000
+DTEND;TZID=America/Montevideo:20250529T233000
+SUMMARY:Colo-Colo🇨🇱 vs. Atlético Bucaramanga🇨🇴
+DESCRIPTION:Grupo E - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Monumental David Arellano
+END:VEVENT
+END:VCALENDAR

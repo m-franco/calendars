@@ -1,0 +1,263 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//ES
+BEGIN:VEVENT
+UID:20240404T190000Z_RosarioCentral_Peñarol
+DTSTART;TZID=America/Montevideo:20240404T190000
+DTEND;TZID=America/Montevideo:20240404T210000
+SUMMARY:Rosario Central🇦🇷 vs. Peñarol🇺🇾
+DESCRIPTION:Grupo G - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Gigante de Arroyito
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T210000Z_Peñarol_Caracas
+DTSTART;TZID=America/Montevideo:20240410T210000
+DTEND;TZID=America/Montevideo:20240410T230000
+SUMMARY:Peñarol🇺🇾 vs. Caracas🇻🇪
+DESCRIPTION:Grupo G - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240423T210000Z_AtléticoMineiro_Peñarol
+DTSTART;TZID=America/Montevideo:20240423T210000
+DTEND;TZID=America/Montevideo:20240423T230000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Peñarol🇺🇾
+DESCRIPTION:Grupo G - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T190000Z_Caracas_Peñarol
+DTSTART;TZID=America/Montevideo:20240507T190000
+DTEND;TZID=America/Montevideo:20240507T210000
+SUMMARY:Caracas🇻🇪 vs. Peñarol🇺🇾
+DESCRIPTION:Grupo G - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Olímpico U.C.V.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240514T190000Z_Peñarol_AtléticoMineiro
+DTSTART;TZID=America/Montevideo:20240514T190000
+DTEND;TZID=America/Montevideo:20240514T210000
+SUMMARY:Peñarol🇺🇾 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Grupo G - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240528T190000Z_Peñarol_RosarioCentral
+DTSTART;TZID=America/Montevideo:20240528T190000
+DTEND;TZID=America/Montevideo:20240528T210000
+SUMMARY:Peñarol🇺🇾 vs. Rosario Central🇦🇷
+DESCRIPTION:Grupo G - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240814T190000Z_Penarol_TheStrongest
+DTSTART;TZID=America/Montevideo:20240814T190000
+DTEND;TZID=America/Montevideo:20240814T210000
+SUMMARY:Peñarol🇺🇾 vs. The Strongest🇧🇴
+DESCRIPTION:Octavos de final - Ida - Copa Libertadores
+LOCATION:Estadio Campeón del Siglo
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240821T190000Z_TheStrongest_Penarol
+DTSTART;TZID=America/Montevideo:20240821T190000
+DTEND;TZID=America/Montevideo:20240821T210000
+SUMMARY:The Strongest🇧🇴 vs. Peñarol🇺🇾
+DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
+LOCATION:Estadio Hernando Siles
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240919T190000Z_Flamengo_Penarol
+DTSTART;TZID=America/Montevideo:20240919T190000
+DTEND;TZID=America/Montevideo:20240919T210000
+SUMMARY:Flamengo🇧🇷 vs. Peñarol🇺🇾
+DESCRIPTION:Cuartos de final - Ida - Copa Libertadores
+LOCATION:Estadio Maracaná, Río de Janeiro
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240926T190000Z_Penarol_Flamengo
+DTSTART;TZID=America/Montevideo:20240926T190000
+DTEND;TZID=America/Montevideo:20240926T210000
+SUMMARY:Peñarol🇺🇾 vs. Flamengo🇧🇷
+DESCRIPTION:Cuartos de final - Vuelta - Copa Libertadores
+LOCATION:Estadio Campeón del Siglo, Montevideo
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20241023T213000Z_Botafogo_Penarol
+DTSTART;TZID=America/Montevideo:20241023T213000
+DTEND;TZID=America/Montevideo:20241023T233000
+SUMMARY:Botafogo🇧🇷 vs. Peñarol🇺🇾
+DESCRIPTION:Semifinal - Ida - Copa Libertadores
+LOCATION:Estádio Olímpico Nilton Santos, Rio de Janeiro
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20241030T213000Z_Penarol_Botafogo
+DTSTART;TZID=America/Montevideo:20241030T213000
+DTEND;TZID=America/Montevideo:20241030T233000
+SUMMARY:Peñarol🇺🇾 vs. Botafogo🇧🇷
+DESCRIPTION:Semifinal - Vuelta - Copa Libertadores
+LOCATION:Estadio Centenario, Montevideo
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250402T190000Z_VelezSarsfield_Penarol
+DTSTART;TZID=America/Montevideo:20250402T190000
+DTEND;TZID=America/Montevideo:20250402T210000
+SUMMARY:Vélez Sarsfield🇦🇷 vs. Peñarol🇺🇾
+DESCRIPTION:Grupo H - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:José Amalfitani
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250408T210000Z_Penarol_SanAntonioBuloBulo
+DTSTART;TZID=America/Montevideo:20250408T210000
+DTEND;TZID=America/Montevideo:20250408T230000
+SUMMARY:Peñarol🇺🇾 vs. San Antonio Bulo Bulo🇧🇴
+DESCRIPTION:Grupo H - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250423T190000Z_Olimpia_Penarol
+DTSTART;TZID=America/Montevideo:20250423T190000
+DTEND;TZID=America/Montevideo:20250423T210000
+SUMMARY:Olimpia🇵🇾 vs. Peñarol🇺🇾
+DESCRIPTION:Grupo H - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio UENO Osvaldo Domínguez Dibb
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250506T230000Z_SanAntonioBuloBulo_Penarol
+DTSTART;TZID=America/Montevideo:20250506T230000
+DTEND;TZID=America/Montevideo:20250507T010000
+SUMMARY:San Antonio Bulo Bulo🇧🇴 vs. Peñarol🇺🇾
+DESCRIPTION:Grupo H - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Félix Capriles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250514T190000Z_Penarol_Olimpia
+DTSTART;TZID=America/Montevideo:20250514T190000
+DTEND;TZID=America/Montevideo:20250514T210000
+SUMMARY:Peñarol🇺🇾 vs. Olimpia🇵🇾
+DESCRIPTION:Grupo H - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250529T190000Z_Penarol_VelezSarsfield
+DTSTART;TZID=America/Montevideo:20250529T190000
+DTEND;TZID=America/Montevideo:20250529T210000
+SUMMARY:Peñarol🇺🇾 vs. Vélez Sarsfield🇦🇷
+DESCRIPTION:Grupo H - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250812T213000Z_Penarol_Racing
+DTSTART;TZID=America/Montevideo:20250812T213000
+DTEND;TZID=America/Montevideo:20250812T233000
+SUMMARY:Peñarol🇺🇾 vs. Racing🇦🇷
+DESCRIPTION:Octavos de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250819T213000Z_Racing_Penarol
+DTSTART;TZID=America/Montevideo:20250819T213000
+DTEND;TZID=America/Montevideo:20250819T233000
+SUMMARY:Racing🇦🇷 vs. Peñarol🇺🇾
+DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Presidente Perón (Cilindro de Avellaneda)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260409T230000Z_SantaFe_Penarol
+DTSTART;TZID=America/Montevideo:20260409T230000
+DTEND;TZID=America/Montevideo:20260410T010000
+SUMMARY:Santa Fe🇨🇴 vs. Peñarol🇺🇾
+DESCRIPTION:Grupo E - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Nemesio Camacho El Campín
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260416T213000Z_Penarol_Platense
+DTSTART;TZID=America/Montevideo:20260416T213000
+DTEND;TZID=America/Montevideo:20260416T233000
+SUMMARY:Peñarol🇺🇾 vs. Platense🇦🇷
+DESCRIPTION:Grupo E - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260430T210000Z_Corinthians_Penarol
+DTSTART;TZID=America/Montevideo:20260430T210000
+DTEND;TZID=America/Montevideo:20260430T230000
+SUMMARY:Corinthians🇧🇷 vs. Peñarol🇺🇾
+DESCRIPTION:Grupo E - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260507T190000Z_Platense_Penarol
+DTSTART;TZID=America/Montevideo:20260507T190000
+DTEND;TZID=America/Montevideo:20260507T210000
+SUMMARY:Platense🇦🇷 vs. Peñarol🇺🇾
+DESCRIPTION:Grupo E - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Ciudad de Vicente López
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260521T213000Z_Penarol_Corinthians
+DTSTART;TZID=America/Montevideo:20260521T213000
+DTEND;TZID=America/Montevideo:20260521T233000
+SUMMARY:Peñarol🇺🇾 vs. Corinthians🇧🇷
+DESCRIPTION:Grupo E - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260527T213000Z_Penarol_SantaFe
+DTSTART;TZID=America/Montevideo:20260527T213000
+DTEND;TZID=America/Montevideo:20260527T233000
+SUMMARY:Peñarol🇺🇾 vs. Santa Fe🇨🇴
+DESCRIPTION:Grupo E - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Campeón del Siglo
+END:VEVENT
+END:VCALENDAR

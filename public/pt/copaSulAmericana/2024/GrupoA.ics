@@ -1,0 +1,183 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//PT
+BEGIN:VEVENT
+UID:20240402T230000Z_UCV_Defensa_y_Justicia
+DTSTART;TZID=America/Montevideo:20240402T230000
+DTEND;TZID=America/Montevideo:20240403T010000
+SUMMARY:Universidad César Vallejo🇵🇪 vs. Defensa y Justicia🇦🇷
+DESCRIPTION:Grupo A - Rodada 1 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Mansiche
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240404T230000Z_Always_Ready_Independiente_Medellin
+DTSTART;TZID=America/Montevideo:20240404T230000
+DTEND;TZID=America/Montevideo:20240405T010000
+SUMMARY:Always Ready🇧🇴 vs. Independiente de Medellín🇨🇴
+DESCRIPTION:Grupo A - Rodada 1 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Municipal Villa Ingenio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T190000Z_Defensa_y_Justicia_Always_Ready
+DTSTART;TZID=America/Montevideo:20240410T190000
+DTEND;TZID=America/Montevideo:20240410T210000
+SUMMARY:Defensa y Justicia🇦🇷 vs. Always Ready🇧🇴
+DESCRIPTION:Grupo A - Rodada 2 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Norberto Tomaghello
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T230000Z_Independiente_Medellin_UCV
+DTSTART;TZID=America/Montevideo:20240410T230000
+DTEND;TZID=America/Montevideo:20240411T010000
+SUMMARY:Independiente de Medellín🇨🇴 vs. Universidad César Vallejo🇵🇪
+DESCRIPTION:Grupo A - Rodada 2 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Atanasio Girardot
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T210000Z_Always_Ready_UCV
+DTSTART;TZID=America/Montevideo:20240425T210000
+DTEND;TZID=America/Montevideo:20240425T230000
+SUMMARY:Always Ready🇧🇴 vs. Universidad César Vallejo🇵🇪
+DESCRIPTION:Grupo A - Rodada 3 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Municipal Villa Ingenio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T230000Z_Independiente_Medellin_Defensa_y_Justicia
+DTSTART;TZID=America/Montevideo:20240425T230000
+DTEND;TZID=America/Montevideo:20240426T010000
+SUMMARY:Independiente de Medellín🇨🇴 vs. Defensa y Justicia🇦🇷
+DESCRIPTION:Grupo A - Rodada 3 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Atanasio Girardot
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T210000Z_UCV_Independiente_Medellin
+DTSTART;TZID=America/Montevideo:20240507T210000
+DTEND;TZID=America/Montevideo:20240507T230000
+SUMMARY:Universidad César Vallejo🇵🇪 vs. Independiente de Medellín🇨🇴
+DESCRIPTION:Grupo A - Rodada 4 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Mansiche
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T230000Z_Always_Ready_Defensa_y_Justicia
+DTSTART;TZID=America/Montevideo:20240507T230000
+DTEND;TZID=America/Montevideo:20240508T010000
+SUMMARY:Always Ready🇧🇴 vs. Defensa y Justicia🇦🇷
+DESCRIPTION:Grupo A - Rodada 4 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Municipal Villa Ingenio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240514T210000Z_Defensa_y_Justicia_Independiente_Medellin
+DTSTART;TZID=America/Montevideo:20240514T210000
+DTEND;TZID=America/Montevideo:20240514T230000
+SUMMARY:Defensa y Justicia🇦🇷 vs. Independiente de Medellín🇨🇴
+DESCRIPTION:Grupo A - Rodada 5 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Norberto Tomaghello
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T230000Z_UCV_Always_Ready
+DTSTART;TZID=America/Montevideo:20240515T230000
+DTEND;TZID=America/Montevideo:20240516T010000
+SUMMARY:Universidad César Vallejo🇵🇪 vs. Always Ready🇧🇴
+DESCRIPTION:Grupo A - Rodada 5 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Mansiche
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240529T210000Z_Defensa_y_Justicia_UCV
+DTSTART;TZID=America/Montevideo:20240529T210000
+DTEND;TZID=America/Montevideo:20240529T230000
+SUMMARY:Defensa y Justicia🇦🇷 vs. Universidad César Vallejo🇵🇪
+DESCRIPTION:Grupo A - Rodada 6 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Norberto Tomaghello
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240529T210000Z_Independiente_Medellin_Always_Ready
+DTSTART;TZID=America/Montevideo:20240529T210000
+DTEND;TZID=America/Montevideo:20240529T230000
+SUMMARY:Independiente de Medellín🇨🇴 vs. Always Ready🇧🇴
+DESCRIPTION:Grupo A - Rodada 6 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Atanasio Girardot
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240718T213000Z_LigaQuito_Always_Ready
+DTSTART;TZID=America/Montevideo:20240718T213000
+DTEND;TZID=America/Montevideo:20240718T233000
+SUMMARY:Liga de Quito🇪🇨 vs. Always Ready🇧🇴
+DESCRIPTION:Play-offs - Ida - Copa Sul-Americana
+LOCATION:Estádio Rodrigo Paz Delgado, Quito
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240725T213000Z_Always_Ready_LigaQuito
+DTSTART;TZID=America/Montevideo:20240725T213000
+DTEND;TZID=America/Montevideo:20240725T233000
+SUMMARY:Always Ready🇧🇴 vs. Liga de Quito🇪🇨
+DESCRIPTION:Play-offs - Volta - Copa Sul-Americana
+LOCATION:Estádio Municipal de Villa Ingenio, El Alto
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240814T213000Z_Palestino_Independiente_Medellin
+DTSTART;TZID=America/Montevideo:20240814T213000
+DTEND;TZID=America/Montevideo:20240814T233000
+SUMMARY:Palestino🇨🇱 vs. Independiente de Medellín🇨🇴
+DESCRIPTION:Oitavas de final - Ida - Copa Sul-Americana
+LOCATION:Estádio Nacional Julio Martínez Prádanos, Santiago
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240821T213000Z_Independiente_Medellin_Palestino
+DTSTART;TZID=America/Montevideo:20240821T213000
+DTEND;TZID=America/Montevideo:20240821T233000
+SUMMARY:Independiente de Medellín🇨🇴 vs. Palestino🇨🇱
+DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana
+LOCATION:Estádio Hernán Ramírez Villegas, Pereira
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240918T213000Z_Lanus_Independiente_Medellin
+DTSTART;TZID=America/Montevideo:20240918T213000
+DTEND;TZID=America/Montevideo:20240918T233000
+SUMMARY:Lanús🇦🇷 vs. Independiente de Medellín🇨🇴
+DESCRIPTION:Quartas de final - Ida - Copa Sul-Americana
+LOCATION:Estádio Ciudad de Lanús, Lanús
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240925T213000Z_Independiente_Medellin_Lanus
+DTSTART;TZID=America/Montevideo:20240925T213000
+DTEND;TZID=America/Montevideo:20240925T233000
+SUMMARY:Independiente de Medellín🇨🇴 vs. Lanús🇦🇷
+DESCRIPTION:Quartas de final - Volta - Copa Sul-Americana
+LOCATION:Estádio Atanasio Girardot, Medellín
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

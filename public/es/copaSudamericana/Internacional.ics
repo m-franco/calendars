@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//ES
+BEGIN:VEVENT
+UID:20240402T190000Z_Belgrano_Internacional
+DTSTART;TZID=America/Montevideo:20240402T190000
+DTEND;TZID=America/Montevideo:20240402T210000
+SUMMARY:Belgrano🇦🇷 vs. Internacional🇧🇷
+DESCRIPTION:Grupo C - Fecha 1 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Mario Alberto Kempes
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T210000Z_Internacional_Real_Tomayapo
+DTSTART;TZID=America/Montevideo:20240410T210000
+DTEND;TZID=America/Montevideo:20240410T230000
+SUMMARY:Internacional🇧🇷 vs. Real Tomayapo🇧🇴
+DESCRIPTION:Grupo C - Fecha 2 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Beira-Rio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T230000Z_Delfin_Internacional
+DTSTART;TZID=America/Montevideo:20240425T230000
+DTEND;TZID=America/Montevideo:20240426T010000
+SUMMARY:Delfín🇪🇨 vs. Internacional🇧🇷
+DESCRIPTION:Grupo C - Fecha 3 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Jocay
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T210000Z_Real_Tomayapo_Internacional
+DTSTART;TZID=America/Montevideo:20240507T210000
+DTEND;TZID=America/Montevideo:20240507T230000
+SUMMARY:Real Tomayapo🇧🇴 vs. Internacional🇧🇷
+DESCRIPTION:Grupo C - Fecha 4 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio IV Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240516T190000Z_Internacional_Delfin
+DTSTART;TZID=America/Montevideo:20240516T190000
+DTEND;TZID=America/Montevideo:20240516T210000
+SUMMARY:Internacional🇧🇷 vs. Delfín🇪🇨
+DESCRIPTION:Grupo C - Fecha 5 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Beira-Rio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240528T213000Z_Internacional_Belgrano
+DTSTART;TZID=America/Montevideo:20240528T213000
+DTEND;TZID=America/Montevideo:20240528T233000
+SUMMARY:Internacional🇧🇷 vs. Belgrano🇦🇷
+DESCRIPTION:Grupo C - Fecha 6 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Beira-Rio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240716T213000Z_RosarioCentral_Internacional
+DTSTART;TZID=America/Montevideo:20240716T213000
+DTEND;TZID=America/Montevideo:20240716T233000
+SUMMARY:Rosario Central🇦🇷 vs. Internacional🇧🇷
+DESCRIPTION:Play-offs - Ida - Copa Sudamericana
+LOCATION:Estadio Gigante de Arroyito, Rosario
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240723T213000Z_Internacional_RosarioCentral
+DTSTART;TZID=America/Montevideo:20240723T213000
+DTEND;TZID=America/Montevideo:20240723T233000
+SUMMARY:Internacional🇧🇷 vs. Rosario Central🇦🇷
+DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana
+LOCATION:Estádio Beira-Rio, Porto Alegre
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250403T190000Z_Bahia_Internacional
+DTSTART;TZID=America/Montevideo:20250403T190000
+DTEND;TZID=America/Montevideo:20250403T210000
+SUMMARY:Bahia🇧🇷 vs. Internacional🇧🇷
+DESCRIPTION:Grupo F - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Casa de Apostas Arena Fonte Nova
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250410T190000Z_Internacional_AtleticoNacional
+DTSTART;TZID=America/Montevideo:20250410T190000
+DTEND;TZID=America/Montevideo:20250410T210000
+SUMMARY:Internacional🇧🇷 vs. Atlético Nacional🇨🇴
+DESCRIPTION:Grupo F - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Beira-Rio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250422T213000Z_Internacional_Nacional
+DTSTART;TZID=America/Montevideo:20250422T213000
+DTEND;TZID=America/Montevideo:20250422T233000
+SUMMARY:Internacional🇧🇷 vs. Nacional🇺🇾
+DESCRIPTION:Grupo F - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Beira-Rio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250508T213000Z_AtleticoNacional_Internacional
+DTSTART;TZID=America/Montevideo:20250508T213000
+DTEND;TZID=America/Montevideo:20250508T233000
+SUMMARY:Atlético Nacional🇨🇴 vs. Internacional🇧🇷
+DESCRIPTION:Grupo F - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Atanasio Girardot
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250515T190000Z_Nacional_Internacional
+DTSTART;TZID=America/Montevideo:20250515T190000
+DTEND;TZID=America/Montevideo:20250515T210000
+SUMMARY:Nacional🇺🇾 vs. Internacional🇧🇷
+DESCRIPTION:Grupo F - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Gran Parque Central
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250528T190000Z_Internacional_Bahia
+DTSTART;TZID=America/Montevideo:20250528T190000
+DTEND;TZID=America/Montevideo:20250528T210000
+SUMMARY:Internacional🇧🇷 vs. Bahia🇧🇷
+DESCRIPTION:Grupo F - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Beira-Rio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250813T213000Z_Flamengo_Internacional
+DTSTART;TZID=America/Montevideo:20250813T213000
+DTEND;TZID=America/Montevideo:20250813T233000
+SUMMARY:Flamengo🇧🇷 vs. Internacional🇧🇷
+DESCRIPTION:Octavos de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio do Maracana
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250820T213000Z_Internacional_Flamengo
+DTSTART;TZID=America/Montevideo:20250820T213000
+DTEND;TZID=America/Montevideo:20250820T233000
+SUMMARY:Internacional🇧🇷 vs. Flamengo🇧🇷
+DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Beira-Rio
+END:VEVENT
+END:VCALENDAR

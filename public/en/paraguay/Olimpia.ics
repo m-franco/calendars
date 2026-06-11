@@ -1,0 +1,123 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//EN
+BEGIN:VEVENT
+UID:20250402T190000Z_SanAntonioBuloBulo_Olimpia
+DTSTART;TZID=America/Montevideo:20250402T190000
+DTEND;TZID=America/Montevideo:20250402T210000
+SUMMARY:San Antonio Bulo Bulo🇧🇴 vs. Olimpia🇵🇾
+DESCRIPTION:Group H - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Félix Capriles Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250409T190000Z_Olimpia_VelezSarsfield
+DTSTART;TZID=America/Montevideo:20250409T190000
+DTEND;TZID=America/Montevideo:20250409T210000
+SUMMARY:Olimpia🇵🇾 vs. Vélez Sarsfield🇦🇷
+DESCRIPTION:Group H - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:ueno Defensores del Chaco Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250423T190000Z_Olimpia_Penarol
+DTSTART;TZID=America/Montevideo:20250423T190000
+DTEND;TZID=America/Montevideo:20250423T210000
+SUMMARY:Olimpia🇵🇾 vs. Peñarol🇺🇾
+DESCRIPTION:Group H - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:UENO Osvaldo Domínguez Dibb Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250508T190000Z_VelezSarsfield_Olimpia
+DTSTART;TZID=America/Montevideo:20250508T190000
+DTEND;TZID=America/Montevideo:20250508T210000
+SUMMARY:Vélez Sarsfield🇦🇷 vs. Olimpia🇵🇾
+DESCRIPTION:Group H - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:José Amalfitani
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250514T190000Z_Penarol_Olimpia
+DTSTART;TZID=America/Montevideo:20250514T190000
+DTEND;TZID=America/Montevideo:20250514T210000
+SUMMARY:Peñarol🇺🇾 vs. Olimpia🇵🇾
+DESCRIPTION:Group H - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Campeón del Siglo Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250529T190000Z_Olimpia_SanAntonioBuloBulo
+DTSTART;TZID=America/Montevideo:20250529T190000
+DTEND;TZID=America/Montevideo:20250529T210000
+SUMMARY:Olimpia🇵🇾 vs. San Antonio Bulo Bulo🇧🇴
+DESCRIPTION:Group H - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:ueno Defensores del Chaco Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260408T210000Z_AudaxItaliano_Olimpia
+DTSTART;TZID=America/Montevideo:20260408T210000
+DTEND;TZID=America/Montevideo:20260408T230000
+SUMMARY:Audax Italiano🇨🇱 vs. Olimpia🇵🇾
+DESCRIPTION:Group G - Matchday 1 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Municipal de La Florida Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260415T210000Z_Olimpia_BarracasCentral
+DTSTART;TZID=America/Montevideo:20260415T210000
+DTEND;TZID=America/Montevideo:20260415T230000
+SUMMARY:Olimpia🇵🇾 vs. Barracas Central🇦🇷
+DESCRIPTION:Group G - Matchday 2 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260430T190000Z_VascoDaGama_Olimpia
+DTSTART;TZID=America/Montevideo:20260430T190000
+DTEND;TZID=America/Montevideo:20260430T210000
+SUMMARY:Vasco da Gama🇧🇷 vs. Olimpia🇵🇾
+DESCRIPTION:Group G - Matchday 3 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Estádio São Januário
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260506T210000Z_BarracasCentral_Olimpia
+DTSTART;TZID=America/Montevideo:20260506T210000
+DTEND;TZID=America/Montevideo:20260506T230000
+SUMMARY:Barracas Central🇦🇷 vs. Olimpia🇵🇾
+DESCRIPTION:Group G - Matchday 4 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Florencio Solá
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260520T190000Z_Olimpia_VascoDaGama
+DTSTART;TZID=America/Montevideo:20260520T190000
+DTEND;TZID=America/Montevideo:20260520T210000
+SUMMARY:Olimpia🇵🇾 vs. Vasco da Gama🇧🇷
+DESCRIPTION:Group G - Matchday 5 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260527T190000Z_Olimpia_AudaxItaliano
+DTSTART;TZID=America/Montevideo:20260527T190000
+DTEND;TZID=America/Montevideo:20260527T210000
+SUMMARY:Olimpia🇵🇾 vs. Audax Italiano🇨🇱
+DESCRIPTION:Group G - Matchday 6 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Defensores del Chaco
+END:VEVENT
+END:VCALENDAR

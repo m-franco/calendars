@@ -1,0 +1,143 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//ES
+BEGIN:VEVENT
+UID:20240403T230000Z_Botafogo_Junior
+DTSTART;TZID=America/Montevideo:20240403T230000
+DTEND;TZID=America/Montevideo:20240404T010000
+SUMMARY:Botafogo🇧🇷 vs. Junior🇨🇴
+DESCRIPTION:Grupo D - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Olímpico Nilton Santos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T230000Z_Junior_Universitario
+DTSTART;TZID=America/Montevideo:20240409T230000
+DTEND;TZID=America/Montevideo:20240410T010000
+SUMMARY:Junior🇨🇴 vs. Universitario🇵🇪
+DESCRIPTION:Grupo D - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Metropolitano Roberto Meléndez
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240423T230000Z_Junior_LigaQuito
+DTSTART;TZID=America/Montevideo:20240423T230000
+DTEND;TZID=America/Montevideo:20240424T010000
+SUMMARY:Junior🇨🇴 vs. Liga de Quito🇪🇨
+DESCRIPTION:Grupo D - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Metropolitano Roberto Meléndez
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T230000Z_Universitario_Junior
+DTSTART;TZID=America/Montevideo:20240507T230000
+DTEND;TZID=America/Montevideo:20240508T010000
+SUMMARY:Universitario🇵🇪 vs. Junior🇨🇴
+DESCRIPTION:Grupo D - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Monumental U Marathon
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240514T190000Z_LigaQuito_Junior
+DTSTART;TZID=America/Montevideo:20240514T190000
+DTEND;TZID=America/Montevideo:20240514T210000
+SUMMARY:Liga de Quito🇪🇨 vs. Junior🇨🇴
+DESCRIPTION:Grupo D - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240528T190000Z_Junior_Botafogo
+DTSTART;TZID=America/Montevideo:20240528T190000
+DTEND;TZID=America/Montevideo:20240528T210000
+SUMMARY:Junior🇨🇴 vs. Botafogo🇧🇷
+DESCRIPTION:Grupo D - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Metropolitano Roberto Meléndez
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240813T213000Z_ColoColo_Junior
+DTSTART;TZID=America/Montevideo:20240813T213000
+DTEND;TZID=America/Montevideo:20240813T233000
+SUMMARY:Colo Colo🇨🇱 vs. Junior🇨🇴
+DESCRIPTION:Octavos de final - Ida - Copa Libertadores
+LOCATION:Estadio Monumental David Arellano
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240820T213000Z_Junior_ColoColo
+DTSTART;TZID=America/Montevideo:20240820T213000
+DTEND;TZID=America/Montevideo:20240820T233000
+SUMMARY:Junior🇨🇴 vs. Colo Colo🇨🇱
+DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
+LOCATION:Estadio Metropolitano Roberto Meléndez
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260408T213000Z_Junior_Palmeiras
+DTSTART;TZID=America/Montevideo:20260408T213000
+DTEND;TZID=America/Montevideo:20260408T233000
+SUMMARY:Junior🇨🇴 vs. Palmeiras🇧🇷
+DESCRIPTION:Grupo F - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio a definir
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260414T190000Z_CerroPorteno_Junior
+DTSTART;TZID=America/Montevideo:20260414T190000
+DTEND;TZID=America/Montevideo:20260414T210000
+SUMMARY:Cerro Porteño🇵🇾 vs. Junior🇨🇴
+DESCRIPTION:Grupo F - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio ueno La Nueva Olla
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260428T230000Z_SportingCristal_Junior
+DTSTART;TZID=America/Montevideo:20260428T230000
+DTEND;TZID=America/Montevideo:20260429T010000
+SUMMARY:Sporting Cristal🇵🇪 vs. Junior🇨🇴
+DESCRIPTION:Grupo F - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Alejandro Villanueva
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260507T230000Z_Junior_CerroPorteno
+DTSTART;TZID=America/Montevideo:20260507T230000
+DTEND;TZID=America/Montevideo:20260508T010000
+SUMMARY:Junior🇨🇴 vs. Cerro Porteño🇵🇾
+DESCRIPTION:Grupo F - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Romelio Martínez
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260520T230000Z_Junior_SportingCristal
+DTSTART;TZID=America/Montevideo:20260520T230000
+DTEND;TZID=America/Montevideo:20260521T010000
+SUMMARY:Junior🇨🇴 vs. Sporting Cristal🇵🇪
+DESCRIPTION:Grupo F - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio a definir
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260528T190000Z_Palmeiras_Junior
+DTSTART;TZID=America/Montevideo:20260528T190000
+DTEND;TZID=America/Montevideo:20260528T210000
+SUMMARY:Palmeiras🇧🇷 vs. Junior🇨🇴
+DESCRIPTION:Grupo F - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
+END:VCALENDAR

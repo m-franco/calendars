@@ -1,0 +1,293 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//PT
+BEGIN:VEVENT
+UID:20240404T190000Z_Caracas_AtléticoMineiro
+DTSTART;TZID=America/Montevideo:20240404T190000
+DTEND;TZID=America/Montevideo:20240404T021000
+SUMMARY:Caracas🇻🇪 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Grupo G - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico U.C.V.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240404T190000Z_RosarioCentral_Peñarol
+DTSTART;TZID=America/Montevideo:20240404T190000
+DTEND;TZID=America/Montevideo:20240404T210000
+SUMMARY:Rosario Central🇦🇷 vs. Peñarol🇺🇾
+DESCRIPTION:Grupo G - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Gigante de Arroyito
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T190000Z_AtléticoMineiro_RosarioCentral
+DTSTART;TZID=America/Montevideo:20240410T190000
+DTEND;TZID=America/Montevideo:20240410T210000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Rosario Central🇦🇷
+DESCRIPTION:Grupo G - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T210000Z_Peñarol_Caracas
+DTSTART;TZID=America/Montevideo:20240410T210000
+DTEND;TZID=America/Montevideo:20240410T230000
+SUMMARY:Peñarol🇺🇾 vs. Caracas🇻🇪
+DESCRIPTION:Grupo G - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240423T190000Z_Caracas_RosarioCentral
+DTSTART;TZID=America/Montevideo:20240423T190000
+DTEND;TZID=America/Montevideo:20240423T210000
+SUMMARY:Caracas🇻🇪 vs. Rosario Central🇦🇷
+DESCRIPTION:Grupo G - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico U.C.V.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240423T210000Z_AtléticoMineiro_Peñarol
+DTSTART;TZID=America/Montevideo:20240423T210000
+DTEND;TZID=America/Montevideo:20240423T230000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Peñarol🇺🇾
+DESCRIPTION:Grupo G - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T190000Z_Caracas_Peñarol
+DTSTART;TZID=America/Montevideo:20240507T190000
+DTEND;TZID=America/Montevideo:20240507T210000
+SUMMARY:Caracas🇻🇪 vs. Peñarol🇺🇾
+DESCRIPTION:Grupo G - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico U.C.V.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T190000Z_RosarioCentral_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20240507T190000
+DTEND;TZID=America/Montevideo:20240507T210000
+SUMMARY:Rosario Central🇦🇷 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Grupo G - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Gigante de Arroyito
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240514T190000Z_Peñarol_AtléticoMineiro
+DTSTART;TZID=America/Montevideo:20240514T190000
+DTEND;TZID=America/Montevideo:20240514T210000
+SUMMARY:Peñarol🇺🇾 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Grupo G - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240516T190000Z_RosarioCentral_Caracas
+DTSTART;TZID=America/Montevideo:20240516T190000
+DTEND;TZID=America/Montevideo:20240516T210000
+SUMMARY:Rosario Central🇦🇷 vs. Caracas🇻🇪
+DESCRIPTION:Grupo G - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Gigante de Arroyito
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240528T190000Z_AtléticoMineiro_Caracas
+DTSTART;TZID=America/Montevideo:20240528T190000
+DTEND;TZID=America/Montevideo:20240528T210000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Caracas🇻🇪
+DESCRIPTION:Grupo G - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240528T190000Z_Peñarol_RosarioCentral
+DTSTART;TZID=America/Montevideo:20240528T190000
+DTEND;TZID=America/Montevideo:20240528T210000
+SUMMARY:Peñarol🇺🇾 vs. Rosario Central🇦🇷
+DESCRIPTION:Grupo G - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240716T213000Z_RosarioCentral_Internacional
+DTSTART;TZID=America/Montevideo:20240716T213000
+DTEND;TZID=America/Montevideo:20240716T233000
+SUMMARY:Rosario Central🇦🇷 vs. Internacional🇧🇷
+DESCRIPTION:Play-offs - Ida - Copa Sul-Americana
+LOCATION:Estádio Gigante de Arroyito, Rosario
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240723T213000Z_Internacional_RosarioCentral
+DTSTART;TZID=America/Montevideo:20240723T213000
+DTEND;TZID=America/Montevideo:20240723T233000
+SUMMARY:Internacional🇧🇷 vs. Rosario Central🇦🇷
+DESCRIPTION:Play-offs - Volta - Copa Sul-Americana
+LOCATION:Estádio Beira-Rio, Porto Alegre
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240813T213000Z_SanLorenzo_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20240813T213000
+DTEND;TZID=America/Montevideo:20240813T233000
+SUMMARY:San Lorenzo🇦🇷 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Oitavas de final - Ida - Copa Libertadores
+LOCATION:Estádio Nuevo Gasómetro
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240814T190000Z_Penarol_TheStrongest
+DTSTART;TZID=America/Montevideo:20240814T190000
+DTEND;TZID=America/Montevideo:20240814T210000
+SUMMARY:Peñarol🇺🇾 vs. The Strongest🇧🇴
+DESCRIPTION:Oitavas de final - Ida - Copa Libertadores
+LOCATION:Estádio Campeón del Siglo
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240814T190000Z_RosarioCentral_Fortaleza
+DTSTART;TZID=America/Montevideo:20240814T190000
+DTEND;TZID=America/Montevideo:20240814T210000
+SUMMARY:Rosario Central🇦🇷 vs. Fortaleza🇧🇷
+DESCRIPTION:Oitavas de final - Ida - Copa Sul-Americana
+LOCATION:Estádio Gigante de Arroyito, Rosario
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240820T213000Z_AtleticoMineiro_SanLorenzo
+DTSTART;TZID=America/Montevideo:20240820T213000
+DTEND;TZID=America/Montevideo:20240820T233000
+SUMMARY:Atlético Mineiro🇧🇷 vs. San Lorenzo🇦🇷
+DESCRIPTION:Oitavas de final - Volta - Copa Libertadores
+LOCATION:Estádio Arena MRV
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240821T190000Z_Fortaleza_RosarioCentral
+DTSTART;TZID=America/Montevideo:20240821T190000
+DTEND;TZID=America/Montevideo:20240821T210000
+SUMMARY:Fortaleza🇧🇷 vs. Rosario Central🇦🇷
+DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana
+LOCATION:Castelão, Fortaleza
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240821T190000Z_TheStrongest_Penarol
+DTSTART;TZID=America/Montevideo:20240821T190000
+DTEND;TZID=America/Montevideo:20240821T210000
+SUMMARY:The Strongest🇧🇴 vs. Peñarol🇺🇾
+DESCRIPTION:Oitavas de final - Volta - Copa Libertadores
+LOCATION:Estádio Hernando Siles
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240918T190000Z_Fluminense_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20240918T190000
+DTEND;TZID=America/Montevideo:20240918T210000
+SUMMARY:Fluminense🇧🇷 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Quartas de final - Ida - Copa Libertadores
+LOCATION:Estádio Maracaná, Río de Janeiro
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240919T190000Z_Flamengo_Penarol
+DTSTART;TZID=America/Montevideo:20240919T190000
+DTEND;TZID=America/Montevideo:20240919T210000
+SUMMARY:Flamengo🇧🇷 vs. Peñarol🇺🇾
+DESCRIPTION:Quartas de final - Ida - Copa Libertadores
+LOCATION:Estádio Maracaná, Río de Janeiro
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240925T190000Z_AtleticoMineiro_Fluminense
+DTSTART;TZID=America/Montevideo:20240925T190000
+DTEND;TZID=America/Montevideo:20240925T210000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Fluminense🇧🇷
+DESCRIPTION:Quartas de final - Volta - Copa Libertadores
+LOCATION:Arena MRV, Belo Horizonte
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240926T190000Z_Penarol_Flamengo
+DTSTART;TZID=America/Montevideo:20240926T190000
+DTEND;TZID=America/Montevideo:20240926T210000
+SUMMARY:Peñarol🇺🇾 vs. Flamengo🇧🇷
+DESCRIPTION:Quartas de final - Volta - Copa Libertadores
+LOCATION:Estádio Campeón del Siglo, Montevideo
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20241022T213000Z_AtleticoMineiro_River
+DTSTART;TZID=America/Montevideo:20241022T213000
+DTEND;TZID=America/Montevideo:20241022T233000
+SUMMARY:Atlético Mineiro🇧🇷 vs. River🇦🇷
+DESCRIPTION:Semifinal - Ida - Copa Libertadores
+LOCATION:Arena MRV, Belo Horizonte
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20241023T213000Z_Botafogo_Penarol
+DTSTART;TZID=America/Montevideo:20241023T213000
+DTEND;TZID=America/Montevideo:20241023T233000
+SUMMARY:Botafogo🇧🇷 vs. Peñarol🇺🇾
+DESCRIPTION:Semifinal - Ida - Copa Libertadores
+LOCATION:Estádio Olímpico Nilton Santos, Rio de Janeiro
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20241029T213000Z_River_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20241029T213000
+DTEND;TZID=America/Montevideo:20241029T233000
+SUMMARY:River🇦🇷 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Semifinal - Volta - Copa Libertadores
+LOCATION:Estádio Monumental, Buenos Aires
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20241030T213000Z_Penarol_Botafogo
+DTSTART;TZID=America/Montevideo:20241030T213000
+DTEND;TZID=America/Montevideo:20241030T233000
+SUMMARY:Peñarol🇺🇾 vs. Botafogo🇧🇷
+DESCRIPTION:Semifinal - Volta - Copa Libertadores
+LOCATION:Estádio Centenario, Montevideo
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20241130T170000Z_AtleticoMineiro_Botafogo
+DTSTART;TZID=America/Montevideo:20241130T170000
+DTEND;TZID=America/Montevideo:20241130T190000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Botafogo🇧🇷
+DESCRIPTION:Final - Copa Libertadores
+LOCATION:Estádio Monumental, Buenos Aires
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

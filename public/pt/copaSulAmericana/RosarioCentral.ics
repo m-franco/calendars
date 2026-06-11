@@ -1,0 +1,123 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//PT
+BEGIN:VEVENT
+UID:20240716T213000Z_RosarioCentral_Internacional
+DTSTART;TZID=America/Montevideo:20240716T213000
+DTEND;TZID=America/Montevideo:20240716T233000
+SUMMARY:Rosario Central🇦🇷 vs. Internacional🇧🇷
+DESCRIPTION:Play-offs - Ida - Copa Sul-Americana
+LOCATION:Estádio Gigante de Arroyito, Rosario
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240723T213000Z_Internacional_RosarioCentral
+DTSTART;TZID=America/Montevideo:20240723T213000
+DTEND;TZID=America/Montevideo:20240723T233000
+SUMMARY:Internacional🇧🇷 vs. Rosario Central🇦🇷
+DESCRIPTION:Play-offs - Volta - Copa Sul-Americana
+LOCATION:Estádio Beira-Rio, Porto Alegre
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240814T190000Z_RosarioCentral_Fortaleza
+DTSTART;TZID=America/Montevideo:20240814T190000
+DTEND;TZID=America/Montevideo:20240814T210000
+SUMMARY:Rosario Central🇦🇷 vs. Fortaleza🇧🇷
+DESCRIPTION:Oitavas de final - Ida - Copa Sul-Americana
+LOCATION:Estádio Gigante de Arroyito, Rosario
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240821T190000Z_Fortaleza_RosarioCentral
+DTSTART;TZID=America/Montevideo:20240821T190000
+DTEND;TZID=America/Montevideo:20240821T210000
+SUMMARY:Fortaleza🇧🇷 vs. Rosario Central🇦🇷
+DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana
+LOCATION:Castelão, Fortaleza
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260409T190000Z_RosarioCentral_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20260409T190000
+DTEND;TZID=America/Montevideo:20260409T210000
+SUMMARY:Rosario Central🇦🇷 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Grupo H - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Gigante de Arroyito
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260415T190000Z_Libertad_RosarioCentral
+DTSTART;TZID=America/Montevideo:20260415T190000
+DTEND;TZID=America/Montevideo:20260415T210000
+SUMMARY:Libertad🇵🇾 vs. Rosario Central🇦🇷
+DESCRIPTION:Grupo H - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Tigo La Huerta
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260428T210000Z_UniversidadCentral_RosarioCentral
+DTSTART;TZID=America/Montevideo:20260428T210000
+DTEND;TZID=America/Montevideo:20260428T230000
+SUMMARY:Universidad Central🇻🇪 vs. Rosario Central🇦🇷
+DESCRIPTION:Grupo H - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico de la UCV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260505T190000Z_RosarioCentral_Libertad
+DTSTART;TZID=America/Montevideo:20260505T190000
+DTEND;TZID=America/Montevideo:20260505T210000
+SUMMARY:Rosario Central🇦🇷 vs. Libertad🇵🇾
+DESCRIPTION:Grupo H - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Gigante de Arroyito
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260519T190000Z_RosarioCentral_UniversidadCentral
+DTSTART;TZID=America/Montevideo:20260519T190000
+DTEND;TZID=America/Montevideo:20260519T210000
+SUMMARY:Rosario Central🇦🇷 vs. Universidad Central🇻🇪
+DESCRIPTION:Grupo H - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Gigante de Arroyito
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260527T190000Z_IndependienteDelValle_RosarioCentral
+DTSTART;TZID=America/Montevideo:20260527T190000
+DTEND;TZID=America/Montevideo:20260527T210000
+SUMMARY:Independiente del Valle🇪🇨 vs. Rosario Central🇦🇷
+DESCRIPTION:Grupo H - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Banco Guayaquil
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260813T213000Z_RosarioCentral_Corinthians
+DTSTART;TZID=America/Montevideo:20260813T213000
+DTEND;TZID=America/Montevideo:20260813T233000
+SUMMARY:Rosario Central🇦🇷 vs. Corinthians🇧🇷
+DESCRIPTION:Oitavas de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Gigante de Arroyito
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260820T213000Z_Corinthians_RosarioCentral
+DTSTART;TZID=America/Montevideo:20260820T213000
+DTEND;TZID=America/Montevideo:20260820T233000
+SUMMARY:Corinthians🇧🇷 vs. Rosario Central🇦🇷
+DESCRIPTION:Oitavas de final - Volta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
+END:VCALENDAR

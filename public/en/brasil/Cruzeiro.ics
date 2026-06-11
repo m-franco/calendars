@@ -1,0 +1,273 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//EN
+BEGIN:VEVENT
+UID:20240404T210000Z_Universidad_Catolica_Cruzeiro
+DTSTART;TZID=America/Montevideo:20240404T210000
+DTEND;TZID=America/Montevideo:20240404T230000
+SUMMARY:Universidad Católica🇪🇨 vs. Cruzeiro🇧🇷
+DESCRIPTION:Group B - Matchday 1 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Olímpico Atahualpa Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240411T210000Z_Cruzeiro_Alianza
+DTSTART;TZID=America/Montevideo:20240411T210000
+DTEND;TZID=America/Montevideo:20240411T230000
+SUMMARY:Cruzeiro🇧🇷 vs. Alianza🇨🇴
+DESCRIPTION:Group B - Matchday 2 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Mineirão Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240423T190000Z_Union_La_Calera_Cruzeiro
+DTSTART;TZID=America/Montevideo:20240423T190000
+DTEND;TZID=America/Montevideo:20240423T210000
+SUMMARY:Unión La Calera🇨🇱 vs. Cruzeiro🇧🇷
+DESCRIPTION:Group B - Matchday 3 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Municipal Alcaldesa Ester Roa Rebolledo Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T213000Z_Alianza_Cruzeiro
+DTSTART;TZID=America/Montevideo:20240507T213000
+DTEND;TZID=America/Montevideo:20240507T233000
+SUMMARY:Alianza🇨🇴 vs. Cruzeiro🇧🇷
+DESCRIPTION:Group B - Matchday 4 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Armando Maestre Pavajeau Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240516T210000Z_Cruzeiro_Union_La_Calera
+DTSTART;TZID=America/Montevideo:20240516T210000
+DTEND;TZID=America/Montevideo:20240516T230000
+SUMMARY:Cruzeiro🇧🇷 vs. Unión La Calera🇨🇱
+DESCRIPTION:Group B - Matchday 5 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Mineirão Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240530T210000Z_Cruzeiro_Universidad_Catolica
+DTSTART;TZID=America/Montevideo:20240530T210000
+DTEND;TZID=America/Montevideo:20240530T230000
+SUMMARY:Cruzeiro🇧🇷 vs Universidad Católica🇪🇨
+DESCRIPTION:Group B - Matchday 6 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Mineirão Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240815T213000Z_Boca_Juniors_Cruzeiro
+DTSTART;TZID=America/Montevideo:20240815T213000
+DTEND;TZID=America/Montevideo:20240815T233000
+SUMMARY:Boca Juniors🇦🇷 vs. Cruzeiro🇧🇷
+DESCRIPTION:Round of 16 - First leg - Sudamericana Cup
+LOCATION:La Bombonera, Buenos Aires
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240822T213000Z_Cruzeiro_Boca_Juniors
+DTSTART;TZID=America/Montevideo:20240822T213000
+DTEND;TZID=America/Montevideo:20240822T233000
+SUMMARY:Cruzeiro🇧🇷 vs. Boca Juniors🇦🇷
+DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup
+LOCATION:Mineirão, Belo Horizonte
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240919T213000Z_Libertad_Cruzeiro
+DTSTART;TZID=America/Montevideo:20240919T213000
+DTEND;TZID=America/Montevideo:20240919T233000
+SUMMARY:Libertad🇵🇾 vs. Cruzeiro🇧🇷
+DESCRIPTION:Quarter-finals - First leg - Sudamericana Cup
+LOCATION:Defensores del Chaco Stadium, Asunción
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240926T213000Z_Cruzeiro_Libertad
+DTSTART;TZID=America/Montevideo:20240926T213000
+DTEND;TZID=America/Montevideo:20240926T233000
+SUMMARY:Cruzeiro🇧🇷 vs. Libertad🇵🇾
+DESCRIPTION:Quarter-finals - Second leg - Sudamericana Cup
+LOCATION:Mineirão, Belo Horizonte
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20241023T190000Z_Cruzeiro_Lanus
+DTSTART;TZID=America/Montevideo:20241023T190000
+DTEND;TZID=America/Montevideo:20241023T210000
+SUMMARY:Cruzeiro🇧🇷 vs. Lanús🇦🇷
+DESCRIPTION:Semi-finals - First leg - Sudamericana Cup
+LOCATION:Mineirão, Belo Horizonte
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20241030T190000Z_Lanus_Cruzeiro
+DTSTART;TZID=America/Montevideo:20241030T190000
+DTEND;TZID=America/Montevideo:20241030T210000
+SUMMARY:Lanús🇦🇷 vs. Cruzeiro🇧🇷
+DESCRIPTION:Semi-finals - Second leg - Sudamericana Cup
+LOCATION:Ciudad de Lanús Stadium, Lanús
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20241123T170000Z_Racing_Arg_Cruzeiro
+DTSTART;TZID=America/Montevideo:20241123T170000
+DTEND;TZID=America/Montevideo:20241123T190000
+SUMMARY:Racing(Arg)🇦🇷 vs. Cruzeiro🇧🇷
+DESCRIPTION:Final - Sudamericana Cup
+LOCATION:General Pablo Rojas Stadium, Asunción
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250401T190000Z_Union_Cruzeiro
+DTSTART;TZID=America/Montevideo:20250401T190000
+DTEND;TZID=America/Montevideo:20250401T210000
+SUMMARY:Unión🇦🇷 vs. Cruzeiro🇧🇷
+DESCRIPTION:Group E - Matchday 1 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:15 de Abril
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250409T213000Z_Cruzeiro_MushucRuna
+DTSTART;TZID=America/Montevideo:20250409T213000
+DTEND;TZID=America/Montevideo:20250409T233000
+SUMMARY:Cruzeiro🇧🇷 vs. Mushuc Runa🇪🇨
+DESCRIPTION:Group E - Matchday 2 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Mineirão Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250424T213000Z_Palestino_Cruzeiro
+DTSTART;TZID=America/Montevideo:20250424T213000
+DTEND;TZID=America/Montevideo:20250424T233000
+SUMMARY:Palestino🇨🇱 vs. Cruzeiro🇧🇷
+DESCRIPTION:Group E - Matchday 3 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Francisco Sánchez Rumoroso
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250507T213000Z_MushucRuna_Cruzeiro
+DTSTART;TZID=America/Montevideo:20250507T213000
+DTEND;TZID=America/Montevideo:20250507T233000
+SUMMARY:Mushuc Runa🇪🇨 vs. Cruzeiro🇧🇷
+DESCRIPTION:Group E - Matchday 4 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Fernando Guerrero Guerrero Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250514T213000Z_Cruzeiro_Palestino
+DTSTART;TZID=America/Montevideo:20250514T213000
+DTEND;TZID=America/Montevideo:20250514T233000
+SUMMARY:Cruzeiro🇧🇷 vs. Palestino🇨🇱
+DESCRIPTION:Group E - Matchday 5 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Mineirão Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250528T213000Z_Cruzeiro_Union
+DTSTART;TZID=America/Montevideo:20250528T213000
+DTEND;TZID=America/Montevideo:20250528T233000
+SUMMARY:Cruzeiro🇧🇷 vs. Unión🇦🇷
+DESCRIPTION:Group E - Matchday 6 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Mineirão Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260407T210000Z_Barcelona_Cruzeiro
+DTSTART;TZID=America/Montevideo:20260407T210000
+DTEND;TZID=America/Montevideo:20260407T230000
+SUMMARY:Barcelona🇪🇨 vs. Cruzeiro🇧🇷
+DESCRIPTION:Group D - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Banco Pichincha Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260415T190000Z_Cruzeiro_UniversidadCatolica
+DTSTART;TZID=America/Montevideo:20260415T190000
+DTEND;TZID=America/Montevideo:20260415T210000
+SUMMARY:Cruzeiro🇧🇷 vs. Universidad Católica🇪🇨
+DESCRIPTION:Group D - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Mineirão Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260428T213000Z_Cruzeiro_BocaJuniors
+DTSTART;TZID=America/Montevideo:20260428T213000
+DTEND;TZID=America/Montevideo:20260428T233000
+SUMMARY:Cruzeiro🇧🇷 vs. Boca Juniors🇦🇷
+DESCRIPTION:Group D - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Mineirão Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260506T230000Z_UniversidadCatolica_Cruzeiro
+DTSTART;TZID=America/Montevideo:20260506T230000
+DTEND;TZID=America/Montevideo:20260507T010000
+SUMMARY:Universidad Católica🇪🇨 vs. Cruzeiro🇧🇷
+DESCRIPTION:Group D - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:San Carlos de Apoquindo Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260519T213000Z_BocaJuniors_Cruzeiro
+DTSTART;TZID=America/Montevideo:20260519T213000
+DTEND;TZID=America/Montevideo:20260519T233000
+SUMMARY:Boca Juniors🇦🇷 vs. Cruzeiro🇧🇷
+DESCRIPTION:Group D - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Alberto José Armando (La Bombonera)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260528T213000Z_Cruzeiro_Barcelona
+DTSTART;TZID=America/Montevideo:20260528T213000
+DTEND;TZID=America/Montevideo:20260528T233000
+SUMMARY:Cruzeiro🇧🇷 vs. Barcelona🇪🇨
+DESCRIPTION:Group D - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Mineirão Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260812T213000Z_Cruzeiro_Flamengo
+DTSTART;TZID=America/Montevideo:20260812T213000
+DTEND;TZID=America/Montevideo:20260812T233000
+SUMMARY:Cruzeiro🇧🇷 vs. Flamengo🇧🇷
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Mineirão Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260819T213000Z_Flamengo_Cruzeiro
+DTSTART;TZID=America/Montevideo:20260819T213000
+DTEND;TZID=America/Montevideo:20260819T233000
+SUMMARY:Flamengo🇧🇷 vs. Cruzeiro🇧🇷
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:do Maracana Stadium
+END:VEVENT
+END:VCALENDAR

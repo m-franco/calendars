@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//EN
+BEGIN:VEVENT
+UID:20250402T213000Z_SportivoLuqueno_Gremio
+DTSTART;TZID=America/Montevideo:20250402T213000
+DTEND;TZID=America/Montevideo:20250402T233000
+SUMMARY:Sportivo Luqueño🇵🇾 vs. Gremio🇧🇷
+DESCRIPTION:Group D - Matchday 1 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:ueno Defensores del Chaco Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250402T230000Z_AtleticoGrau_GodoyCruz
+DTSTART;TZID=America/Montevideo:20250402T230000
+DTEND;TZID=America/Montevideo:20250403T010000
+SUMMARY:Atlético Grau🇵🇪 vs. Godoy Cruz🇦🇷
+DESCRIPTION:Group D - Matchday 1 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Alejandro Villanueva Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250408T190000Z_Gremio_AtleticoGrau
+DTSTART;TZID=America/Montevideo:20250408T190000
+DTEND;TZID=America/Montevideo:20250408T210000
+SUMMARY:Gremio🇧🇷 vs. Atlético Grau🇵🇪
+DESCRIPTION:Group D - Matchday 2 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Grêmio Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250408T213000Z_GodoyCruz_SportivoLuqueno
+DTSTART;TZID=America/Montevideo:20250408T213000
+DTEND;TZID=America/Montevideo:20250408T233000
+SUMMARY:Godoy Cruz🇦🇷 vs. Sportivo Luqueño🇵🇾
+DESCRIPTION:Group D - Matchday 2 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Malvinas Argentinas (Mendoza)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250423T230000Z_AtleticoGrau_SportivoLuqueno
+DTSTART;TZID=America/Montevideo:20250423T230000
+DTEND;TZID=America/Montevideo:20250424T010000
+SUMMARY:Atlético Grau🇵🇪 vs. Sportivo Luqueño🇵🇾
+DESCRIPTION:Group D - Matchday 3 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Monumental de Lima Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250424T190000Z_GodoyCruz_Gremio
+DTSTART;TZID=America/Montevideo:20250424T190000
+DTEND;TZID=America/Montevideo:20250424T210000
+SUMMARY:Godoy Cruz🇦🇷 vs. Gremio🇧🇷
+DESCRIPTION:Group D - Matchday 3 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Malvinas Argentinas (Mendoza)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250506T190000Z_SportivoLuqueno_GodoyCruz
+DTSTART;TZID=America/Montevideo:20250506T190000
+DTEND;TZID=America/Montevideo:20250506T210000
+SUMMARY:Sportivo Luqueño🇵🇾 vs. Godoy Cruz🇦🇷
+DESCRIPTION:Group D - Matchday 4 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Tigo La Huerta Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250507T213000Z_AtleticoGrau_Gremio
+DTSTART;TZID=America/Montevideo:20250507T213000
+DTEND;TZID=America/Montevideo:20250507T233000
+SUMMARY:Atlético Grau🇵🇪 vs. Gremio🇧🇷
+DESCRIPTION:Group D - Matchday 4 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Alejandro Villanueva Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250513T190000Z_Gremio_GodoyCruz
+DTSTART;TZID=America/Montevideo:20250513T190000
+DTEND;TZID=America/Montevideo:20250513T210000
+SUMMARY:Gremio🇧🇷 vs. Godoy Cruz🇦🇷
+DESCRIPTION:Group D - Matchday 5 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Grêmio Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250514T190000Z_SportivoLuqueno_AtleticoGrau
+DTSTART;TZID=America/Montevideo:20250514T190000
+DTEND;TZID=America/Montevideo:20250514T210000
+SUMMARY:Sportivo Luqueño🇵🇾 vs. Atlético Grau🇵🇪
+DESCRIPTION:Group D - Matchday 5 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:ueno Defensores del Chaco Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250529T190000Z_GodoyCruz_AtleticoGrau
+DTSTART;TZID=America/Montevideo:20250529T190000
+DTEND;TZID=America/Montevideo:20250529T210000
+SUMMARY:Godoy Cruz🇦🇷 vs. Atlético Grau🇵🇪
+DESCRIPTION:Group D - Matchday 6 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Malvinas Argentinas (Mendoza)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250529T190000Z_Gremio_SportivoLuqueno
+DTSTART;TZID=America/Montevideo:20250529T190000
+DTEND;TZID=America/Montevideo:20250529T210000
+SUMMARY:Gremio🇧🇷 vs. Sportivo Luqueño🇵🇾
+DESCRIPTION:Group D - Matchday 6 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Grêmio Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250716T213000Z_AlianzaLima_Gremio
+DTSTART;TZID=America/Montevideo:20250716T213000
+DTEND;TZID=America/Montevideo:20250716T233000
+SUMMARY:Alianza Lima🇵🇪 vs. Gremio🇧🇷
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Alejandro Villanueva Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250723T213000Z_Gremio_AlianzaLima
+DTSTART;TZID=America/Montevideo:20250723T213000
+DTEND;TZID=America/Montevideo:20250723T233000
+SUMMARY:Gremio🇧🇷 vs. Alianza Lima🇵🇪
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Grêmio Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250814T190000Z_AtleticoMineiro_GodoyCruz
+DTSTART;TZID=America/Montevideo:20250814T190000
+DTEND;TZID=America/Montevideo:20250814T210000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Godoy Cruz🇦🇷
+DESCRIPTION:Round of 16 - First leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250821T190000Z_GodoyCruz_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20250821T190000
+DTEND;TZID=America/Montevideo:20250821T210000
+SUMMARY:Godoy Cruz🇦🇷 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Feliciano Gambarte Stadium
+END:VEVENT
+END:VCALENDAR

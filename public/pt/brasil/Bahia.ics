@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//PT
+BEGIN:VEVENT
+UID:20250403T190000Z_Bahia_Internacional
+DTSTART;TZID=America/Montevideo:20250403T190000
+DTEND;TZID=America/Montevideo:20250403T210000
+SUMMARY:Bahia🇧🇷 vs. Internacional🇧🇷
+DESCRIPTION:Grupo F - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Casa de Apostas Arena Fonte Nova
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250409T190000Z_Nacional_Bahia
+DTSTART;TZID=America/Montevideo:20250409T190000
+DTEND;TZID=America/Montevideo:20250409T210000
+SUMMARY:Nacional🇺🇾 vs. Bahia🇧🇷
+DESCRIPTION:Grupo F - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Gran Parque Central
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250424T210000Z_Bahia_AtleticoNacional
+DTSTART;TZID=America/Montevideo:20250424T210000
+DTEND;TZID=America/Montevideo:20250424T230000
+SUMMARY:Bahia🇧🇷 vs. Atlético Nacional🇨🇴
+DESCRIPTION:Grupo F - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Casa de Apostas Arena Fonte Nova
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250507T190000Z_Bahia_Nacional
+DTSTART;TZID=America/Montevideo:20250507T190000
+DTEND;TZID=America/Montevideo:20250507T210000
+SUMMARY:Bahia🇧🇷 vs. Nacional🇺🇾
+DESCRIPTION:Grupo F - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Casa de Apostas Arena Fonte Nova
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250514T190000Z_AtleticoNacional_Bahia
+DTSTART;TZID=America/Montevideo:20250514T190000
+DTEND;TZID=America/Montevideo:20250514T210000
+SUMMARY:Atlético Nacional🇨🇴 vs. Bahia🇧🇷
+DESCRIPTION:Grupo F - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Atanasio Girardot
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250528T190000Z_Internacional_Bahia
+DTSTART;TZID=America/Montevideo:20250528T190000
+DTEND;TZID=America/Montevideo:20250528T210000
+SUMMARY:Internacional🇧🇷 vs. Bahia🇧🇷
+DESCRIPTION:Grupo F - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Beira-Rio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250715T213000Z_Bahia_AmericaDeCali
+DTSTART;TZID=America/Montevideo:20250715T213000
+DTEND;TZID=America/Montevideo:20250715T233000
+SUMMARY:Bahia🇧🇷 vs. América de Cali🇨🇴
+DESCRIPTION:Play-offs - Ida - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Casa de Apostas Arena Fonte Nova
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250722T213000Z_AmericaDeCali_Bahia
+DTSTART;TZID=America/Montevideo:20250722T213000
+DTEND;TZID=America/Montevideo:20250722T233000
+SUMMARY:América de Cali🇨🇴 vs. Bahia🇧🇷
+DESCRIPTION:Play-offs - Volta - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Pascual Guerrero
+END:VEVENT
+END:VCALENDAR

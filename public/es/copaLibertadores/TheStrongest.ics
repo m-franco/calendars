@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//ES
+BEGIN:VEVENT
+UID:20240402T230000Z_TheStrongest_Gremio
+DTSTART;TZID=America/Montevideo:20240402T230000
+DTEND;TZID=America/Montevideo:20240403T010000
+SUMMARY:The Strongest🇧🇴 vs. Gremio🇧🇷
+DESCRIPTION:Grupo C - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Hernando Siles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T190000Z_Estudiantes_TheStrongest
+DTSTART;TZID=America/Montevideo:20240409T190000
+DTEND;TZID=America/Montevideo:20240409T210000
+SUMMARY:Estudiantes🇦🇷 vs. The Strongest🇧🇴
+DESCRIPTION:Grupo C - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio UNO Jorge Luis Hirschi
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240424T190000Z_Huachipato_TheStrongest
+DTSTART;TZID=America/Montevideo:20240424T190000
+DTEND;TZID=America/Montevideo:20240424T210000
+SUMMARY:Huachipato🇨🇱 vs. The Strongest🇧🇴
+DESCRIPTION:Grupo C - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Huachipato
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240509T210000Z_TheStrongest_Estudiantes
+DTSTART;TZID=America/Montevideo:20240509T210000
+DTEND;TZID=America/Montevideo:20240509T230000
+SUMMARY:The Strongest🇧🇴 vs. Estudiantes🇦🇷
+DESCRIPTION:Grupo C - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Hernando Siles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T190000Z_TheStrongest_Huachipato
+DTSTART;TZID=America/Montevideo:20240515T190000
+DTEND;TZID=America/Montevideo:20240515T210000
+SUMMARY:The Strongest🇧🇴 vs. Huachipato🇨🇱
+DESCRIPTION:Grupo C - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Hernando Siles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240529T190000Z_Gremio_TheStrongest
+DTSTART;TZID=America/Montevideo:20240529T190000
+DTEND;TZID=America/Montevideo:20240529T210000
+SUMMARY:Gremio🇧🇷 vs. The Strongest🇧🇴
+DESCRIPTION:Grupo C - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Arena Do Gremio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240814T190000Z_Penarol_TheStrongest
+DTSTART;TZID=America/Montevideo:20240814T190000
+DTEND;TZID=America/Montevideo:20240814T210000
+SUMMARY:Peñarol🇺🇾 vs. The Strongest🇧🇴
+DESCRIPTION:Octavos de final - Ida - Copa Libertadores
+LOCATION:Estadio Campeón del Siglo
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240821T190000Z_TheStrongest_Penarol
+DTSTART;TZID=America/Montevideo:20240821T190000
+DTEND;TZID=America/Montevideo:20240821T210000
+SUMMARY:The Strongest🇧🇴 vs. Peñarol🇺🇾
+DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
+LOCATION:Estadio Hernando Siles
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

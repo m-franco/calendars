@@ -1,0 +1,203 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//PT
+BEGIN:VEVENT
+UID:20240402T190000Z_Universitario_LigaQuito
+DTSTART;TZID=America/Montevideo:20240402T190000
+DTEND;TZID=America/Montevideo:20240402T210000
+SUMMARY:Universitario🇵🇪 vs. Liga de Quito🇪🇨
+DESCRIPTION:Grupo D - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Monumental U Marathon
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T230000Z_Junior_Universitario
+DTSTART;TZID=America/Montevideo:20240409T230000
+DTEND;TZID=America/Montevideo:20240410T010000
+SUMMARY:Junior🇨🇴 vs. Universitario🇵🇪
+DESCRIPTION:Grupo D - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Metropolitano Roberto Meléndez
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240424T190000Z_Botafogo_Universitario
+DTSTART;TZID=America/Montevideo:20240424T190000
+DTEND;TZID=America/Montevideo:20240424T210000
+SUMMARY:Botafogo🇧🇷 vs. Universitario🇵🇪
+DESCRIPTION:Grupo D - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico Nilton Santos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T230000Z_Universitario_Junior
+DTSTART;TZID=America/Montevideo:20240507T230000
+DTEND;TZID=America/Montevideo:20240508T010000
+SUMMARY:Universitario🇵🇪 vs. Junior🇨🇴
+DESCRIPTION:Grupo D - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Monumental U Marathon
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240516T230000Z_Universitario_Botafogo
+DTSTART;TZID=America/Montevideo:20240516T230000
+DTEND;TZID=America/Montevideo:20240517T010000
+SUMMARY:Universitario🇵🇪 vs. Botafogo🇧🇷
+DESCRIPTION:Grupo D - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Monumental U Marathon
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240528T190000Z_LigaQuito_Universitario
+DTSTART;TZID=America/Montevideo:20240528T190000
+DTEND;TZID=America/Montevideo:20240528T210000
+SUMMARY:Liga de Quito🇪🇨 vs. Universitario🇵🇪
+DESCRIPTION:Grupo D - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250402T213000Z_Universitario_River
+DTSTART;TZID=America/Montevideo:20250402T213000
+DTEND;TZID=America/Montevideo:20250402T233000
+SUMMARY:Universitario🇵🇪 vs. River🇦🇷
+DESCRIPTION:Grupo B - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Monumental de Lima
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250408T230000Z_IndependienteDelValle_Universitario
+DTSTART;TZID=America/Montevideo:20250408T230000
+DTEND;TZID=America/Montevideo:20250409T010000
+SUMMARY:Independiente del Valle🇪🇨 vs. Universitario🇵🇪
+DESCRIPTION:Grupo B - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Banco Guayaquil
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250422T230000Z_Barcelona_Universitario
+DTSTART;TZID=America/Montevideo:20250422T230000
+DTEND;TZID=America/Montevideo:20250423T010000
+SUMMARY:Barcelona🇪🇨 vs. Universitario🇵🇪
+DESCRIPTION:Grupo B - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Banco Pichincha
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250508T230000Z_Universitario_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20250508T230000
+DTEND;TZID=America/Montevideo:20250509T010000
+SUMMARY:Universitario🇵🇪 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Grupo B - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Monumental de Lima
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250514T230000Z_Universitario_Barcelona
+DTSTART;TZID=America/Montevideo:20250514T230000
+DTEND;TZID=America/Montevideo:20250515T010000
+SUMMARY:Universitario🇵🇪 vs. Barcelona🇪🇨
+DESCRIPTION:Grupo B - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Monumental de Lima
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250527T213000Z_River_Universitario
+DTSTART;TZID=America/Montevideo:20250527T213000
+DTEND;TZID=America/Montevideo:20250527T233000
+SUMMARY:River🇦🇷 vs. Universitario🇵🇪
+DESCRIPTION:Grupo B - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Más Monumental
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250814T213000Z_Universitario_Palmeiras
+DTSTART;TZID=America/Montevideo:20250814T213000
+DTEND;TZID=America/Montevideo:20250814T233000
+SUMMARY:Universitario🇵🇪 vs. Palmeiras🇧🇷
+DESCRIPTION:Oitavas de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Monumental de Lima
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250821T213000Z_Palmeiras_Universitario
+DTSTART;TZID=America/Montevideo:20250821T213000
+DTEND;TZID=America/Montevideo:20250821T233000
+SUMMARY:Palmeiras🇧🇷 vs. Universitario🇵🇪
+DESCRIPTION:Oitavas de final - Volta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260407T230000Z_DeportesTolima_Universitario
+DTSTART;TZID=America/Montevideo:20260407T230000
+DTEND;TZID=America/Montevideo:20260408T010000
+SUMMARY:Deportes Tolima🇨🇴 vs. Universitario🇵🇪
+DESCRIPTION:Grupo B - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Manuel Murillo Toro
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260414T230000Z_Universitario_CoquimboUnido
+DTSTART;TZID=America/Montevideo:20260414T230000
+DTEND;TZID=America/Montevideo:20260415T010000
+SUMMARY:Universitario🇵🇪 vs. Coquimbo Unido🇨🇱
+DESCRIPTION:Grupo B - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Monumental de Lima
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260429T230000Z_Universitario_Nacional
+DTSTART;TZID=America/Montevideo:20260429T230000
+DTEND;TZID=America/Montevideo:20260430T010000
+SUMMARY:Universitario🇵🇪 vs. Nacional🇺🇾
+DESCRIPTION:Grupo B - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Monumental de Lima
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260507T210000Z_CoquimboUnido_Universitario
+DTSTART;TZID=America/Montevideo:20260507T210000
+DTEND;TZID=America/Montevideo:20260507T230000
+SUMMARY:Coquimbo Unido🇨🇱 vs. Universitario🇵🇪
+DESCRIPTION:Grupo B - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Francisco Sánchez Rumoroso
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260520T190000Z_Nacional_Universitario
+DTSTART;TZID=America/Montevideo:20260520T190000
+DTEND;TZID=America/Montevideo:20260520T210000
+SUMMARY:Nacional🇺🇾 vs. Universitario🇵🇪
+DESCRIPTION:Grupo B - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Gran Parque Central
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260526T213000Z_Universitario_DeportesTolima
+DTSTART;TZID=America/Montevideo:20260526T213000
+DTEND;TZID=America/Montevideo:20260526T233000
+SUMMARY:Universitario🇵🇪 vs. Deportes Tolima🇨🇴
+DESCRIPTION:Grupo B - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Monumental de Lima
+END:VEVENT
+END:VCALENDAR

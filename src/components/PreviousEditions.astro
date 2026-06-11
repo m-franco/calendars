@@ -7,18 +7,22 @@ interface Edition {
     backgroundImage: string;
 }
 
+import { t, langSegment, localizeUrlPath, type Lang } from "../i18n/ui";
+
 interface Props {
     editions: Edition[];
+    lang?: Lang;
 }
 
 const basePath = `${import.meta.env.BASE_URL.replace(/\/$/, "")}/`;
-const { editions } = Astro.props;
+const { editions, lang = "es" } = Astro.props;
+const d = t(lang);
 ---
 
 {editions.length > 0 && (
     <section class="mt-12">
         <h2 class="text-2xl sm:text-3xl font-bold text-center mb-4">
-            Ediciones anteriores
+            {d.previousEditions}
         </h2>
         <ul role="list" class="flex flex-wrap justify-center gap-4">
             {editions.map(({ year, title, href, imgSrc, backgroundImage }) => (
@@ -27,7 +31,7 @@ const { editions } = Astro.props;
                     style={{ backgroundImage: `url(${basePath}${backgroundImage})` }}
                 >
                     <a
-                        href={`${basePath}${href}`}
+                        href={`${basePath}${langSegment(lang)}${localizeUrlPath(href, lang)}`}
                         class="relative flex h-full w-full flex-col items-center justify-center overflow-hidden rounded-[7px]"
                         aria-label={`${title} ${year}`}
                     >
@@ -39,7 +43,7 @@ const { editions } = Astro.props;
                         />
                         <div class="relative z-10 mt-5 rounded-full border border-cyan-200/30 bg-cyan-950/80 px-5 py-2 text-center shadow-lg">
                             <span class="block text-xs uppercase tracking-[0.25em] text-cyan-100/80">
-                                Edición
+                                {d.edition}
                             </span>
                             <span class="block text-3xl font-bold leading-none text-white">
                                 {year}

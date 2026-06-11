@@ -1,0 +1,183 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//PT
+BEGIN:VEVENT
+UID:20260409T210000Z_Platense_Corinthians
+DTSTART;TZID=America/Montevideo:20260409T210000
+DTEND;TZID=America/Montevideo:20260409T230000
+SUMMARY:Platense🇦🇷 vs. Corinthians🇧🇷
+DESCRIPTION:Grupo E - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Ciudad de Vicente López
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260409T230000Z_SantaFe_Penarol
+DTSTART;TZID=America/Montevideo:20260409T230000
+DTEND;TZID=America/Montevideo:20260410T010000
+SUMMARY:Santa Fe🇨🇴 vs. Peñarol🇺🇾
+DESCRIPTION:Grupo E - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Nemesio Camacho El Campín
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260415T213000Z_Corinthians_SantaFe
+DTSTART;TZID=America/Montevideo:20260415T213000
+DTEND;TZID=America/Montevideo:20260415T233000
+SUMMARY:Corinthians🇧🇷 vs. Santa Fe🇨🇴
+DESCRIPTION:Grupo E - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260416T213000Z_Penarol_Platense
+DTSTART;TZID=America/Montevideo:20260416T213000
+DTEND;TZID=America/Montevideo:20260416T233000
+SUMMARY:Peñarol🇺🇾 vs. Platense🇦🇷
+DESCRIPTION:Grupo E - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260429T190000Z_Platense_SantaFe
+DTSTART;TZID=America/Montevideo:20260429T190000
+DTEND;TZID=America/Montevideo:20260429T210000
+SUMMARY:Platense🇦🇷 vs. Santa Fe🇨🇴
+DESCRIPTION:Grupo E - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Ciudad de Vicente López
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260430T210000Z_Corinthians_Penarol
+DTSTART;TZID=America/Montevideo:20260430T210000
+DTEND;TZID=America/Montevideo:20260430T230000
+SUMMARY:Corinthians🇧🇷 vs. Peñarol🇺🇾
+DESCRIPTION:Grupo E - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260506T213000Z_SantaFe_Corinthians
+DTSTART;TZID=America/Montevideo:20260506T213000
+DTEND;TZID=America/Montevideo:20260506T233000
+SUMMARY:Santa Fe🇨🇴 vs. Corinthians🇧🇷
+DESCRIPTION:Grupo E - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Nemesio Camacho El Campín
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260507T190000Z_Platense_Penarol
+DTSTART;TZID=America/Montevideo:20260507T190000
+DTEND;TZID=America/Montevideo:20260507T210000
+SUMMARY:Platense🇦🇷 vs. Peñarol🇺🇾
+DESCRIPTION:Grupo E - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Ciudad de Vicente López
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260519T210000Z_SantaFe_Platense
+DTSTART;TZID=America/Montevideo:20260519T210000
+DTEND;TZID=America/Montevideo:20260519T230000
+SUMMARY:Santa Fe🇨🇴 vs. Platense🇦🇷
+DESCRIPTION:Grupo E - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Nemesio Camacho El Campín
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260521T213000Z_Penarol_Corinthians
+DTSTART;TZID=America/Montevideo:20260521T213000
+DTEND;TZID=America/Montevideo:20260521T233000
+SUMMARY:Peñarol🇺🇾 vs. Corinthians🇧🇷
+DESCRIPTION:Grupo E - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260527T213000Z_Corinthians_Platense
+DTSTART;TZID=America/Montevideo:20260527T213000
+DTEND;TZID=America/Montevideo:20260527T233000
+SUMMARY:Corinthians🇧🇷 vs. Platense🇦🇷
+DESCRIPTION:Grupo E - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260527T213000Z_Penarol_SantaFe
+DTSTART;TZID=America/Montevideo:20260527T213000
+DTEND;TZID=America/Montevideo:20260527T233000
+SUMMARY:Peñarol🇺🇾 vs. Santa Fe🇨🇴
+DESCRIPTION:Grupo E - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260723T213000Z_SantaFe_Caracas
+DTSTART;TZID=America/Montevideo:20260723T213000
+DTEND;TZID=America/Montevideo:20260723T233000
+SUMMARY:Santa Fe🇨🇴 vs. Caracas🇻🇪
+DESCRIPTION:Play-offs - Ida - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Nemesio Camacho El Campín
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260730T213000Z_Caracas_SantaFe
+DTSTART;TZID=America/Montevideo:20260730T213000
+DTEND;TZID=America/Montevideo:20260730T233000
+SUMMARY:Caracas🇻🇪 vs. Santa Fe🇨🇴
+DESCRIPTION:Play-offs - Volta - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico de la UCV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260812T190000Z_Platense_CoquimboUnido
+DTSTART;TZID=America/Montevideo:20260812T190000
+DTEND;TZID=America/Montevideo:20260812T210000
+SUMMARY:Platense🇦🇷 vs. Coquimbo Unido🇨🇱
+DESCRIPTION:Oitavas de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Ciudad de Vicente López
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260813T213000Z_RosarioCentral_Corinthians
+DTSTART;TZID=America/Montevideo:20260813T213000
+DTEND;TZID=America/Montevideo:20260813T233000
+SUMMARY:Rosario Central🇦🇷 vs. Corinthians🇧🇷
+DESCRIPTION:Oitavas de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Gigante de Arroyito
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260819T190000Z_CoquimboUnido_Platense
+DTSTART;TZID=America/Montevideo:20260819T190000
+DTEND;TZID=America/Montevideo:20260819T210000
+SUMMARY:Coquimbo Unido🇨🇱 vs. Platense🇦🇷
+DESCRIPTION:Oitavas de final - Volta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio a definir
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260820T213000Z_Corinthians_RosarioCentral
+DTSTART;TZID=America/Montevideo:20260820T213000
+DTEND;TZID=America/Montevideo:20260820T233000
+SUMMARY:Corinthians🇧🇷 vs. Rosario Central🇦🇷
+DESCRIPTION:Oitavas de final - Volta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
+END:VCALENDAR

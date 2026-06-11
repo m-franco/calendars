@@ -1,0 +1,123 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//PT
+BEGIN:VEVENT
+UID:20240402T230000Z_UCV_Defensa_y_Justicia
+DTSTART;TZID=America/Montevideo:20240402T230000
+DTEND;TZID=America/Montevideo:20240403T010000
+SUMMARY:Universidad César Vallejo🇵🇪 vs. Defensa y Justicia🇦🇷
+DESCRIPTION:Grupo A - Rodada 1 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Mansiche
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T190000Z_Defensa_y_Justicia_Always_Ready
+DTSTART;TZID=America/Montevideo:20240410T190000
+DTEND;TZID=America/Montevideo:20240410T210000
+SUMMARY:Defensa y Justicia🇦🇷 vs. Always Ready🇧🇴
+DESCRIPTION:Grupo A - Rodada 2 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Norberto Tomaghello
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T230000Z_Independiente_Medellin_Defensa_y_Justicia
+DTSTART;TZID=America/Montevideo:20240425T230000
+DTEND;TZID=America/Montevideo:20240426T010000
+SUMMARY:Independiente de Medellín🇨🇴 vs. Defensa y Justicia🇦🇷
+DESCRIPTION:Grupo A - Rodada 3 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Atanasio Girardot
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T230000Z_Always_Ready_Defensa_y_Justicia
+DTSTART;TZID=America/Montevideo:20240507T230000
+DTEND;TZID=America/Montevideo:20240508T010000
+SUMMARY:Always Ready🇧🇴 vs. Defensa y Justicia🇦🇷
+DESCRIPTION:Grupo A - Rodada 4 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Municipal Villa Ingenio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240514T210000Z_Defensa_y_Justicia_Independiente_Medellin
+DTSTART;TZID=America/Montevideo:20240514T210000
+DTEND;TZID=America/Montevideo:20240514T230000
+SUMMARY:Defensa y Justicia🇦🇷 vs. Independiente de Medellín🇨🇴
+DESCRIPTION:Grupo A - Rodada 5 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Norberto Tomaghello
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240529T210000Z_Defensa_y_Justicia_UCV
+DTSTART;TZID=America/Montevideo:20240529T210000
+DTEND;TZID=America/Montevideo:20240529T230000
+SUMMARY:Defensa y Justicia🇦🇷 vs. Universidad César Vallejo🇵🇪
+DESCRIPTION:Grupo A - Rodada 6 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Norberto Tomaghello
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250403T213000Z_CerroLargo_DefensaYJusticia
+DTSTART;TZID=America/Montevideo:20250403T213000
+DTEND;TZID=America/Montevideo:20250403T233000
+SUMMARY:Cerro Largo🇺🇾 vs. Defensa Y Justicia🇦🇷
+DESCRIPTION:Grupo B - Rodada 1 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250410T190000Z_DefensaYJusticia_Vitoria
+DTSTART;TZID=America/Montevideo:20250410T190000
+DTEND;TZID=America/Montevideo:20250410T210000
+SUMMARY:Defensa Y Justicia🇦🇷 vs. Vitória🇧🇷
+DESCRIPTION:Grupo B - Rodada 2 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Norberto Tomaghello
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250424T230000Z_UniversidadCatolica_DefensaYJusticia
+DTSTART;TZID=America/Montevideo:20250424T230000
+DTEND;TZID=America/Montevideo:20250425T010000
+SUMMARY:Universidad Católica🇪🇨 vs. Defensa Y Justicia🇦🇷
+DESCRIPTION:Grupo B - Rodada 3 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico Atahualpa
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250506T190000Z_Vitoria_DefensaYJusticia
+DTSTART;TZID=America/Montevideo:20250506T190000
+DTEND;TZID=America/Montevideo:20250506T210000
+SUMMARY:Vitória🇧🇷 vs. Defensa Y Justicia🇦🇷
+DESCRIPTION:Grupo B - Rodada 4 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Manoel Barradas
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250514T190000Z_DefensaYJusticia_UniversidadCatolica
+DTSTART;TZID=America/Montevideo:20250514T190000
+DTEND;TZID=America/Montevideo:20250514T210000
+SUMMARY:Defensa Y Justicia🇦🇷 vs. Universidad Católica🇪🇨
+DESCRIPTION:Grupo B - Rodada 5 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Norberto Tomaghello
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250528T213000Z_DefensaYJusticia_CerroLargo
+DTSTART;TZID=America/Montevideo:20250528T213000
+DTEND;TZID=America/Montevideo:20250528T233000
+SUMMARY:Defensa Y Justicia🇦🇷 vs. Cerro Largo🇺🇾
+DESCRIPTION:Grupo B - Rodada 6 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Norberto Tomaghello
+END:VEVENT
+END:VCALENDAR

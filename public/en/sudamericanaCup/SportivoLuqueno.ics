@@ -1,0 +1,123 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//EN
+BEGIN:VEVENT
+UID:20240404T210000Z_Sportivo_Luqueno_Racing_Arg
+DTSTART;TZID=America/Montevideo:20240404T210000
+DTEND;TZID=America/Montevideo:20240404T230000
+SUMMARY:Sportivo Luqueño🇵🇾 vs. Racing(Arg)🇦🇷
+DESCRIPTION:Group H - Matchday 1 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Defensores del Chaco Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240411T210000Z_Coquimbo_Unido_Sportivo_Luqueno
+DTSTART;TZID=America/Montevideo:20240411T210000
+DTEND;TZID=America/Montevideo:20240411T230000
+SUMMARY:Coquimbo Unido🇨🇱 vs. Sportivo Luqueño🇵🇾
+DESCRIPTION:Group H - Matchday 2 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Francisco Sánchez Rumoroso Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240424T210000Z_Red_Bull_Bragantino_Sportivo_Luqueno
+DTSTART;TZID=America/Montevideo:20240424T210000
+DTEND;TZID=America/Montevideo:20240424T230000
+SUMMARY:Red Bull Bragantino🇧🇷 vs. Sportivo Luqueño🇵🇾
+DESCRIPTION:Group H - Matchday 3 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Nabi Abi Chedid Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240508T190000Z_Sportivo_Luqueno_Coquimbo_Unido
+DTSTART;TZID=America/Montevideo:20240508T190000
+DTEND;TZID=America/Montevideo:20240508T210000
+SUMMARY:Sportivo Luqueño🇵🇾 vs. Coquimbo Unido🇨🇱
+DESCRIPTION:Group H - Matchday 4 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Defensores del Chaco Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240522T190000Z_Racing_Arg_Sportivo_Luqueno
+DTSTART;TZID=America/Montevideo:20240522T190000
+DTEND;TZID=America/Montevideo:20240522T210000
+SUMMARY:Racing(Arg)🇦🇷 vs. Sportivo Luqueño🇵🇾
+DESCRIPTION:Group H - Matchday 5 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Presidente Perón Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240605T190000Z_Sportivo_Luqueno_Red_Bull_Bragantino
+DTSTART;TZID=America/Montevideo:20240605T190000
+DTEND;TZID=America/Montevideo:20240605T210000
+SUMMARY:Sportivo Luqueño🇵🇾 vs. Red Bull Bragantino🇧🇷
+DESCRIPTION:Group H - Matchday 6 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Defensores del Chaco Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250402T213000Z_SportivoLuqueno_Gremio
+DTSTART;TZID=America/Montevideo:20250402T213000
+DTEND;TZID=America/Montevideo:20250402T233000
+SUMMARY:Sportivo Luqueño🇵🇾 vs. Gremio🇧🇷
+DESCRIPTION:Group D - Matchday 1 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:ueno Defensores del Chaco Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250408T213000Z_GodoyCruz_SportivoLuqueno
+DTSTART;TZID=America/Montevideo:20250408T213000
+DTEND;TZID=America/Montevideo:20250408T233000
+SUMMARY:Godoy Cruz🇦🇷 vs. Sportivo Luqueño🇵🇾
+DESCRIPTION:Group D - Matchday 2 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Malvinas Argentinas (Mendoza)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250423T230000Z_AtleticoGrau_SportivoLuqueno
+DTSTART;TZID=America/Montevideo:20250423T230000
+DTEND;TZID=America/Montevideo:20250424T010000
+SUMMARY:Atlético Grau🇵🇪 vs. Sportivo Luqueño🇵🇾
+DESCRIPTION:Group D - Matchday 3 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Monumental de Lima Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250506T190000Z_SportivoLuqueno_GodoyCruz
+DTSTART;TZID=America/Montevideo:20250506T190000
+DTEND;TZID=America/Montevideo:20250506T210000
+SUMMARY:Sportivo Luqueño🇵🇾 vs. Godoy Cruz🇦🇷
+DESCRIPTION:Group D - Matchday 4 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Tigo La Huerta Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250514T190000Z_SportivoLuqueno_AtleticoGrau
+DTSTART;TZID=America/Montevideo:20250514T190000
+DTEND;TZID=America/Montevideo:20250514T210000
+SUMMARY:Sportivo Luqueño🇵🇾 vs. Atlético Grau🇵🇪
+DESCRIPTION:Group D - Matchday 5 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:ueno Defensores del Chaco Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250529T190000Z_Gremio_SportivoLuqueno
+DTSTART;TZID=America/Montevideo:20250529T190000
+DTEND;TZID=America/Montevideo:20250529T210000
+SUMMARY:Gremio🇧🇷 vs. Sportivo Luqueño🇵🇾
+DESCRIPTION:Group D - Matchday 6 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Grêmio Arena
+END:VEVENT
+END:VCALENDAR

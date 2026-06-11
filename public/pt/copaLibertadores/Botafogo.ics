@@ -1,0 +1,273 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//PT
+BEGIN:VEVENT
+UID:20240403T230000Z_Botafogo_Junior
+DTSTART;TZID=America/Montevideo:20240403T230000
+DTEND;TZID=America/Montevideo:20240404T010000
+SUMMARY:Botafogo🇧🇷 vs. Junior🇨🇴
+DESCRIPTION:Grupo D - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico Nilton Santos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240411T190000Z_LigaQuito_Botafogo
+DTSTART;TZID=America/Montevideo:20240411T190000
+DTEND;TZID=America/Montevideo:20240411T210000
+SUMMARY:Liga de Quito🇪🇨 vs. Botafogo🇧🇷
+DESCRIPTION:Grupo D - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240424T190000Z_Botafogo_Universitario
+DTSTART;TZID=America/Montevideo:20240424T190000
+DTEND;TZID=America/Montevideo:20240424T210000
+SUMMARY:Botafogo🇧🇷 vs. Universitario🇵🇪
+DESCRIPTION:Grupo D - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico Nilton Santos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240508T213000Z_Botafogo_LigaQuito
+DTSTART;TZID=America/Montevideo:20240508T213000
+DTEND;TZID=America/Montevideo:20240508T233000
+SUMMARY:Botafogo🇧🇷 vs. Liga de Quito🇪🇨
+DESCRIPTION:Grupo D - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico Nilton Santos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240516T230000Z_Universitario_Botafogo
+DTSTART;TZID=America/Montevideo:20240516T230000
+DTEND;TZID=America/Montevideo:20240517T010000
+SUMMARY:Universitario🇵🇪 vs. Botafogo🇧🇷
+DESCRIPTION:Grupo D - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Monumental U Marathon
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240528T190000Z_Junior_Botafogo
+DTSTART;TZID=America/Montevideo:20240528T190000
+DTEND;TZID=America/Montevideo:20240528T210000
+SUMMARY:Junior🇨🇴 vs. Botafogo🇧🇷
+DESCRIPTION:Grupo D - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Metropolitano Roberto Meléndez
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240814T213000Z_Botafogo_Palmeiras
+DTSTART;TZID=America/Montevideo:20240814T213000
+DTEND;TZID=America/Montevideo:20240814T233000
+SUMMARY:Botafogo🇧🇷 vs. Palmeiras🇧🇷
+DESCRIPTION:Oitavas de final - Ida - Copa Libertadores
+LOCATION:Estádio Olímpico Nilton Santos
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240821T213000Z_Palmeiras_Botafogo
+DTSTART;TZID=America/Montevideo:20240821T213000
+DTEND;TZID=America/Montevideo:20240821T233000
+SUMMARY:Palmeiras🇧🇷 vs. Botafogo🇧🇷
+DESCRIPTION:Oitavas de final - Volta - Copa Libertadores
+LOCATION:Estádio Allianz Parque
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240918T213000Z_Botafogo_SaoPaulo
+DTSTART;TZID=America/Montevideo:20240918T213000
+DTEND;TZID=America/Montevideo:20240918T233000
+SUMMARY:Botafogo🇧🇷 vs. San Pablo🇧🇷
+DESCRIPTION:Quartas de final - Ida - Copa Libertadores
+LOCATION:Estádio Nilton Santos, Río de Janeiro
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240925T213000Z_SaoPaulo_Botafogo
+DTSTART;TZID=America/Montevideo:20240925T213000
+DTEND;TZID=America/Montevideo:20240925T233000
+SUMMARY:San Pablo🇧🇷 vs. Botafogo🇧🇷
+DESCRIPTION:Quartas de final - Volta - Copa Libertadores
+LOCATION:Estádio Morumbí, San Pablo
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20241023T213000Z_Botafogo_Penarol
+DTSTART;TZID=America/Montevideo:20241023T213000
+DTEND;TZID=America/Montevideo:20241023T233000
+SUMMARY:Botafogo🇧🇷 vs. Peñarol🇺🇾
+DESCRIPTION:Semifinal - Ida - Copa Libertadores
+LOCATION:Estádio Olímpico Nilton Santos, Rio de Janeiro
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20241030T213000Z_Penarol_Botafogo
+DTSTART;TZID=America/Montevideo:20241030T213000
+DTEND;TZID=America/Montevideo:20241030T233000
+SUMMARY:Peñarol🇺🇾 vs. Botafogo🇧🇷
+DESCRIPTION:Semifinal - Volta - Copa Libertadores
+LOCATION:Estádio Centenario, Montevideo
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20241130T170000Z_AtleticoMineiro_Botafogo
+DTSTART;TZID=America/Montevideo:20241130T170000
+DTEND;TZID=America/Montevideo:20241130T190000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Botafogo🇧🇷
+DESCRIPTION:Final - Copa Libertadores
+LOCATION:Estádio Monumental, Buenos Aires
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250402T213000Z_UniversidadDeChile_Botafogo
+DTSTART;TZID=America/Montevideo:20250402T213000
+DTEND;TZID=America/Montevideo:20250402T233000
+SUMMARY:Universidad de Chile🇨🇱 vs. Botafogo🇧🇷
+DESCRIPTION:Grupo A - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Nacional Julio Martínez Prádanos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250408T190000Z_Botafogo_Carabobo
+DTSTART;TZID=America/Montevideo:20250408T190000
+DTEND;TZID=America/Montevideo:20250408T210000
+SUMMARY:Botafogo🇧🇷 vs. Carabobo🇻🇪
+DESCRIPTION:Grupo A - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico Nilton Santos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250423T213000Z_Estudiantes_Botafogo
+DTSTART;TZID=America/Montevideo:20250423T213000
+DTEND;TZID=America/Montevideo:20250423T233000
+SUMMARY:Estudiantes🇦🇷 vs. Botafogo🇧🇷
+DESCRIPTION:Grupo A - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Jorge Luis Hirschi
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250506T190000Z_Carabobo_Botafogo
+DTSTART;TZID=America/Montevideo:20250506T190000
+DTEND;TZID=America/Montevideo:20250506T210000
+SUMMARY:Carabobo🇻🇪 vs. Botafogo🇧🇷
+DESCRIPTION:Grupo A - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Misael Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250514T213000Z_Botafogo_Estudiantes
+DTSTART;TZID=America/Montevideo:20250514T213000
+DTEND;TZID=America/Montevideo:20250514T233000
+SUMMARY:Botafogo🇧🇷 vs. Estudiantes🇦🇷
+DESCRIPTION:Grupo A - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico Nilton Santos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250527T213000Z_Botafogo_UniversidadDeChile
+DTSTART;TZID=America/Montevideo:20250527T213000
+DTEND;TZID=America/Montevideo:20250527T233000
+SUMMARY:Botafogo🇧🇷 vs. Universidad de Chile🇨🇱
+DESCRIPTION:Grupo A - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico Nilton Santos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250814T190000Z_Botafogo_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20250814T190000
+DTEND;TZID=America/Montevideo:20250814T210000
+SUMMARY:Botafogo🇧🇷 vs. Liga de Quito🇪🇨
+DESCRIPTION:Oitavas de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico Nilton Santos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250821T190000Z_LigaDeQuito_Botafogo
+DTSTART;TZID=America/Montevideo:20250821T190000
+DTEND;TZID=America/Montevideo:20250821T210000
+SUMMARY:Liga de Quito🇪🇨 vs. Botafogo🇧🇷
+DESCRIPTION:Oitavas de final - Volta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260409T190000Z_Botafogo_Caracas
+DTSTART;TZID=America/Montevideo:20260409T190000
+DTEND;TZID=America/Montevideo:20260409T210000
+SUMMARY:Botafogo🇧🇷 vs. Caracas🇻🇪
+DESCRIPTION:Grupo E - Rodada 1 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Joao Havelange Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260415T190000Z_Racing_Botafogo
+DTSTART;TZID=America/Montevideo:20260415T190000
+DTEND;TZID=America/Montevideo:20260415T210000
+SUMMARY:Racing🇦🇷 vs. Botafogo🇧🇷
+DESCRIPTION:Grupo E - Rodada 2 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Presidente Perón (Cilindro de Avellaneda)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260428T190000Z_Botafogo_IndependientePetrolero
+DTSTART;TZID=America/Montevideo:20260428T190000
+DTEND;TZID=America/Montevideo:20260428T210000
+SUMMARY:Botafogo🇧🇷 vs. Independiente Petrolero🇧🇴
+DESCRIPTION:Grupo E - Rodada 3 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Joao Havelange Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260506T213000Z_Botafogo_Racing
+DTSTART;TZID=America/Montevideo:20260506T213000
+DTEND;TZID=America/Montevideo:20260506T233000
+SUMMARY:Botafogo🇧🇷 vs. Racing🇦🇷
+DESCRIPTION:Grupo E - Rodada 4 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Joao Havelange Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260520T210000Z_IndependientePetrolero_Botafogo
+DTSTART;TZID=America/Montevideo:20260520T210000
+DTEND;TZID=America/Montevideo:20260520T230000
+SUMMARY:Independiente Petrolero🇧🇴 vs. Botafogo🇧🇷
+DESCRIPTION:Grupo E - Rodada 5 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Tigo La Huerta
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260527T190000Z_Caracas_Botafogo
+DTSTART;TZID=America/Montevideo:20260527T190000
+DTEND;TZID=America/Montevideo:20260527T210000
+SUMMARY:Caracas🇻🇪 vs. Botafogo🇧🇷
+DESCRIPTION:Grupo E - Rodada 6 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico de la UCV
+END:VEVENT
+END:VCALENDAR

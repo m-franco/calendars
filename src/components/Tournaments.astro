@@ -2,20 +2,27 @@
 import TournamentCard from "./TournamentCard.astro";
 import { tournaments } from "../data.json";
 import { tournaments as worldcupTournaments } from "../worldcup-data.json";
+import { tournamentTitle, type Lang } from "../i18n/ui";
+
+interface Props {
+    lang?: Lang;
+}
 
 const basePath = `${import.meta.env.BASE_URL.replace(/\/$/, "")}/`;
 const allTournaments = [...worldcupTournaments, ...tournaments];
+const { lang = "es" } = Astro.props;
 
 ---
 <ul role="list" class="flex flex-wrap justify-center gap-4">
     {
-        allTournaments.map(({href,title,imgSrc,backgroundImage}) => (
+        allTournaments.map(({href,imgSrc,backgroundImage}) => (
             <TournamentCard
                 href={href}
-                title={title}
+                title={tournamentTitle(href, lang)}
                 imagePath={basePath}
                 imgSrc={imgSrc}
                 backgroundImage={backgroundImage}
+                lang={lang}
             />
         ))
     }

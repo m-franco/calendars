@@ -1,0 +1,58 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import Tournaments from "../Tournaments.astro";
+import { t, type Lang } from "../../i18n/ui";
+
+interface Props {
+    lang: Lang;
+    alternates: Record<Lang, string>;
+}
+
+const { lang, alternates } = Astro.props;
+const d = t(lang);
+---
+
+<Layout
+    title={d.homeTitle}
+    description={d.homeMetaDescription}
+    image="img/cup1.jpg"
+    lang={lang}
+    alternates={alternates}
+>
+    <main>
+        <h1 class="text-4xl sm:text-5xl md:text-6xl lg:text-7xl text-center font-bold p-0.5 mb-4">
+            {d.homeHeadingA} <span class="text-gradient">{d.homeHeadingB}</span>
+        </h1>
+
+        <p class="instructions flex justify-center text-sm sm:text-base md:text-lg lg:text-xl">
+            {d.homeInstructions}
+        </p>
+        <Tournaments lang={lang} />
+    </main>
+</Layout>
+
+<style>
+    main {
+        margin: auto;
+        padding: 1rem;
+        width: 800px;
+        max-width: calc(100% - 2rem);
+        color: white;
+        font-size: 20px;
+        line-height: 1.6;
+    }
+    .text-gradient {
+        background-image: var(--accent-gradient);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-size: 400%;
+        background-position: 0%;
+    }
+    .instructions {
+        margin-bottom: 5rem;
+        border: 1px solid rgba(var(--accent-light), 25%);
+        background: linear-gradient(rgba(var(--accent-dark), 66%), rgba(var(--accent-dark), 33%));
+        padding: 1.5rem;
+        border-radius: 8px;
+    }
+</style>

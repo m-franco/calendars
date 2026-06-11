@@ -1,0 +1,203 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//ES
+BEGIN:VEVENT
+UID:20240402T190000Z_Millonarios_Flamengo
+DTSTART;TZID=America/Montevideo:20240402T190000
+DTEND;TZID=America/Montevideo:20240402T210000
+SUMMARY:Millonarios🇨🇴 vs. Flamengo🇧🇷
+DESCRIPTION:Grupo E - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Nemesio Camacho
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240404T210000Z_Palestino_Bolívar
+DTSTART;TZID=America/Montevideo:20240404T210000
+DTEND;TZID=America/Montevideo:20240404T230000
+SUMMARY:Palestino🇨🇱 vs. Bolívar🇧🇴
+DESCRIPTION:Grupo E - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio a definir
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T190000Z_Flamengo_Palestino
+DTSTART;TZID=America/Montevideo:20240409T190000
+DTEND;TZID=America/Montevideo:20240409T210000
+SUMMARY:Flamengo🇧🇷 vs. Palestino🇨🇱
+DESCRIPTION:Grupo E - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Maracaná
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240411T190000Z_Bolívar_Millonarios
+DTSTART;TZID=America/Montevideo:20240411T190000
+DTEND;TZID=America/Montevideo:20240411T210000
+SUMMARY:Bolívar🇧🇴 vs. Millonarios🇨🇴
+DESCRIPTION:Grupo E - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Hernando Siles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240424T213000Z_Bolívar_Flamengo
+DTSTART;TZID=America/Montevideo:20240424T213000
+DTEND;TZID=America/Montevideo:20240424T233000
+SUMMARY:Bolívar🇧🇴 vs. Flamengo🇧🇷
+DESCRIPTION:Grupo E - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Hernando Siles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T210000Z_Palestino_Millonarios
+DTSTART;TZID=America/Montevideo:20240425T210000
+DTEND;TZID=America/Montevideo:20240425T230000
+SUMMARY:Palestino🇨🇱 vs. Millonarios🇨🇴
+DESCRIPTION:Grupo E - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio a definir
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T210000Z_Palestino_Flamengo
+DTSTART;TZID=America/Montevideo:20240507T210000
+DTEND;TZID=America/Montevideo:20240507T230000
+SUMMARY:Palestino🇨🇱 vs. Flamengo🇧🇷
+DESCRIPTION:Grupo E - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio a definir
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240508T230000Z_Millonarios_Bolívar
+DTSTART;TZID=America/Montevideo:20240508T230000
+DTEND;TZID=America/Montevideo:20240509T010000
+SUMMARY:Millonarios🇨🇴 vs. Bolívar🇧🇴
+DESCRIPTION:Grupo E - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Nemesio Camacho
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240514T230000Z_Millonarios_Palestino
+DTSTART;TZID=America/Montevideo:20240514T230000
+DTEND;TZID=America/Montevideo:20240515T010000
+SUMMARY:Millonarios🇨🇴 vs. Palestino🇨🇱
+DESCRIPTION:Grupo E - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Nemesio Camacho
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T213000Z_Flamengo_Bolívar
+DTSTART;TZID=America/Montevideo:20240515T213000
+DTEND;TZID=America/Montevideo:20240515T233000
+SUMMARY:Flamengo🇧🇷 vs. Bolívar🇧🇴
+DESCRIPTION:Grupo E - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Maracaná
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240528T210000Z_Bolívar_Palestino
+DTSTART;TZID=America/Montevideo:20240528T210000
+DTEND;TZID=America/Montevideo:20240528T230000
+SUMMARY:Bolívar🇧🇴 vs. Palestino🇨🇱
+DESCRIPTION:Grupo E - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Hernando Siles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240528T210000Z_Flamengo_Millonarios
+DTSTART;TZID=America/Montevideo:20240528T210000
+DTEND;TZID=America/Montevideo:20240528T230000
+SUMMARY:Flamengo🇧🇷 vs. Millonarios🇨🇴
+DESCRIPTION:Grupo E - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Maracaná
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240718T190000Z_Palestino_Cuiaba
+DTSTART;TZID=America/Montevideo:20240718T190000
+DTEND;TZID=America/Montevideo:20240718T210000
+SUMMARY:Palestino🇨🇱 vs. Cuiabá🇧🇷
+DESCRIPTION:Play-offs - Ida - Copa Sudamericana
+LOCATION:Estadio Ester Roa, Concepción
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240725T190000Z_Cuiaba_Palestino
+DTSTART;TZID=America/Montevideo:20240725T190000
+DTEND;TZID=America/Montevideo:20240725T210000
+SUMMARY:Cuiabá🇧🇷 vs. Palestino🇨🇱
+DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana
+LOCATION:Arena Pantanal, Cuiabá
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240814T213000Z_Palestino_Independiente_Medellin
+DTSTART;TZID=America/Montevideo:20240814T213000
+DTEND;TZID=America/Montevideo:20240814T233000
+SUMMARY:Palestino🇨🇱 vs. Independiente de Medellín🇨🇴
+DESCRIPTION:Octavos de final - Ida - Copa Sudamericana
+LOCATION:Estadio Nacional Julio Martínez Prádanos, Santiago
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240815T213000Z_Flamengo_Bolivar
+DTSTART;TZID=America/Montevideo:20240815T213000
+DTEND;TZID=America/Montevideo:20240815T233000
+SUMMARY:Flamengo🇧🇷 vs. Bolívar🇧🇴
+DESCRIPTION:Octavos de final - Ida - Copa Libertadores
+LOCATION:Estadio Maracaná
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240821T213000Z_Independiente_Medellin_Palestino
+DTSTART;TZID=America/Montevideo:20240821T213000
+DTEND;TZID=America/Montevideo:20240821T233000
+SUMMARY:Independiente de Medellín🇨🇴 vs. Palestino🇨🇱
+DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana
+LOCATION:Estadio Hernán Ramírez Villegas, Pereira
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240822T213000Z_Bolivar_Flamengo
+DTSTART;TZID=America/Montevideo:20240822T213000
+DTEND;TZID=America/Montevideo:20240822T233000
+SUMMARY:Bolívar🇧🇴 vs. Flamengo🇧🇷
+DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
+LOCATION:Estadio Hernando Siles
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240919T190000Z_Flamengo_Penarol
+DTSTART;TZID=America/Montevideo:20240919T190000
+DTEND;TZID=America/Montevideo:20240919T210000
+SUMMARY:Flamengo🇧🇷 vs. Peñarol🇺🇾
+DESCRIPTION:Cuartos de final - Ida - Copa Libertadores
+LOCATION:Estadio Maracaná, Río de Janeiro
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240926T190000Z_Penarol_Flamengo
+DTSTART;TZID=America/Montevideo:20240926T190000
+DTEND;TZID=America/Montevideo:20240926T210000
+SUMMARY:Peñarol🇺🇾 vs. Flamengo🇧🇷
+DESCRIPTION:Cuartos de final - Vuelta - Copa Libertadores
+LOCATION:Estadio Campeón del Siglo, Montevideo
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

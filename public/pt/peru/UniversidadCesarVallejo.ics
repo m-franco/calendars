@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//PT
+BEGIN:VEVENT
+UID:20240402T230000Z_UCV_Defensa_y_Justicia
+DTSTART;TZID=America/Montevideo:20240402T230000
+DTEND;TZID=America/Montevideo:20240403T010000
+SUMMARY:Universidad César Vallejo🇵🇪 vs. Defensa y Justicia🇦🇷
+DESCRIPTION:Grupo A - Rodada 1 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Mansiche
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T230000Z_Independiente_Medellin_UCV
+DTSTART;TZID=America/Montevideo:20240410T230000
+DTEND;TZID=America/Montevideo:20240411T010000
+SUMMARY:Independiente de Medellín🇨🇴 vs. Universidad César Vallejo🇵🇪
+DESCRIPTION:Grupo A - Rodada 2 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Atanasio Girardot
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T210000Z_Always_Ready_UCV
+DTSTART;TZID=America/Montevideo:20240425T210000
+DTEND;TZID=America/Montevideo:20240425T230000
+SUMMARY:Always Ready🇧🇴 vs. Universidad César Vallejo🇵🇪
+DESCRIPTION:Grupo A - Rodada 3 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Municipal Villa Ingenio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T210000Z_UCV_Independiente_Medellin
+DTSTART;TZID=America/Montevideo:20240507T210000
+DTEND;TZID=America/Montevideo:20240507T230000
+SUMMARY:Universidad César Vallejo🇵🇪 vs. Independiente de Medellín🇨🇴
+DESCRIPTION:Grupo A - Rodada 4 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Mansiche
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T230000Z_UCV_Always_Ready
+DTSTART;TZID=America/Montevideo:20240515T230000
+DTEND;TZID=America/Montevideo:20240516T010000
+SUMMARY:Universidad César Vallejo🇵🇪 vs. Always Ready🇧🇴
+DESCRIPTION:Grupo A - Rodada 5 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Mansiche
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240529T210000Z_Defensa_y_Justicia_UCV
+DTSTART;TZID=America/Montevideo:20240529T210000
+DTEND;TZID=America/Montevideo:20240529T230000
+SUMMARY:Defensa y Justicia🇦🇷 vs. Universidad César Vallejo🇵🇪
+DESCRIPTION:Grupo A - Rodada 6 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Norberto Tomaghello
+END:VEVENT
+END:VCALENDAR

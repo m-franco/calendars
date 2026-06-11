@@ -1,0 +1,192 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import CalendarCard from "../CalendarCard.astro";
+import GroupCalendarSubject from "../GroupCalendarSubject.astro";
+import TournamentCalendarSubject from "../TournamentCalendarSubject.astro";
+import { withCalendarSubscriptionName } from "../../utils/calendarLinks";
+import { getTeamImagePath } from "../../utils/teamImages";
+import {
+    t,
+    subject,
+    tournamentTitle,
+    tournamentCaptionSubject,
+    localizedEntityName,
+    localizedCalendarFilePath,
+    localizedTournamentFile,
+    calendarBasePath,
+    type Lang,
+} from "../../i18n/ui";
+import { data } from "../../i18n/paths";
+
+interface Props {
+    lang: Lang;
+    type: string;
+    esPath: string;
+    esName: string;
+    tournament: string;
+    imageName?: string | null;
+    year?: string;
+    archived?: boolean;
+    alternates: Record<Lang, string>;
+}
+
+const { lang, type, esPath, esName, tournament, imageName, year, archived, alternates } = Astro.props;
+const basePath = `${import.meta.env.BASE_URL.replace(/\/$/, "")}/`;
+const d = t(lang);
+
+// Lista de apps de calendario y torneos según la edición
+const calendars = year === "2024" ? data.cal2024 : year === "2025" ? data.cal2025 : data.calendars;
+const tournamentsForYear = year === "2024"
+    ? data.t2024
+    : year === "2025"
+        ? data.t2025
+        : [...data.wcTournaments, ...data.tournaments];
+
+const displayName = localizedEntityName(type, esPath, esName, tournament, lang);
+const subj = subject({ type, path: esPath, esName, tournament, year, archived, lang });
+const title = d.calendarOf(subj);
+const description = `${archived ? d.yearArchivePrefix(year!) : ""}${d.subscribeLine(subj)} ${d.secondLine}`;
+
+const imagePath = imageName
+    ? type === "team"
+        ? getTeamImagePath(imageName)
+        : type === "country" || type === "confederation"
+            ? `icons/${imageName}`
+            : `icons/${tournament}/${imageName}`
+    : "";
+const image = imagePath
+    ? `${basePath}img/${imagePath}`
+    : `${basePath}img/icons/${tournament + (tournament === "libertadores" ? "-logo" : "")}.png`;
+
+const calendarFilePath = type === "tournament"
+    ? localizedTournamentFile(tournament, lang)
+    : localizedCalendarFilePath(type, esPath, tournament, imageName, lang, year);
+
+const groupTeams = type === "group"
+    ? (tournamentsForYear as any[])
+        .find(({ href }) => href === tournament)
+        ?.groups.find(({ path: groupPath }: any) => groupPath === esPath)
+        ?.teams ?? []
+    : [];
+
+const showSecondHeading = type !== "tournament" && type !== "country" && type !== "team";
+---
+
+<Layout title={title} description={description} image={image} lang={lang} alternates={alternates}>
+    <main>
+        <h1 class="text-4xl sm:text-5xl md:text-6xl lg:text-7xl text-center font-bold p-0.5 mb-4">
+            <span class="text-gradient">{displayName}</span>
+        </h1>
+        {showSecondHeading && (
+            <h2 class="text-lg sm:text-xl md:text-2xl lg:text-3xl">
+                {tournamentTitle(tournament, lang)}{year ? ` ${year}` : ""}
+            </h2>
+        )}
+
+        <div class="instructions flex flex-col justify-center text-sm sm:text-base md:text-lg lg:text-xl my-12">
+            <p>{archived ? d.yearArchivePrefix(year!) : ""}{d.subscribeLine(subj)}</p>
+            <span>{d.secondLine}</span>
+        </div>
+
+        <div class="w-full flex items-center justify-center my-4">
+            {type === "tournament" && (
+                <TournamentCalendarSubject
+                    name={displayName}
+                    imageName={imageName}
+                    tournament={tournament}
+                    title={d.calendarOf(tournamentCaptionSubject(tournament, lang, year))}
+                />
+            )}
+            {type === "group" && (
+                <GroupCalendarSubject
+                    name={displayName}
+                    teams={groupTeams}
+                    title={d.calendarOf(subj)}
+                />
+            )}
+            {(type === "team" || type === "country" || type === "confederation") && imagePath && (
+                <div class="calendar-subject">
+                    <img class="calendar-subject-image" src={`${basePath}img/${imagePath}`} alt={displayName} />
+                    <div class="text-center text-md mt-3">
+                        {type === "country" ? d.calendarOf(subj) : displayName}
+                    </div>
+                </div>
+            )}
+        </div>
+
+        <div role="list" class="flex flex-col">
+            <div class="bg-cyan-700/50 rounded-xl w-full px-1 py-4">
+                <ul role="list" class="flex flex-wrap justify-around gap-2">
+                    {calendars.map(({ calendar, imageName: appIcon, preLink, target }: any) => (
+                        <li>
+                            <CalendarCard
+                                calendar={calendar}
+                                link={withCalendarSubscriptionName(`${preLink}${calendarBasePath}${calendarFilePath}`, title)}
+                                imageName={appIcon}
+                                tournament={tournament}
+                                target={target}
+                            />
+                        </li>
+                    ))}
+                </ul>
+            </div>
+        </div>
+    </main>
+</Layout>
+
+<style>
+    main {
+        margin: auto;
+        padding: 1rem;
+        width: 800px;
+        max-width: calc(100% - 2rem);
+        color: white;
+        font-size: 20px;
+        line-height: 1.6;
+    }
+    h2 {
+        font-weight: 600;
+        text-align: center;
+        margin-bottom: 2em;
+    }
+    .text-gradient {
+        background-image: var(--accent-gradient);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-size: 400%;
+        background-position: 0%;
+    }
+    .instructions {
+        margin-bottom: 2rem;
+        border: 1px solid rgba(var(--accent-light), 25%);
+        background: linear-gradient(rgba(var(--accent-dark), 66%), rgba(var(--accent-dark), 33%));
+        padding: 1.5rem;
+        border-radius: 8px;
+    }
+    .calendar-subject-image {
+        display: block;
+        width: 7rem;
+        height: 7rem;
+        object-fit: contain;
+        position: relative;
+        z-index: 1;
+    }
+    .calendar-subject {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        position: relative;
+    }
+    .calendar-subject::before {
+        content: "";
+        position: absolute;
+        top: -0.75rem;
+        width: 9rem;
+        height: 9rem;
+        border-radius: 50%;
+        background: rgba(255, 255, 255, 0.7);
+        filter: blur(1.25rem);
+        opacity: 0.65;
+        pointer-events: none;
+    }
+</style>

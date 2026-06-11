@@ -1,0 +1,213 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//EN
+BEGIN:VEVENT
+UID:20250402T190000Z_Melgar_VascoDaGama
+DTSTART;TZID=America/Montevideo:20250402T190000
+DTEND;TZID=America/Montevideo:20250402T210000
+SUMMARY:Melgar🇵🇪 vs. Vasco da Gama🇧🇷
+DESCRIPTION:Group G - Matchday 1 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Monumental de la UNSA Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250403T190000Z_AcademiaPuertoCabello_Lanus
+DTSTART;TZID=America/Montevideo:20250403T190000
+DTEND;TZID=America/Montevideo:20250403T210000
+SUMMARY:Academia Puerto Cabello🇻🇪 vs. Lanús🇦🇷
+DESCRIPTION:Group G - Matchday 1 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Misael Delgado Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250408T213000Z_VascoDaGama_AcademiaPuertoCabello
+DTSTART;TZID=America/Montevideo:20250408T213000
+DTEND;TZID=America/Montevideo:20250408T233000
+SUMMARY:Vasco da Gama🇧🇷 vs. Academia Puerto Cabello🇻🇪
+DESCRIPTION:Group G - Matchday 2 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Estádio São Januário
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250409T213000Z_Lanus_Melgar
+DTSTART;TZID=America/Montevideo:20250409T213000
+DTEND;TZID=America/Montevideo:20250409T233000
+SUMMARY:Lanús🇦🇷 vs. Melgar🇵🇪
+DESCRIPTION:Group G - Matchday 2 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Ciudad de Lanús
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250422T213000Z_VascoDaGama_Lanus
+DTSTART;TZID=America/Montevideo:20250422T213000
+DTEND;TZID=America/Montevideo:20250422T233000
+SUMMARY:Vasco da Gama🇧🇷 vs. Lanús🇦🇷
+DESCRIPTION:Group G - Matchday 3 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Estádio São Januário
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250422T230000Z_Melgar_AcademiaPuertoCabello
+DTSTART;TZID=America/Montevideo:20250422T230000
+DTEND;TZID=America/Montevideo:20250423T010000
+SUMMARY:Melgar🇵🇪 vs. Academia Puerto Cabello🇻🇪
+DESCRIPTION:Group G - Matchday 3 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Monumental de la UNSA Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250506T230000Z_Melgar_Lanus
+DTSTART;TZID=America/Montevideo:20250506T230000
+DTEND;TZID=America/Montevideo:20250507T010000
+SUMMARY:Melgar🇵🇪 vs. Lanús🇦🇷
+DESCRIPTION:Group G - Matchday 4 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Monumental de la UNSA Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250507T190000Z_AcademiaPuertoCabello_VascoDaGama
+DTSTART;TZID=America/Montevideo:20250507T190000
+DTEND;TZID=America/Montevideo:20250507T210000
+SUMMARY:Academia Puerto Cabello🇻🇪 vs. Vasco da Gama🇧🇷
+DESCRIPTION:Group G - Matchday 4 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Misael Delgado Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250513T213000Z_AcademiaPuertoCabello_Melgar
+DTSTART;TZID=America/Montevideo:20250513T213000
+DTEND;TZID=America/Montevideo:20250513T233000
+SUMMARY:Academia Puerto Cabello🇻🇪 vs. Melgar🇵🇪
+DESCRIPTION:Group G - Matchday 5 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Misael Delgado Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250513T213000Z_Lanus_VascoDaGama
+DTSTART;TZID=America/Montevideo:20250513T213000
+DTEND;TZID=America/Montevideo:20250513T233000
+SUMMARY:Lanús🇦🇷 vs. Vasco da Gama🇧🇷
+DESCRIPTION:Group G - Matchday 5 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Ciudad de Lanús
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250527T190000Z_Lanus_AcademiaPuertoCabello
+DTSTART;TZID=America/Montevideo:20250527T190000
+DTEND;TZID=America/Montevideo:20250527T210000
+SUMMARY:Lanús🇦🇷 vs. Academia Puerto Cabello🇻🇪
+DESCRIPTION:Group G - Matchday 6 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Ciudad de Lanús
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250527T190000Z_VascoDaGama_Melgar
+DTSTART;TZID=America/Montevideo:20250527T190000
+DTEND;TZID=America/Montevideo:20250527T210000
+SUMMARY:Vasco da Gama🇧🇷 vs. Melgar🇵🇪
+DESCRIPTION:Group G - Matchday 6 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Estádio São Januário
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250715T213000Z_IndependienteDelValle_VascoDaGama
+DTSTART;TZID=America/Montevideo:20250715T213000
+DTEND;TZID=America/Montevideo:20250715T233000
+SUMMARY:Independiente del Valle🇪🇨 vs. Vasco da Gama🇧🇷
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Olímpico Atahualpa Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250722T213000Z_VascoDaGama_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20250722T213000
+DTEND;TZID=America/Montevideo:20250722T233000
+SUMMARY:Vasco da Gama🇧🇷 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Estádio São Januário
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250814T213000Z_CentralCordoba_Lanus
+DTSTART;TZID=America/Montevideo:20250814T213000
+DTEND;TZID=America/Montevideo:20250814T233000
+SUMMARY:Central Córdoba🇦🇷 vs. Lanús🇦🇷
+DESCRIPTION:Round of 16 - First leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Único Madre de Ciudades Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250821T213000Z_Lanus_CentralCordoba
+DTSTART;TZID=America/Montevideo:20250821T213000
+DTEND;TZID=America/Montevideo:20250821T233000
+SUMMARY:Lanús🇦🇷 vs. Central Córdoba🇦🇷
+DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Ciudad de Lanús
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250916T213000Z_Lanus_Fluminense
+DTSTART;TZID=America/Montevideo:20250916T213000
+DTEND;TZID=America/Montevideo:20250916T233000
+SUMMARY:Lanús🇦🇷 vs. Fluminense🇧🇷
+DESCRIPTION:Quarter-finals - First leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Ciudad de Lanús
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250923T213000Z_Fluminense_Lanus
+DTSTART;TZID=America/Montevideo:20250923T213000
+DTEND;TZID=America/Montevideo:20250923T233000
+SUMMARY:Fluminense🇧🇷 vs. Lanús🇦🇷
+DESCRIPTION:Quarter-finals - Second leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:do Maracana Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251023T190000Z_UniversidadDeChile_Lanus
+DTSTART;TZID=America/Montevideo:20251023T190000
+DTEND;TZID=America/Montevideo:20251023T210000
+SUMMARY:Universidad de Chile🇨🇱 vs. Lanús🇦🇷
+DESCRIPTION:Semi-finals - First leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Nacional Julio Martínez Prádanos Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251030T190000Z_Lanus_UniversidadDeChile
+DTSTART;TZID=America/Montevideo:20251030T190000
+DTEND;TZID=America/Montevideo:20251030T210000
+SUMMARY:Lanús🇦🇷 vs. Universidad de Chile🇨🇱
+DESCRIPTION:Semi-finals - Second leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Ciudad de Lanús
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251122T170000Z_Lanus_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20251122T170000
+DTEND;TZID=America/Montevideo:20251122T190000
+SUMMARY:Lanús🇦🇷 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Final - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Defensores del Chaco
+END:VEVENT
+END:VCALENDAR

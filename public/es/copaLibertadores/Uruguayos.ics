@@ -1,0 +1,923 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//ES
+BEGIN:VEVENT
+UID:20240402T190000Z_Liverpool_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20240402T190000
+DTEND;TZID=America/Montevideo:20240402T210000
+SUMMARY:Liverpool🇺🇾 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Grupo F - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240403T190000Z_Nacional_Libertad
+DTSTART;TZID=America/Montevideo:20240403T190000
+DTEND;TZID=America/Montevideo:20240403T210000
+SUMMARY:Nacional🇺🇾 vs. Libertad🇵🇾
+DESCRIPTION:Grupo H - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Gran Parque Central
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240404T190000Z_RosarioCentral_Peñarol
+DTSTART;TZID=America/Montevideo:20240404T190000
+DTEND;TZID=America/Montevideo:20240404T210000
+SUMMARY:Rosario Central🇦🇷 vs. Peñarol🇺🇾
+DESCRIPTION:Grupo G - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Gigante de Arroyito
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T210000Z_Peñarol_Caracas
+DTSTART;TZID=America/Montevideo:20240410T210000
+DTEND;TZID=America/Montevideo:20240410T230000
+SUMMARY:Peñarol🇺🇾 vs. Caracas🇻🇪
+DESCRIPTION:Grupo G - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240411T210000Z_Palmeiras_Liverpool
+DTSTART;TZID=America/Montevideo:20240411T210000
+DTEND;TZID=America/Montevideo:20240411T230000
+SUMMARY:Palmeiras🇧🇷 vs. Liverpool🇺🇾
+DESCRIPTION:Grupo F - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240411T210000Z_River_Nacional
+DTSTART;TZID=America/Montevideo:20240411T210000
+DTEND;TZID=America/Montevideo:20240411T230000
+SUMMARY:River🇦🇷 vs. Nacional🇺🇾
+DESCRIPTION:Grupo H - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Monumental
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240423T210000Z_AtléticoMineiro_Peñarol
+DTSTART;TZID=America/Montevideo:20240423T210000
+DTEND;TZID=America/Montevideo:20240423T230000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Peñarol🇺🇾
+DESCRIPTION:Grupo G - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240423T210000Z_Liverpool_SanLorenzo
+DTSTART;TZID=America/Montevideo:20240423T210000
+DTEND;TZID=America/Montevideo:20240423T230000
+SUMMARY:Liverpool🇺🇾 vs. San Lorenzo🇦🇷
+DESCRIPTION:Grupo F - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240424T190000Z_Nacional_DeportivoTachira
+DTSTART;TZID=America/Montevideo:20240424T190000
+DTEND;TZID=America/Montevideo:20240424T210000
+SUMMARY:Nacional🇺🇾 vs. Deportivo Táchira🇻🇪
+DESCRIPTION:Grupo H - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Gran Parque Central
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T190000Z_Caracas_Peñarol
+DTSTART;TZID=America/Montevideo:20240507T190000
+DTEND;TZID=America/Montevideo:20240507T210000
+SUMMARY:Caracas🇻🇪 vs. Peñarol🇺🇾
+DESCRIPTION:Grupo G - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Olímpico U.C.V.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T210000Z_Nacional_River
+DTSTART;TZID=America/Montevideo:20240507T210000
+DTEND;TZID=America/Montevideo:20240507T230000
+SUMMARY:Nacional🇺🇾 vs. River🇦🇷
+DESCRIPTION:Grupo H - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Gran Parque Central
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240509T190000Z_Liverpool_Palmeiras
+DTSTART;TZID=America/Montevideo:20240509T190000
+DTEND;TZID=America/Montevideo:20240509T210000
+SUMMARY:Liverpool🇺🇾 vs.Palmeiras🇧🇷
+DESCRIPTION:Grupo F - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240514T190000Z_Peñarol_AtléticoMineiro
+DTSTART;TZID=America/Montevideo:20240514T190000
+DTEND;TZID=America/Montevideo:20240514T210000
+SUMMARY:Peñarol🇺🇾 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Grupo G - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T190000Z_DeportivoTachira_Nacional
+DTSTART;TZID=America/Montevideo:20240515T190000
+DTEND;TZID=America/Montevideo:20240515T210000
+SUMMARY:Deportivo Táchira🇻🇪  vs. Nacional🇺🇾
+DESCRIPTION:Grupo H - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Polideportivo de Pueblo Nuevo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240516T210000Z_SanLorenzo_Liverpool
+DTSTART;TZID=America/Montevideo:20240516T210000
+DTEND;TZID=America/Montevideo:20240516T230000
+SUMMARY:San Lorenzo🇦🇷 vs. Liverpool🇺🇾
+DESCRIPTION:Grupo F - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Nuevo Gasómtro
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240528T190000Z_Peñarol_RosarioCentral
+DTSTART;TZID=America/Montevideo:20240528T190000
+DTEND;TZID=America/Montevideo:20240528T210000
+SUMMARY:Peñarol🇺🇾 vs. Rosario Central🇦🇷
+DESCRIPTION:Grupo G - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240530T190000Z_IndependienteDelValle_Liverpool
+DTSTART;TZID=America/Montevideo:20240530T190000
+DTEND;TZID=America/Montevideo:20240530T210000
+SUMMARY:Independiente del Valle🇪🇨 vs. Liverpool🇺🇾
+DESCRIPTION:Grupo F - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Guayaquil
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240530T210000Z_Libertad_Nacional
+DTSTART;TZID=America/Montevideo:20240530T210000
+DTEND;TZID=America/Montevideo:20240530T230000
+SUMMARY:Libertad🇵🇾 vs. Nacional🇺🇾
+DESCRIPTION:Grupo H - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240814T190000Z_Penarol_TheStrongest
+DTSTART;TZID=America/Montevideo:20240814T190000
+DTEND;TZID=America/Montevideo:20240814T210000
+SUMMARY:Peñarol🇺🇾 vs. The Strongest🇧🇴
+DESCRIPTION:Octavos de final - Ida - Copa Libertadores
+LOCATION:Estadio Campeón del Siglo
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240815T190000Z_Nacional_SanPablo
+DTSTART;TZID=America/Montevideo:20240815T190000
+DTEND;TZID=America/Montevideo:20240815T210000
+SUMMARY:Nacional🇺🇾 vs. San Pablo🇧🇷
+DESCRIPTION:Octavos de final - Ida - Copa Libertadores
+LOCATION:Estadio Gran Parque Central
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240821T190000Z_TheStrongest_Penarol
+DTSTART;TZID=America/Montevideo:20240821T190000
+DTEND;TZID=America/Montevideo:20240821T210000
+SUMMARY:The Strongest🇧🇴 vs. Peñarol🇺🇾
+DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
+LOCATION:Estadio Hernando Siles
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240822T190000Z_SanPablo_Nacional
+DTSTART;TZID=America/Montevideo:20240822T190000
+DTEND;TZID=America/Montevideo:20240822T210000
+SUMMARY:San Pablo🇧🇷 vs. Nacional🇺🇾
+DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
+LOCATION:Estadio Morumbí
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240919T190000Z_Flamengo_Penarol
+DTSTART;TZID=America/Montevideo:20240919T190000
+DTEND;TZID=America/Montevideo:20240919T210000
+SUMMARY:Flamengo🇧🇷 vs. Peñarol🇺🇾
+DESCRIPTION:Cuartos de final - Ida - Copa Libertadores
+LOCATION:Estadio Maracaná, Río de Janeiro
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240926T190000Z_Penarol_Flamengo
+DTSTART;TZID=America/Montevideo:20240926T190000
+DTEND;TZID=America/Montevideo:20240926T210000
+SUMMARY:Peñarol🇺🇾 vs. Flamengo🇧🇷
+DESCRIPTION:Cuartos de final - Vuelta - Copa Libertadores
+LOCATION:Estadio Campeón del Siglo, Montevideo
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20241023T213000Z_Botafogo_Penarol
+DTSTART;TZID=America/Montevideo:20241023T213000
+DTEND;TZID=America/Montevideo:20241023T233000
+SUMMARY:Botafogo🇧🇷 vs. Peñarol🇺🇾
+DESCRIPTION:Semifinal - Ida - Copa Libertadores
+LOCATION:Estádio Olímpico Nilton Santos, Rio de Janeiro
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20241030T213000Z_Penarol_Botafogo
+DTSTART;TZID=America/Montevideo:20241030T213000
+DTEND;TZID=America/Montevideo:20241030T233000
+SUMMARY:Peñarol🇺🇾 vs. Botafogo🇧🇷
+DESCRIPTION:Semifinal - Vuelta - Copa Libertadores
+LOCATION:Estadio Centenario, Montevideo
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250401T190000Z_BostonRiver_Guarani
+DTSTART;TZID=America/Montevideo:20250401T190000
+DTEND;TZID=America/Montevideo:20250401T210000
+SUMMARY:Boston River🇺🇾 vs. Guaraní🇵🇾
+DESCRIPTION:Grupo A - Fecha 1 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250402T190000Z_VelezSarsfield_Penarol
+DTSTART;TZID=America/Montevideo:20250402T190000
+DTEND;TZID=America/Montevideo:20250402T210000
+SUMMARY:Vélez Sarsfield🇦🇷 vs. Peñarol🇺🇾
+DESCRIPTION:Grupo H - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:José Amalfitani
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250402T213000Z_RacingUruguay_AmericaDeCali
+DTSTART;TZID=America/Montevideo:20250402T213000
+DTEND;TZID=America/Montevideo:20250402T233000
+SUMMARY:Racing (Uru)🇺🇾 vs. América de Cali🇨🇴
+DESCRIPTION:Grupo C - Fecha 1 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250402T230000Z_AtleticoNacional_Nacional
+DTSTART;TZID=America/Montevideo:20250402T230000
+DTEND;TZID=America/Montevideo:20250403T010000
+SUMMARY:Atlético Nacional🇨🇴 vs. Nacional🇺🇾
+DESCRIPTION:Grupo F - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Atanasio Girardot
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250403T213000Z_CerroLargo_DefensaYJusticia
+DTSTART;TZID=America/Montevideo:20250403T213000
+DTEND;TZID=America/Montevideo:20250403T233000
+SUMMARY:Cerro Largo🇺🇾 vs. Defensa Y Justicia🇦🇷
+DESCRIPTION:Grupo B - Fecha 1 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250408T190000Z_Independiente_BostonRiver
+DTSTART;TZID=America/Montevideo:20250408T190000
+DTEND;TZID=America/Montevideo:20250408T210000
+SUMMARY:Independiente🇦🇷 vs. Boston River🇺🇾
+DESCRIPTION:Grupo A - Fecha 2 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Libertadores de América
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250408T210000Z_Penarol_SanAntonioBuloBulo
+DTSTART;TZID=America/Montevideo:20250408T210000
+DTEND;TZID=America/Montevideo:20250408T230000
+SUMMARY:Peñarol🇺🇾 vs. San Antonio Bulo Bulo🇧🇴
+DESCRIPTION:Grupo H - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250409T190000Z_Nacional_Bahia
+DTSTART;TZID=America/Montevideo:20250409T190000
+DTEND;TZID=America/Montevideo:20250409T210000
+SUMMARY:Nacional🇺🇾 vs. Bahia🇧🇷
+DESCRIPTION:Grupo F - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Gran Parque Central
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250409T190000Z_Huracan_RacingUruguay
+DTSTART;TZID=America/Montevideo:20250409T190000
+DTEND;TZID=America/Montevideo:20250409T210000
+SUMMARY:Huracán🇦🇷 vs. Racing (Uru)🇺🇾
+DESCRIPTION:Grupo C - Fecha 2 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Tomás Adolfo Ducó
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250410T230000Z_UniversidadCatolica_CerroLargo
+DTSTART;TZID=America/Montevideo:20250410T230000
+DTEND;TZID=America/Montevideo:20250411T010000
+SUMMARY:Universidad Católica🇪🇨 vs. Cerro Largo🇺🇾
+DESCRIPTION:Grupo B - Fecha 2 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Olímpico Atahualpa
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250422T190000Z_BostonRiver_NacionalPotosi
+DTSTART;TZID=America/Montevideo:20250422T190000
+DTEND;TZID=America/Montevideo:20250422T210000
+SUMMARY:Boston River🇺🇾 vs. Nacional Potosí🇧🇴
+DESCRIPTION:Grupo A - Fecha 3 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250422T213000Z_Internacional_Nacional
+DTSTART;TZID=America/Montevideo:20250422T213000
+DTEND;TZID=America/Montevideo:20250422T233000
+SUMMARY:Internacional🇧🇷 vs. Nacional🇺🇾
+DESCRIPTION:Grupo F - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Beira-Rio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250423T190000Z_Olimpia_Penarol
+DTSTART;TZID=America/Montevideo:20250423T190000
+DTEND;TZID=America/Montevideo:20250423T210000
+SUMMARY:Olimpia🇵🇾 vs. Peñarol🇺🇾
+DESCRIPTION:Grupo H - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio UENO Osvaldo Domínguez Dibb
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250423T213000Z_Vitoria_CerroLargo
+DTSTART;TZID=America/Montevideo:20250423T213000
+DTEND;TZID=America/Montevideo:20250423T233000
+SUMMARY:Vitória🇧🇷 vs. Cerro Largo🇺🇾
+DESCRIPTION:Grupo B - Fecha 3 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Manoel Barradas
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250424T190000Z_Corinthians_RacingUruguay
+DTSTART;TZID=America/Montevideo:20250424T190000
+DTEND;TZID=America/Montevideo:20250424T210000
+SUMMARY:Corinthians🇧🇷 vs. Racing (Uru)🇺🇾
+DESCRIPTION:Grupo C - Fecha 3 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250506T213000Z_BostonRiver_Independiente
+DTSTART;TZID=America/Montevideo:20250506T213000
+DTEND;TZID=America/Montevideo:20250506T233000
+SUMMARY:Boston River🇺🇾 vs. Independiente🇦🇷
+DESCRIPTION:Grupo A - Fecha 4 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250506T230000Z_SanAntonioBuloBulo_Penarol
+DTSTART;TZID=America/Montevideo:20250506T230000
+DTEND;TZID=America/Montevideo:20250507T010000
+SUMMARY:San Antonio Bulo Bulo🇧🇴 vs. Peñarol🇺🇾
+DESCRIPTION:Grupo H - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Félix Capriles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250507T190000Z_Bahia_Nacional
+DTSTART;TZID=America/Montevideo:20250507T190000
+DTEND;TZID=America/Montevideo:20250507T210000
+SUMMARY:Bahia🇧🇷 vs. Nacional🇺🇾
+DESCRIPTION:Grupo F - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Casa de Apostas Arena Fonte Nova
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250507T190000Z_CerroLargo_UniversidadCatolica
+DTSTART;TZID=America/Montevideo:20250507T190000
+DTEND;TZID=America/Montevideo:20250507T210000
+SUMMARY:Cerro Largo🇺🇾 vs. Universidad Católica🇪🇨
+DESCRIPTION:Grupo B - Fecha 4 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250508T190000Z_RacingUruguay_Huracan
+DTSTART;TZID=America/Montevideo:20250508T190000
+DTEND;TZID=America/Montevideo:20250508T210000
+SUMMARY:Racing (Uru)🇺🇾 vs. Huracán🇦🇷
+DESCRIPTION:Grupo C - Fecha 4 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250513T190000Z_NacionalPotosi_BostonRiver
+DTSTART;TZID=America/Montevideo:20250513T190000
+DTEND;TZID=America/Montevideo:20250513T210000
+SUMMARY:Nacional Potosí🇧🇴 vs. Boston River🇺🇾
+DESCRIPTION:Grupo A - Fecha 5 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Víctor Agustín Ugarte
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250514T190000Z_Penarol_Olimpia
+DTSTART;TZID=America/Montevideo:20250514T190000
+DTEND;TZID=America/Montevideo:20250514T210000
+SUMMARY:Peñarol🇺🇾 vs. Olimpia🇵🇾
+DESCRIPTION:Grupo H - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250514T213000Z_CerroLargo_Vitoria
+DTSTART;TZID=America/Montevideo:20250514T213000
+DTEND;TZID=America/Montevideo:20250514T233000
+SUMMARY:Cerro Largo🇺🇾 vs. Vitória🇧🇷
+DESCRIPTION:Grupo B - Fecha 5 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250515T190000Z_Nacional_Internacional
+DTSTART;TZID=America/Montevideo:20250515T190000
+DTEND;TZID=America/Montevideo:20250515T210000
+SUMMARY:Nacional🇺🇾 vs. Internacional🇧🇷
+DESCRIPTION:Grupo F - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Gran Parque Central
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250515T190000Z_RacingUruguay_Corinthians
+DTSTART;TZID=America/Montevideo:20250515T190000
+DTEND;TZID=America/Montevideo:20250515T210000
+SUMMARY:Racing (Uru)🇺🇾 vs. Corinthians🇧🇷
+DESCRIPTION:Grupo C - Fecha 5 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250527T213000Z_AmericaDeCali_RacingUruguay
+DTSTART;TZID=America/Montevideo:20250527T213000
+DTEND;TZID=America/Montevideo:20250527T233000
+SUMMARY:América de Cali🇨🇴 vs. Racing (Uru)🇺🇾
+DESCRIPTION:Grupo C - Fecha 6 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Pascual Guerrero
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250528T190000Z_Nacional_AtleticoNacional
+DTSTART;TZID=America/Montevideo:20250528T190000
+DTEND;TZID=America/Montevideo:20250528T210000
+SUMMARY:Nacional🇺🇾 vs. Atlético Nacional🇨🇴
+DESCRIPTION:Grupo F - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Gran Parque Central
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250528T190000Z_Guarani_BostonRiver
+DTSTART;TZID=America/Montevideo:20250528T190000
+DTEND;TZID=America/Montevideo:20250528T210000
+SUMMARY:Guaraní🇵🇾 vs. Boston River🇺🇾
+DESCRIPTION:Grupo A - Fecha 6 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio ueno Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250528T213000Z_DefensaYJusticia_CerroLargo
+DTSTART;TZID=America/Montevideo:20250528T213000
+DTEND;TZID=America/Montevideo:20250528T233000
+SUMMARY:Defensa Y Justicia🇦🇷 vs. Cerro Largo🇺🇾
+DESCRIPTION:Grupo B - Fecha 6 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Norberto Tomaghello
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250529T190000Z_Penarol_VelezSarsfield
+DTSTART;TZID=America/Montevideo:20250529T190000
+DTEND;TZID=America/Montevideo:20250529T210000
+SUMMARY:Peñarol🇺🇾 vs. Vélez Sarsfield🇦🇷
+DESCRIPTION:Grupo H - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250715T190000Z_CentralCordoba_CerroLargo
+DTSTART;TZID=America/Montevideo:20250715T190000
+DTEND;TZID=America/Montevideo:20250715T210000
+SUMMARY:Central Córdoba🇦🇷 vs. Cerro Largo🇺🇾
+DESCRIPTION:Play-offs - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Único Madre de Ciudades
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250722T190000Z_CerroLargo_CentralCordoba
+DTSTART;TZID=America/Montevideo:20250722T190000
+DTEND;TZID=America/Montevideo:20250722T210000
+SUMMARY:Cerro Largo🇺🇾 vs. Central Córdoba🇦🇷
+DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250812T213000Z_Penarol_Racing
+DTSTART;TZID=America/Montevideo:20250812T213000
+DTEND;TZID=America/Montevideo:20250812T233000
+SUMMARY:Peñarol🇺🇾 vs. Racing🇦🇷
+DESCRIPTION:Octavos de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250819T213000Z_Racing_Penarol
+DTSTART;TZID=America/Montevideo:20250819T213000
+DTEND;TZID=America/Montevideo:20250819T233000
+SUMMARY:Racing🇦🇷 vs. Peñarol🇺🇾
+DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Presidente Perón (Cilindro de Avellaneda)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260407T213000Z_BostonRiver_SanPablo
+DTSTART;TZID=America/Montevideo:20260407T213000
+DTEND;TZID=America/Montevideo:20260407T233000
+SUMMARY:Boston River🇺🇾 vs. San Pablo🇧🇷
+DESCRIPTION:Grupo C - Fecha 1 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260408T190000Z_CoquimboUnido_Nacional
+DTSTART;TZID=America/Montevideo:20260408T190000
+DTEND;TZID=America/Montevideo:20260408T210000
+SUMMARY:Coquimbo Unido🇨🇱 vs. Nacional🇺🇾
+DESCRIPTION:Grupo B - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Francisco Sánchez Rumoroso
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260408T213000Z_MontevideoCityTorque_Gremio
+DTSTART;TZID=America/Montevideo:20260408T213000
+DTEND;TZID=America/Montevideo:20260408T233000
+SUMMARY:Montevideo City Torque🇺🇾 vs. Gremio🇧🇷
+DESCRIPTION:Grupo F - Fecha 1 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260409T190000Z_Juventud_Cienciano
+DTSTART;TZID=America/Montevideo:20260409T190000
+DTEND;TZID=America/Montevideo:20260409T210000
+SUMMARY:Juventud🇺🇾 vs. Cienciano🇵🇪
+DESCRIPTION:Grupo B - Fecha 1 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260409T230000Z_SantaFe_Penarol
+DTSTART;TZID=America/Montevideo:20260409T230000
+DTEND;TZID=America/Montevideo:20260410T010000
+SUMMARY:Santa Fe🇨🇴 vs. Peñarol🇺🇾
+DESCRIPTION:Grupo E - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Nemesio Camacho El Campín
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260414T190000Z_Nacional_DeportesTolima
+DTSTART;TZID=America/Montevideo:20260414T190000
+DTEND;TZID=America/Montevideo:20260414T210000
+SUMMARY:Nacional🇺🇾 vs. Deportes Tolima🇨🇴
+DESCRIPTION:Grupo B - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Gran Parque Central
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260414T213000Z_Palestino_MontevideoCityTorque
+DTSTART;TZID=America/Montevideo:20260414T213000
+DTEND;TZID=America/Montevideo:20260414T233000
+SUMMARY:Palestino🇨🇱 vs. Montevideo City Torque🇺🇾
+DESCRIPTION:Grupo F - Fecha 2 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Municipal de La Cisterna
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260415T230000Z_Millonarios_BostonRiver
+DTSTART;TZID=America/Montevideo:20260415T230000
+DTEND;TZID=America/Montevideo:20260416T010000
+SUMMARY:Millonarios🇨🇴 vs. Boston River🇺🇾
+DESCRIPTION:Grupo C - Fecha 2 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Nemesio Camacho El Campín
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260416T190000Z_AtleticoMineiro_Juventud
+DTSTART;TZID=America/Montevideo:20260416T190000
+DTEND;TZID=America/Montevideo:20260416T210000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Juventud🇺🇾
+DESCRIPTION:Grupo B - Fecha 2 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260416T213000Z_Penarol_Platense
+DTSTART;TZID=America/Montevideo:20260416T213000
+DTEND;TZID=America/Montevideo:20260416T233000
+SUMMARY:Peñarol🇺🇾 vs. Platense🇦🇷
+DESCRIPTION:Grupo E - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260428T230000Z_OHiggins_BostonRiver
+DTSTART;TZID=America/Montevideo:20260428T230000
+DTEND;TZID=America/Montevideo:20260429T010000
+SUMMARY:O'Higgins🇨🇱 vs. Boston River🇺🇾
+DESCRIPTION:Grupo C - Fecha 3 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio El Teniente
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260429T190000Z_DeportivoRiestra_MontevideoCityTorque
+DTSTART;TZID=America/Montevideo:20260429T190000
+DTEND;TZID=America/Montevideo:20260429T210000
+SUMMARY:Deportivo Riestra🇦🇷 vs. Montevideo City Torque🇺🇾
+DESCRIPTION:Grupo F - Fecha 3 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Pedro Bidegain
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260429T190000Z_Juventud_AcademiaPuertoCabello
+DTSTART;TZID=America/Montevideo:20260429T190000
+DTEND;TZID=America/Montevideo:20260429T210000
+SUMMARY:Juventud🇺🇾 vs. Academia Puerto Cabello🇻🇪
+DESCRIPTION:Grupo B - Fecha 3 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260429T230000Z_Universitario_Nacional
+DTSTART;TZID=America/Montevideo:20260429T230000
+DTEND;TZID=America/Montevideo:20260430T010000
+SUMMARY:Universitario🇵🇪 vs. Nacional🇺🇾
+DESCRIPTION:Grupo B - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Monumental de Lima
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260430T210000Z_Corinthians_Penarol
+DTSTART;TZID=America/Montevideo:20260430T210000
+DTEND;TZID=America/Montevideo:20260430T230000
+SUMMARY:Corinthians🇧🇷 vs. Peñarol🇺🇾
+DESCRIPTION:Grupo E - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260505T190000Z_Juventud_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20260505T190000
+DTEND;TZID=America/Montevideo:20260505T210000
+SUMMARY:Juventud🇺🇾 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Grupo B - Fecha 4 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260506T190000Z_MontevideoCityTorque_Palestino
+DTSTART;TZID=America/Montevideo:20260506T190000
+DTEND;TZID=America/Montevideo:20260506T210000
+SUMMARY:Montevideo City Torque🇺🇾 vs. Palestino🇨🇱
+DESCRIPTION:Grupo F - Fecha 4 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260506T230000Z_DeportesTolima_Nacional
+DTSTART;TZID=America/Montevideo:20260506T230000
+DTEND;TZID=America/Montevideo:20260507T010000
+SUMMARY:Deportes Tolima🇨🇴 vs. Nacional🇺🇾
+DESCRIPTION:Grupo B - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Manuel Murillo Toro
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260507T190000Z_Platense_Penarol
+DTSTART;TZID=America/Montevideo:20260507T190000
+DTEND;TZID=America/Montevideo:20260507T210000
+SUMMARY:Platense🇦🇷 vs. Peñarol🇺🇾
+DESCRIPTION:Grupo E - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Ciudad de Vicente López
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260507T190000Z_BostonRiver_Millonarios
+DTSTART;TZID=America/Montevideo:20260507T190000
+DTEND;TZID=America/Montevideo:20260507T210000
+SUMMARY:Boston River🇺🇾 vs. Millonarios🇨🇴
+DESCRIPTION:Grupo C - Fecha 4 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260519T190000Z_MontevideoCityTorque_DeportivoRiestra
+DTSTART;TZID=America/Montevideo:20260519T190000
+DTEND;TZID=America/Montevideo:20260519T210000
+SUMMARY:Montevideo City Torque🇺🇾 vs. Deportivo Riestra🇦🇷
+DESCRIPTION:Grupo F - Fecha 5 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260520T190000Z_Nacional_Universitario
+DTSTART;TZID=America/Montevideo:20260520T190000
+DTEND;TZID=America/Montevideo:20260520T210000
+SUMMARY:Nacional🇺🇾 vs. Universitario🇵🇪
+DESCRIPTION:Grupo B - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Gran Parque Central
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260520T190000Z_BostonRiver_OHiggins
+DTSTART;TZID=America/Montevideo:20260520T190000
+DTEND;TZID=America/Montevideo:20260520T210000
+SUMMARY:Boston River🇺🇾 vs. O'Higgins🇨🇱
+DESCRIPTION:Grupo C - Fecha 5 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260521T190000Z_AcademiaPuertoCabello_Juventud
+DTSTART;TZID=America/Montevideo:20260521T190000
+DTEND;TZID=America/Montevideo:20260521T210000
+SUMMARY:Academia Puerto Cabello🇻🇪 vs. Juventud🇺🇾
+DESCRIPTION:Grupo B - Fecha 5 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Misael Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260521T213000Z_Penarol_Corinthians
+DTSTART;TZID=America/Montevideo:20260521T213000
+DTEND;TZID=America/Montevideo:20260521T233000
+SUMMARY:Peñarol🇺🇾 vs. Corinthians🇧🇷
+DESCRIPTION:Grupo E - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260526T190000Z_Gremio_MontevideoCityTorque
+DTSTART;TZID=America/Montevideo:20260526T190000
+DTEND;TZID=America/Montevideo:20260526T210000
+SUMMARY:Gremio🇧🇷 vs. Montevideo City Torque🇺🇾
+DESCRIPTION:Grupo F - Fecha 6 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Arena do Grêmio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260526T190000Z_SanPablo_BostonRiver
+DTSTART;TZID=America/Montevideo:20260526T190000
+DTEND;TZID=America/Montevideo:20260526T210000
+SUMMARY:San Pablo🇧🇷 vs. Boston River🇺🇾
+DESCRIPTION:Grupo C - Fecha 6 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estádio Cícero Pompeu de Toledo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260526T213000Z_Nacional_CoquimboUnido
+DTSTART;TZID=America/Montevideo:20260526T213000
+DTEND;TZID=America/Montevideo:20260526T233000
+SUMMARY:Nacional🇺🇾 vs. Coquimbo Unido🇨🇱
+DESCRIPTION:Grupo B - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Gran Parque Central
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260527T190000Z_Cienciano_Juventud
+DTSTART;TZID=America/Montevideo:20260527T190000
+DTEND;TZID=America/Montevideo:20260527T210000
+SUMMARY:Cienciano🇵🇪 vs. Juventud🇺🇾
+DESCRIPTION:Grupo B - Fecha 6 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Inca Garcilaso de la Vega
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260527T213000Z_Penarol_SantaFe
+DTSTART;TZID=America/Montevideo:20260527T213000
+DTEND;TZID=America/Montevideo:20260527T233000
+SUMMARY:Peñarol🇺🇾 vs. Santa Fe🇨🇴
+DESCRIPTION:Grupo E - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Campeón del Siglo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260721T190000Z_Nacional_Tigre
+DTSTART;TZID=America/Montevideo:20260721T190000
+DTEND;TZID=America/Montevideo:20260721T210000
+SUMMARY:Nacional🇺🇾 vs. Tigre🇦🇷
+DESCRIPTION:Play-offs - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Gran Parque Central
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260728T190000Z_Tigre_Nacional
+DTSTART;TZID=America/Montevideo:20260728T190000
+DTEND;TZID=America/Montevideo:20260728T210000
+SUMMARY:Tigre🇦🇷 vs. Nacional🇺🇾
+DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Monumental de Victoria (José Dellagiovanna)
+END:VEVENT
+END:VCALENDAR

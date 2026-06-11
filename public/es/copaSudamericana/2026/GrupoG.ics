@@ -1,0 +1,143 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//ES
+BEGIN:VEVENT
+UID:20260407T190000Z_BarracasCentral_VascoDaGama
+DTSTART;TZID=America/Montevideo:20260407T190000
+DTEND;TZID=America/Montevideo:20260407T210000
+SUMMARY:Barracas Central🇦🇷 vs. Vasco da Gama🇧🇷
+DESCRIPTION:Grupo G - Fecha 1 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Florencio Solá
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260408T210000Z_AudaxItaliano_Olimpia
+DTSTART;TZID=America/Montevideo:20260408T210000
+DTEND;TZID=America/Montevideo:20260408T230000
+SUMMARY:Audax Italiano🇨🇱 vs. Olimpia🇵🇾
+DESCRIPTION:Grupo G - Fecha 1 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Municipal de La Florida
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260414T210000Z_VascoDaGama_AudaxItaliano
+DTSTART;TZID=America/Montevideo:20260414T210000
+DTEND;TZID=America/Montevideo:20260414T230000
+SUMMARY:Vasco da Gama🇧🇷 vs. Audax Italiano🇨🇱
+DESCRIPTION:Grupo G - Fecha 2 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estádio São Januário
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260415T210000Z_Olimpia_BarracasCentral
+DTSTART;TZID=America/Montevideo:20260415T210000
+DTEND;TZID=America/Montevideo:20260415T230000
+SUMMARY:Olimpia🇵🇾 vs. Barracas Central🇦🇷
+DESCRIPTION:Grupo G - Fecha 2 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260428T210000Z_BarracasCentral_AudaxItaliano
+DTSTART;TZID=America/Montevideo:20260428T210000
+DTEND;TZID=America/Montevideo:20260428T230000
+SUMMARY:Barracas Central🇦🇷 vs. Audax Italiano🇨🇱
+DESCRIPTION:Grupo G - Fecha 3 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Florencio Solá
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260430T190000Z_VascoDaGama_Olimpia
+DTSTART;TZID=America/Montevideo:20260430T190000
+DTEND;TZID=America/Montevideo:20260430T210000
+SUMMARY:Vasco da Gama🇧🇷 vs. Olimpia🇵🇾
+DESCRIPTION:Grupo G - Fecha 3 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estádio São Januário
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260506T190000Z_AudaxItaliano_VascoDaGama
+DTSTART;TZID=America/Montevideo:20260506T190000
+DTEND;TZID=America/Montevideo:20260506T210000
+SUMMARY:Audax Italiano🇨🇱 vs. Vasco da Gama🇧🇷
+DESCRIPTION:Grupo G - Fecha 4 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Municipal de La Florida
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260506T210000Z_BarracasCentral_Olimpia
+DTSTART;TZID=America/Montevideo:20260506T210000
+DTEND;TZID=America/Montevideo:20260506T230000
+SUMMARY:Barracas Central🇦🇷 vs. Olimpia🇵🇾
+DESCRIPTION:Grupo G - Fecha 4 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Florencio Solá
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260519T190000Z_AudaxItaliano_BarracasCentral
+DTSTART;TZID=America/Montevideo:20260519T190000
+DTEND;TZID=America/Montevideo:20260519T210000
+SUMMARY:Audax Italiano🇨🇱 vs. Barracas Central🇦🇷
+DESCRIPTION:Grupo G - Fecha 5 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Municipal de La Florida
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260520T190000Z_Olimpia_VascoDaGama
+DTSTART;TZID=America/Montevideo:20260520T190000
+DTEND;TZID=America/Montevideo:20260520T210000
+SUMMARY:Olimpia🇵🇾 vs. Vasco da Gama🇧🇷
+DESCRIPTION:Grupo G - Fecha 5 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260527T190000Z_Olimpia_AudaxItaliano
+DTSTART;TZID=America/Montevideo:20260527T190000
+DTEND;TZID=America/Montevideo:20260527T210000
+SUMMARY:Olimpia🇵🇾 vs. Audax Italiano🇨🇱
+DESCRIPTION:Grupo G - Fecha 6 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260527T190000Z_VascoDaGama_BarracasCentral
+DTSTART;TZID=America/Montevideo:20260527T190000
+DTEND;TZID=America/Montevideo:20260527T210000
+SUMMARY:Vasco da Gama🇧🇷 vs. Barracas Central🇦🇷
+DESCRIPTION:Grupo G - Fecha 6 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estádio São Januário
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260722T190000Z_IndependienteDeMedellin_VascoDaGama
+DTSTART;TZID=America/Montevideo:20260722T190000
+DTEND;TZID=America/Montevideo:20260722T210000
+SUMMARY:Independiente de Medellín🇨🇴 vs. Vasco da Gama🇧🇷
+DESCRIPTION:Play-offs - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Atanasio Girardot
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260729T190000Z_VascoDaGama_IndependienteDeMedellin
+DTSTART;TZID=America/Montevideo:20260729T190000
+DTEND;TZID=America/Montevideo:20260729T210000
+SUMMARY:Vasco da Gama🇧🇷 vs. Independiente de Medellín🇨🇴
+DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estádio São Januário
+END:VEVENT
+END:VCALENDAR

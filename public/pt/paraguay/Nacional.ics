@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//PT
+BEGIN:VEVENT
+UID:20240402T190000Z_Nacional_Par_Argentinos_Juniors
+DTSTART;TZID=America/Montevideo:20240402T190000
+DTEND;TZID=America/Montevideo:20240402T210000
+SUMMARY:Nacional(Par)🇵🇾 vs. Argentinos Juniors🇦🇷
+DESCRIPTION:Grupo F - Rodada 1 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T190000Z_Corinthians_Nacional_Par
+DTSTART;TZID=America/Montevideo:20240409T190000
+DTEND;TZID=America/Montevideo:20240409T210000
+SUMMARY:Corinthians🇧🇷 vs. Nacional(Par)🇵🇾
+DESCRIPTION:Grupo F - Rodada 2 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T190000Z_Nacional_Par_Racing_Uru
+DTSTART;TZID=America/Montevideo:20240425T190000
+DTEND;TZID=America/Montevideo:20240425T210000
+SUMMARY:Nacional(Par)🇵🇾 vs.Racing(Uru)🇺🇾
+DESCRIPTION:Grupo F - Rodada 3 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T190000Z_Racing_Uru_Nacional_Par
+DTSTART;TZID=America/Montevideo:20240507T190000
+DTEND;TZID=America/Montevideo:20240507T210000
+SUMMARY:Racing(Uru)🇺🇾 vs. Nacional(Par)🇵🇾
+DESCRIPTION:Grupo F - Rodada 4 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240514T190000Z_Racing_Uru_Nacional_Par
+DTSTART;TZID=America/Montevideo:20240514T190000
+DTEND;TZID=America/Montevideo:20240514T210000
+SUMMARY:Racing(Uru)🇺🇾 vs. Nacional(Par)🇵🇾
+DESCRIPTION:Grupo F - Rodada 5 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240528T190000Z_Argentinos_Juniors_Nacional_Par
+DTSTART;TZID=America/Montevideo:20240528T190000
+DTEND;TZID=America/Montevideo:20240528T210000
+SUMMARY:Argentinos Juniors🇦🇷 vs. Nacional(Par)🇵🇾
+DESCRIPTION:Grupo F - Rodada 6 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Diego Armando Maradona
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,213 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//PT
+BEGIN:VEVENT
+UID:20240403T230000Z_Alianza_Union_La_Calera
+DTSTART;TZID=America/Montevideo:20240403T230000
+DTEND;TZID=America/Montevideo:20240404T010000
+SUMMARY:Alianza🇨🇴 vs. Unión La Calera🇨🇱
+DESCRIPTION:Grupo B - Rodada 1 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Armando Maestre Pavajeau
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240404T210000Z_Universidad_Catolica_Cruzeiro
+DTSTART;TZID=America/Montevideo:20240404T210000
+DTEND;TZID=America/Montevideo:20240404T230000
+SUMMARY:Universidad Católica🇪🇨 vs. Cruzeiro🇧🇷
+DESCRIPTION:Grupo B - Rodada 1 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico Atahualpa
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T210000Z_Union_La_Calera_Universidad_Catolica
+DTSTART;TZID=America/Montevideo:20240410T210000
+DTEND;TZID=America/Montevideo:20240410T230000
+SUMMARY:Unión La Calera🇨🇱 vs. Universidad Católica🇪🇨
+DESCRIPTION:Grupo B - Rodada 2 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Elías Figueroa Brander
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240411T210000Z_Cruzeiro_Alianza
+DTSTART;TZID=America/Montevideo:20240411T210000
+DTEND;TZID=America/Montevideo:20240411T230000
+SUMMARY:Cruzeiro🇧🇷 vs. Alianza🇨🇴
+DESCRIPTION:Grupo B - Rodada 2 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Mineirão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240423T190000Z_Union_La_Calera_Cruzeiro
+DTSTART;TZID=America/Montevideo:20240423T190000
+DTEND;TZID=America/Montevideo:20240423T210000
+SUMMARY:Unión La Calera🇨🇱 vs. Cruzeiro🇧🇷
+DESCRIPTION:Grupo B - Rodada 3 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Municipal Alcaldesa Ester Roa Rebolledo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240423T230000Z_Alianza_Universidad_Catolica
+DTSTART;TZID=America/Montevideo:20240423T230000
+DTEND;TZID=America/Montevideo:20240424T010000
+SUMMARY:Alianza🇨🇴 vs. Universidad Católica🇪🇨
+DESCRIPTION:Grupo B - Rodada 3 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Armando Maestre Pavajeau
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T213000Z_Alianza_Cruzeiro
+DTSTART;TZID=America/Montevideo:20240507T213000
+DTEND;TZID=America/Montevideo:20240507T233000
+SUMMARY:Alianza🇨🇴 vs. Cruzeiro🇧🇷
+DESCRIPTION:Grupo B - Rodada 4 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Armando Maestre Pavajeau
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240509T230000Z_Universidad_Catolica_Union_La_Calera
+DTSTART;TZID=America/Montevideo:20240509T230000
+DTEND;TZID=America/Montevideo:20240510T010000
+SUMMARY:Universidad Católica🇪🇨 vs. Unión La Calera🇨🇱
+DESCRIPTION:Grupo B - Rodada 4 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico Atahualpa
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240516T210000Z_Cruzeiro_Union_La_Calera
+DTSTART;TZID=America/Montevideo:20240516T210000
+DTEND;TZID=America/Montevideo:20240516T230000
+SUMMARY:Cruzeiro🇧🇷 vs. Unión La Calera🇨🇱
+DESCRIPTION:Grupo B - Rodada 5 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Mineirão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240516T230000Z_Universidad_Catolica_Alianza
+DTSTART;TZID=America/Montevideo:20240516T230000
+DTEND;TZID=America/Montevideo:20240517T010000
+SUMMARY:Universidad Católica🇪🇨 vs. Alianza🇨🇴
+DESCRIPTION:Grupo B - Rodada 5 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico Atahualpa
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240530T210000Z_Cruzeiro_Universidad_Catolica
+DTSTART;TZID=America/Montevideo:20240530T210000
+DTEND;TZID=America/Montevideo:20240530T230000
+SUMMARY:Cruzeiro🇧🇷 vs Universidad Católica🇪🇨
+DESCRIPTION:Grupo B - Rodada 6 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Mineirão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240530T210000Z_Union_La_Calera_Alianza
+DTSTART;TZID=America/Montevideo:20240530T210000
+DTEND;TZID=America/Montevideo:20240530T230000
+SUMMARY:Unión La Calera🇨🇱 vs. Alianza🇨🇴
+DESCRIPTION:Grupo B - Rodada 6 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Municipal Alcaldesa Ester Roa Rebolledo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240717T190000Z_Libertad_Universidad_Catolica
+DTSTART;TZID=America/Montevideo:20240717T190000
+DTEND;TZID=America/Montevideo:20240717T210000
+SUMMARY:Libertad🇵🇾 vs. Universidad Católica🇪🇨
+DESCRIPTION:Play-offs - Ida - Copa Sul-Americana
+LOCATION:Estádio Defensores del Chaco, Asunción
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240724T190000Z_Universidad_Catolica_Libertad
+DTSTART;TZID=America/Montevideo:20240724T190000
+DTEND;TZID=America/Montevideo:20240724T210000
+SUMMARY:Universidad Católica🇪🇨 vs. Libertad🇵🇾
+DESCRIPTION:Play-offs - Volta - Copa Sul-Americana
+LOCATION:Estádio Olímpico Atahualpa, Quito
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240815T213000Z_Boca_Juniors_Cruzeiro
+DTSTART;TZID=America/Montevideo:20240815T213000
+DTEND;TZID=America/Montevideo:20240815T233000
+SUMMARY:Boca Juniors🇦🇷 vs. Cruzeiro🇧🇷
+DESCRIPTION:Oitavas de final - Ida - Copa Sul-Americana
+LOCATION:La Bombonera, Buenos Aires
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240822T213000Z_Cruzeiro_Boca_Juniors
+DTSTART;TZID=America/Montevideo:20240822T213000
+DTEND;TZID=America/Montevideo:20240822T233000
+SUMMARY:Cruzeiro🇧🇷 vs. Boca Juniors🇦🇷
+DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana
+LOCATION:Mineirão, Belo Horizonte
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240919T213000Z_Libertad_Cruzeiro
+DTSTART;TZID=America/Montevideo:20240919T213000
+DTEND;TZID=America/Montevideo:20240919T233000
+SUMMARY:Libertad🇵🇾 vs. Cruzeiro🇧🇷
+DESCRIPTION:Quartas de final - Ida - Copa Sul-Americana
+LOCATION:Estádio Defensores del Chaco, Asunción
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240926T213000Z_Cruzeiro_Libertad
+DTSTART;TZID=America/Montevideo:20240926T213000
+DTEND;TZID=America/Montevideo:20240926T233000
+SUMMARY:Cruzeiro🇧🇷 vs. Libertad🇵🇾
+DESCRIPTION:Quartas de final - Volta - Copa Sul-Americana
+LOCATION:Mineirão, Belo Horizonte
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20241023T190000Z_Cruzeiro_Lanus
+DTSTART;TZID=America/Montevideo:20241023T190000
+DTEND;TZID=America/Montevideo:20241023T210000
+SUMMARY:Cruzeiro🇧🇷 vs. Lanús🇦🇷
+DESCRIPTION:Semifinal - Ida - Copa Sul-Americana
+LOCATION:Mineirão, Belo Horizonte
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20241030T190000Z_Lanus_Cruzeiro
+DTSTART;TZID=America/Montevideo:20241030T190000
+DTEND;TZID=America/Montevideo:20241030T210000
+SUMMARY:Lanús🇦🇷 vs. Cruzeiro🇧🇷
+DESCRIPTION:Semifinal - Volta - Copa Sul-Americana
+LOCATION:Estádio Ciudad de Lanús, Lanús
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20241123T170000Z_Racing_Arg_Cruzeiro
+DTSTART;TZID=America/Montevideo:20241123T170000
+DTEND;TZID=America/Montevideo:20241123T190000
+SUMMARY:Racing(Arg)🇦🇷 vs. Cruzeiro🇧🇷
+DESCRIPTION:Final - Copa Sul-Americana
+LOCATION:Estádio General Pablo Rojas, Asunción
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

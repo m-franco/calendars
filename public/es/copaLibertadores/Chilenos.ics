@@ -1,0 +1,963 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//ES
+BEGIN:VEVENT
+UID:20240402T190000Z_Cobresal_Barcelona
+DTSTART;TZID=America/Montevideo:20240402T190000
+DTEND;TZID=America/Montevideo:20240402T210000
+SUMMARY:Cobresal🇨🇱 vs. Barcelona🇪🇨
+DESCRIPTION:Grupo B - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Zorros del Desierto
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240402T210000Z_Huachipato_Estudiantes
+DTSTART;TZID=America/Montevideo:20240402T210000
+DTEND;TZID=America/Montevideo:20240402T230000
+SUMMARY:Huachipato🇨🇱 vs. Estudiantes🇦🇷
+DESCRIPTION:Grupo C - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Huachipato
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240403T210000Z_ColoColo_CerroPorteño
+DTSTART;TZID=America/Montevideo:20240403T210000
+DTEND;TZID=America/Montevideo:20240403T230000
+SUMMARY:Colo-Colo🇨🇱 vs. Cerro Porteño🇵🇾
+DESCRIPTION:Grupo A - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Monumental David Arellano
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240404T210000Z_Palestino_Bolívar
+DTSTART;TZID=America/Montevideo:20240404T210000
+DTEND;TZID=America/Montevideo:20240404T230000
+SUMMARY:Palestino🇨🇱 vs. Bolívar🇧🇴
+DESCRIPTION:Grupo E - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio a definir
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T190000Z_Flamengo_Palestino
+DTSTART;TZID=America/Montevideo:20240409T190000
+DTEND;TZID=America/Montevideo:20240409T210000
+SUMMARY:Flamengo🇧🇷 vs. Palestino🇨🇱
+DESCRIPTION:Grupo E - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Maracaná
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T190000Z_Gremio_Huachipato
+DTSTART;TZID=America/Montevideo:20240409T190000
+DTEND;TZID=America/Montevideo:20240409T210000
+SUMMARY:Gremio🇧🇷 vs. Huachipato🇨🇱
+DESCRIPTION:Grupo C - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Arena Do Gremio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T213000Z_Fluminense_ColoColo
+DTSTART;TZID=America/Montevideo:20240409T213000
+DTEND;TZID=America/Montevideo:20240409T233000
+SUMMARY:Fluminense🇧🇷 vs. Colo-Colo🇨🇱
+DESCRIPTION:Grupo A - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Maracaná
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T213000Z_SanPablo_Cobresal
+DTSTART;TZID=America/Montevideo:20240410T213000
+DTEND;TZID=America/Montevideo:20240410T233000
+SUMMARY:San Pablo🇧🇷 vs. Cobresal🇨🇱
+DESCRIPTION:Grupo B - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Morumbí
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240423T190000Z_ColoColo_AlianzaLima
+DTSTART;TZID=America/Montevideo:20240423T190000
+DTEND;TZID=America/Montevideo:20240423T210000
+SUMMARY:Colo-Colo🇨🇱 vs. Alianza Lima🇵🇪
+DESCRIPTION:Grupo A - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Monumental David Arellano
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240424T190000Z_Huachipato_TheStrongest
+DTSTART;TZID=America/Montevideo:20240424T190000
+DTEND;TZID=America/Montevideo:20240424T210000
+SUMMARY:Huachipato🇨🇱 vs. The Strongest🇧🇴
+DESCRIPTION:Grupo C - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Huachipato
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T190000Z_Cobresal_Talleres
+DTSTART;TZID=America/Montevideo:20240425T190000
+DTEND;TZID=America/Montevideo:20240425T210000
+SUMMARY:Cobresal🇨🇱 vs. Talleres🇦🇷
+DESCRIPTION:Grupo B - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Zorros del Desierto
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T210000Z_Palestino_Millonarios
+DTSTART;TZID=America/Montevideo:20240425T210000
+DTEND;TZID=America/Montevideo:20240425T230000
+SUMMARY:Palestino🇨🇱 vs. Millonarios🇨🇴
+DESCRIPTION:Grupo E - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio a definir
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T210000Z_Palestino_Flamengo
+DTSTART;TZID=America/Montevideo:20240507T210000
+DTEND;TZID=America/Montevideo:20240507T230000
+SUMMARY:Palestino🇨🇱 vs. Flamengo🇧🇷
+DESCRIPTION:Grupo E - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio a definir
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240508T213000Z_Cobresal_SanPablo
+DTSTART;TZID=America/Montevideo:20240508T213000
+DTEND;TZID=America/Montevideo:20240508T233000
+SUMMARY:Cobresal🇨🇱 vs. San Pablo🇧🇷
+DESCRIPTION:Grupo B - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Zorros del Desierto
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240509T210000Z_ColoColo_Fluminense
+DTSTART;TZID=America/Montevideo:20240509T210000
+DTEND;TZID=America/Montevideo:20240509T230000
+SUMMARY:Colo-Colo🇨🇱 vs. Fluminense🇧🇷
+DESCRIPTION:Grupo A - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Monumental David Arellano
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240514T190000Z_Talleres_Cobresal
+DTSTART;TZID=America/Montevideo:20240514T190000
+DTEND;TZID=America/Montevideo:20240514T210000
+SUMMARY:Talleres🇦🇷 vs. Cobresal🇨🇱
+DESCRIPTION:Grupo B - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Mario Alberto Kempes
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240514T230000Z_Millonarios_Palestino
+DTSTART;TZID=America/Montevideo:20240514T230000
+DTEND;TZID=America/Montevideo:20240515T010000
+SUMMARY:Millonarios🇨🇴 vs. Palestino🇨🇱
+DESCRIPTION:Grupo E - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Nemesio Camacho
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T190000Z_TheStrongest_Huachipato
+DTSTART;TZID=America/Montevideo:20240515T190000
+DTEND;TZID=America/Montevideo:20240515T210000
+SUMMARY:The Strongest🇧🇴 vs. Huachipato🇨🇱
+DESCRIPTION:Grupo C - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Hernando Siles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T210000Z_AlianzaLima_ColoColo
+DTSTART;TZID=America/Montevideo:20240515T210000
+DTEND;TZID=America/Montevideo:20240515T230000
+SUMMARY:Alianza Lima🇵🇪 vs. Colo-Colo🇨🇱
+DESCRIPTION:Grupo A - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Alejandro Villanueva
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240528T210000Z_Bolívar_Palestino
+DTSTART;TZID=America/Montevideo:20240528T210000
+DTEND;TZID=America/Montevideo:20240528T230000
+SUMMARY:Bolívar🇧🇴 vs. Palestino🇨🇱
+DESCRIPTION:Grupo E - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Hernando Siles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240529T190000Z_Estudiantes_Huachipato
+DTSTART;TZID=America/Montevideo:20240529T190000
+DTEND;TZID=America/Montevideo:20240529T210000
+SUMMARY:Estudiantes🇦🇷 vs. Huachipato🇨🇱
+DESCRIPTION:Grupo C - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio UNO Jorge Luis Hirschi
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240529T213000Z_Barcelona_Cobresal
+DTSTART;TZID=America/Montevideo:20240529T213000
+DTEND;TZID=America/Montevideo:20240529T233000
+SUMMARY:Barcelona🇪🇨 vs. Cobresal🇨🇱
+DESCRIPTION:Grupo B - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Monumental Banco Pichincha
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240529T213000Z_CerroPorteño_ColoColo
+DTSTART;TZID=America/Montevideo:20240529T213000
+DTEND;TZID=America/Montevideo:20240529T233000
+SUMMARY:Cerro Porteño🇵🇾 vs. Colo-Colo🇨🇱
+DESCRIPTION:Grupo A - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Ueno La Nueva Olla
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240604T210000Z_Huachipato_Gremio
+DTSTART;TZID=America/Montevideo:20240604T210000
+DTEND;TZID=America/Montevideo:20240604T230000
+SUMMARY:Huachipato🇨🇱 vs. Gremio🇧🇷
+DESCRIPTION:Grupo C - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Huachipato
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240813T213000Z_ColoColo_Junior
+DTSTART;TZID=America/Montevideo:20240813T213000
+DTEND;TZID=America/Montevideo:20240813T233000
+SUMMARY:Colo Colo🇨🇱 vs. Junior🇨🇴
+DESCRIPTION:Octavos de final - Ida - Copa Libertadores
+LOCATION:Estadio Monumental David Arellano
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240820T213000Z_Junior_ColoColo
+DTSTART;TZID=America/Montevideo:20240820T213000
+DTEND;TZID=America/Montevideo:20240820T233000
+SUMMARY:Junior🇨🇴 vs. Colo Colo🇨🇱
+DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
+LOCATION:Estadio Metropolitano Roberto Meléndez
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240917T213000Z_ColoColo_RiverPlate
+DTSTART;TZID=America/Montevideo:20240917T213000
+DTEND;TZID=America/Montevideo:20240917T233000
+SUMMARY:Colo Colo🇨🇱 vs. River Plate🇦🇷
+DESCRIPTION:Cuartos de final - Ida - Copa Libertadores
+LOCATION:Estadio Monumental, Santiago
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240924T213000Z_RiverPlate_ColoColo
+DTSTART;TZID=America/Montevideo:20240924T213000
+DTEND;TZID=America/Montevideo:20240924T233000
+SUMMARY:River Plate🇦🇷 vs. Colo Colo🇨🇱
+DESCRIPTION:Cuartos de final - Vuelta - Copa Libertadores
+LOCATION:Estadio Monumental, Buenos Aires
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250401T190000Z_DeportesIquique_Caracas
+DTSTART;TZID=America/Montevideo:20250401T190000
+DTEND;TZID=America/Montevideo:20250401T210000
+SUMMARY:Deportes Iquique🇨🇱 vs. Caracas🇻🇪
+DESCRIPTION:Grupo H - Fecha 1 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Tierra de Campeones (old)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250401T213000Z_AtleticoBucaramanga_ColoColo
+DTSTART;TZID=America/Montevideo:20250401T213000
+DTEND;TZID=America/Montevideo:20250401T233000
+SUMMARY:Atlético Bucaramanga🇨🇴 vs. Colo-Colo🇨🇱
+DESCRIPTION:Grupo E - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Américo Montanini
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250402T213000Z_UniversidadDeChile_Botafogo
+DTSTART;TZID=America/Montevideo:20250402T213000
+DTEND;TZID=America/Montevideo:20250402T233000
+SUMMARY:Universidad de Chile🇨🇱 vs. Botafogo🇧🇷
+DESCRIPTION:Grupo A - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Nacional Julio Martínez Prádanos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250403T190000Z_GVSanJose_UnionEspanola
+DTSTART;TZID=America/Montevideo:20250403T190000
+DTEND;TZID=America/Montevideo:20250403T210000
+SUMMARY:GV San José🇧🇴 vs. Unión Española🇨🇱
+DESCRIPTION:Grupo F - Fecha 1 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Hernando Siles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250403T230000Z_MushucRuna_Palestino
+DTSTART;TZID=America/Montevideo:20250403T230000
+DTEND;TZID=America/Montevideo:20250404T010000
+SUMMARY:Mushuc Runa🇪🇨 vs. Palestino🇨🇱
+DESCRIPTION:Grupo E - Fecha 1 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Fernando Guerrero Guerrero
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250408T213000Z_Estudiantes_UniversidadDeChile
+DTSTART;TZID=America/Montevideo:20250408T213000
+DTEND;TZID=America/Montevideo:20250408T233000
+SUMMARY:Estudiantes🇦🇷 vs. Universidad de Chile🇨🇱
+DESCRIPTION:Grupo A - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Jorge Luis Hirschi
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250409T190000Z_Palestino_Union
+DTSTART;TZID=America/Montevideo:20250409T190000
+DTEND;TZID=America/Montevideo:20250409T210000
+SUMMARY:Palestino🇨🇱 vs. Unión🇦🇷
+DESCRIPTION:Grupo E - Fecha 2 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Nacional Julio Martínez Prádanos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250409T213000Z_UnionEspanola_OnceCaldas
+DTSTART;TZID=America/Montevideo:20250409T213000
+DTEND;TZID=America/Montevideo:20250409T233000
+SUMMARY:Unión Española🇨🇱 vs. Once Caldas🇨🇴
+DESCRIPTION:Grupo F - Fecha 2 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Sausalito
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250410T210000Z_ColoColo_Fortaleza
+DTSTART;TZID=America/Montevideo:20250410T210000
+DTEND;TZID=America/Montevideo:20250410T230000
+SUMMARY:Colo-Colo🇨🇱 vs. Fortaleza🇧🇷
+DESCRIPTION:Grupo E - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Monumental David Arellano
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250410T213000Z_AtleticoMineiro_DeportesIquique
+DTSTART;TZID=America/Montevideo:20250410T213000
+DTEND;TZID=America/Montevideo:20250410T233000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Deportes Iquique🇨🇱
+DESCRIPTION:Grupo H - Fecha 2 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Mineirão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250422T200000Z_Carabobo_UniversidadDeChile
+DTSTART;TZID=America/Montevideo:20250422T200000
+DTEND;TZID=America/Montevideo:20250422T220000
+SUMMARY:Carabobo🇻🇪 vs. Universidad de Chile🇨🇱
+DESCRIPTION:Grupo A - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Misael Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250422T213000Z_ColoColo_Racing
+DTSTART;TZID=America/Montevideo:20250422T213000
+DTEND;TZID=America/Montevideo:20250422T233000
+SUMMARY:Colo-Colo🇨🇱 vs. Racing🇦🇷
+DESCRIPTION:Grupo E - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Monumental David Arellano
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250423T190000Z_UnionEspanola_Fluminense
+DTSTART;TZID=America/Montevideo:20250423T190000
+DTEND;TZID=America/Montevideo:20250423T210000
+SUMMARY:Unión Española🇨🇱 vs. Fluminense🇧🇷
+DESCRIPTION:Grupo F - Fecha 3 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Municipal de La Florida
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250424T213000Z_DeportesIquique_Cienciano
+DTSTART;TZID=America/Montevideo:20250424T213000
+DTEND;TZID=America/Montevideo:20250424T233000
+SUMMARY:Deportes Iquique🇨🇱 vs. Cienciano🇵🇪
+DESCRIPTION:Grupo H - Fecha 3 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Tierra de Campeones (old)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250424T213000Z_Palestino_Cruzeiro
+DTSTART;TZID=America/Montevideo:20250424T213000
+DTEND;TZID=America/Montevideo:20250424T233000
+SUMMARY:Palestino🇨🇱 vs. Cruzeiro🇧🇷
+DESCRIPTION:Grupo E - Fecha 3 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Francisco Sánchez Rumoroso
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250506T213000Z_Fortaleza_ColoColo
+DTSTART;TZID=America/Montevideo:20250506T213000
+DTEND;TZID=America/Montevideo:20250506T233000
+SUMMARY:Fortaleza🇧🇷 vs. Colo-Colo🇨🇱
+DESCRIPTION:Grupo E - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Castelão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250507T190000Z_Union_Palestino
+DTSTART;TZID=America/Montevideo:20250507T190000
+DTEND;TZID=America/Montevideo:20250507T210000
+SUMMARY:Unión🇦🇷 vs. Palestino🇨🇱
+DESCRIPTION:Grupo E - Fecha 4 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:15 de Abril
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250507T210000Z_UniversidadDeChile_Estudiantes
+DTSTART;TZID=America/Montevideo:20250507T210000
+DTEND;TZID=America/Montevideo:20250507T230000
+SUMMARY:Universidad de Chile🇨🇱 vs. Estudiantes🇦🇷
+DESCRIPTION:Grupo A - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Nacional Julio Martínez Prádanos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250507T230000Z_OnceCaldas_UnionEspanola
+DTSTART;TZID=America/Montevideo:20250507T230000
+DTEND;TZID=America/Montevideo:20250508T010000
+SUMMARY:Once Caldas🇨🇴 vs. Unión Española🇨🇱
+DESCRIPTION:Grupo F - Fecha 4 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Palogrande
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250508T190000Z_DeportesIquique_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20250508T190000
+DTEND;TZID=America/Montevideo:20250508T210000
+SUMMARY:Deportes Iquique🇨🇱 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Grupo H - Fecha 4 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Tierra de Campeones (old)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250513T213000Z_UniversidadDeChile_Carabobo
+DTSTART;TZID=America/Montevideo:20250513T213000
+DTEND;TZID=America/Montevideo:20250513T233000
+SUMMARY:Universidad de Chile🇨🇱 vs. Carabobo🇻🇪
+DESCRIPTION:Grupo A - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Nacional Julio Martínez Prádanos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250514T190000Z_Fluminense_UnionEspanola
+DTSTART;TZID=America/Montevideo:20250514T190000
+DTEND;TZID=America/Montevideo:20250514T210000
+SUMMARY:Fluminense🇧🇷 vs. Unión Española🇨🇱
+DESCRIPTION:Grupo F - Fecha 5 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio do Maracana
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250514T213000Z_Racing_ColoColo
+DTSTART;TZID=America/Montevideo:20250514T213000
+DTEND;TZID=America/Montevideo:20250514T233000
+SUMMARY:Racing🇦🇷 vs. Colo-Colo🇨🇱
+DESCRIPTION:Grupo E - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Presidente Perón (Cilindro de Avellaneda)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250514T213000Z_Cruzeiro_Palestino
+DTSTART;TZID=America/Montevideo:20250514T213000
+DTEND;TZID=America/Montevideo:20250514T233000
+SUMMARY:Cruzeiro🇧🇷 vs. Palestino🇨🇱
+DESCRIPTION:Grupo E - Fecha 5 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Mineirão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250515T230000Z_Cienciano_DeportesIquique
+DTSTART;TZID=America/Montevideo:20250515T230000
+DTEND;TZID=America/Montevideo:20250516T010000
+SUMMARY:Cienciano🇵🇪 vs. Deportes Iquique🇨🇱
+DESCRIPTION:Grupo H - Fecha 5 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Inca Garcilaso de la Vega
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250527T213000Z_Botafogo_UniversidadDeChile
+DTSTART;TZID=America/Montevideo:20250527T213000
+DTEND;TZID=America/Montevideo:20250527T233000
+SUMMARY:Botafogo🇧🇷 vs. Universidad de Chile🇨🇱
+DESCRIPTION:Grupo A - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico Nilton Santos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250528T213000Z_Palestino_MushucRuna
+DTSTART;TZID=America/Montevideo:20250528T213000
+DTEND;TZID=America/Montevideo:20250528T233000
+SUMMARY:Palestino🇨🇱 vs. Mushuc Runa🇪🇨
+DESCRIPTION:Grupo E - Fecha 6 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Municipal de La Florida
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250529T213000Z_ColoColo_AtleticoBucaramanga
+DTSTART;TZID=America/Montevideo:20250529T213000
+DTEND;TZID=America/Montevideo:20250529T233000
+SUMMARY:Colo-Colo🇨🇱 vs. Atlético Bucaramanga🇨🇴
+DESCRIPTION:Grupo E - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Monumental David Arellano
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250529T213000Z_Caracas_DeportesIquique
+DTSTART;TZID=America/Montevideo:20250529T213000
+DTEND;TZID=America/Montevideo:20250529T233000
+SUMMARY:Caracas🇻🇪 vs. Deportes Iquique🇨🇱
+DESCRIPTION:Grupo H - Fecha 6 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Olímpico de la UCV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250529T213000Z_UnionEspanola_GVSanJose
+DTSTART;TZID=America/Montevideo:20250529T213000
+DTEND;TZID=America/Montevideo:20250529T233000
+SUMMARY:Unión Española🇨🇱 vs. GV San José🇧🇴
+DESCRIPTION:Grupo F - Fecha 6 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Municipal de La Florida
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250716T190000Z_Bolivar_Palestino
+DTSTART;TZID=America/Montevideo:20250716T190000
+DTEND;TZID=America/Montevideo:20250716T210000
+SUMMARY:Bolívar🇧🇴 vs. Palestino🇨🇱
+DESCRIPTION:Play-offs - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Hernando Siles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250717T190000Z_UniversidadDeChile_Guarani
+DTSTART;TZID=America/Montevideo:20250717T190000
+DTEND;TZID=America/Montevideo:20250717T210000
+SUMMARY:Universidad de Chile🇨🇱 vs. Guaraní🇵🇾
+DESCRIPTION:Play-offs - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Nacional Julio Martínez Prádanos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250723T190000Z_Palestino_Bolivar
+DTSTART;TZID=America/Montevideo:20250723T190000
+DTEND;TZID=America/Montevideo:20250723T210000
+SUMMARY:Palestino🇨🇱 vs. Bolívar🇧🇴
+DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Nacional Julio Martínez Prádanos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250724T190000Z_Guarani_UniversidadDeChile
+DTSTART;TZID=America/Montevideo:20250724T190000
+DTEND;TZID=America/Montevideo:20250724T210000
+SUMMARY:Guaraní🇵🇾 vs. Universidad de Chile🇨🇱
+DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio ueno La Nueva Olla
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250813T213000Z_UniversidadDeChile_Independiente
+DTSTART;TZID=America/Montevideo:20250813T213000
+DTEND;TZID=America/Montevideo:20250813T233000
+SUMMARY:Universidad de Chile🇨🇱 vs. Independiente🇦🇷
+DESCRIPTION:Octavos de final - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Nacional Julio Martínez Prádanos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250820T213000Z_Independiente_UniversidadDeChile
+DTSTART;TZID=America/Montevideo:20250820T213000
+DTEND;TZID=America/Montevideo:20250820T233000
+SUMMARY:Independiente🇦🇷 vs. Universidad de Chile🇨🇱
+DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Libertadores de América
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250918T213000Z_AlianzaLima_UniversidadDeChile
+DTSTART;TZID=America/Montevideo:20250918T213000
+DTEND;TZID=America/Montevideo:20250918T233000
+SUMMARY:Alianza Lima🇵🇪 vs. Universidad de Chile🇨🇱
+DESCRIPTION:Cuartos de final - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Alejandro Villanueva
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250925T213000Z_UniversidadDeChile_AlianzaLima
+DTSTART;TZID=America/Montevideo:20250925T213000
+DTEND;TZID=America/Montevideo:20250925T233000
+SUMMARY:Universidad de Chile🇨🇱 vs. Alianza Lima🇵🇪
+DESCRIPTION:Cuartos de final - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Francisco Sánchez Rumoroso
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251023T190000Z_UniversidadDeChile_Lanus
+DTSTART;TZID=America/Montevideo:20251023T190000
+DTEND;TZID=America/Montevideo:20251023T210000
+SUMMARY:Universidad de Chile🇨🇱 vs. Lanús🇦🇷
+DESCRIPTION:Semifinal - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Nacional Julio Martínez Prádanos
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251030T190000Z_Lanus_UniversidadDeChile
+DTSTART;TZID=America/Montevideo:20251030T190000
+DTEND;TZID=America/Montevideo:20251030T210000
+SUMMARY:Lanús🇦🇷 vs. Universidad de Chile🇨🇱
+DESCRIPTION:Semifinal - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Ciudad de Lanús
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260407T210000Z_OHiggins_Millonarios
+DTSTART;TZID=America/Montevideo:20260407T210000
+DTEND;TZID=America/Montevideo:20260407T230000
+SUMMARY:O'Higgins🇨🇱 vs. Millonarios🇨🇴
+DESCRIPTION:Grupo C - Fecha 1 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio El Teniente
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260408T190000Z_CoquimboUnido_Nacional
+DTSTART;TZID=America/Montevideo:20260408T190000
+DTEND;TZID=America/Montevideo:20260408T210000
+SUMMARY:Coquimbo Unido🇨🇱 vs. Nacional🇺🇾
+DESCRIPTION:Grupo B - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Francisco Sánchez Rumoroso
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260408T190000Z_DeportivoRiestra_Palestino
+DTSTART;TZID=America/Montevideo:20260408T190000
+DTEND;TZID=America/Montevideo:20260408T210000
+SUMMARY:Deportivo Riestra🇦🇷 vs. Palestino🇨🇱
+DESCRIPTION:Grupo F - Fecha 1 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Pedro Bidegain
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260408T210000Z_AudaxItaliano_Olimpia
+DTSTART;TZID=America/Montevideo:20260408T210000
+DTEND;TZID=America/Montevideo:20260408T230000
+SUMMARY:Audax Italiano🇨🇱 vs. Olimpia🇵🇾
+DESCRIPTION:Grupo G - Fecha 1 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Municipal de La Florida
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260414T190000Z_SanPablo_OHiggins
+DTSTART;TZID=America/Montevideo:20260414T190000
+DTEND;TZID=America/Montevideo:20260414T210000
+SUMMARY:San Pablo🇧🇷 vs. O'Higgins🇨🇱
+DESCRIPTION:Grupo C - Fecha 2 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estádio Cícero Pompeu de Toledo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260414T210000Z_VascoDaGama_AudaxItaliano
+DTSTART;TZID=America/Montevideo:20260414T210000
+DTEND;TZID=America/Montevideo:20260414T230000
+SUMMARY:Vasco da Gama🇧🇷 vs. Audax Italiano🇨🇱
+DESCRIPTION:Grupo G - Fecha 2 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estádio São Januário
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260414T213000Z_Palestino_MontevideoCityTorque
+DTSTART;TZID=America/Montevideo:20260414T213000
+DTEND;TZID=America/Montevideo:20260414T233000
+SUMMARY:Palestino🇨🇱 vs. Montevideo City Torque🇺🇾
+DESCRIPTION:Grupo F - Fecha 2 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Municipal de La Cisterna
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260414T230000Z_Universitario_CoquimboUnido
+DTSTART;TZID=America/Montevideo:20260414T230000
+DTEND;TZID=America/Montevideo:20260415T010000
+SUMMARY:Universitario🇵🇪 vs. Coquimbo Unido🇨🇱
+DESCRIPTION:Grupo B - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Monumental de Lima
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260428T210000Z_BarracasCentral_AudaxItaliano
+DTSTART;TZID=America/Montevideo:20260428T210000
+DTEND;TZID=America/Montevideo:20260428T230000
+SUMMARY:Barracas Central🇦🇷 vs. Audax Italiano🇨🇱
+DESCRIPTION:Grupo G - Fecha 3 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Florencio Solá
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260428T230000Z_DeportesTolima_CoquimboUnido
+DTSTART;TZID=America/Montevideo:20260428T230000
+DTEND;TZID=America/Montevideo:20260429T010000
+SUMMARY:Deportes Tolima🇨🇴 vs. Coquimbo Unido🇨🇱
+DESCRIPTION:Grupo B - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Manuel Murillo Toro
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260428T230000Z_OHiggins_BostonRiver
+DTSTART;TZID=America/Montevideo:20260428T230000
+DTEND;TZID=America/Montevideo:20260429T010000
+SUMMARY:O'Higgins🇨🇱 vs. Boston River🇺🇾
+DESCRIPTION:Grupo C - Fecha 3 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio El Teniente
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260429T213000Z_Palestino_Gremio
+DTSTART;TZID=America/Montevideo:20260429T213000
+DTEND;TZID=America/Montevideo:20260429T233000
+SUMMARY:Palestino🇨🇱 vs. Gremio🇧🇷
+DESCRIPTION:Grupo F - Fecha 3 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Municipal de La Cisterna
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260506T190000Z_AudaxItaliano_VascoDaGama
+DTSTART;TZID=America/Montevideo:20260506T190000
+DTEND;TZID=America/Montevideo:20260506T210000
+SUMMARY:Audax Italiano🇨🇱 vs. Vasco da Gama🇧🇷
+DESCRIPTION:Grupo G - Fecha 4 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Municipal de La Florida
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260506T190000Z_MontevideoCityTorque_Palestino
+DTSTART;TZID=America/Montevideo:20260506T190000
+DTEND;TZID=America/Montevideo:20260506T210000
+SUMMARY:Montevideo City Torque🇺🇾 vs. Palestino🇨🇱
+DESCRIPTION:Grupo F - Fecha 4 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260507T190000Z_OHiggins_SanPablo
+DTSTART;TZID=America/Montevideo:20260507T190000
+DTEND;TZID=America/Montevideo:20260507T210000
+SUMMARY:O'Higgins🇨🇱 vs. San Pablo🇧🇷
+DESCRIPTION:Grupo C - Fecha 4 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio El Teniente
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260507T210000Z_CoquimboUnido_Universitario
+DTSTART;TZID=America/Montevideo:20260507T210000
+DTEND;TZID=America/Montevideo:20260507T230000
+SUMMARY:Coquimbo Unido🇨🇱 vs. Universitario🇵🇪
+DESCRIPTION:Grupo B - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Francisco Sánchez Rumoroso
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260519T190000Z_CoquimboUnido_DeportesTolima
+DTSTART;TZID=America/Montevideo:20260519T190000
+DTEND;TZID=America/Montevideo:20260519T210000
+SUMMARY:Coquimbo Unido🇨🇱 vs. Deportes Tolima🇨🇴
+DESCRIPTION:Grupo B - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Francisco Sánchez Rumoroso
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260519T190000Z_AudaxItaliano_BarracasCentral
+DTSTART;TZID=America/Montevideo:20260519T190000
+DTEND;TZID=America/Montevideo:20260519T210000
+SUMMARY:Audax Italiano🇨🇱 vs. Barracas Central🇦🇷
+DESCRIPTION:Grupo G - Fecha 5 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Municipal de La Florida
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260520T190000Z_BostonRiver_OHiggins
+DTSTART;TZID=America/Montevideo:20260520T190000
+DTEND;TZID=America/Montevideo:20260520T210000
+SUMMARY:Boston River🇺🇾 vs. O'Higgins🇨🇱
+DESCRIPTION:Grupo C - Fecha 5 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260520T210000Z_Gremio_Palestino
+DTSTART;TZID=America/Montevideo:20260520T210000
+DTEND;TZID=America/Montevideo:20260520T230000
+SUMMARY:Gremio🇧🇷 vs. Palestino🇨🇱
+DESCRIPTION:Grupo F - Fecha 5 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Arena do Grêmio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260526T190000Z_Millonarios_OHiggins
+DTSTART;TZID=America/Montevideo:20260526T190000
+DTEND;TZID=America/Montevideo:20260526T210000
+SUMMARY:Millonarios🇨🇴 vs. O'Higgins🇨🇱
+DESCRIPTION:Grupo C - Fecha 6 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Nemesio Camacho El Campín
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260526T190000Z_Palestino_DeportivoRiestra
+DTSTART;TZID=America/Montevideo:20260526T190000
+DTEND;TZID=America/Montevideo:20260526T210000
+SUMMARY:Palestino🇨🇱 vs. Deportivo Riestra🇦🇷
+DESCRIPTION:Grupo F - Fecha 6 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Municipal de La Cisterna
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260526T213000Z_Nacional_CoquimboUnido
+DTSTART;TZID=America/Montevideo:20260526T213000
+DTEND;TZID=America/Montevideo:20260526T233000
+SUMMARY:Nacional🇺🇾 vs. Coquimbo Unido🇨🇱
+DESCRIPTION:Grupo B - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Gran Parque Central
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260527T190000Z_Olimpia_AudaxItaliano
+DTSTART;TZID=America/Montevideo:20260527T190000
+DTEND;TZID=America/Montevideo:20260527T210000
+SUMMARY:Olimpia🇵🇾 vs. Audax Italiano🇨🇱
+DESCRIPTION:Grupo G - Fecha 6 - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260723T213000Z_BocaJuniors_OHiggins
+DTSTART;TZID=America/Montevideo:20260723T213000
+DTEND;TZID=America/Montevideo:20260723T233000
+SUMMARY:Boca Juniors🇦🇷 vs. O'Higgins🇨🇱
+DESCRIPTION:Play-offs - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Alberto José Armando (La Bombonera)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260730T213000Z_OHiggins_BocaJuniors
+DTSTART;TZID=America/Montevideo:20260730T213000
+DTEND;TZID=America/Montevideo:20260730T233000
+SUMMARY:O'Higgins🇨🇱 vs. Boca Juniors🇦🇷
+DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio a definir
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260812T190000Z_Platense_CoquimboUnido
+DTSTART;TZID=America/Montevideo:20260812T190000
+DTEND;TZID=America/Montevideo:20260812T210000
+SUMMARY:Platense🇦🇷 vs. Coquimbo Unido🇨🇱
+DESCRIPTION:Octavos de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Ciudad de Vicente López
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260819T190000Z_CoquimboUnido_Platense
+DTSTART;TZID=America/Montevideo:20260819T190000
+DTEND;TZID=America/Montevideo:20260819T210000
+SUMMARY:Coquimbo Unido🇨🇱 vs. Platense🇦🇷
+DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio a definir
+END:VEVENT
+END:VCALENDAR

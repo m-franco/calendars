@@ -1,0 +1,143 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//PT
+BEGIN:VEVENT
+UID:20240404T230000Z_Always_Ready_Independiente_Medellin
+DTSTART;TZID=America/Montevideo:20240404T230000
+DTEND;TZID=America/Montevideo:20240405T010000
+SUMMARY:Always Ready🇧🇴 vs. Independiente de Medellín🇨🇴
+DESCRIPTION:Grupo A - Rodada 1 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Municipal Villa Ingenio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T190000Z_Defensa_y_Justicia_Always_Ready
+DTSTART;TZID=America/Montevideo:20240410T190000
+DTEND;TZID=America/Montevideo:20240410T210000
+SUMMARY:Defensa y Justicia🇦🇷 vs. Always Ready🇧🇴
+DESCRIPTION:Grupo A - Rodada 2 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Norberto Tomaghello
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T210000Z_Always_Ready_UCV
+DTSTART;TZID=America/Montevideo:20240425T210000
+DTEND;TZID=America/Montevideo:20240425T230000
+SUMMARY:Always Ready🇧🇴 vs. Universidad César Vallejo🇵🇪
+DESCRIPTION:Grupo A - Rodada 3 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Municipal Villa Ingenio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T230000Z_Always_Ready_Defensa_y_Justicia
+DTSTART;TZID=America/Montevideo:20240507T230000
+DTEND;TZID=America/Montevideo:20240508T010000
+SUMMARY:Always Ready🇧🇴 vs. Defensa y Justicia🇦🇷
+DESCRIPTION:Grupo A - Rodada 4 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Municipal Villa Ingenio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T230000Z_UCV_Always_Ready
+DTSTART;TZID=America/Montevideo:20240515T230000
+DTEND;TZID=America/Montevideo:20240516T010000
+SUMMARY:Universidad César Vallejo🇵🇪 vs. Always Ready🇧🇴
+DESCRIPTION:Grupo A - Rodada 5 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Mansiche
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240529T210000Z_Independiente_Medellin_Always_Ready
+DTSTART;TZID=America/Montevideo:20240529T210000
+DTEND;TZID=America/Montevideo:20240529T230000
+SUMMARY:Independiente de Medellín🇨🇴 vs. Always Ready🇧🇴
+DESCRIPTION:Grupo A - Rodada 6 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Atanasio Girardot
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240718T213000Z_LigaQuito_Always_Ready
+DTSTART;TZID=America/Montevideo:20240718T213000
+DTEND;TZID=America/Montevideo:20240718T233000
+SUMMARY:Liga de Quito🇪🇨 vs. Always Ready🇧🇴
+DESCRIPTION:Play-offs - Ida - Copa Sul-Americana
+LOCATION:Estádio Rodrigo Paz Delgado, Quito
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240725T213000Z_Always_Ready_LigaQuito
+DTSTART;TZID=America/Montevideo:20240725T213000
+DTEND;TZID=America/Montevideo:20240725T233000
+SUMMARY:Always Ready🇧🇴 vs. Liga de Quito🇪🇨
+DESCRIPTION:Play-offs - Volta - Copa Sul-Americana
+LOCATION:Estádio Municipal de Villa Ingenio, El Alto
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260407T210000Z_AlwaysReady_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20260407T210000
+DTEND;TZID=America/Montevideo:20260407T230000
+SUMMARY:Always Ready🇧🇴 vs. Liga de Quito🇪🇨
+DESCRIPTION:Grupo G - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Municipal Villa Ingenio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260416T190000Z_Lanus_AlwaysReady
+DTSTART;TZID=America/Montevideo:20260416T190000
+DTEND;TZID=America/Montevideo:20260416T210000
+SUMMARY:Lanús🇦🇷 vs. Always Ready🇧🇴
+DESCRIPTION:Grupo G - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Ciudad de Lanús
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260429T190000Z_Mirassol_AlwaysReady
+DTSTART;TZID=America/Montevideo:20260429T190000
+DTEND;TZID=America/Montevideo:20260429T210000
+SUMMARY:Mirassol🇧🇷 vs. Always Ready🇧🇴
+DESCRIPTION:Grupo G - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Municipal José Maria de Campos Maia
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260505T213000Z_AlwaysReady_Lanus
+DTSTART;TZID=America/Montevideo:20260505T213000
+DTEND;TZID=America/Montevideo:20260505T233000
+SUMMARY:Always Ready🇧🇴 vs. Lanús🇦🇷
+DESCRIPTION:Grupo G - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Municipal Villa Ingenio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260519T210000Z_AlwaysReady_Mirassol
+DTSTART;TZID=America/Montevideo:20260519T210000
+DTEND;TZID=America/Montevideo:20260519T230000
+SUMMARY:Always Ready🇧🇴 vs. Mirassol🇧🇷
+DESCRIPTION:Grupo G - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Tigo La Huerta
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260526T190000Z_LigaDeQuito_AlwaysReady
+DTSTART;TZID=America/Montevideo:20260526T190000
+DTEND;TZID=America/Montevideo:20260526T210000
+SUMMARY:Liga de Quito🇪🇨 vs. Always Ready🇧🇴
+DESCRIPTION:Grupo G - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+END:VCALENDAR

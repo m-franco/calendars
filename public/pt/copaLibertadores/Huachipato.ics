@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//PT
+BEGIN:VEVENT
+UID:20240402T210000Z_Huachipato_Estudiantes
+DTSTART;TZID=America/Montevideo:20240402T210000
+DTEND;TZID=America/Montevideo:20240402T230000
+SUMMARY:Huachipato🇨🇱 vs. Estudiantes🇦🇷
+DESCRIPTION:Grupo C - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Huachipato
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T190000Z_Gremio_Huachipato
+DTSTART;TZID=America/Montevideo:20240409T190000
+DTEND;TZID=America/Montevideo:20240409T210000
+SUMMARY:Gremio🇧🇷 vs. Huachipato🇨🇱
+DESCRIPTION:Grupo C - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Arena Do Gremio
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240424T190000Z_Huachipato_TheStrongest
+DTSTART;TZID=America/Montevideo:20240424T190000
+DTEND;TZID=America/Montevideo:20240424T210000
+SUMMARY:Huachipato🇨🇱 vs. The Strongest🇧🇴
+DESCRIPTION:Grupo C - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Huachipato
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T190000Z_TheStrongest_Huachipato
+DTSTART;TZID=America/Montevideo:20240515T190000
+DTEND;TZID=America/Montevideo:20240515T210000
+SUMMARY:The Strongest🇧🇴 vs. Huachipato🇨🇱
+DESCRIPTION:Grupo C - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Hernando Siles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240529T190000Z_Estudiantes_Huachipato
+DTSTART;TZID=America/Montevideo:20240529T190000
+DTEND;TZID=America/Montevideo:20240529T210000
+SUMMARY:Estudiantes🇦🇷 vs. Huachipato🇨🇱
+DESCRIPTION:Grupo C - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio UNO Jorge Luis Hirschi
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240604T210000Z_Huachipato_Gremio
+DTSTART;TZID=America/Montevideo:20240604T210000
+DTEND;TZID=America/Montevideo:20240604T230000
+SUMMARY:Huachipato🇨🇱 vs. Gremio🇧🇷
+DESCRIPTION:Grupo C - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Huachipato
+END:VEVENT
+END:VCALENDAR

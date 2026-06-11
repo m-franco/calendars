@@ -1,15 +1,19 @@
 ---
+import { langSegment, localizeUrlPath, type Lang } from "../i18n/ui";
+
 interface Props {
 	title: string;
 	href: string;
     imagePath: string;
     imgSrc: string;
     backgroundImage: string;
+    lang?: Lang;
 }
 
-const { href, title, imagePath, imgSrc, backgroundImage } = Astro.props;
+const { href, title, imagePath, imgSrc, backgroundImage, lang = "es" } = Astro.props;
 const isWorldCup = imgSrc.includes("mundial/");
 const cardBackgroundImage = `url(${imagePath}${backgroundImage})`;
+const linkHref = `${imagePath}${langSegment(lang)}${localizeUrlPath(href, lang)}`;
 ---
 
 <li class={`link-card w-80 h-80 flex items-center justify-center bg-center bg-cover`}
@@ -18,7 +22,7 @@ const cardBackgroundImage = `url(${imagePath}${backgroundImage})`;
         "--worldcup-card-background": cardBackgroundImage,
         }}
  >
-	<a href={`${imagePath}${href}`}
+	<a href={linkHref}
     >
         <img class={isWorldCup ? "worldcup-logo max-h-60 w-60 object-contain" : "max-h-56 w-56 object-contain"}
         src={`${imagePath}${imgSrc}`}

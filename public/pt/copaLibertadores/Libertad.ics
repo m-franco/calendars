@@ -1,0 +1,203 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//PT
+BEGIN:VEVENT
+UID:20240403T190000Z_Nacional_Libertad
+DTSTART;TZID=America/Montevideo:20240403T190000
+DTEND;TZID=America/Montevideo:20240403T210000
+SUMMARY:Nacional🇺🇾 vs. Libertad🇵🇾
+DESCRIPTION:Grupo H - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Gran Parque Central
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T210000Z_Libertad_DeportivoTachira
+DTSTART;TZID=America/Montevideo:20240409T210000
+DTEND;TZID=America/Montevideo:20240409T230000
+SUMMARY:Libertad🇵🇾 vs. Deportivo Táchira🇻🇪
+DESCRIPTION:Grupo H - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio La Huerta
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240424T210000Z_Libertad_River
+DTSTART;TZID=America/Montevideo:20240424T210000
+DTEND;TZID=America/Montevideo:20240424T230000
+SUMMARY:Libertad🇵🇾 vs. River🇦🇷
+DESCRIPTION:Grupo H - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T210000Z_DeportivoTachira_Libertad
+DTSTART;TZID=America/Montevideo:20240507T210000
+DTEND;TZID=America/Montevideo:20240507T230000
+SUMMARY:Deportivo Táchira🇻🇪 vs. Libertad🇵🇾
+DESCRIPTION:Grupo H - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Polideportivo de Pueblo Nuevo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240514T210000Z_River_Libertad
+DTSTART;TZID=America/Montevideo:20240514T210000
+DTEND;TZID=America/Montevideo:20240514T230000
+SUMMARY:River🇦🇷 vs. Libertad🇵🇾
+DESCRIPTION:Grupo H - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Monumental
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240530T210000Z_Libertad_Nacional
+DTSTART;TZID=America/Montevideo:20240530T210000
+DTEND;TZID=America/Montevideo:20240530T230000
+SUMMARY:Libertad🇵🇾 vs. Nacional🇺🇾
+DESCRIPTION:Grupo H - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250401T230000Z_AlianzaLima_Libertad
+DTSTART;TZID=America/Montevideo:20250401T230000
+DTEND;TZID=America/Montevideo:20250402T010000
+SUMMARY:Alianza Lima🇵🇪 vs. Libertad🇵🇾
+DESCRIPTION:Grupo D - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Alejandro Villanueva
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250408T190000Z_Libertad_Talleres
+DTSTART;TZID=America/Montevideo:20250408T190000
+DTEND;TZID=America/Montevideo:20250408T210000
+SUMMARY:Libertad🇵🇾 vs. Talleres🇦🇷
+DESCRIPTION:Grupo D - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Tigo La Huerta
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250423T213000Z_Libertad_SanPablo
+DTSTART;TZID=America/Montevideo:20250423T213000
+DTEND;TZID=America/Montevideo:20250423T233000
+SUMMARY:Libertad🇵🇾 vs. San Pablo🇧🇷
+DESCRIPTION:Grupo D - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Tigo La Huerta
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250508T190000Z_Talleres_Libertad
+DTSTART;TZID=America/Montevideo:20250508T190000
+DTEND;TZID=America/Montevideo:20250508T210000
+SUMMARY:Talleres🇦🇷 vs. Libertad🇵🇾
+DESCRIPTION:Grupo D - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Mario Alberto Kempes
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250514T213000Z_SanPablo_Libertad
+DTSTART;TZID=America/Montevideo:20250514T213000
+DTEND;TZID=America/Montevideo:20250514T233000
+SUMMARY:San Pablo🇧🇷 vs. Libertad🇵🇾
+DESCRIPTION:Grupo D - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:MorumBIS
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250527T193000Z_Libertad_AlianzaLima
+DTSTART;TZID=America/Montevideo:20250527T193000
+DTEND;TZID=America/Montevideo:20250527T213000
+SUMMARY:Libertad🇵🇾 vs. Alianza Lima🇵🇪
+DESCRIPTION:Grupo D - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Tigo La Huerta
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250814T213000Z_Libertad_River
+DTSTART;TZID=America/Montevideo:20250814T213000
+DTEND;TZID=America/Montevideo:20250814T233000
+SUMMARY:Libertad🇵🇾 vs. River🇦🇷
+DESCRIPTION:Oitavas de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Tigo La Huerta
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250821T213000Z_River_Libertad
+DTSTART;TZID=America/Montevideo:20250821T213000
+DTEND;TZID=America/Montevideo:20250821T233000
+SUMMARY:River🇦🇷 vs. Libertad🇵🇾
+DESCRIPTION:Oitavas de final - Volta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Más Monumental
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260409T190000Z_UniversidadCentral_Libertad
+DTSTART;TZID=America/Montevideo:20260409T190000
+DTEND;TZID=America/Montevideo:20260409T210000
+SUMMARY:Universidad Central🇻🇪 vs. Libertad🇵🇾
+DESCRIPTION:Grupo H - Rodada 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico de la UCV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260415T190000Z_Libertad_RosarioCentral
+DTSTART;TZID=America/Montevideo:20260415T190000
+DTEND;TZID=America/Montevideo:20260415T210000
+SUMMARY:Libertad🇵🇾 vs. Rosario Central🇦🇷
+DESCRIPTION:Grupo H - Rodada 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Tigo La Huerta
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260428T190000Z_Libertad_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20260428T190000
+DTEND;TZID=America/Montevideo:20260428T210000
+SUMMARY:Libertad🇵🇾 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Grupo H - Rodada 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Tigo La Huerta
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260505T190000Z_RosarioCentral_Libertad
+DTSTART;TZID=America/Montevideo:20260505T190000
+DTEND;TZID=America/Montevideo:20260505T210000
+SUMMARY:Rosario Central🇦🇷 vs. Libertad🇵🇾
+DESCRIPTION:Grupo H - Rodada 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Gigante de Arroyito
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260519T230000Z_IndependienteDelValle_Libertad
+DTSTART;TZID=America/Montevideo:20260519T230000
+DTEND;TZID=America/Montevideo:20260520T010000
+SUMMARY:Independiente del Valle🇪🇨 vs. Libertad🇵🇾
+DESCRIPTION:Grupo H - Rodada 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Banco Guayaquil
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260527T190000Z_Libertad_UniversidadCentral
+DTSTART;TZID=America/Montevideo:20260527T190000
+DTEND;TZID=America/Montevideo:20260527T210000
+SUMMARY:Libertad🇵🇾 vs. Universidad Central🇻🇪
+DESCRIPTION:Grupo H - Rodada 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estádio Tigo La Huerta
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,233 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//PT
+BEGIN:VEVENT
+UID:20240403T210000Z_Red_Bull_Bragantino_Coquimbo_Unido
+DTSTART;TZID=America/Montevideo:20240403T210000
+DTEND;TZID=America/Montevideo:20240403T230000
+SUMMARY:Red Bull Bragantino🇧🇷 vs. Coquimbo Unido🇨🇱
+DESCRIPTION:Grupo H - Rodada 1 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Nabi Abi Chedid
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240404T210000Z_Sportivo_Luqueno_Racing_Arg
+DTSTART;TZID=America/Montevideo:20240404T210000
+DTEND;TZID=America/Montevideo:20240404T230000
+SUMMARY:Sportivo Luqueño🇵🇾 vs. Racing(Arg)🇦🇷
+DESCRIPTION:Grupo H - Rodada 1 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T213000Z_Racing_Arg_Red_Bull_Bragantino
+DTSTART;TZID=America/Montevideo:20240410T213000
+DTEND;TZID=America/Montevideo:20240410T233000
+SUMMARY:Racing(Arg)🇦🇷 vs. Red Bull Bragantino🇧🇷
+DESCRIPTION:Grupo H - Rodada 2 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Presidente Perón
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240411T210000Z_Coquimbo_Unido_Sportivo_Luqueno
+DTSTART;TZID=America/Montevideo:20240411T210000
+DTEND;TZID=America/Montevideo:20240411T230000
+SUMMARY:Coquimbo Unido🇨🇱 vs. Sportivo Luqueño🇵🇾
+DESCRIPTION:Grupo H - Rodada 2 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Francisco Sánchez Rumoroso
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240424T190000Z_Coquimbo_Unido_Racing_Arg
+DTSTART;TZID=America/Montevideo:20240424T190000
+DTEND;TZID=America/Montevideo:20240424T210000
+SUMMARY:Coquimbo Unido🇨🇱 vs. Racing(Arg)🇦🇷
+DESCRIPTION:Grupo H - Rodada 3 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Francisco Sánchez Rumoroso
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240424T210000Z_Red_Bull_Bragantino_Sportivo_Luqueno
+DTSTART;TZID=America/Montevideo:20240424T210000
+DTEND;TZID=America/Montevideo:20240424T230000
+SUMMARY:Red Bull Bragantino🇧🇷 vs. Sportivo Luqueño🇵🇾
+DESCRIPTION:Grupo H - Rodada 3 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Nabi Abi Chedid
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240508T190000Z_Sportivo_Luqueno_Coquimbo_Unido
+DTSTART;TZID=America/Montevideo:20240508T190000
+DTEND;TZID=America/Montevideo:20240508T210000
+SUMMARY:Sportivo Luqueño🇵🇾 vs. Coquimbo Unido🇨🇱
+DESCRIPTION:Grupo H - Rodada 4 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240509T210000Z_Red_Bull_Bragantino_Racing_Arg
+DTSTART;TZID=America/Montevideo:20240509T210000
+DTEND;TZID=America/Montevideo:20240509T230000
+SUMMARY:Red Bull Bragantino🇧🇷 vs. Racing(Arg)🇦🇷
+DESCRIPTION:Grupo H - Rodada 4 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Nabi Abi Chedid
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240522T190000Z_Racing_Arg_Sportivo_Luqueno
+DTSTART;TZID=America/Montevideo:20240522T190000
+DTEND;TZID=America/Montevideo:20240522T210000
+SUMMARY:Racing(Arg)🇦🇷 vs. Sportivo Luqueño🇵🇾
+DESCRIPTION:Grupo H - Rodada 5 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Presidente Perón
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240522T213000Z_Coquimbo_Unido_Red_Bull_Bragantino
+DTSTART;TZID=America/Montevideo:20240522T213000
+DTEND;TZID=America/Montevideo:20240522T233000
+SUMMARY:Coquimbo Unido🇨🇱 vs. Red Bull Bragantino🇧🇷
+DESCRIPTION:Grupo H - Rodada 5 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Francisco Sánchez Rumoroso
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240605T190000Z_Sportivo_Luqueno_Red_Bull_Bragantino
+DTSTART;TZID=America/Montevideo:20240605T190000
+DTEND;TZID=America/Montevideo:20240605T210000
+SUMMARY:Sportivo Luqueño🇵🇾 vs. Red Bull Bragantino🇧🇷
+DESCRIPTION:Grupo H - Rodada 6 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240605T210000Z_Racing_Arg_Coquimbo_Unido
+DTSTART;TZID=America/Montevideo:20240605T210000
+DTEND;TZID=America/Montevideo:20240605T230000
+SUMMARY:Racing(Arg)🇦🇷 vs. Coquimbo Unido🇨🇱
+DESCRIPTION:Grupo H - Rodada 6 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Presidente Perón
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240717T213000Z_Barcelona_Red_Bull_Bragantino
+DTSTART;TZID=America/Montevideo:20240717T213000
+DTEND;TZID=America/Montevideo:20240717T233000
+SUMMARY:Barcelona🇪🇨 vs. Red Bull Bragantino🇧🇷
+DESCRIPTION:Play-offs - Ida - Copa Sul-Americana
+LOCATION:Estádio Monumental Isidro Romero Carbo, Guayaquil
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240724T213000Z_Red_Bull_Bragantino_Barcelona
+DTSTART;TZID=America/Montevideo:20240724T213000
+DTEND;TZID=America/Montevideo:20240724T233000
+SUMMARY:Red Bull Bragantino🇧🇷 vs. Barcelona🇪🇨
+DESCRIPTION:Play-offs - Volta - Copa Sul-Americana
+LOCATION:Estádio Nabi Abi Chedid, Bragança Paulista
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240813T190000Z_Huachipato_Racing_Arg
+DTSTART;TZID=America/Montevideo:20240813T190000
+DTEND;TZID=America/Montevideo:20240813T210000
+SUMMARY:Huachipato🇨🇱 vs. Racing(Arg)🇦🇷
+DESCRIPTION:Oitavas de final - Ida - Copa Sul-Americana
+LOCATION:Estádio Sausalito, Viña del Mar
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240813T213000Z_Red_Bull_Bragantino_Corinthians
+DTSTART;TZID=America/Montevideo:20240813T213000
+DTEND;TZID=America/Montevideo:20240813T233000
+SUMMARY:Red Bull Bragantino🇧🇷 vs. Corinthians🇧🇷
+DESCRIPTION:Oitavas de final - Ida - Copa Sul-Americana
+LOCATION:Estádio Santa Cruz, Ribeirão Preto
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240820T190000Z_Racing_Arg_Huachipato
+DTSTART;TZID=America/Montevideo:20240820T190000
+DTEND;TZID=America/Montevideo:20240820T210000
+SUMMARY:Racing(Arg)🇦🇷 vs. Huachipato🇨🇱
+DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana
+LOCATION:Estádio Presidente Perón, Avellaneda
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240820T213000Z_Corinthians_Red_Bull_Bragantino
+DTSTART;TZID=America/Montevideo:20240820T213000
+DTEND;TZID=America/Montevideo:20240820T233000
+SUMMARY:Corinthians🇧🇷 vs. Red Bull Bragantino🇧🇷
+DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana
+LOCATION:Neo Química Arena, São Paulo
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240919T213000Z_Atletico_Paranaense_Racing_Arg
+DTSTART;TZID=America/Montevideo:20240919T213000
+DTEND;TZID=America/Montevideo:20240919T233000
+SUMMARY:Atlético Paranaense🇧🇷 vs. Racing(Arg)🇦🇷
+DESCRIPTION:Quartas de final - Ida - Copa Sul-Americana
+LOCATION:Arena da Baixada, Curitiba
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240926T213000Z_Racing_Arg_Atletico_Paranaense
+DTSTART;TZID=America/Montevideo:20240926T213000
+DTEND;TZID=America/Montevideo:20240926T233000
+SUMMARY:Racing(Arg)🇦🇷 vs. Atlético Paranaense🇧🇷
+DESCRIPTION:Quartas de final - Volta - Copa Sul-Americana
+LOCATION:Estádio Presidente Perón, Avellaneda
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20241024T213000Z_Corinthians_Racing_Arg
+DTSTART;TZID=America/Montevideo:20241024T213000
+DTEND;TZID=America/Montevideo:20241024T233000
+SUMMARY:Corinthians🇧🇷 vs. Racing(Arg)🇦🇷
+DESCRIPTION:Semifinal - Ida - Copa Sul-Americana
+LOCATION:Neo Química Arena, São Paulo
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20241031T213000Z_Racing_Arg_Corinthians
+DTSTART;TZID=America/Montevideo:20241031T213000
+DTEND;TZID=America/Montevideo:20241031T233000
+SUMMARY:Racing(Arg)🇦🇷 vs. Corinthians🇧🇷
+DESCRIPTION:Semifinal - Volta - Copa Sul-Americana
+LOCATION:Estádio Presidente Perón, Avellaneda
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20241123T170000Z_Racing_Arg_Cruzeiro
+DTSTART;TZID=America/Montevideo:20241123T170000
+DTEND;TZID=America/Montevideo:20241123T190000
+SUMMARY:Racing(Arg)🇦🇷 vs. Cruzeiro🇧🇷
+DESCRIPTION:Final - Copa Sul-Americana
+LOCATION:Estádio General Pablo Rojas, Asunción
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

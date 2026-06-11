@@ -1,0 +1,203 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//EN
+BEGIN:VEVENT
+UID:20240402T190000Z_Nacional_Par_Argentinos_Juniors
+DTSTART;TZID=America/Montevideo:20240402T190000
+DTEND;TZID=America/Montevideo:20240402T210000
+SUMMARY:Nacional(Par)🇵🇾 vs. Argentinos Juniors🇦🇷
+DESCRIPTION:Group F - Matchday 1 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Defensores del Chaco Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240402T213000Z_Racing_Uru_Corinthians
+DTSTART;TZID=America/Montevideo:20240402T213000
+DTEND;TZID=America/Montevideo:20240402T233000
+SUMMARY:Racing(Uru)🇺🇾 vs. Corinthians🇧🇷
+DESCRIPTION:Group F - Matchday 1 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Centenario Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T190000Z_Argentinos_Juniors_Racing_Uru
+DTSTART;TZID=America/Montevideo:20240409T190000
+DTEND;TZID=America/Montevideo:20240409T210000
+SUMMARY:Argentinos Juniors🇦🇷 vs.Racing(Uru)🇺🇾
+DESCRIPTION:Group F - Matchday 2 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Diego Armando Maradona Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T190000Z_Corinthians_Nacional_Par
+DTSTART;TZID=America/Montevideo:20240409T190000
+DTEND;TZID=America/Montevideo:20240409T210000
+SUMMARY:Corinthians🇧🇷 vs. Nacional(Par)🇵🇾
+DESCRIPTION:Group F - Matchday 2 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240423T213000Z_Argentinos_Juniors_Corinthians
+DTSTART;TZID=America/Montevideo:20240423T213000
+DTEND;TZID=America/Montevideo:20240423T233000
+SUMMARY:Argentinos Juniors🇦🇷 vs. Corinthians🇧🇷
+DESCRIPTION:Group F - Matchday 3 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Diego Armando Maradona Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T190000Z_Nacional_Par_Racing_Uru
+DTSTART;TZID=America/Montevideo:20240425T190000
+DTEND;TZID=America/Montevideo:20240425T210000
+SUMMARY:Nacional(Par)🇵🇾 vs.Racing(Uru)🇺🇾
+DESCRIPTION:Group F - Matchday 3 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Defensores del Chaco Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T190000Z_Corinthians_Argentinos_Juniors
+DTSTART;TZID=America/Montevideo:20240507T190000
+DTEND;TZID=America/Montevideo:20240507T210000
+SUMMARY:Corinthians🇧🇷 vs. Argentinos Juniors🇦🇷
+DESCRIPTION:Group F - Matchday 4 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T190000Z_Racing_Uru_Nacional_Par
+DTSTART;TZID=America/Montevideo:20240507T190000
+DTEND;TZID=America/Montevideo:20240507T210000
+SUMMARY:Racing(Uru)🇺🇾 vs. Nacional(Par)🇵🇾
+DESCRIPTION:Group F - Matchday 4 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Centenario Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240514T190000Z_Racing_Uru_Nacional_Par
+DTSTART;TZID=America/Montevideo:20240514T190000
+DTEND;TZID=America/Montevideo:20240514T210000
+SUMMARY:Racing(Uru)🇺🇾 vs. Nacional(Par)🇵🇾
+DESCRIPTION:Group F - Matchday 5 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Centenario Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240514T213000Z_Corinthians_Argentinos_Juniors
+DTSTART;TZID=America/Montevideo:20240514T213000
+DTEND;TZID=America/Montevideo:20240514T233000
+SUMMARY:Corinthians🇧🇷 vs. Argentinos Juniors🇦🇷
+DESCRIPTION:Group F - Matchday 5 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240528T190000Z_Argentinos_Juniors_Nacional_Par
+DTSTART;TZID=America/Montevideo:20240528T190000
+DTEND;TZID=America/Montevideo:20240528T210000
+SUMMARY:Argentinos Juniors🇦🇷 vs. Nacional(Par)🇵🇾
+DESCRIPTION:Group F - Matchday 6 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Diego Armando Maradona Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240528T190000Z_Corinthians_Racing_Uru
+DTSTART;TZID=America/Montevideo:20240528T190000
+DTEND;TZID=America/Montevideo:20240528T210000
+SUMMARY:Corinthians🇧🇷 vs.Racing(Uru)🇺🇾
+DESCRIPTION:Group F - Matchday 6 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240716T190000Z_Huachipato_Racing_Uru
+DTSTART;TZID=America/Montevideo:20240716T190000
+DTEND;TZID=America/Montevideo:20240716T210000
+SUMMARY:Huachipato🇨🇱 vs. Racing(Uru)🇺🇾
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+LOCATION:Ester Roa Stadium, Concepción
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240723T190000Z_Racing_Uru_Huachipato
+DTSTART;TZID=America/Montevideo:20240723T190000
+DTEND;TZID=America/Montevideo:20240723T210000
+SUMMARY:Racing(Uru)🇺🇾 vs. Huachipato🇨🇱
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+LOCATION:Centenario Stadium, Montevideo
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240813T213000Z_Red_Bull_Bragantino_Corinthians
+DTSTART;TZID=America/Montevideo:20240813T213000
+DTEND;TZID=America/Montevideo:20240813T233000
+SUMMARY:Red Bull Bragantino🇧🇷 vs. Corinthians🇧🇷
+DESCRIPTION:Round of 16 - First leg - Sudamericana Cup
+LOCATION:Estádio Santa Cruz, Ribeirão Preto
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240820T213000Z_Corinthians_Red_Bull_Bragantino
+DTSTART;TZID=America/Montevideo:20240820T213000
+DTEND;TZID=America/Montevideo:20240820T233000
+SUMMARY:Corinthians🇧🇷 vs. Red Bull Bragantino🇧🇷
+DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup
+LOCATION:Neo Química Arena, São Paulo
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240917T213000Z_Fortaleza_Corinthians
+DTSTART;TZID=America/Montevideo:20240917T213000
+DTEND;TZID=America/Montevideo:20240917T233000
+SUMMARY:Fortaleza🇧🇷 vs. Corinthians🇧🇷
+DESCRIPTION:Quarter-finals - First leg - Sudamericana Cup
+LOCATION:Castelão, Fortaleza
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240924T213000Z_Corinthians_Fortaleza
+DTSTART;TZID=America/Montevideo:20240924T213000
+DTEND;TZID=America/Montevideo:20240924T233000
+SUMMARY:Corinthians🇧🇷 vs. Fortaleza🇧🇷
+DESCRIPTION:Quarter-finals - Second leg - Sudamericana Cup
+LOCATION:Neo Química Arena, São Paulo
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20241024T213000Z_Corinthians_Racing_Arg
+DTSTART;TZID=America/Montevideo:20241024T213000
+DTEND;TZID=America/Montevideo:20241024T233000
+SUMMARY:Corinthians🇧🇷 vs. Racing(Arg)🇦🇷
+DESCRIPTION:Semi-finals - First leg - Sudamericana Cup
+LOCATION:Neo Química Arena, São Paulo
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20241031T213000Z_Racing_Arg_Corinthians
+DTSTART;TZID=America/Montevideo:20241031T213000
+DTEND;TZID=America/Montevideo:20241031T233000
+SUMMARY:Racing(Arg)🇦🇷 vs. Corinthians🇧🇷
+DESCRIPTION:Semi-finals - Second leg - Sudamericana Cup
+LOCATION:Presidente Perón Stadium, Avellaneda
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR

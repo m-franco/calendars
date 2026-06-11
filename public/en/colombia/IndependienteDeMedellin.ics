@@ -1,0 +1,183 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//EN
+BEGIN:VEVENT
+UID:20240404T230000Z_Always_Ready_Independiente_Medellin
+DTSTART;TZID=America/Montevideo:20240404T230000
+DTEND;TZID=America/Montevideo:20240405T010000
+SUMMARY:Always Ready🇧🇴 vs. Independiente de Medellín🇨🇴
+DESCRIPTION:Group A - Matchday 1 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Municipal Villa Ingenio Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240410T230000Z_Independiente_Medellin_UCV
+DTSTART;TZID=America/Montevideo:20240410T230000
+DTEND;TZID=America/Montevideo:20240411T010000
+SUMMARY:Independiente de Medellín🇨🇴 vs. Universidad César Vallejo🇵🇪
+DESCRIPTION:Group A - Matchday 2 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Atanasio Girardot Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T230000Z_Independiente_Medellin_Defensa_y_Justicia
+DTSTART;TZID=America/Montevideo:20240425T230000
+DTEND;TZID=America/Montevideo:20240426T010000
+SUMMARY:Independiente de Medellín🇨🇴 vs. Defensa y Justicia🇦🇷
+DESCRIPTION:Group A - Matchday 3 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Atanasio Girardot Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T210000Z_UCV_Independiente_Medellin
+DTSTART;TZID=America/Montevideo:20240507T210000
+DTEND;TZID=America/Montevideo:20240507T230000
+SUMMARY:Universidad César Vallejo🇵🇪 vs. Independiente de Medellín🇨🇴
+DESCRIPTION:Group A - Matchday 4 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Mansiche Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240514T210000Z_Defensa_y_Justicia_Independiente_Medellin
+DTSTART;TZID=America/Montevideo:20240514T210000
+DTEND;TZID=America/Montevideo:20240514T230000
+SUMMARY:Defensa y Justicia🇦🇷 vs. Independiente de Medellín🇨🇴
+DESCRIPTION:Group A - Matchday 5 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Norberto Tomaghello Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240529T210000Z_Independiente_Medellin_Always_Ready
+DTSTART;TZID=America/Montevideo:20240529T210000
+DTEND;TZID=America/Montevideo:20240529T230000
+SUMMARY:Independiente de Medellín🇨🇴 vs. Always Ready🇧🇴
+DESCRIPTION:Group A - Matchday 6 - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Atanasio Girardot Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240814T213000Z_Palestino_Independiente_Medellin
+DTSTART;TZID=America/Montevideo:20240814T213000
+DTEND;TZID=America/Montevideo:20240814T233000
+SUMMARY:Palestino🇨🇱 vs. Independiente de Medellín🇨🇴
+DESCRIPTION:Round of 16 - First leg - Sudamericana Cup
+LOCATION:Nacional Julio Martínez Prádanos Stadium, Santiago
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240821T213000Z_Independiente_Medellin_Palestino
+DTSTART;TZID=America/Montevideo:20240821T213000
+DTEND;TZID=America/Montevideo:20240821T233000
+SUMMARY:Independiente de Medellín🇨🇴 vs. Palestino🇨🇱
+DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup
+LOCATION:Hernán Ramírez Villegas Stadium, Pereira
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240918T213000Z_Lanus_Independiente_Medellin
+DTSTART;TZID=America/Montevideo:20240918T213000
+DTEND;TZID=America/Montevideo:20240918T233000
+SUMMARY:Lanús🇦🇷 vs. Independiente de Medellín🇨🇴
+DESCRIPTION:Quarter-finals - First leg - Sudamericana Cup
+LOCATION:Ciudad de Lanús Stadium, Lanús
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240925T213000Z_Independiente_Medellin_Lanus
+DTSTART;TZID=America/Montevideo:20240925T213000
+DTEND;TZID=America/Montevideo:20240925T233000
+SUMMARY:Independiente de Medellín🇨🇴 vs. Lanús🇦🇷
+DESCRIPTION:Quarter-finals - Second leg - Sudamericana Cup
+LOCATION:Atanasio Girardot Stadium, Medellín
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260408T210000Z_IndependienteDeMedellin_Estudiantes
+DTSTART;TZID=America/Montevideo:20260408T210000
+DTEND;TZID=America/Montevideo:20260408T230000
+SUMMARY:Independiente de Medellín🇨🇴 vs. Estudiantes🇦🇷
+DESCRIPTION:Group A - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Atanasio Girardot
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260416T213000Z_Flamengo_IndependienteDeMedellin
+DTSTART;TZID=America/Montevideo:20260416T213000
+DTEND;TZID=America/Montevideo:20260416T233000
+SUMMARY:Flamengo🇧🇷 vs. Independiente de Medellín🇨🇴
+DESCRIPTION:Group A - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:do Maracana Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260430T230000Z_IndependienteDeMedellin_Cusco
+DTSTART;TZID=America/Montevideo:20260430T230000
+DTEND;TZID=America/Montevideo:20260501T010000
+SUMMARY:Independiente de Medellín🇨🇴 vs. Cusco🇵🇪
+DESCRIPTION:Group A - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Atanasio Girardot
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260507T213000Z_IndependienteDeMedellin_Flamengo
+DTSTART;TZID=America/Montevideo:20260507T213000
+DTEND;TZID=America/Montevideo:20260507T233000
+SUMMARY:Independiente de Medellín🇨🇴 vs. Flamengo🇧🇷
+DESCRIPTION:Group A - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Atanasio Girardot
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260520T230000Z_Cusco_IndependienteDeMedellin
+DTSTART;TZID=America/Montevideo:20260520T230000
+DTEND;TZID=America/Montevideo:20260521T010000
+SUMMARY:Cusco🇵🇪 vs. Independiente de Medellín🇨🇴
+DESCRIPTION:Group A - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Inca Garcilaso de la Vega Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260526T213000Z_Estudiantes_IndependienteDeMedellin
+DTSTART;TZID=America/Montevideo:20260526T213000
+DTEND;TZID=America/Montevideo:20260526T233000
+SUMMARY:Estudiantes🇦🇷 vs. Independiente de Medellín🇨🇴
+DESCRIPTION:Group A - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Jorge Luis Hirschi Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260722T190000Z_IndependienteDeMedellin_VascoDaGama
+DTSTART;TZID=America/Montevideo:20260722T190000
+DTEND;TZID=America/Montevideo:20260722T210000
+SUMMARY:Independiente de Medellín🇨🇴 vs. Vasco da Gama🇧🇷
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Atanasio Girardot
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260729T190000Z_VascoDaGama_IndependienteDeMedellin
+DTSTART;TZID=America/Montevideo:20260729T190000
+DTEND;TZID=America/Montevideo:20260729T210000
+SUMMARY:Vasco da Gama🇧🇷 vs. Independiente de Medellín🇨🇴
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+CLASS:PUBLIC
+LOCATION:Estádio São Januário
+END:VEVENT
+END:VCALENDAR

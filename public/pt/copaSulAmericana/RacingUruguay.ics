@@ -1,0 +1,143 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//PT
+BEGIN:VEVENT
+UID:20240402T213000Z_Racing_Uru_Corinthians
+DTSTART;TZID=America/Montevideo:20240402T213000
+DTEND;TZID=America/Montevideo:20240402T233000
+SUMMARY:Racing(Uru)🇺🇾 vs. Corinthians🇧🇷
+DESCRIPTION:Grupo F - Rodada 1 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T190000Z_Argentinos_Juniors_Racing_Uru
+DTSTART;TZID=America/Montevideo:20240409T190000
+DTEND;TZID=America/Montevideo:20240409T210000
+SUMMARY:Argentinos Juniors🇦🇷 vs.Racing(Uru)🇺🇾
+DESCRIPTION:Grupo F - Rodada 2 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Diego Armando Maradona
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T190000Z_Nacional_Par_Racing_Uru
+DTSTART;TZID=America/Montevideo:20240425T190000
+DTEND;TZID=America/Montevideo:20240425T210000
+SUMMARY:Nacional(Par)🇵🇾 vs.Racing(Uru)🇺🇾
+DESCRIPTION:Grupo F - Rodada 3 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T190000Z_Racing_Uru_Nacional_Par
+DTSTART;TZID=America/Montevideo:20240507T190000
+DTEND;TZID=America/Montevideo:20240507T210000
+SUMMARY:Racing(Uru)🇺🇾 vs. Nacional(Par)🇵🇾
+DESCRIPTION:Grupo F - Rodada 4 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240514T190000Z_Racing_Uru_Nacional_Par
+DTSTART;TZID=America/Montevideo:20240514T190000
+DTEND;TZID=America/Montevideo:20240514T210000
+SUMMARY:Racing(Uru)🇺🇾 vs. Nacional(Par)🇵🇾
+DESCRIPTION:Grupo F - Rodada 5 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240528T190000Z_Corinthians_Racing_Uru
+DTSTART;TZID=America/Montevideo:20240528T190000
+DTEND;TZID=America/Montevideo:20240528T210000
+SUMMARY:Corinthians🇧🇷 vs.Racing(Uru)🇺🇾
+DESCRIPTION:Grupo F - Rodada 6 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240716T190000Z_Huachipato_Racing_Uru
+DTSTART;TZID=America/Montevideo:20240716T190000
+DTEND;TZID=America/Montevideo:20240716T210000
+SUMMARY:Huachipato🇨🇱 vs. Racing(Uru)🇺🇾
+DESCRIPTION:Play-offs - Ida - Copa Sul-Americana
+LOCATION:Estádio Ester Roa, Concepción
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240723T190000Z_Racing_Uru_Huachipato
+DTSTART;TZID=America/Montevideo:20240723T190000
+DTEND;TZID=America/Montevideo:20240723T210000
+SUMMARY:Racing(Uru)🇺🇾 vs. Huachipato🇨🇱
+DESCRIPTION:Play-offs - Volta - Copa Sul-Americana
+LOCATION:Estádio Centenario, Montevideo
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250402T213000Z_RacingUruguay_AmericaDeCali
+DTSTART;TZID=America/Montevideo:20250402T213000
+DTEND;TZID=America/Montevideo:20250402T233000
+SUMMARY:Racing (Uru)🇺🇾 vs. América de Cali🇨🇴
+DESCRIPTION:Grupo C - Rodada 1 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250409T190000Z_Huracan_RacingUruguay
+DTSTART;TZID=America/Montevideo:20250409T190000
+DTEND;TZID=America/Montevideo:20250409T210000
+SUMMARY:Huracán🇦🇷 vs. Racing (Uru)🇺🇾
+DESCRIPTION:Grupo C - Rodada 2 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Tomás Adolfo Ducó
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250424T190000Z_Corinthians_RacingUruguay
+DTSTART;TZID=America/Montevideo:20250424T190000
+DTEND;TZID=America/Montevideo:20250424T210000
+SUMMARY:Corinthians🇧🇷 vs. Racing (Uru)🇺🇾
+DESCRIPTION:Grupo C - Rodada 3 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250508T190000Z_RacingUruguay_Huracan
+DTSTART;TZID=America/Montevideo:20250508T190000
+DTEND;TZID=America/Montevideo:20250508T210000
+SUMMARY:Racing (Uru)🇺🇾 vs. Huracán🇦🇷
+DESCRIPTION:Grupo C - Rodada 4 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250515T190000Z_RacingUruguay_Corinthians
+DTSTART;TZID=America/Montevideo:20250515T190000
+DTEND;TZID=America/Montevideo:20250515T210000
+SUMMARY:Racing (Uru)🇺🇾 vs. Corinthians🇧🇷
+DESCRIPTION:Grupo C - Rodada 5 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Estádio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250527T213000Z_AmericaDeCali_RacingUruguay
+DTSTART;TZID=America/Montevideo:20250527T213000
+DTEND;TZID=America/Montevideo:20250527T233000
+SUMMARY:América de Cali🇨🇴 vs. Racing (Uru)🇺🇾
+DESCRIPTION:Grupo C - Rodada 6 - Copa Sul-Americana
+CLASS:PUBLIC
+LOCATION:Pascual Guerrero
+END:VEVENT
+END:VCALENDAR

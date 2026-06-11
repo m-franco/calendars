@@ -1,0 +1,123 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//EN
+BEGIN:VEVENT
+UID:20240402T213000Z_DeportivoTachira_River
+DTSTART;TZID=America/Montevideo:20240402T213000
+DTEND;TZID=America/Montevideo:20240402T233000
+SUMMARY:Deportivo Táchira🇻🇪 vs. River🇦🇷
+DESCRIPTION:Group H - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Polideportivo de Pueblo Nuevo Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T210000Z_Libertad_DeportivoTachira
+DTSTART;TZID=America/Montevideo:20240409T210000
+DTEND;TZID=America/Montevideo:20240409T230000
+SUMMARY:Libertad🇵🇾 vs. Deportivo Táchira🇻🇪
+DESCRIPTION:Group H - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:La Huerta Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240424T190000Z_Nacional_DeportivoTachira
+DTSTART;TZID=America/Montevideo:20240424T190000
+DTEND;TZID=America/Montevideo:20240424T210000
+SUMMARY:Nacional🇺🇾 vs. Deportivo Táchira🇻🇪
+DESCRIPTION:Group H - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Gran Parque Central Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240507T210000Z_DeportivoTachira_Libertad
+DTSTART;TZID=America/Montevideo:20240507T210000
+DTEND;TZID=America/Montevideo:20240507T230000
+SUMMARY:Deportivo Táchira🇻🇪 vs. Libertad🇵🇾
+DESCRIPTION:Group H - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Polideportivo de Pueblo Nuevo Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240515T190000Z_DeportivoTachira_Nacional
+DTSTART;TZID=America/Montevideo:20240515T190000
+DTEND;TZID=America/Montevideo:20240515T210000
+SUMMARY:Deportivo Táchira🇻🇪  vs. Nacional🇺🇾
+DESCRIPTION:Group H - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Polideportivo de Pueblo Nuevo Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240530T210000Z_River_DeportivoTachira
+DTSTART;TZID=America/Montevideo:20240530T210000
+DTEND;TZID=America/Montevideo:20240530T230000
+SUMMARY:River🇦🇷 vs. Deportivo Táchira🇻🇪
+DESCRIPTION:Group H - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Monumental Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250403T213000Z_DeportivoTachira_Flamengo
+DTSTART;TZID=America/Montevideo:20250403T213000
+DTEND;TZID=America/Montevideo:20250403T233000
+SUMMARY:Deportivo Táchira🇻🇪 vs. Flamengo🇧🇷
+DESCRIPTION:Group C - Matchday 1 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Pueblo Nuevo Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250409T230000Z_LigaDeQuito_DeportivoTachira
+DTSTART;TZID=America/Montevideo:20250409T230000
+DTEND;TZID=America/Montevideo:20250410T010000
+SUMMARY:Liga de Quito🇪🇨 vs. Deportivo Táchira🇻🇪
+DESCRIPTION:Group C - Matchday 2 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250424T190000Z_CentralCordoba_DeportivoTachira
+DTSTART;TZID=America/Montevideo:20250424T190000
+DTEND;TZID=America/Montevideo:20250424T210000
+SUMMARY:Central Córdoba🇦🇷 vs. Deportivo Táchira🇻🇪
+DESCRIPTION:Group C - Matchday 3 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Único Madre de Ciudades Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250507T190000Z_DeportivoTachira_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20250507T190000
+DTEND;TZID=America/Montevideo:20250507T210000
+SUMMARY:Deportivo Táchira🇻🇪 vs. Liga de Quito🇪🇨
+DESCRIPTION:Group C - Matchday 4 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Pueblo Nuevo Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250513T190000Z_DeportivoTachira_CentralCordoba
+DTSTART;TZID=America/Montevideo:20250513T190000
+DTEND;TZID=America/Montevideo:20250513T210000
+SUMMARY:Deportivo Táchira🇻🇪 vs. Central Córdoba🇦🇷
+DESCRIPTION:Group C - Matchday 5 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:Pueblo Nuevo Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250528T213000Z_Flamengo_DeportivoTachira
+DTSTART;TZID=America/Montevideo:20250528T213000
+DTEND;TZID=America/Montevideo:20250528T233000
+SUMMARY:Flamengo🇧🇷 vs. Deportivo Táchira🇻🇪
+DESCRIPTION:Group C - Matchday 6 - Libertadores Cup
+CLASS:PUBLIC
+LOCATION:do Maracana Stadium
+END:VEVENT
+END:VCALENDAR

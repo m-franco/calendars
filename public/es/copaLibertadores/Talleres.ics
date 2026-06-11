@@ -1,0 +1,143 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendarios CONMEBOL//ES
+BEGIN:VEVENT
+UID:20240404T210000Z_Talleres_SanPablo
+DTSTART;TZID=America/Montevideo:20240404T210000
+DTEND;TZID=America/Montevideo:20240404T230000
+SUMMARY:Talleres🇦🇷 vs. San Pablo🇧🇷
+DESCRIPTION:Grupo B - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Mario Alberto Kempes
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240409T210000Z_Barcelona_Talleres
+DTSTART;TZID=America/Montevideo:20240409T210000
+DTEND;TZID=America/Montevideo:20240409T230000
+SUMMARY:Barcelona🇪🇨 vs. Talleres🇦🇷
+DESCRIPTION:Grupo B - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Monumental Banco Pichincha
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240425T190000Z_Cobresal_Talleres
+DTSTART;TZID=America/Montevideo:20240425T190000
+DTEND;TZID=America/Montevideo:20240425T210000
+SUMMARY:Cobresal🇨🇱 vs. Talleres🇦🇷
+DESCRIPTION:Grupo B - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Zorros del Desierto
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240508T190000Z_Talleres_Barcelona
+DTSTART;TZID=America/Montevideo:20240508T190000
+DTEND;TZID=America/Montevideo:20240508T210000
+SUMMARY:Talleres🇦🇷 vs. Barcelona🇪🇨
+DESCRIPTION:Grupo B - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Mario Alberto Kempes
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240514T190000Z_Talleres_Cobresal
+DTSTART;TZID=America/Montevideo:20240514T190000
+DTEND;TZID=America/Montevideo:20240514T210000
+SUMMARY:Talleres🇦🇷 vs. Cobresal🇨🇱
+DESCRIPTION:Grupo B - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Mario Alberto Kempes
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240529T213000Z_SanPablo_Talleres
+DTSTART;TZID=America/Montevideo:20240529T213000
+DTEND;TZID=America/Montevideo:20240529T233000
+SUMMARY:San Pablo🇧🇷 vs. Talleres🇦🇷
+DESCRIPTION:Grupo B - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Morumbí
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240814T213000Z_Talleres_River
+DTSTART;TZID=America/Montevideo:20240814T213000
+DTEND;TZID=America/Montevideo:20240814T233000
+SUMMARY:Talleres🇦🇷 vs. River🇦🇷
+DESCRIPTION:Octavos de final - Ida - Copa Libertadores
+LOCATION:Estadio Mario Alberto Kempes
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20240821T213000Z_River_Talleres
+DTSTART;TZID=America/Montevideo:20240821T213000
+DTEND;TZID=America/Montevideo:20240821T233000
+SUMMARY:River🇦🇷 vs. Talleres🇦🇷
+DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
+LOCATION:Estadio Monumental
+CLASS:PUBLIC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250402T213000Z_Talleres_SanPablo
+DTSTART;TZID=America/Montevideo:20250402T213000
+DTEND;TZID=America/Montevideo:20250402T233000
+SUMMARY:Talleres🇦🇷 vs. San Pablo🇧🇷
+DESCRIPTION:Grupo D - Fecha 1 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Mario Alberto Kempes
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250408T190000Z_Libertad_Talleres
+DTSTART;TZID=America/Montevideo:20250408T190000
+DTEND;TZID=America/Montevideo:20250408T210000
+SUMMARY:Libertad🇵🇾 vs. Talleres🇦🇷
+DESCRIPTION:Grupo D - Fecha 2 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Tigo La Huerta
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250422T190000Z_AlianzaLima_Talleres
+DTSTART;TZID=America/Montevideo:20250422T190000
+DTEND;TZID=America/Montevideo:20250422T210000
+SUMMARY:Alianza Lima🇵🇪 vs. Talleres🇦🇷
+DESCRIPTION:Grupo D - Fecha 3 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Alejandro Villanueva
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250508T190000Z_Talleres_Libertad
+DTSTART;TZID=America/Montevideo:20250508T190000
+DTEND;TZID=America/Montevideo:20250508T210000
+SUMMARY:Talleres🇦🇷 vs. Libertad🇵🇾
+DESCRIPTION:Grupo D - Fecha 4 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Mario Alberto Kempes
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250515T190000Z_Talleres_AlianzaLima
+DTSTART;TZID=America/Montevideo:20250515T190000
+DTEND;TZID=America/Montevideo:20250515T210000
+SUMMARY:Talleres🇦🇷 vs. Alianza Lima🇵🇪
+DESCRIPTION:Grupo D - Fecha 5 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Mario Alberto Kempes
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250527T190000Z_SanPablo_Talleres
+DTSTART;TZID=America/Montevideo:20250527T190000
+DTEND;TZID=America/Montevideo:20250527T210000
+SUMMARY:San Pablo🇧🇷 vs. Talleres🇦🇷
+DESCRIPTION:Grupo D - Fecha 6 - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:MorumBIS
+END:VEVENT
+END:VCALENDAR
