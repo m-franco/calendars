@@ -6,7 +6,7 @@ UID:20240403T190000Z_Cuiaba_Lanus
 DTSTART;TZID=America/Montevideo:20240403T190000
 DTEND;TZID=America/Montevideo:20240403T210000
 SUMMARY:Cuiabá🇧🇷 vs. Lanús🇦🇷
-DESCRIPTION:Group G - Matchday 1 - Sudamericana Cup
+DESCRIPTION:Group G - Matchday 1 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Arena Pantanal
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20240411T190000Z_Metropolitanos_Cuiaba
 DTSTART;TZID=America/Montevideo:20240411T190000
 DTEND;TZID=America/Montevideo:20240411T210000
 SUMMARY:Metropolitanos🇻🇪 vs. Cuiabá🇧🇷
-DESCRIPTION:Group G - Matchday 2 - Sudamericana Cup
+DESCRIPTION:Group G - Matchday 2 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Olímpico de la UCV Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240423T210000Z_Deportivo_Garcilaso_Cuiaba
 DTSTART;TZID=America/Montevideo:20240423T210000
 DTEND;TZID=America/Montevideo:20240423T230000
 SUMMARY:Deportivo Garcilaso🇵🇪 vs. Cuiabá🇧🇷
-DESCRIPTION:Group G - Matchday 3 - Sudamericana Cup
+DESCRIPTION:Group G - Matchday 3 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Inca Garcilaso de la Vega Stadium
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20240508T210000Z_Cuiaba_Metropolitanos
 DTSTART;TZID=America/Montevideo:20240508T210000
 DTEND;TZID=America/Montevideo:20240508T230000
 SUMMARY:Cuiabá🇧🇷 vs. Metropolitanos🇻🇪
-DESCRIPTION:Group G - Matchday 4 - Sudamericana Cup
+DESCRIPTION:Group G - Matchday 4 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Arena Pantanal
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20240515T210000Z_Cuiaba_Deportivo_Garcilaso
 DTSTART;TZID=America/Montevideo:20240515T210000
 DTEND;TZID=America/Montevideo:20240515T230000
 SUMMARY:Cuiabá🇧🇷 vs. Deportivo Garcilaso🇵🇪
-DESCRIPTION:Group G - Matchday 5 - Sudamericana Cup
+DESCRIPTION:Group G - Matchday 5 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Arena Pantanal
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20240529T190000Z_Lanus_Cuiaba
 DTSTART;TZID=America/Montevideo:20240529T190000
 DTEND;TZID=America/Montevideo:20240529T210000
 SUMMARY:Lanús🇦🇷 vs. Cuiabá🇧🇷
-DESCRIPTION:Group G - Matchday 6 - Sudamericana Cup
+DESCRIPTION:Group G - Matchday 6 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Ciudad de Lanús Stadium
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20240718T190000Z_Palestino_Cuiaba
 DTSTART;TZID=America/Montevideo:20240718T190000
 DTEND;TZID=America/Montevideo:20240718T210000
 SUMMARY:Palestino🇨🇱 vs. Cuiabá🇧🇷
-DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Ester Roa Stadium, Concepción
 CLASS:PUBLIC
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20240725T190000Z_Cuiaba_Palestino
 DTSTART;TZID=America/Montevideo:20240725T190000
 DTEND;TZID=America/Montevideo:20240725T210000
 SUMMARY:Cuiabá🇧🇷 vs. Palestino🇨🇱
-DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Arena Pantanal, Cuiabá
 CLASS:PUBLIC
 END:VEVENT

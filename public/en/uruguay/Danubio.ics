@@ -6,7 +6,7 @@ UID:20240403T190000Z_Rayo_Zuliano_Danubio
 DTSTART;TZID=America/Montevideo:20240403T190000
 DTEND;TZID=America/Montevideo:20240403T210000
 SUMMARY:Rayo Zuliano🇻🇪 vs. Danubio🇺🇾
-DESCRIPTION:Group E - Matchday 1 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 1 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Brígido Iriarte Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20240409T210000Z_Danubio_Sportivo_Ameliano
 DTSTART;TZID=America/Montevideo:20240409T210000
 DTEND;TZID=America/Montevideo:20240409T230000
 SUMMARY:Danubio🇺🇾 vs. Sportivo Ameliano🇵🇾
-DESCRIPTION:Group E - Matchday 2 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 2 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Centenario Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240424T190000Z_Danubio_Atletico_Paranaense
 DTSTART;TZID=America/Montevideo:20240424T190000
 DTEND;TZID=America/Montevideo:20240424T210000
 SUMMARY:Danubio🇺🇾 vs. Atlético Paranaense🇧🇷
-DESCRIPTION:Group E - Matchday 3 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 3 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Centenario Stadium
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20240507T213000Z_Sportivo_Ameliano_Danubio
 DTSTART;TZID=America/Montevideo:20240507T213000
 DTEND;TZID=America/Montevideo:20240507T233000
 SUMMARY:Sportivo Ameliano🇵🇾 vs. Danubio🇺🇾
-DESCRIPTION:Group E - Matchday 4 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 4 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Tigo La Huerta Stadium
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20240515T190000Z_Atletico_Paranaense_Danubio
 DTSTART;TZID=America/Montevideo:20240515T190000
 DTEND;TZID=America/Montevideo:20240515T210000
 SUMMARY:Atlético Paranaense🇧🇷 vs. Danubio🇺🇾
-DESCRIPTION:Group E - Matchday 5 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 5 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Ligga Arena
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20240530T220000Z_Danubio_Rayo_Zuliano
 DTSTART;TZID=America/Montevideo:20240530T220000
 DTEND;TZID=America/Montevideo:20240531T000000
 SUMMARY:Danubio🇺🇾 vs. Rayo Zuliano🇻🇪
-DESCRIPTION:Group E - Matchday 6 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 6 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Centenario Stadium
 END:VEVENT

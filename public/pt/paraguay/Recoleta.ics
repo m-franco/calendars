@@ -6,7 +6,7 @@ UID:20260408T190000Z_Recoleta_SanLorenzo
 DTSTART;TZID=America/Montevideo:20260408T190000
 DTEND;TZID=America/Montevideo:20260408T210000
 SUMMARY:Recoleta🇵🇾 vs. San Lorenzo🇦🇷
-DESCRIPTION:Grupo D - Rodada 1 - Copa Sul-Americana
+DESCRIPTION:Grupo D - Rodada 1 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Defensores del Chaco
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260414T213000Z_Santos_Recoleta
 DTSTART;TZID=America/Montevideo:20260414T213000
 DTEND;TZID=America/Montevideo:20260414T233000
 SUMMARY:Santos🇧🇷 vs. Recoleta🇵🇾
-DESCRIPTION:Grupo D - Rodada 2 - Copa Sul-Americana
+DESCRIPTION:Grupo D - Rodada 2 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Vila Belmiro (Urbano Caldeira)
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260428T213000Z_Recoleta_DeportivoCuenca
 DTSTART;TZID=America/Montevideo:20260428T213000
 DTEND;TZID=America/Montevideo:20260428T233000
 SUMMARY:Recoleta🇵🇾 vs. Deportivo Cuenca🇪🇨
-DESCRIPTION:Grupo D - Rodada 3 - Copa Sul-Americana
+DESCRIPTION:Grupo D - Rodada 3 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Defensores del Chaco
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20260505T213000Z_Recoleta_Santos
 DTSTART;TZID=America/Montevideo:20260505T213000
 DTEND;TZID=America/Montevideo:20260505T233000
 SUMMARY:Recoleta🇵🇾 vs. Santos🇧🇷
-DESCRIPTION:Grupo D - Rodada 4 - Copa Sul-Americana
+DESCRIPTION:Grupo D - Rodada 4 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Río Parapití
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20260519T230000Z_DeportivoCuenca_Recoleta
 DTSTART;TZID=America/Montevideo:20260519T230000
 DTEND;TZID=America/Montevideo:20260520T010000
 SUMMARY:Deportivo Cuenca🇪🇨 vs. Recoleta🇵🇾
-DESCRIPTION:Grupo D - Rodada 5 - Copa Sul-Americana
+DESCRIPTION:Grupo D - Rodada 5 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Banco del Austro Alejandro Serrano Aguil
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20260526T213000Z_SanLorenzo_Recoleta
 DTSTART;TZID=America/Montevideo:20260526T213000
 DTEND;TZID=America/Montevideo:20260526T233000
 SUMMARY:San Lorenzo🇦🇷 vs. Recoleta🇵🇾
-DESCRIPTION:Grupo D - Rodada 6 - Copa Sul-Americana
+DESCRIPTION:Grupo D - Rodada 6 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Pedro Bidegain
 END:VEVENT

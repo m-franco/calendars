@@ -6,7 +6,7 @@ UID:20260408T213000Z_Blooming_River
 DTSTART;TZID=America/Montevideo:20260408T213000
 DTEND;TZID=America/Montevideo:20260408T233000
 SUMMARY:Blooming🇧🇴 vs. River🇦🇷
-DESCRIPTION:Grupo H - Fecha 1 - Copa Sudamericana
+DESCRIPTION:Grupo H - Fecha 1 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Ramón Tahuichi
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260416T213000Z_RedBullBragantino_Blooming
 DTSTART;TZID=America/Montevideo:20260416T213000
 DTEND;TZID=America/Montevideo:20260416T233000
 SUMMARY:Red Bull Bragantino🇧🇷 vs. Blooming🇧🇴
-DESCRIPTION:Grupo H - Fecha 2 - Copa Sudamericana
+DESCRIPTION:Grupo H - Fecha 2 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estádio Municipal Cicero de Souza Marques
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260430T190000Z_Carabobo_Blooming
 DTSTART;TZID=America/Montevideo:20260430T190000
 DTEND;TZID=America/Montevideo:20260430T210000
 SUMMARY:Carabobo🇻🇪 vs. Blooming🇧🇴
-DESCRIPTION:Grupo H - Fecha 3 - Copa Sudamericana
+DESCRIPTION:Grupo H - Fecha 3 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Misael Delgado
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20260507T213000Z_Blooming_RedBullBragantino
 DTSTART;TZID=America/Montevideo:20260507T213000
 DTEND;TZID=America/Montevideo:20260507T233000
 SUMMARY:Blooming🇧🇴 vs. Red Bull Bragantino🇧🇷
-DESCRIPTION:Grupo H - Fecha 4 - Copa Sudamericana
+DESCRIPTION:Grupo H - Fecha 4 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Ramón Tahuichi
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20260521T213000Z_Blooming_Carabobo
 DTSTART;TZID=America/Montevideo:20260521T213000
 DTEND;TZID=America/Montevideo:20260521T233000
 SUMMARY:Blooming🇧🇴 vs. Carabobo🇻🇪
-DESCRIPTION:Grupo H - Fecha 5 - Copa Sudamericana
+DESCRIPTION:Grupo H - Fecha 5 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Ramón Tahuichi
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20260527T213000Z_River_Blooming
 DTSTART;TZID=America/Montevideo:20260527T213000
 DTEND;TZID=America/Montevideo:20260527T233000
 SUMMARY:River🇦🇷 vs. Blooming🇧🇴
-DESCRIPTION:Grupo H - Fecha 6 - Copa Sudamericana
+DESCRIPTION:Grupo H - Fecha 6 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Más Monumental
 END:VEVENT

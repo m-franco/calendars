@@ -6,7 +6,7 @@ UID:20260407T230000Z_DeportesTolima_Universitario
 DTSTART;TZID=America/Montevideo:20260407T230000
 DTEND;TZID=America/Montevideo:20260408T010000
 SUMMARY:Deportes Tolima🇨🇴 vs. Universitario🇵🇪
-DESCRIPTION:Group B - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Manuel Murillo Toro Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260414T190000Z_Nacional_DeportesTolima
 DTSTART;TZID=America/Montevideo:20260414T190000
 DTEND;TZID=America/Montevideo:20260414T210000
 SUMMARY:Nacional🇺🇾 vs. Deportes Tolima🇨🇴
-DESCRIPTION:Group B - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Gran Parque Central
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260428T230000Z_DeportesTolima_CoquimboUnido
 DTSTART;TZID=America/Montevideo:20260428T230000
 DTEND;TZID=America/Montevideo:20260429T010000
 SUMMARY:Deportes Tolima🇨🇴 vs. Coquimbo Unido🇨🇱
-DESCRIPTION:Group B - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Manuel Murillo Toro Stadium
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20260506T230000Z_DeportesTolima_Nacional
 DTSTART;TZID=America/Montevideo:20260506T230000
 DTEND;TZID=America/Montevideo:20260507T010000
 SUMMARY:Deportes Tolima🇨🇴 vs. Nacional🇺🇾
-DESCRIPTION:Group B - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Manuel Murillo Toro Stadium
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20260519T190000Z_CoquimboUnido_DeportesTolima
 DTSTART;TZID=America/Montevideo:20260519T190000
 DTEND;TZID=America/Montevideo:20260519T210000
 SUMMARY:Coquimbo Unido🇨🇱 vs. Deportes Tolima🇨🇴
-DESCRIPTION:Group B - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Francisco Sánchez Rumoroso Stadium
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20260526T213000Z_Universitario_DeportesTolima
 DTSTART;TZID=America/Montevideo:20260526T213000
 DTEND;TZID=America/Montevideo:20260526T233000
 SUMMARY:Universitario🇵🇪 vs. Deportes Tolima🇨🇴
-DESCRIPTION:Group B - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Monumental de Lima Stadium
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20260811T213000Z_DeportesTolima_IndependienteDelValle
 DTSTART;TZID=America/Montevideo:20260811T213000
 DTEND;TZID=America/Montevideo:20260811T233000
 SUMMARY:Deportes Tolima🇨🇴 vs. Independiente del Valle🇪🇨
-DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Manuel Murillo Toro Stadium
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20260818T213000Z_IndependienteDelValle_DeportesTolima
 DTSTART;TZID=America/Montevideo:20260818T213000
 DTEND;TZID=America/Montevideo:20260818T233000
 SUMMARY:Independiente del Valle🇪🇨 vs. Deportes Tolima🇨🇴
-DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:a definir Stadium
 END:VEVENT

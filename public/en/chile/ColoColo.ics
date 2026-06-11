@@ -6,7 +6,7 @@ UID:20240403T210000Z_ColoColo_CerroPorteño
 DTSTART;TZID=America/Montevideo:20240403T210000
 DTEND;TZID=America/Montevideo:20240403T230000
 SUMMARY:Colo-Colo🇨🇱 vs. Cerro Porteño🇵🇾
-DESCRIPTION:Group A - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Monumental David Arellano Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20240409T213000Z_Fluminense_ColoColo
 DTSTART;TZID=America/Montevideo:20240409T213000
 DTEND;TZID=America/Montevideo:20240409T233000
 SUMMARY:Fluminense🇧🇷 vs. Colo-Colo🇨🇱
-DESCRIPTION:Group A - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Maracaná Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240423T190000Z_ColoColo_AlianzaLima
 DTSTART;TZID=America/Montevideo:20240423T190000
 DTEND;TZID=America/Montevideo:20240423T210000
 SUMMARY:Colo-Colo🇨🇱 vs. Alianza Lima🇵🇪
-DESCRIPTION:Group A - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Monumental David Arellano Stadium
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20240509T210000Z_ColoColo_Fluminense
 DTSTART;TZID=America/Montevideo:20240509T210000
 DTEND;TZID=America/Montevideo:20240509T230000
 SUMMARY:Colo-Colo🇨🇱 vs. Fluminense🇧🇷
-DESCRIPTION:Group A - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Monumental David Arellano Stadium
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20240515T210000Z_AlianzaLima_ColoColo
 DTSTART;TZID=America/Montevideo:20240515T210000
 DTEND;TZID=America/Montevideo:20240515T230000
 SUMMARY:Alianza Lima🇵🇪 vs. Colo-Colo🇨🇱
-DESCRIPTION:Group A - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Alejandro Villanueva Stadium
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20240529T213000Z_CerroPorteño_ColoColo
 DTSTART;TZID=America/Montevideo:20240529T213000
 DTEND;TZID=America/Montevideo:20240529T233000
 SUMMARY:Cerro Porteño🇵🇾 vs. Colo-Colo🇨🇱
-DESCRIPTION:Group A - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Ueno La Nueva Olla Stadium
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20240813T213000Z_ColoColo_Junior
 DTSTART;TZID=America/Montevideo:20240813T213000
 DTEND;TZID=America/Montevideo:20240813T233000
 SUMMARY:Colo Colo🇨🇱 vs. Junior🇨🇴
-DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Monumental David Arellano Stadium
 CLASS:PUBLIC
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20240820T213000Z_Junior_ColoColo
 DTSTART;TZID=America/Montevideo:20240820T213000
 DTEND;TZID=America/Montevideo:20240820T233000
 SUMMARY:Junior🇨🇴 vs. Colo Colo🇨🇱
-DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Metropolitano Roberto Meléndez Stadium
 CLASS:PUBLIC
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20240917T213000Z_ColoColo_RiverPlate
 DTSTART;TZID=America/Montevideo:20240917T213000
 DTEND;TZID=America/Montevideo:20240917T233000
 SUMMARY:Colo Colo🇨🇱 vs. River Plate🇦🇷
-DESCRIPTION:Quarter-finals - First leg - Libertadores Cup
+DESCRIPTION:Quarter-finals - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Monumental Stadium, Santiago
 CLASS:PUBLIC
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20240924T213000Z_RiverPlate_ColoColo
 DTSTART;TZID=America/Montevideo:20240924T213000
 DTEND;TZID=America/Montevideo:20240924T233000
 SUMMARY:River Plate🇦🇷 vs. Colo Colo🇨🇱
-DESCRIPTION:Quarter-finals - Second leg - Libertadores Cup
+DESCRIPTION:Quarter-finals - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Monumental Stadium, Buenos Aires
 CLASS:PUBLIC
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20250401T213000Z_AtleticoBucaramanga_ColoColo
 DTSTART;TZID=America/Montevideo:20250401T213000
 DTEND;TZID=America/Montevideo:20250401T233000
 SUMMARY:Atlético Bucaramanga🇨🇴 vs. Colo-Colo🇨🇱
-DESCRIPTION:Group E - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Américo Montanini Stadium
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20250410T210000Z_ColoColo_Fortaleza
 DTSTART;TZID=America/Montevideo:20250410T210000
 DTEND;TZID=America/Montevideo:20250410T230000
 SUMMARY:Colo-Colo🇨🇱 vs. Fortaleza🇧🇷
-DESCRIPTION:Group E - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Monumental David Arellano Stadium
 END:VEVENT
@@ -126,7 +126,7 @@ UID:20250422T213000Z_ColoColo_Racing
 DTSTART;TZID=America/Montevideo:20250422T213000
 DTEND;TZID=America/Montevideo:20250422T233000
 SUMMARY:Colo-Colo🇨🇱 vs. Racing🇦🇷
-DESCRIPTION:Group E - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Monumental David Arellano Stadium
 END:VEVENT
@@ -136,7 +136,7 @@ UID:20250506T213000Z_Fortaleza_ColoColo
 DTSTART;TZID=America/Montevideo:20250506T213000
 DTEND;TZID=America/Montevideo:20250506T233000
 SUMMARY:Fortaleza🇧🇷 vs. Colo-Colo🇨🇱
-DESCRIPTION:Group E - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Castelão
 END:VEVENT
@@ -146,7 +146,7 @@ UID:20250514T213000Z_Racing_ColoColo
 DTSTART;TZID=America/Montevideo:20250514T213000
 DTEND;TZID=America/Montevideo:20250514T233000
 SUMMARY:Racing🇦🇷 vs. Colo-Colo🇨🇱
-DESCRIPTION:Group E - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Presidente Perón (Cilindro de Avellaneda)
 END:VEVENT
@@ -156,7 +156,7 @@ UID:20250529T213000Z_ColoColo_AtleticoBucaramanga
 DTSTART;TZID=America/Montevideo:20250529T213000
 DTEND;TZID=America/Montevideo:20250529T233000
 SUMMARY:Colo-Colo🇨🇱 vs. Atlético Bucaramanga🇨🇴
-DESCRIPTION:Group E - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Monumental David Arellano Stadium
 END:VEVENT

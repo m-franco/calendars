@@ -6,7 +6,7 @@ UID:20240402T190000Z_Liverpool_IndependienteDelValle
 DTSTART;TZID=America/Montevideo:20240402T190000
 DTEND;TZID=America/Montevideo:20240402T210000
 SUMMARY:Liverpool🇺🇾 vs. Independiente del Valle🇪🇨
-DESCRIPTION:Group F - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Centenario Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20240411T210000Z_Palmeiras_Liverpool
 DTSTART;TZID=America/Montevideo:20240411T210000
 DTEND;TZID=America/Montevideo:20240411T230000
 SUMMARY:Palmeiras🇧🇷 vs. Liverpool🇺🇾
-DESCRIPTION:Group F - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Allianz Parque Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240423T210000Z_Liverpool_SanLorenzo
 DTSTART;TZID=America/Montevideo:20240423T210000
 DTEND;TZID=America/Montevideo:20240423T230000
 SUMMARY:Liverpool🇺🇾 vs. San Lorenzo🇦🇷
-DESCRIPTION:Group F - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Centenario Stadium
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20240509T190000Z_Liverpool_Palmeiras
 DTSTART;TZID=America/Montevideo:20240509T190000
 DTEND;TZID=America/Montevideo:20240509T210000
 SUMMARY:Liverpool🇺🇾 vs.Palmeiras🇧🇷
-DESCRIPTION:Group F - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Centenario Stadium
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20240516T210000Z_SanLorenzo_Liverpool
 DTSTART;TZID=America/Montevideo:20240516T210000
 DTEND;TZID=America/Montevideo:20240516T230000
 SUMMARY:San Lorenzo🇦🇷 vs. Liverpool🇺🇾
-DESCRIPTION:Group F - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nuevo Gasómtro Stadium
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20240530T190000Z_IndependienteDelValle_Liverpool
 DTSTART;TZID=America/Montevideo:20240530T190000
 DTEND;TZID=America/Montevideo:20240530T210000
 SUMMARY:Independiente del Valle🇪🇨 vs. Liverpool🇺🇾
-DESCRIPTION:Group F - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Guayaquil Stadium
 END:VEVENT

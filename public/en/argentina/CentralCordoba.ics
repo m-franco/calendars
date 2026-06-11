@@ -6,7 +6,7 @@ UID:20250403T190000Z_CentralCordoba_LigaDeQuito
 DTSTART;TZID=America/Montevideo:20250403T190000
 DTEND;TZID=America/Montevideo:20250403T210000
 SUMMARY:Central Córdoba🇦🇷 vs. Liga de Quito🇪🇨
-DESCRIPTION:Group C - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group C - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Único Madre de Ciudades Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20250409T213000Z_Flamengo_CentralCordoba
 DTSTART;TZID=America/Montevideo:20250409T213000
 DTEND;TZID=America/Montevideo:20250409T233000
 SUMMARY:Flamengo🇧🇷 vs. Central Córdoba🇦🇷
-DESCRIPTION:Group C - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group C - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:do Maracana Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20250424T190000Z_CentralCordoba_DeportivoTachira
 DTSTART;TZID=America/Montevideo:20250424T190000
 DTEND;TZID=America/Montevideo:20250424T210000
 SUMMARY:Central Córdoba🇦🇷 vs. Deportivo Táchira🇻🇪
-DESCRIPTION:Group C - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group C - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Único Madre de Ciudades Stadium
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20250507T213000Z_CentralCordoba_Flamengo
 DTSTART;TZID=America/Montevideo:20250507T213000
 DTEND;TZID=America/Montevideo:20250507T233000
 SUMMARY:Central Córdoba🇦🇷 vs. Flamengo🇧🇷
-DESCRIPTION:Group C - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group C - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Único Madre de Ciudades Stadium
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20250513T190000Z_DeportivoTachira_CentralCordoba
 DTSTART;TZID=America/Montevideo:20250513T190000
 DTEND;TZID=America/Montevideo:20250513T210000
 SUMMARY:Deportivo Táchira🇻🇪 vs. Central Córdoba🇦🇷
-DESCRIPTION:Group C - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group C - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Pueblo Nuevo Stadium
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20250528T213000Z_LigaDeQuito_CentralCordoba
 DTSTART;TZID=America/Montevideo:20250528T213000
 DTEND;TZID=America/Montevideo:20250528T233000
 SUMMARY:Liga de Quito🇪🇨 vs. Central Córdoba🇦🇷
-DESCRIPTION:Group C - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group C - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Rodrigo Paz Delgado
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20250715T190000Z_CentralCordoba_CerroLargo
 DTSTART;TZID=America/Montevideo:20250715T190000
 DTEND;TZID=America/Montevideo:20250715T210000
 SUMMARY:Central Córdoba🇦🇷 vs. Cerro Largo🇺🇾
-DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Único Madre de Ciudades Stadium
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20250722T190000Z_CerroLargo_CentralCordoba
 DTSTART;TZID=America/Montevideo:20250722T190000
 DTEND;TZID=America/Montevideo:20250722T210000
 SUMMARY:Cerro Largo🇺🇾 vs. Central Córdoba🇦🇷
-DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Campeón del Siglo Stadium
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20250814T213000Z_CentralCordoba_Lanus
 DTSTART;TZID=America/Montevideo:20250814T213000
 DTEND;TZID=America/Montevideo:20250814T233000
 SUMMARY:Central Córdoba🇦🇷 vs. Lanús🇦🇷
-DESCRIPTION:Round of 16 - First leg - Sudamericana Cup
+DESCRIPTION:Round of 16 - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Único Madre de Ciudades Stadium
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20250821T213000Z_Lanus_CentralCordoba
 DTSTART;TZID=America/Montevideo:20250821T213000
 DTEND;TZID=America/Montevideo:20250821T233000
 SUMMARY:Lanús🇦🇷 vs. Central Córdoba🇦🇷
-DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup
+DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Ciudad de Lanús
 END:VEVENT

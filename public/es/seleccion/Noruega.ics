@@ -6,7 +6,7 @@ UID:20260616T190000Z_Irak_Noruega
 DTSTART;TZID=America/Montevideo:20260616T190000
 DTEND;TZID=America/Montevideo:20260616T210000
 SUMMARY:Irak vs. Noruega
-DESCRIPTION:Grupo I - Fecha 1 - Copa del Mundo
+DESCRIPTION:Grupo I - Fecha 1 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Gillette Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260622T210000Z_Noruega_Senegal
 DTSTART;TZID=America/Montevideo:20260622T210000
 DTEND;TZID=America/Montevideo:20260622T230000
 SUMMARY:Noruega vs. Senegal
-DESCRIPTION:Grupo I - Fecha 2 - Copa del Mundo
+DESCRIPTION:Grupo I - Fecha 2 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260626T160000Z_Noruega_Francia
 DTSTART;TZID=America/Montevideo:20260626T160000
 DTEND;TZID=America/Montevideo:20260626T180000
 SUMMARY:Noruega vs. Francia
-DESCRIPTION:Grupo I - Fecha 3 - Copa del Mundo
+DESCRIPTION:Grupo I - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Gillette Stadium
 END:VEVENT

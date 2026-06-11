@@ -6,7 +6,7 @@ UID:20240402T210000Z_Huachipato_Estudiantes
 DTSTART;TZID=America/Montevideo:20240402T210000
 DTEND;TZID=America/Montevideo:20240402T230000
 SUMMARY:Huachipato🇨🇱 vs. Estudiantes🇦🇷
-DESCRIPTION:Group C - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group C - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Huachipato Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20240409T190000Z_Gremio_Huachipato
 DTSTART;TZID=America/Montevideo:20240409T190000
 DTEND;TZID=America/Montevideo:20240409T210000
 SUMMARY:Gremio🇧🇷 vs. Huachipato🇨🇱
-DESCRIPTION:Group C - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group C - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Arena Do Gremio Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240424T190000Z_Huachipato_TheStrongest
 DTSTART;TZID=America/Montevideo:20240424T190000
 DTEND;TZID=America/Montevideo:20240424T210000
 SUMMARY:Huachipato🇨🇱 vs. The Strongest🇧🇴
-DESCRIPTION:Group C - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group C - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Huachipato Stadium
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20240515T190000Z_TheStrongest_Huachipato
 DTSTART;TZID=America/Montevideo:20240515T190000
 DTEND;TZID=America/Montevideo:20240515T210000
 SUMMARY:The Strongest🇧🇴 vs. Huachipato🇨🇱
-DESCRIPTION:Group C - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group C - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Hernando Siles
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20240529T190000Z_Estudiantes_Huachipato
 DTSTART;TZID=America/Montevideo:20240529T190000
 DTEND;TZID=America/Montevideo:20240529T210000
 SUMMARY:Estudiantes🇦🇷 vs. Huachipato🇨🇱
-DESCRIPTION:Group C - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group C - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:UNO Jorge Luis Hirschi Stadium
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20240604T210000Z_Huachipato_Gremio
 DTSTART;TZID=America/Montevideo:20240604T210000
 DTEND;TZID=America/Montevideo:20240604T230000
 SUMMARY:Huachipato🇨🇱 vs. Gremio🇧🇷
-DESCRIPTION:Group C - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group C - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Huachipato Stadium
 END:VEVENT

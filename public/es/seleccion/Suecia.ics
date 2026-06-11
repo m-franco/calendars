@@ -6,7 +6,7 @@ UID:20260614T230000Z_Suecia_Tunez
 DTSTART;TZID=America/Montevideo:20260614T230000
 DTEND;TZID=America/Montevideo:20260615T010000
 SUMMARY:Suecia vs. Túnez
-DESCRIPTION:Grupo F - Fecha 1 - Copa del Mundo
+DESCRIPTION:Grupo F - Fecha 1 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio BBVA
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260620T140000Z_PaisesBajos_Suecia
 DTSTART;TZID=America/Montevideo:20260620T140000
 DTEND;TZID=America/Montevideo:20260620T160000
 SUMMARY:Países Bajos vs. Suecia
-DESCRIPTION:Grupo F - Fecha 2 - Copa del Mundo
+DESCRIPTION:Grupo F - Fecha 2 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:NRG Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260625T200000Z_Japon_Suecia
 DTSTART;TZID=America/Montevideo:20260625T200000
 DTEND;TZID=America/Montevideo:20260625T220000
 SUMMARY:Japón vs. Suecia
-DESCRIPTION:Grupo F - Fecha 3 - Copa del Mundo
+DESCRIPTION:Grupo F - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
 END:VEVENT

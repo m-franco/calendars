@@ -6,7 +6,7 @@ UID:20260617T010000Z_Austria_Jordan
 DTSTART;TZID=America/Montevideo:20260617T010000
 DTEND;TZID=America/Montevideo:20260617T030000
 SUMMARY:Austria vs. Jordan
-DESCRIPTION:Group J - Matchday 1 - World Cup
+DESCRIPTION:Group J - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260623T000000Z_Jordan_Algeria
 DTSTART;TZID=America/Montevideo:20260623T000000
 DTEND;TZID=America/Montevideo:20260623T020000
 SUMMARY:Jordan vs. Algeria
-DESCRIPTION:Group J - Matchday 2 - World Cup
+DESCRIPTION:Group J - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260627T230000Z_Jordan_Argentina
 DTSTART;TZID=America/Montevideo:20260627T230000
 DTEND;TZID=America/Montevideo:20260628T010000
 SUMMARY:Jordan vs. Argentina
-DESCRIPTION:Group J - Matchday 3 - World Cup
+DESCRIPTION:Group J - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
 END:VEVENT

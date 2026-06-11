@@ -6,7 +6,7 @@ UID:20250401T190000Z_BostonRiver_Guarani
 DTSTART;TZID=America/Montevideo:20250401T190000
 DTEND;TZID=America/Montevideo:20250401T210000
 SUMMARY:Boston River🇺🇾 vs. Guaraní🇵🇾
-DESCRIPTION:Group A - Matchday 1 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 1 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Centenario Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20250401T190000Z_NacionalPotosi_Independiente
 DTSTART;TZID=America/Montevideo:20250401T190000
 DTEND;TZID=America/Montevideo:20250401T210000
 SUMMARY:Nacional Potosí🇧🇴 vs. Independiente🇦🇷
-DESCRIPTION:Group A - Matchday 1 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 1 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Víctor Agustín Ugarte Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20250408T190000Z_Independiente_BostonRiver
 DTSTART;TZID=America/Montevideo:20250408T190000
 DTEND;TZID=America/Montevideo:20250408T210000
 SUMMARY:Independiente🇦🇷 vs. Boston River🇺🇾
-DESCRIPTION:Group A - Matchday 2 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 2 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Libertadores de América Stadium
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20250410T213000Z_Guarani_NacionalPotosi
 DTSTART;TZID=America/Montevideo:20250410T213000
 DTEND;TZID=America/Montevideo:20250410T233000
 SUMMARY:Guaraní🇵🇾 vs. Nacional Potosí🇧🇴
-DESCRIPTION:Group A - Matchday 2 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 2 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:ueno Defensores del Chaco Stadium
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20250422T190000Z_BostonRiver_NacionalPotosi
 DTSTART;TZID=America/Montevideo:20250422T190000
 DTEND;TZID=America/Montevideo:20250422T210000
 SUMMARY:Boston River🇺🇾 vs. Nacional Potosí🇧🇴
-DESCRIPTION:Group A - Matchday 3 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 3 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Centenario Stadium
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20250422T190000Z_Guarani_Independiente
 DTSTART;TZID=America/Montevideo:20250422T190000
 DTEND;TZID=America/Montevideo:20250422T210000
 SUMMARY:Guaraní🇵🇾 vs. Independiente🇦🇷
-DESCRIPTION:Group A - Matchday 3 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 3 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:ueno Defensores del Chaco Stadium
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20250506T190000Z_NacionalPotosi_Guarani
 DTSTART;TZID=America/Montevideo:20250506T190000
 DTEND;TZID=America/Montevideo:20250506T210000
 SUMMARY:Nacional Potosí🇧🇴 vs. Guaraní🇵🇾
-DESCRIPTION:Group A - Matchday 4 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 4 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Víctor Agustín Ugarte Stadium
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20250506T213000Z_BostonRiver_Independiente
 DTSTART;TZID=America/Montevideo:20250506T213000
 DTEND;TZID=America/Montevideo:20250506T233000
 SUMMARY:Boston River🇺🇾 vs. Independiente🇦🇷
-DESCRIPTION:Group A - Matchday 4 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 4 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Centenario Stadium
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20250513T190000Z_NacionalPotosi_BostonRiver
 DTSTART;TZID=America/Montevideo:20250513T190000
 DTEND;TZID=America/Montevideo:20250513T210000
 SUMMARY:Nacional Potosí🇧🇴 vs. Boston River🇺🇾
-DESCRIPTION:Group A - Matchday 5 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 5 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Víctor Agustín Ugarte Stadium
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20250515T190000Z_Independiente_Guarani
 DTSTART;TZID=America/Montevideo:20250515T190000
 DTEND;TZID=America/Montevideo:20250515T210000
 SUMMARY:Independiente🇦🇷 vs. Guaraní🇵🇾
-DESCRIPTION:Group A - Matchday 5 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 5 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Libertadores de América Stadium
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20250528T190000Z_Guarani_BostonRiver
 DTSTART;TZID=America/Montevideo:20250528T190000
 DTEND;TZID=America/Montevideo:20250528T210000
 SUMMARY:Guaraní🇵🇾 vs. Boston River🇺🇾
-DESCRIPTION:Group A - Matchday 6 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 6 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:ueno Defensores del Chaco Stadium
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20250528T190000Z_Independiente_NacionalPotosi
 DTSTART;TZID=America/Montevideo:20250528T190000
 DTEND;TZID=America/Montevideo:20250528T210000
 SUMMARY:Independiente🇦🇷 vs. Nacional Potosí🇧🇴
-DESCRIPTION:Group A - Matchday 6 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 6 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Libertadores de América Stadium
 END:VEVENT
@@ -126,7 +126,7 @@ UID:20250717T190000Z_UniversidadDeChile_Guarani
 DTSTART;TZID=America/Montevideo:20250717T190000
 DTEND;TZID=America/Montevideo:20250717T210000
 SUMMARY:Universidad de Chile🇨🇱 vs. Guaraní🇵🇾
-DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nacional Julio Martínez Prádanos Stadium
 END:VEVENT
@@ -136,7 +136,7 @@ UID:20250724T190000Z_Guarani_UniversidadDeChile
 DTSTART;TZID=America/Montevideo:20250724T190000
 DTEND;TZID=America/Montevideo:20250724T210000
 SUMMARY:Guaraní🇵🇾 vs. Universidad de Chile🇨🇱
-DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:ueno La Nueva Olla Stadium
 END:VEVENT
@@ -146,7 +146,7 @@ UID:20250813T213000Z_UniversidadDeChile_Independiente
 DTSTART;TZID=America/Montevideo:20250813T213000
 DTEND;TZID=America/Montevideo:20250813T233000
 SUMMARY:Universidad de Chile🇨🇱 vs. Independiente🇦🇷
-DESCRIPTION:Round of 16 - First leg - Sudamericana Cup
+DESCRIPTION:Round of 16 - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nacional Julio Martínez Prádanos Stadium
 END:VEVENT
@@ -156,7 +156,7 @@ UID:20250820T213000Z_Independiente_UniversidadDeChile
 DTSTART;TZID=America/Montevideo:20250820T213000
 DTEND;TZID=America/Montevideo:20250820T233000
 SUMMARY:Independiente🇦🇷 vs. Universidad de Chile🇨🇱
-DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup
+DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Libertadores de América Stadium
 END:VEVENT

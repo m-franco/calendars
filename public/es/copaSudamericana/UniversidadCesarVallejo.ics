@@ -6,7 +6,7 @@ UID:20240402T230000Z_UCV_Defensa_y_Justicia
 DTSTART;TZID=America/Montevideo:20240402T230000
 DTEND;TZID=America/Montevideo:20240403T010000
 SUMMARY:Universidad César Vallejo🇵🇪 vs. Defensa y Justicia🇦🇷
-DESCRIPTION:Grupo A - Fecha 1 - Copa Sudamericana
+DESCRIPTION:Grupo A - Fecha 1 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Mansiche
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20240410T230000Z_Independiente_Medellin_UCV
 DTSTART;TZID=America/Montevideo:20240410T230000
 DTEND;TZID=America/Montevideo:20240411T010000
 SUMMARY:Independiente de Medellín🇨🇴 vs. Universidad César Vallejo🇵🇪
-DESCRIPTION:Grupo A - Fecha 2 - Copa Sudamericana
+DESCRIPTION:Grupo A - Fecha 2 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Atanasio Girardot
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240425T210000Z_Always_Ready_UCV
 DTSTART;TZID=America/Montevideo:20240425T210000
 DTEND;TZID=America/Montevideo:20240425T230000
 SUMMARY:Always Ready🇧🇴 vs. Universidad César Vallejo🇵🇪
-DESCRIPTION:Grupo A - Fecha 3 - Copa Sudamericana
+DESCRIPTION:Grupo A - Fecha 3 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Municipal Villa Ingenio
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20240507T210000Z_UCV_Independiente_Medellin
 DTSTART;TZID=America/Montevideo:20240507T210000
 DTEND;TZID=America/Montevideo:20240507T230000
 SUMMARY:Universidad César Vallejo🇵🇪 vs. Independiente de Medellín🇨🇴
-DESCRIPTION:Grupo A - Fecha 4 - Copa Sudamericana
+DESCRIPTION:Grupo A - Fecha 4 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Mansiche
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20240515T230000Z_UCV_Always_Ready
 DTSTART;TZID=America/Montevideo:20240515T230000
 DTEND;TZID=America/Montevideo:20240516T010000
 SUMMARY:Universidad César Vallejo🇵🇪 vs. Always Ready🇧🇴
-DESCRIPTION:Grupo A - Fecha 5 - Copa Sudamericana
+DESCRIPTION:Grupo A - Fecha 5 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Mansiche
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20240529T210000Z_Defensa_y_Justicia_UCV
 DTSTART;TZID=America/Montevideo:20240529T210000
 DTEND;TZID=America/Montevideo:20240529T230000
 SUMMARY:Defensa y Justicia🇦🇷 vs. Universidad César Vallejo🇵🇪
-DESCRIPTION:Grupo A - Fecha 6 - Copa Sudamericana
+DESCRIPTION:Grupo A - Fecha 6 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Norberto Tomaghello
 END:VEVENT

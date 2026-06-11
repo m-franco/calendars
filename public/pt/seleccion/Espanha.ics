@@ -6,7 +6,7 @@ UID:20260615T130000Z_Espanha_CaboVerde
 DTSTART;TZID=America/Montevideo:20260615T130000
 DTEND;TZID=America/Montevideo:20260615T150000
 SUMMARY:Espanha vs. Cabo Verde
-DESCRIPTION:Grupo H - Rodada 1 - Copa do Mundo
+DESCRIPTION:Grupo H - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260621T130000Z_Espanha_ArabiaSaudita
 DTSTART;TZID=America/Montevideo:20260621T130000
 DTEND;TZID=America/Montevideo:20260621T150000
 SUMMARY:Espanha vs. Arábia Saudita
-DESCRIPTION:Grupo H - Rodada 2 - Copa do Mundo
+DESCRIPTION:Grupo H - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260626T210000Z_Uruguai_Espanha
 DTSTART;TZID=America/Montevideo:20260626T210000
 DTEND;TZID=America/Montevideo:20260626T230000
 SUMMARY:Uruguai vs. Espanha
-DESCRIPTION:Grupo H - Rodada 3 - Copa do Mundo
+DESCRIPTION:Grupo H - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Akron
 END:VEVENT

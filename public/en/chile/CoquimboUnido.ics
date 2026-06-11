@@ -6,7 +6,7 @@ UID:20240403T210000Z_Red_Bull_Bragantino_Coquimbo_Unido
 DTSTART;TZID=America/Montevideo:20240403T210000
 DTEND;TZID=America/Montevideo:20240403T230000
 SUMMARY:Red Bull Bragantino🇧🇷 vs. Coquimbo Unido🇨🇱
-DESCRIPTION:Group H - Matchday 1 - Sudamericana Cup
+DESCRIPTION:Group H - Matchday 1 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nabi Abi Chedid Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20240411T210000Z_Coquimbo_Unido_Sportivo_Luqueno
 DTSTART;TZID=America/Montevideo:20240411T210000
 DTEND;TZID=America/Montevideo:20240411T230000
 SUMMARY:Coquimbo Unido🇨🇱 vs. Sportivo Luqueño🇵🇾
-DESCRIPTION:Group H - Matchday 2 - Sudamericana Cup
+DESCRIPTION:Group H - Matchday 2 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Francisco Sánchez Rumoroso Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240424T190000Z_Coquimbo_Unido_Racing_Arg
 DTSTART;TZID=America/Montevideo:20240424T190000
 DTEND;TZID=America/Montevideo:20240424T210000
 SUMMARY:Coquimbo Unido🇨🇱 vs. Racing(Arg)🇦🇷
-DESCRIPTION:Group H - Matchday 3 - Sudamericana Cup
+DESCRIPTION:Group H - Matchday 3 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Francisco Sánchez Rumoroso Stadium
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20240508T190000Z_Sportivo_Luqueno_Coquimbo_Unido
 DTSTART;TZID=America/Montevideo:20240508T190000
 DTEND;TZID=America/Montevideo:20240508T210000
 SUMMARY:Sportivo Luqueño🇵🇾 vs. Coquimbo Unido🇨🇱
-DESCRIPTION:Group H - Matchday 4 - Sudamericana Cup
+DESCRIPTION:Group H - Matchday 4 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Defensores del Chaco Stadium
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20240522T213000Z_Coquimbo_Unido_Red_Bull_Bragantino
 DTSTART;TZID=America/Montevideo:20240522T213000
 DTEND;TZID=America/Montevideo:20240522T233000
 SUMMARY:Coquimbo Unido🇨🇱 vs. Red Bull Bragantino🇧🇷
-DESCRIPTION:Group H - Matchday 5 - Sudamericana Cup
+DESCRIPTION:Group H - Matchday 5 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Francisco Sánchez Rumoroso Stadium
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20240605T210000Z_Racing_Arg_Coquimbo_Unido
 DTSTART;TZID=America/Montevideo:20240605T210000
 DTEND;TZID=America/Montevideo:20240605T230000
 SUMMARY:Racing(Arg)🇦🇷 vs. Coquimbo Unido🇨🇱
-DESCRIPTION:Group H - Matchday 6 - Sudamericana Cup
+DESCRIPTION:Group H - Matchday 6 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Presidente Perón Stadium
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20260408T190000Z_CoquimboUnido_Nacional
 DTSTART;TZID=America/Montevideo:20260408T190000
 DTEND;TZID=America/Montevideo:20260408T210000
 SUMMARY:Coquimbo Unido🇨🇱 vs. Nacional🇺🇾
-DESCRIPTION:Group B - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Francisco Sánchez Rumoroso Stadium
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20260414T230000Z_Universitario_CoquimboUnido
 DTSTART;TZID=America/Montevideo:20260414T230000
 DTEND;TZID=America/Montevideo:20260415T010000
 SUMMARY:Universitario🇵🇪 vs. Coquimbo Unido🇨🇱
-DESCRIPTION:Group B - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Monumental de Lima Stadium
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20260428T230000Z_DeportesTolima_CoquimboUnido
 DTSTART;TZID=America/Montevideo:20260428T230000
 DTEND;TZID=America/Montevideo:20260429T010000
 SUMMARY:Deportes Tolima🇨🇴 vs. Coquimbo Unido🇨🇱
-DESCRIPTION:Group B - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Manuel Murillo Toro Stadium
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20260507T210000Z_CoquimboUnido_Universitario
 DTSTART;TZID=America/Montevideo:20260507T210000
 DTEND;TZID=America/Montevideo:20260507T230000
 SUMMARY:Coquimbo Unido🇨🇱 vs. Universitario🇵🇪
-DESCRIPTION:Group B - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Francisco Sánchez Rumoroso Stadium
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20260519T190000Z_CoquimboUnido_DeportesTolima
 DTSTART;TZID=America/Montevideo:20260519T190000
 DTEND;TZID=America/Montevideo:20260519T210000
 SUMMARY:Coquimbo Unido🇨🇱 vs. Deportes Tolima🇨🇴
-DESCRIPTION:Group B - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Francisco Sánchez Rumoroso Stadium
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20260526T213000Z_Nacional_CoquimboUnido
 DTSTART;TZID=America/Montevideo:20260526T213000
 DTEND;TZID=America/Montevideo:20260526T233000
 SUMMARY:Nacional🇺🇾 vs. Coquimbo Unido🇨🇱
-DESCRIPTION:Group B - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Gran Parque Central
 END:VEVENT
@@ -126,7 +126,7 @@ UID:20260812T190000Z_Platense_CoquimboUnido
 DTSTART;TZID=America/Montevideo:20260812T190000
 DTEND;TZID=America/Montevideo:20260812T210000
 SUMMARY:Platense🇦🇷 vs. Coquimbo Unido🇨🇱
-DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Ciudad de Vicente López
 END:VEVENT
@@ -136,7 +136,7 @@ UID:20260819T190000Z_CoquimboUnido_Platense
 DTSTART;TZID=America/Montevideo:20260819T190000
 DTEND;TZID=America/Montevideo:20260819T210000
 SUMMARY:Coquimbo Unido🇨🇱 vs. Platense🇦🇷
-DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:a definir Stadium
 END:VEVENT

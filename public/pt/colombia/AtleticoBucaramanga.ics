@@ -6,7 +6,7 @@ UID:20250401T213000Z_AtleticoBucaramanga_ColoColo
 DTSTART;TZID=America/Montevideo:20250401T213000
 DTEND;TZID=America/Montevideo:20250401T233000
 SUMMARY:Atlético Bucaramanga🇨🇴 vs. Colo-Colo🇨🇱
-DESCRIPTION:Grupo E - Rodada 1 - Copa Libertadores
+DESCRIPTION:Grupo E - Rodada 1 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Américo Montanini
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20250410T190000Z_Racing_AtleticoBucaramanga
 DTSTART;TZID=America/Montevideo:20250410T190000
 DTEND;TZID=America/Montevideo:20250410T210000
 SUMMARY:Racing🇦🇷 vs. Atlético Bucaramanga🇨🇴
-DESCRIPTION:Grupo E - Rodada 2 - Copa Libertadores
+DESCRIPTION:Grupo E - Rodada 2 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Presidente Perón (Cilindro de Avellaneda)
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20250423T230000Z_AtleticoBucaramanga_Fortaleza
 DTSTART;TZID=America/Montevideo:20250423T230000
 DTEND;TZID=America/Montevideo:20250424T010000
 SUMMARY:Atlético Bucaramanga🇨🇴 vs. Fortaleza🇧🇷
-DESCRIPTION:Grupo E - Rodada 3 - Copa Libertadores
+DESCRIPTION:Grupo E - Rodada 3 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Américo Montanini
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20250506T190000Z_AtleticoBucaramanga_Racing
 DTSTART;TZID=America/Montevideo:20250506T190000
 DTEND;TZID=America/Montevideo:20250506T210000
 SUMMARY:Atlético Bucaramanga🇨🇴 vs. Racing🇦🇷
-DESCRIPTION:Grupo E - Rodada 4 - Copa Libertadores
+DESCRIPTION:Grupo E - Rodada 4 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Américo Montanini
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20250513T213000Z_Fortaleza_AtleticoBucaramanga
 DTSTART;TZID=America/Montevideo:20250513T213000
 DTEND;TZID=America/Montevideo:20250513T233000
 SUMMARY:Fortaleza🇧🇷 vs. Atlético Bucaramanga🇨🇴
-DESCRIPTION:Grupo E - Rodada 5 - Copa Libertadores
+DESCRIPTION:Grupo E - Rodada 5 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Castelão
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20250529T213000Z_ColoColo_AtleticoBucaramanga
 DTSTART;TZID=America/Montevideo:20250529T213000
 DTEND;TZID=America/Montevideo:20250529T233000
 SUMMARY:Colo-Colo🇨🇱 vs. Atlético Bucaramanga🇨🇴
-DESCRIPTION:Grupo E - Rodada 6 - Copa Libertadores
+DESCRIPTION:Grupo E - Rodada 6 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Monumental David Arellano
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20250717T213000Z_AtleticoBucaramanga_AtleticoMineiro
 DTSTART;TZID=America/Montevideo:20250717T213000
 DTEND;TZID=America/Montevideo:20250717T233000
 SUMMARY:Atlético Bucaramanga🇨🇴 vs. Atlético Mineiro🇧🇷
-DESCRIPTION:Play-offs - Ida - Copa Sul-Americana
+DESCRIPTION:Play-offs - Ida - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Américo Montanini
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20250724T213000Z_AtleticoMineiro_AtleticoBucaramanga
 DTSTART;TZID=America/Montevideo:20250724T213000
 DTEND;TZID=America/Montevideo:20250724T233000
 SUMMARY:Atlético Mineiro🇧🇷 vs. Atlético Bucaramanga🇨🇴
-DESCRIPTION:Play-offs - Volta - Copa Sul-Americana
+DESCRIPTION:Play-offs - Volta - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Arena MRV
 END:VEVENT

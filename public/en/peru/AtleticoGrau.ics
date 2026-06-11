@@ -6,7 +6,7 @@ UID:20250402T230000Z_AtleticoGrau_GodoyCruz
 DTSTART;TZID=America/Montevideo:20250402T230000
 DTEND;TZID=America/Montevideo:20250403T010000
 SUMMARY:Atlético Grau🇵🇪 vs. Godoy Cruz🇦🇷
-DESCRIPTION:Group D - Matchday 1 - Sudamericana Cup
+DESCRIPTION:Group D - Matchday 1 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Alejandro Villanueva Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20250408T190000Z_Gremio_AtleticoGrau
 DTSTART;TZID=America/Montevideo:20250408T190000
 DTEND;TZID=America/Montevideo:20250408T210000
 SUMMARY:Gremio🇧🇷 vs. Atlético Grau🇵🇪
-DESCRIPTION:Group D - Matchday 2 - Sudamericana Cup
+DESCRIPTION:Group D - Matchday 2 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Grêmio Arena
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20250423T230000Z_AtleticoGrau_SportivoLuqueno
 DTSTART;TZID=America/Montevideo:20250423T230000
 DTEND;TZID=America/Montevideo:20250424T010000
 SUMMARY:Atlético Grau🇵🇪 vs. Sportivo Luqueño🇵🇾
-DESCRIPTION:Group D - Matchday 3 - Sudamericana Cup
+DESCRIPTION:Group D - Matchday 3 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Monumental de Lima Stadium
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20250507T213000Z_AtleticoGrau_Gremio
 DTSTART;TZID=America/Montevideo:20250507T213000
 DTEND;TZID=America/Montevideo:20250507T233000
 SUMMARY:Atlético Grau🇵🇪 vs. Gremio🇧🇷
-DESCRIPTION:Group D - Matchday 4 - Sudamericana Cup
+DESCRIPTION:Group D - Matchday 4 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Alejandro Villanueva Stadium
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20250514T190000Z_SportivoLuqueno_AtleticoGrau
 DTSTART;TZID=America/Montevideo:20250514T190000
 DTEND;TZID=America/Montevideo:20250514T210000
 SUMMARY:Sportivo Luqueño🇵🇾 vs. Atlético Grau🇵🇪
-DESCRIPTION:Group D - Matchday 5 - Sudamericana Cup
+DESCRIPTION:Group D - Matchday 5 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:ueno Defensores del Chaco Stadium
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20250529T190000Z_GodoyCruz_AtleticoGrau
 DTSTART;TZID=America/Montevideo:20250529T190000
 DTEND;TZID=America/Montevideo:20250529T210000
 SUMMARY:Godoy Cruz🇦🇷 vs. Atlético Grau🇵🇪
-DESCRIPTION:Group D - Matchday 6 - Sudamericana Cup
+DESCRIPTION:Group D - Matchday 6 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Malvinas Argentinas (Mendoza)
 END:VEVENT

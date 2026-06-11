@@ -6,7 +6,7 @@ UID:20250403T190000Z_GVSanJose_UnionEspanola
 DTSTART;TZID=America/Montevideo:20250403T190000
 DTEND;TZID=America/Montevideo:20250403T210000
 SUMMARY:GV San José🇧🇴 vs. Unión Española🇨🇱
-DESCRIPTION:Group F - Matchday 1 - Sudamericana Cup
+DESCRIPTION:Group F - Matchday 1 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Hernando Siles Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20250409T213000Z_UnionEspanola_OnceCaldas
 DTSTART;TZID=America/Montevideo:20250409T213000
 DTEND;TZID=America/Montevideo:20250409T233000
 SUMMARY:Unión Española🇨🇱 vs. Once Caldas🇨🇴
-DESCRIPTION:Group F - Matchday 2 - Sudamericana Cup
+DESCRIPTION:Group F - Matchday 2 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Sausalito Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20250423T190000Z_UnionEspanola_Fluminense
 DTSTART;TZID=America/Montevideo:20250423T190000
 DTEND;TZID=America/Montevideo:20250423T210000
 SUMMARY:Unión Española🇨🇱 vs. Fluminense🇧🇷
-DESCRIPTION:Group F - Matchday 3 - Sudamericana Cup
+DESCRIPTION:Group F - Matchday 3 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Municipal de La Florida Stadium
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20250507T230000Z_OnceCaldas_UnionEspanola
 DTSTART;TZID=America/Montevideo:20250507T230000
 DTEND;TZID=America/Montevideo:20250508T010000
 SUMMARY:Once Caldas🇨🇴 vs. Unión Española🇨🇱
-DESCRIPTION:Group F - Matchday 4 - Sudamericana Cup
+DESCRIPTION:Group F - Matchday 4 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Palogrande
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20250514T190000Z_Fluminense_UnionEspanola
 DTSTART;TZID=America/Montevideo:20250514T190000
 DTEND;TZID=America/Montevideo:20250514T210000
 SUMMARY:Fluminense🇧🇷 vs. Unión Española🇨🇱
-DESCRIPTION:Group F - Matchday 5 - Sudamericana Cup
+DESCRIPTION:Group F - Matchday 5 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:do Maracana Stadium
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20250529T213000Z_UnionEspanola_GVSanJose
 DTSTART;TZID=America/Montevideo:20250529T213000
 DTEND;TZID=America/Montevideo:20250529T233000
 SUMMARY:Unión Española🇨🇱 vs. GV San José🇧🇴
-DESCRIPTION:Group F - Matchday 6 - Sudamericana Cup
+DESCRIPTION:Group F - Matchday 6 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Municipal de La Florida Stadium
 END:VEVENT

@@ -6,7 +6,7 @@ UID:20240402T190000Z_Belgrano_Internacional
 DTSTART;TZID=America/Montevideo:20240402T190000
 DTEND;TZID=America/Montevideo:20240402T210000
 SUMMARY:Belgrano🇦🇷 vs. Internacional🇧🇷
-DESCRIPTION:Grupo C - Rodada 1 - Copa Sul-Americana
+DESCRIPTION:Grupo C - Rodada 1 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Mario Alberto Kempes
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20240404T230000Z_Real_Tomayapo_Delfin
 DTSTART;TZID=America/Montevideo:20240404T230000
 DTEND;TZID=America/Montevideo:20240405T010000
 SUMMARY:Real Tomayapo🇧🇴 vs. Delfín🇪🇨
-DESCRIPTION:Grupo C - Rodada 1 - Copa Sul-Americana
+DESCRIPTION:Grupo C - Rodada 1 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio IV Centenario
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240410T210000Z_Internacional_Real_Tomayapo
 DTSTART;TZID=America/Montevideo:20240410T210000
 DTEND;TZID=America/Montevideo:20240410T230000
 SUMMARY:Internacional🇧🇷 vs. Real Tomayapo🇧🇴
-DESCRIPTION:Grupo C - Rodada 2 - Copa Sul-Americana
+DESCRIPTION:Grupo C - Rodada 2 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Beira-Rio
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20240411T230000Z_Delfin_Belgrano
 DTSTART;TZID=America/Montevideo:20240411T230000
 DTEND;TZID=America/Montevideo:20240412T010000
 SUMMARY:Delfín🇪🇨 vs. Belgrano🇦🇷
-DESCRIPTION:Grupo C - Rodada 2 - Copa Sul-Americana
+DESCRIPTION:Grupo C - Rodada 2 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Jocay
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20240424T213000Z_Real_Tomayapo_Belgrano
 DTSTART;TZID=America/Montevideo:20240424T213000
 DTEND;TZID=America/Montevideo:20240424T233000
 SUMMARY:Real Tomayapo🇧🇴 vs. Belgrano🇦🇷
-DESCRIPTION:Grupo C - Rodada 3 - Copa Sul-Americana
+DESCRIPTION:Grupo C - Rodada 3 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio IV Centenario
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20240425T230000Z_Delfin_Internacional
 DTSTART;TZID=America/Montevideo:20240425T230000
 DTEND;TZID=America/Montevideo:20240426T010000
 SUMMARY:Delfín🇪🇨 vs. Internacional🇧🇷
-DESCRIPTION:Grupo C - Rodada 3 - Copa Sul-Americana
+DESCRIPTION:Grupo C - Rodada 3 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Jocay
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20240507T210000Z_Real_Tomayapo_Internacional
 DTSTART;TZID=America/Montevideo:20240507T210000
 DTEND;TZID=America/Montevideo:20240507T230000
 SUMMARY:Real Tomayapo🇧🇴 vs. Internacional🇧🇷
-DESCRIPTION:Grupo C - Rodada 4 - Copa Sul-Americana
+DESCRIPTION:Grupo C - Rodada 4 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio IV Centenario
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20240509T190000Z_Belgrano_Delfin
 DTSTART;TZID=America/Montevideo:20240509T190000
 DTEND;TZID=America/Montevideo:20240509T210000
 SUMMARY:Belgrano🇦🇷 vs. Delfín🇪🇨
-DESCRIPTION:Grupo C - Rodada 4 - Copa Sul-Americana
+DESCRIPTION:Grupo C - Rodada 4 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Mario Alberto Kempes
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20240515T190000Z_Belgrano_Real_Tomayapo
 DTSTART;TZID=America/Montevideo:20240515T190000
 DTEND;TZID=America/Montevideo:20240515T210000
 SUMMARY:Belgrano🇦🇷 vs. Real Tomayapo🇧🇴
-DESCRIPTION:Grupo C - Rodada 5 - Copa Sul-Americana
+DESCRIPTION:Grupo C - Rodada 5 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Mario Alberto Kempes
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20240516T190000Z_Internacional_Delfin
 DTSTART;TZID=America/Montevideo:20240516T190000
 DTEND;TZID=America/Montevideo:20240516T210000
 SUMMARY:Internacional🇧🇷 vs. Delfín🇪🇨
-DESCRIPTION:Grupo C - Rodada 5 - Copa Sul-Americana
+DESCRIPTION:Grupo C - Rodada 5 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Beira-Rio
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20240528T213000Z_Delfin_Real_Tomayapo
 DTSTART;TZID=America/Montevideo:20240528T213000
 DTEND;TZID=America/Montevideo:20240528T233000
 SUMMARY:Delfín🇪🇨 vs. Real Tomayapo🇧🇴
-DESCRIPTION:Grupo C - Rodada 6 - Copa Sul-Americana
+DESCRIPTION:Grupo C - Rodada 6 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Jocay
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20240528T213000Z_Internacional_Belgrano
 DTSTART;TZID=America/Montevideo:20240528T213000
 DTEND;TZID=America/Montevideo:20240528T233000
 SUMMARY:Internacional🇧🇷 vs. Belgrano🇦🇷
-DESCRIPTION:Grupo C - Rodada 6 - Copa Sul-Americana
+DESCRIPTION:Grupo C - Rodada 6 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Beira-Rio
 END:VEVENT
@@ -126,7 +126,7 @@ UID:20240716T213000Z_RosarioCentral_Internacional
 DTSTART;TZID=America/Montevideo:20240716T213000
 DTEND;TZID=America/Montevideo:20240716T233000
 SUMMARY:Rosario Central🇦🇷 vs. Internacional🇧🇷
-DESCRIPTION:Play-offs - Ida - Copa Sul-Americana
+DESCRIPTION:Play-offs - Ida - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 LOCATION:Estádio Gigante de Arroyito, Rosario
 CLASS:PUBLIC
 END:VEVENT
@@ -136,7 +136,7 @@ UID:20240723T213000Z_Internacional_RosarioCentral
 DTSTART;TZID=America/Montevideo:20240723T213000
 DTEND;TZID=America/Montevideo:20240723T233000
 SUMMARY:Internacional🇧🇷 vs. Rosario Central🇦🇷
-DESCRIPTION:Play-offs - Volta - Copa Sul-Americana
+DESCRIPTION:Play-offs - Volta - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 LOCATION:Estádio Beira-Rio, Porto Alegre
 CLASS:PUBLIC
 END:VEVENT
@@ -146,7 +146,7 @@ UID:20240815T190000Z_Atletico_Paranaense_Belgrano
 DTSTART;TZID=America/Montevideo:20240815T190000
 DTEND;TZID=America/Montevideo:20240815T210000
 SUMMARY:Atlético Paranaense🇧🇷 vs. Belgrano🇦🇷
-DESCRIPTION:Oitavas de final - Ida - Copa Sul-Americana
+DESCRIPTION:Oitavas de final - Ida - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 LOCATION:Arena da Baixada, Curitiba
 CLASS:PUBLIC
 END:VEVENT
@@ -156,7 +156,7 @@ UID:20240822T190000Z_Belgrano_Atletico_Paranaense
 DTSTART;TZID=America/Montevideo:20240822T190000
 DTEND;TZID=America/Montevideo:20240822T210000
 SUMMARY:Belgrano🇦🇷 vs. Atlético Paranaense🇧🇷
-DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana
+DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 LOCATION:Estádio Mario Alberto Kempes, Córdoba
 CLASS:PUBLIC
 END:VEVENT

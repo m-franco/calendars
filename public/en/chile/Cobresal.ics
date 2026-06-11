@@ -6,7 +6,7 @@ UID:20240402T190000Z_Cobresal_Barcelona
 DTSTART;TZID=America/Montevideo:20240402T190000
 DTEND;TZID=America/Montevideo:20240402T210000
 SUMMARY:Cobresal🇨🇱 vs. Barcelona🇪🇨
-DESCRIPTION:Group B - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Zorros del Desierto Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20240410T213000Z_SanPablo_Cobresal
 DTSTART;TZID=America/Montevideo:20240410T213000
 DTEND;TZID=America/Montevideo:20240410T233000
 SUMMARY:San Pablo🇧🇷 vs. Cobresal🇨🇱
-DESCRIPTION:Group B - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Morumbí Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240425T190000Z_Cobresal_Talleres
 DTSTART;TZID=America/Montevideo:20240425T190000
 DTEND;TZID=America/Montevideo:20240425T210000
 SUMMARY:Cobresal🇨🇱 vs. Talleres🇦🇷
-DESCRIPTION:Group B - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Zorros del Desierto Stadium
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20240508T213000Z_Cobresal_SanPablo
 DTSTART;TZID=America/Montevideo:20240508T213000
 DTEND;TZID=America/Montevideo:20240508T233000
 SUMMARY:Cobresal🇨🇱 vs. San Pablo🇧🇷
-DESCRIPTION:Group B - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Zorros del Desierto Stadium
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20240514T190000Z_Talleres_Cobresal
 DTSTART;TZID=America/Montevideo:20240514T190000
 DTEND;TZID=America/Montevideo:20240514T210000
 SUMMARY:Talleres🇦🇷 vs. Cobresal🇨🇱
-DESCRIPTION:Group B - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Mario Alberto Kempes Stadium
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20240529T213000Z_Barcelona_Cobresal
 DTSTART;TZID=America/Montevideo:20240529T213000
 DTEND;TZID=America/Montevideo:20240529T233000
 SUMMARY:Barcelona🇪🇨 vs. Cobresal🇨🇱
-DESCRIPTION:Group B - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Monumental Banco Pichincha Stadium
 END:VEVENT

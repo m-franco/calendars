@@ -5,8 +5,7 @@ import partytown from '@astrojs/partytown'
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://m-franco.github.io',
-    base: 'calendars',
+    site: 'https://myfixtu.re',
     integrations: [
         tailwind(),
         partytown({

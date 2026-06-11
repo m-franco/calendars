@@ -6,7 +6,7 @@ UID:20260407T190000Z_DeportivoLaGuaira_Fluminense
 DTSTART;TZID=America/Montevideo:20260407T190000
 DTEND;TZID=America/Montevideo:20260407T210000
 SUMMARY:Deportivo La Guaira🇻🇪 vs. Fluminense🇧🇷
-DESCRIPTION:Group C - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group C - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Olímpico de la UCV Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260414T210000Z_Bolivar_DeportivoLaGuaira
 DTSTART;TZID=America/Montevideo:20260414T210000
 DTEND;TZID=America/Montevideo:20260414T230000
 SUMMARY:Bolívar🇧🇴 vs. Deportivo La Guaira🇻🇪
-DESCRIPTION:Group C - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group C - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Hernando Siles Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260430T190000Z_IndependienteRivadavia_DeportivoLaGuaira
 DTSTART;TZID=America/Montevideo:20260430T190000
 DTEND;TZID=America/Montevideo:20260430T210000
 SUMMARY:Independiente Rivadavia🇦🇷 vs. Deportivo La Guaira🇻🇪
-DESCRIPTION:Group C - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group C - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Malvinas Argentinas (Mendoza)
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20260506T190000Z_DeportivoLaGuaira_Bolivar
 DTSTART;TZID=America/Montevideo:20260506T190000
 DTEND;TZID=America/Montevideo:20260506T210000
 SUMMARY:Deportivo La Guaira🇻🇪 vs. Bolívar🇧🇴
-DESCRIPTION:Group C - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group C - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Olímpico de la UCV Stadium
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20260521T190000Z_DeportivoLaGuaira_IndependienteRivadavia
 DTSTART;TZID=America/Montevideo:20260521T190000
 DTEND;TZID=America/Montevideo:20260521T210000
 SUMMARY:Deportivo La Guaira🇻🇪 vs. Independiente Rivadavia🇦🇷
-DESCRIPTION:Group C - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group C - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Olímpico de la UCV Stadium
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20260527T213000Z_Fluminense_DeportivoLaGuaira
 DTSTART;TZID=America/Montevideo:20260527T213000
 DTEND;TZID=America/Montevideo:20260527T233000
 SUMMARY:Fluminense🇧🇷 vs. Deportivo La Guaira🇻🇪
-DESCRIPTION:Group C - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group C - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:do Maracana Stadium
 END:VEVENT

@@ -6,7 +6,7 @@ UID:20250402T213000Z_RacingUruguay_AmericaDeCali
 DTSTART;TZID=America/Montevideo:20250402T213000
 DTEND;TZID=America/Montevideo:20250402T233000
 SUMMARY:Racing (Uru)🇺🇾 vs. América de Cali🇨🇴
-DESCRIPTION:Group C - Matchday 1 - Sudamericana Cup
+DESCRIPTION:Group C - Matchday 1 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Centenario Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20250408T213000Z_AmericaDeCali_Corinthians
 DTSTART;TZID=America/Montevideo:20250408T213000
 DTEND;TZID=America/Montevideo:20250408T233000
 SUMMARY:América de Cali🇨🇴 vs. Corinthians🇧🇷
-DESCRIPTION:Group C - Matchday 2 - Sudamericana Cup
+DESCRIPTION:Group C - Matchday 2 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Pascual Guerrero
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20250423T190000Z_Huracan_AmericaDeCali
 DTSTART;TZID=America/Montevideo:20250423T190000
 DTEND;TZID=America/Montevideo:20250423T210000
 SUMMARY:Huracán🇦🇷 vs. América de Cali🇨🇴
-DESCRIPTION:Group C - Matchday 3 - Sudamericana Cup
+DESCRIPTION:Group C - Matchday 3 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Tomás Adolfo Ducó
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20250506T213000Z_Corinthians_AmericaDeCali
 DTSTART;TZID=America/Montevideo:20250506T213000
 DTEND;TZID=America/Montevideo:20250506T233000
 SUMMARY:Corinthians🇧🇷 vs. América de Cali🇨🇴
-DESCRIPTION:Group C - Matchday 4 - Sudamericana Cup
+DESCRIPTION:Group C - Matchday 4 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Neo Química Arena
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20250514T230000Z_AmericaDeCali_Huracan
 DTSTART;TZID=America/Montevideo:20250514T230000
 DTEND;TZID=America/Montevideo:20250515T010000
 SUMMARY:América de Cali🇨🇴 vs. Huracán🇦🇷
-DESCRIPTION:Group C - Matchday 5 - Sudamericana Cup
+DESCRIPTION:Group C - Matchday 5 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Pascual Guerrero
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20250527T213000Z_AmericaDeCali_RacingUruguay
 DTSTART;TZID=America/Montevideo:20250527T213000
 DTEND;TZID=America/Montevideo:20250527T233000
 SUMMARY:América de Cali🇨🇴 vs. Racing (Uru)🇺🇾
-DESCRIPTION:Group C - Matchday 6 - Sudamericana Cup
+DESCRIPTION:Group C - Matchday 6 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Pascual Guerrero
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20250715T213000Z_Bahia_AmericaDeCali
 DTSTART;TZID=America/Montevideo:20250715T213000
 DTEND;TZID=America/Montevideo:20250715T233000
 SUMMARY:Bahia🇧🇷 vs. América de Cali🇨🇴
-DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Casa de Apostas Arena Fonte Nova
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20250722T213000Z_AmericaDeCali_Bahia
 DTSTART;TZID=America/Montevideo:20250722T213000
 DTEND;TZID=America/Montevideo:20250722T233000
 SUMMARY:América de Cali🇨🇴 vs. Bahia🇧🇷
-DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Pascual Guerrero
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20250812T213000Z_AmericaDeCali_Fluminense
 DTSTART;TZID=America/Montevideo:20250812T213000
 DTEND;TZID=America/Montevideo:20250812T233000
 SUMMARY:América de Cali🇨🇴 vs. Fluminense🇧🇷
-DESCRIPTION:Round of 16 - First leg - Sudamericana Cup
+DESCRIPTION:Round of 16 - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Pascual Guerrero
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20250819T213000Z_Fluminense_AmericaDeCali
 DTSTART;TZID=America/Montevideo:20250819T213000
 DTEND;TZID=America/Montevideo:20250819T233000
 SUMMARY:Fluminense🇧🇷 vs. América de Cali🇨🇴
-DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup
+DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:do Maracana Stadium
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20260409T213000Z_Macara_AmericaDeCali
 DTSTART;TZID=America/Montevideo:20260409T213000
 DTEND;TZID=America/Montevideo:20260409T233000
 SUMMARY:Macará🇪🇨 vs. América de Cali🇨🇴
-DESCRIPTION:Group A - Matchday 1 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 1 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Bellavista Stadium
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20260415T230000Z_AmericaDeCali_AlianzaAtletico
 DTSTART;TZID=America/Montevideo:20260415T230000
 DTEND;TZID=America/Montevideo:20260416T010000
 SUMMARY:América de Cali🇨🇴 vs. Alianza Atlético🇵🇪
-DESCRIPTION:Group A - Matchday 2 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 2 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Pascual Guerrero
 END:VEVENT
@@ -126,7 +126,7 @@ UID:20260430T210000Z_Tigre_AmericaDeCali
 DTSTART;TZID=America/Montevideo:20260430T210000
 DTEND;TZID=America/Montevideo:20260430T230000
 SUMMARY:Tigre🇦🇷 vs. América de Cali🇨🇴
-DESCRIPTION:Group A - Matchday 3 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 3 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Monumental de Victoria (José Dellagiovanna)
 END:VEVENT
@@ -136,7 +136,7 @@ UID:20260506T230000Z_AlianzaAtletico_AmericaDeCali
 DTSTART;TZID=America/Montevideo:20260506T230000
 DTEND;TZID=America/Montevideo:20260507T010000
 SUMMARY:Alianza Atlético🇵🇪 vs. América de Cali🇨🇴
-DESCRIPTION:Group A - Matchday 4 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 4 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Miguel Grau del Callao Stadium
 END:VEVENT
@@ -146,7 +146,7 @@ UID:20260519T230000Z_AmericaDeCali_Tigre
 DTSTART;TZID=America/Montevideo:20260519T230000
 DTEND;TZID=America/Montevideo:20260520T010000
 SUMMARY:América de Cali🇨🇴 vs. Tigre🇦🇷
-DESCRIPTION:Group A - Matchday 5 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 5 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Pascual Guerrero
 END:VEVENT
@@ -156,7 +156,7 @@ UID:20260528T213000Z_AmericaDeCali_Macara
 DTSTART;TZID=America/Montevideo:20260528T213000
 DTEND;TZID=America/Montevideo:20260528T233000
 SUMMARY:América de Cali🇨🇴 vs. Macará🇪🇨
-DESCRIPTION:Group A - Matchday 6 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 6 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Pascual Guerrero
 END:VEVENT

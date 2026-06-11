@@ -1,5 +1,5 @@
 ---
-import { LANGS, LANG_NAMES, LANG_FLAGS, urlFor, type Lang } from "../i18n/ui";
+import { LANGS, LANG_NAMES, LANG_FLAGS, urlFor, supportUrl, supportCopy, type Lang } from "../i18n/ui";
 
 interface Props {
 	title: string;
@@ -86,22 +86,40 @@ const localeAlternates = (Object.keys(ogLocale) as Lang[]).filter((l) => l !== l
         <div class="fixed inset-0 -z-10 h-full w-full items-center px-5 py-24
         [background:radial-gradient(125%_125%_at_50%_10%,#000_40%,#63e_100%)]">
         </div>
-        <div class="lang-switcher">
-            <select id="lang-select" aria-label="Language">
+        <details class="lang-switcher" id="lang-switcher">
+            <summary aria-label="Idioma / Language">
+                <span class="lang-flag">{LANG_FLAGS[lang]}</span>
+                <span class="lang-name">{LANG_NAMES[lang]}</span>
+                <svg class="lang-chevron" viewBox="0 0 12 8" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M1 1.5l5 5 5-5"/></svg>
+            </summary>
+            <ul class="lang-menu">
                 {LANGS.map((l) => (
-                    <option value={langLinks[l]} selected={l === lang}>
-                        {LANG_FLAGS[l]} {LANG_NAMES[l]}
-                    </option>
+                    <li>
+                        <a href={langLinks[l]} hreflang={l} class={l === lang ? "current" : ""}>
+                            <span class="lang-flag">{LANG_FLAGS[l]}</span>
+                            <span class="lang-name">{LANG_NAMES[l]}</span>
+                            {l === lang && <span class="lang-check" aria-hidden="true">✓</span>}
+                        </a>
+                    </li>
                 ))}
-            </select>
-        </div>
+            </ul>
+        </details>
         <script is:inline>
-            document.getElementById("lang-select")?.addEventListener("change", (e) => {
-                const value = e.target.value;
-                if (value) window.location.href = value;
-            });
+            (function () {
+                const d = document.getElementById("lang-switcher");
+                if (!d) return;
+                // Cerrar al hacer click afuera.
+                document.addEventListener("click", (e) => {
+                    if (!d.contains(e.target)) d.removeAttribute("open");
+                });
+                // Cerrar al volver con "atrás" (restauración desde bfcache).
+                window.addEventListener("pageshow", () => d.removeAttribute("open"));
+            })();
         </script>
         <slot />
+        <footer class="site-footer">
+            <a href={supportUrl(lang)}>♥ {supportCopy[lang].nav}</a>
+        </footer>
 	</body>
 </html>
 <style is:global>
@@ -127,28 +145,85 @@ const localeAlternates = (Object.keys(ogLocale) as Lang[]).filter((l) => l !== l
 		right: 0.75rem;
 		z-index: 50;
 	}
-	.lang-switcher select {
-		appearance: none;
-		-webkit-appearance: none;
+	/* En mobile el título arranca arriba de todo; reservamos espacio para que
+	   el selector (fijo) no se superponga. */
+	@media (max-width: 640px) {
+		body {
+			padding-top: 4rem;
+		}
+	}
+	.lang-switcher > summary {
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
 		cursor: pointer;
+		list-style: none;
 		color: white;
 		background-color: rgba(8, 47, 73, 0.85);
-		background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 8' fill='none' stroke='white' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M1 1.5l5 5 5-5'/%3E%3C/svg%3E");
-		background-repeat: no-repeat;
-		background-position: right 0.85rem center;
-		background-size: 0.7rem;
 		border: 1px solid rgba(var(--accent-light), 35%);
 		border-radius: 9999px;
-		padding: 0.4rem 2.1rem 0.4rem 1.1rem;
+		padding: 0.4rem 1.1rem;
 		font-size: 0.9rem;
 		backdrop-filter: blur(6px);
 		box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35);
+		user-select: none;
 	}
-	.lang-switcher select:focus {
+	.lang-switcher > summary::-webkit-details-marker { display: none; }
+	.lang-switcher > summary:focus-visible {
 		outline: 2px solid rgb(var(--accent-light));
 	}
-	.lang-switcher option {
-		color: black;
+	.lang-chevron {
+		width: 0.7rem;
+		height: 0.7rem;
+		transition: transform 0.2s ease;
+	}
+	.lang-switcher[open] .lang-chevron { transform: rotate(180deg); }
+	.lang-menu {
+		position: absolute;
+		right: 0;
+		margin-top: 0.4rem;
+		min-width: 100%;
+		list-style: none;
+		padding: 0.3rem;
+		background-color: rgba(8, 47, 73, 0.96);
+		border: 1px solid rgba(var(--accent-light), 35%);
+		border-radius: 0.9rem;
+		box-shadow: 0 10px 28px rgba(0, 0, 0, 0.45);
+		backdrop-filter: blur(8px);
+	}
+	.lang-menu a {
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
+		padding: 0.45rem 0.7rem;
+		border-radius: 0.6rem;
+		color: white;
+		text-decoration: none;
+		font-size: 0.9rem;
+		white-space: nowrap;
+	}
+	.lang-menu a:hover,
+	.lang-menu a:focus-visible {
+		background-color: rgba(var(--accent-light), 18%);
+	}
+	.lang-menu a.current { font-weight: 600; }
+	.lang-check { margin-left: auto; color: rgb(var(--accent-light)); }
+	.site-footer {
+		margin-top: 3rem;
+		padding: 2rem 1rem;
+		text-align: center;
+	}
+	.site-footer a {
+		color: rgba(var(--accent-light), 90%);
+		text-decoration: none;
+		font-size: 0.95rem;
+		border: 1px solid rgba(var(--accent-light), 30%);
+		border-radius: 9999px;
+		padding: 0.5rem 1.3rem;
+		transition: background-color 0.2s ease;
+	}
+	.site-footer a:hover {
+		background-color: rgba(var(--accent-light), 12%);
 	}
 	code {
 		font-family:

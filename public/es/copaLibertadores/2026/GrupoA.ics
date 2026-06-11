@@ -6,7 +6,7 @@ UID:20260408T210000Z_IndependienteDeMedellin_Estudiantes
 DTSTART;TZID=America/Montevideo:20260408T210000
 DTEND;TZID=America/Montevideo:20260408T230000
 SUMMARY:Independiente de Medellín🇨🇴 vs. Estudiantes🇦🇷
-DESCRIPTION:Grupo A - Fecha 1 - Copa Libertadores
+DESCRIPTION:Grupo A - Fecha 1 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Atanasio Girardot
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260408T213000Z_Cusco_Flamengo
 DTSTART;TZID=America/Montevideo:20260408T213000
 DTEND;TZID=America/Montevideo:20260408T233000
 SUMMARY:Cusco🇵🇪 vs. Flamengo🇧🇷
-DESCRIPTION:Grupo A - Fecha 1 - Copa Libertadores
+DESCRIPTION:Grupo A - Fecha 1 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Inca Garcilaso de la Vega
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260414T190000Z_Estudiantes_Cusco
 DTSTART;TZID=America/Montevideo:20260414T190000
 DTEND;TZID=America/Montevideo:20260414T210000
 SUMMARY:Estudiantes🇦🇷 vs. Cusco🇵🇪
-DESCRIPTION:Grupo A - Fecha 2 - Copa Libertadores
+DESCRIPTION:Grupo A - Fecha 2 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Jorge Luis Hirschi
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20260416T213000Z_Flamengo_IndependienteDeMedellin
 DTSTART;TZID=America/Montevideo:20260416T213000
 DTEND;TZID=America/Montevideo:20260416T233000
 SUMMARY:Flamengo🇧🇷 vs. Independiente de Medellín🇨🇴
-DESCRIPTION:Grupo A - Fecha 2 - Copa Libertadores
+DESCRIPTION:Grupo A - Fecha 2 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio do Maracana
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20260429T213000Z_Estudiantes_Flamengo
 DTSTART;TZID=America/Montevideo:20260429T213000
 DTEND;TZID=America/Montevideo:20260429T233000
 SUMMARY:Estudiantes🇦🇷 vs. Flamengo🇧🇷
-DESCRIPTION:Grupo A - Fecha 3 - Copa Libertadores
+DESCRIPTION:Grupo A - Fecha 3 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Jorge Luis Hirschi
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20260430T230000Z_IndependienteDeMedellin_Cusco
 DTSTART;TZID=America/Montevideo:20260430T230000
 DTEND;TZID=America/Montevideo:20260501T010000
 SUMMARY:Independiente de Medellín🇨🇴 vs. Cusco🇵🇪
-DESCRIPTION:Grupo A - Fecha 3 - Copa Libertadores
+DESCRIPTION:Grupo A - Fecha 3 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Atanasio Girardot
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20260506T190000Z_Cusco_Estudiantes
 DTSTART;TZID=America/Montevideo:20260506T190000
 DTEND;TZID=America/Montevideo:20260506T210000
 SUMMARY:Cusco🇵🇪 vs. Estudiantes🇦🇷
-DESCRIPTION:Grupo A - Fecha 4 - Copa Libertadores
+DESCRIPTION:Grupo A - Fecha 4 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Inca Garcilaso de la Vega
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20260507T213000Z_IndependienteDeMedellin_Flamengo
 DTSTART;TZID=America/Montevideo:20260507T213000
 DTEND;TZID=America/Montevideo:20260507T233000
 SUMMARY:Independiente de Medellín🇨🇴 vs. Flamengo🇧🇷
-DESCRIPTION:Grupo A - Fecha 4 - Copa Libertadores
+DESCRIPTION:Grupo A - Fecha 4 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Atanasio Girardot
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20260520T213000Z_Flamengo_Estudiantes
 DTSTART;TZID=America/Montevideo:20260520T213000
 DTEND;TZID=America/Montevideo:20260520T233000
 SUMMARY:Flamengo🇧🇷 vs. Estudiantes🇦🇷
-DESCRIPTION:Grupo A - Fecha 5 - Copa Libertadores
+DESCRIPTION:Grupo A - Fecha 5 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio do Maracana
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20260520T230000Z_Cusco_IndependienteDeMedellin
 DTSTART;TZID=America/Montevideo:20260520T230000
 DTEND;TZID=America/Montevideo:20260521T010000
 SUMMARY:Cusco🇵🇪 vs. Independiente de Medellín🇨🇴
-DESCRIPTION:Grupo A - Fecha 5 - Copa Libertadores
+DESCRIPTION:Grupo A - Fecha 5 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Inca Garcilaso de la Vega
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20260526T213000Z_Estudiantes_IndependienteDeMedellin
 DTSTART;TZID=America/Montevideo:20260526T213000
 DTEND;TZID=America/Montevideo:20260526T233000
 SUMMARY:Estudiantes🇦🇷 vs. Independiente de Medellín🇨🇴
-DESCRIPTION:Grupo A - Fecha 6 - Copa Libertadores
+DESCRIPTION:Grupo A - Fecha 6 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Jorge Luis Hirschi
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20260526T213000Z_Flamengo_Cusco
 DTSTART;TZID=America/Montevideo:20260526T213000
 DTEND;TZID=America/Montevideo:20260526T233000
 SUMMARY:Flamengo🇧🇷 vs. Cusco🇵🇪
-DESCRIPTION:Grupo A - Fecha 6 - Copa Libertadores
+DESCRIPTION:Grupo A - Fecha 6 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio do Maracana
 END:VEVENT
@@ -126,7 +126,7 @@ UID:20260722T190000Z_IndependienteDeMedellin_VascoDaGama
 DTSTART;TZID=America/Montevideo:20260722T190000
 DTEND;TZID=America/Montevideo:20260722T210000
 SUMMARY:Independiente de Medellín🇨🇴 vs. Vasco da Gama🇧🇷
-DESCRIPTION:Play-offs - Ida - Copa Sudamericana
+DESCRIPTION:Play-offs - Ida - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Atanasio Girardot
 END:VEVENT
@@ -136,7 +136,7 @@ UID:20260729T190000Z_VascoDaGama_IndependienteDeMedellin
 DTSTART;TZID=America/Montevideo:20260729T190000
 DTEND;TZID=America/Montevideo:20260729T210000
 SUMMARY:Vasco da Gama🇧🇷 vs. Independiente de Medellín🇨🇴
-DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana
+DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estádio São Januário
 END:VEVENT
@@ -146,7 +146,7 @@ UID:20260811T213000Z_Estudiantes_UniversidadCatolica
 DTSTART;TZID=America/Montevideo:20260811T213000
 DTEND;TZID=America/Montevideo:20260811T233000
 SUMMARY:Estudiantes🇦🇷 vs. Universidad Católica🇪🇨
-DESCRIPTION:Octavos de final - Ida - Copa Libertadores
+DESCRIPTION:Octavos de final - Ida - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Jorge Luis Hirschi
 END:VEVENT
@@ -156,7 +156,7 @@ UID:20260812T213000Z_Cruzeiro_Flamengo
 DTSTART;TZID=America/Montevideo:20260812T213000
 DTEND;TZID=America/Montevideo:20260812T233000
 SUMMARY:Cruzeiro🇧🇷 vs. Flamengo🇧🇷
-DESCRIPTION:Octavos de final - Ida - Copa Libertadores
+DESCRIPTION:Octavos de final - Ida - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Mineirão
 END:VEVENT
@@ -166,7 +166,7 @@ UID:20260818T213000Z_UniversidadCatolica_Estudiantes
 DTSTART;TZID=America/Montevideo:20260818T213000
 DTEND;TZID=America/Montevideo:20260818T233000
 SUMMARY:Universidad Católica🇪🇨 vs. Estudiantes🇦🇷
-DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
+DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio San Carlos de Apoquindo
 END:VEVENT
@@ -176,7 +176,7 @@ UID:20260819T213000Z_Flamengo_Cruzeiro
 DTSTART;TZID=America/Montevideo:20260819T213000
 DTEND;TZID=America/Montevideo:20260819T233000
 SUMMARY:Flamengo🇧🇷 vs. Cruzeiro🇧🇷
-DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
+DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio do Maracana
 END:VEVENT

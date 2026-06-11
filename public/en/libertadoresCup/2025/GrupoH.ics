@@ -6,7 +6,7 @@ UID:20250402T190000Z_SanAntonioBuloBulo_Olimpia
 DTSTART;TZID=America/Montevideo:20250402T190000
 DTEND;TZID=America/Montevideo:20250402T210000
 SUMMARY:San Antonio Bulo Bulo🇧🇴 vs. Olimpia🇵🇾
-DESCRIPTION:Group H - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group H - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Félix Capriles Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20250402T190000Z_VelezSarsfield_Penarol
 DTSTART;TZID=America/Montevideo:20250402T190000
 DTEND;TZID=America/Montevideo:20250402T210000
 SUMMARY:Vélez Sarsfield🇦🇷 vs. Peñarol🇺🇾
-DESCRIPTION:Group H - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group H - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:José Amalfitani
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20250408T210000Z_Penarol_SanAntonioBuloBulo
 DTSTART;TZID=America/Montevideo:20250408T210000
 DTEND;TZID=America/Montevideo:20250408T230000
 SUMMARY:Peñarol🇺🇾 vs. San Antonio Bulo Bulo🇧🇴
-DESCRIPTION:Group H - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group H - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Campeón del Siglo Stadium
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20250409T190000Z_Olimpia_VelezSarsfield
 DTSTART;TZID=America/Montevideo:20250409T190000
 DTEND;TZID=America/Montevideo:20250409T210000
 SUMMARY:Olimpia🇵🇾 vs. Vélez Sarsfield🇦🇷
-DESCRIPTION:Group H - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group H - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:ueno Defensores del Chaco Stadium
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20250423T190000Z_Olimpia_Penarol
 DTSTART;TZID=America/Montevideo:20250423T190000
 DTEND;TZID=America/Montevideo:20250423T210000
 SUMMARY:Olimpia🇵🇾 vs. Peñarol🇺🇾
-DESCRIPTION:Group H - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group H - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:UENO Osvaldo Domínguez Dibb Stadium
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20250423T190000Z_SanAntonioBuloBulo_VelezSarsfield
 DTSTART;TZID=America/Montevideo:20250423T190000
 DTEND;TZID=America/Montevideo:20250423T210000
 SUMMARY:San Antonio Bulo Bulo🇧🇴 vs. Vélez Sarsfield🇦🇷
-DESCRIPTION:Group H - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group H - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Félix Capriles Stadium
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20250506T230000Z_SanAntonioBuloBulo_Penarol
 DTSTART;TZID=America/Montevideo:20250506T230000
 DTEND;TZID=America/Montevideo:20250507T010000
 SUMMARY:San Antonio Bulo Bulo🇧🇴 vs. Peñarol🇺🇾
-DESCRIPTION:Group H - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group H - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Félix Capriles Stadium
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20250508T190000Z_VelezSarsfield_Olimpia
 DTSTART;TZID=America/Montevideo:20250508T190000
 DTEND;TZID=America/Montevideo:20250508T210000
 SUMMARY:Vélez Sarsfield🇦🇷 vs. Olimpia🇵🇾
-DESCRIPTION:Group H - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group H - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:José Amalfitani
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20250514T190000Z_Penarol_Olimpia
 DTSTART;TZID=America/Montevideo:20250514T190000
 DTEND;TZID=America/Montevideo:20250514T210000
 SUMMARY:Peñarol🇺🇾 vs. Olimpia🇵🇾
-DESCRIPTION:Group H - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group H - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Campeón del Siglo Stadium
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20250514T190000Z_VelezSarsfield_SanAntonioBuloBulo
 DTSTART;TZID=America/Montevideo:20250514T190000
 DTEND;TZID=America/Montevideo:20250514T210000
 SUMMARY:Vélez Sarsfield🇦🇷 vs. San Antonio Bulo Bulo🇧🇴
-DESCRIPTION:Group H - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group H - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:José Amalfitani
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20250529T190000Z_Olimpia_SanAntonioBuloBulo
 DTSTART;TZID=America/Montevideo:20250529T190000
 DTEND;TZID=America/Montevideo:20250529T210000
 SUMMARY:Olimpia🇵🇾 vs. San Antonio Bulo Bulo🇧🇴
-DESCRIPTION:Group H - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group H - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:ueno Defensores del Chaco Stadium
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20250529T190000Z_Penarol_VelezSarsfield
 DTSTART;TZID=America/Montevideo:20250529T190000
 DTEND;TZID=America/Montevideo:20250529T210000
 SUMMARY:Peñarol🇺🇾 vs. Vélez Sarsfield🇦🇷
-DESCRIPTION:Group H - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group H - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Campeón del Siglo Stadium
 END:VEVENT
@@ -126,7 +126,7 @@ UID:20250716T213000Z_SanAntonioBuloBulo_OnceCaldas
 DTSTART;TZID=America/Montevideo:20250716T213000
 DTEND;TZID=America/Montevideo:20250716T233000
 SUMMARY:San Antonio Bulo Bulo🇧🇴 vs. Once Caldas🇨🇴
-DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Félix Capriles Stadium
 END:VEVENT
@@ -136,7 +136,7 @@ UID:20250723T213000Z_OnceCaldas_SanAntonioBuloBulo
 DTSTART;TZID=America/Montevideo:20250723T213000
 DTEND;TZID=America/Montevideo:20250723T233000
 SUMMARY:Once Caldas🇨🇴 vs. San Antonio Bulo Bulo🇧🇴
-DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Palogrande
 END:VEVENT
@@ -146,7 +146,7 @@ UID:20250812T190000Z_Fortaleza_VelezSarsfield
 DTSTART;TZID=America/Montevideo:20250812T190000
 DTEND;TZID=America/Montevideo:20250812T210000
 SUMMARY:Fortaleza🇧🇷 vs. Vélez Sarsfield🇦🇷
-DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Castelão
 END:VEVENT
@@ -156,7 +156,7 @@ UID:20250812T213000Z_Penarol_Racing
 DTSTART;TZID=America/Montevideo:20250812T213000
 DTEND;TZID=America/Montevideo:20250812T233000
 SUMMARY:Peñarol🇺🇾 vs. Racing🇦🇷
-DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Campeón del Siglo Stadium
 END:VEVENT
@@ -166,7 +166,7 @@ UID:20250819T190000Z_VelezSarsfield_Fortaleza
 DTSTART;TZID=America/Montevideo:20250819T190000
 DTEND;TZID=America/Montevideo:20250819T210000
 SUMMARY:Vélez Sarsfield🇦🇷 vs. Fortaleza🇧🇷
-DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:José Amalfitani
 END:VEVENT
@@ -176,7 +176,7 @@ UID:20250819T213000Z_Racing_Penarol
 DTSTART;TZID=America/Montevideo:20250819T213000
 DTEND;TZID=America/Montevideo:20250819T233000
 SUMMARY:Racing🇦🇷 vs. Peñarol🇺🇾
-DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Presidente Perón (Cilindro de Avellaneda)
 END:VEVENT
@@ -186,7 +186,7 @@ UID:20250916T190000Z_VelezSarsfield_Racing
 DTSTART;TZID=America/Montevideo:20250916T190000
 DTEND;TZID=America/Montevideo:20250916T210000
 SUMMARY:Vélez Sarsfield🇦🇷 vs. Racing🇦🇷
-DESCRIPTION:Quarter-finals - First leg - Libertadores Cup
+DESCRIPTION:Quarter-finals - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:José Amalfitani
 END:VEVENT
@@ -196,7 +196,7 @@ UID:20250923T190000Z_Racing_VelezSarsfield
 DTSTART;TZID=America/Montevideo:20250923T190000
 DTEND;TZID=America/Montevideo:20250923T210000
 SUMMARY:Racing🇦🇷 vs. Vélez Sarsfield🇦🇷
-DESCRIPTION:Quarter-finals - Second leg - Libertadores Cup
+DESCRIPTION:Quarter-finals - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Presidente Perón (Cilindro de Avellaneda)
 END:VEVENT

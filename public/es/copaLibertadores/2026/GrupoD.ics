@@ -6,7 +6,7 @@ UID:20260407T210000Z_Barcelona_Cruzeiro
 DTSTART;TZID=America/Montevideo:20260407T210000
 DTEND;TZID=America/Montevideo:20260407T230000
 SUMMARY:Barcelona🇪🇨 vs. Cruzeiro🇧🇷
-DESCRIPTION:Grupo D - Fecha 1 - Copa Libertadores
+DESCRIPTION:Grupo D - Fecha 1 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Banco Pichincha
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260407T213000Z_UniversidadCatolica_BocaJuniors
 DTSTART;TZID=America/Montevideo:20260407T213000
 DTEND;TZID=America/Montevideo:20260407T233000
 SUMMARY:Universidad Católica🇪🇨 vs. Boca Juniors🇦🇷
-DESCRIPTION:Grupo D - Fecha 1 - Copa Libertadores
+DESCRIPTION:Grupo D - Fecha 1 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio San Carlos de Apoquindo
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260414T210000Z_BocaJuniors_Barcelona
 DTSTART;TZID=America/Montevideo:20260414T210000
 DTEND;TZID=America/Montevideo:20260414T230000
 SUMMARY:Boca Juniors🇦🇷 vs. Barcelona🇪🇨
-DESCRIPTION:Grupo D - Fecha 2 - Copa Libertadores
+DESCRIPTION:Grupo D - Fecha 2 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Alberto José Armando (La Bombonera)
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20260415T190000Z_Cruzeiro_UniversidadCatolica
 DTSTART;TZID=America/Montevideo:20260415T190000
 DTEND;TZID=America/Montevideo:20260415T210000
 SUMMARY:Cruzeiro🇧🇷 vs. Universidad Católica🇪🇨
-DESCRIPTION:Grupo D - Fecha 2 - Copa Libertadores
+DESCRIPTION:Grupo D - Fecha 2 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Mineirão
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20260428T213000Z_Cruzeiro_BocaJuniors
 DTSTART;TZID=America/Montevideo:20260428T213000
 DTEND;TZID=America/Montevideo:20260428T233000
 SUMMARY:Cruzeiro🇧🇷 vs. Boca Juniors🇦🇷
-DESCRIPTION:Grupo D - Fecha 3 - Copa Libertadores
+DESCRIPTION:Grupo D - Fecha 3 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Mineirão
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20260429T210000Z_Barcelona_UniversidadCatolica
 DTSTART;TZID=America/Montevideo:20260429T210000
 DTEND;TZID=America/Montevideo:20260429T230000
 SUMMARY:Barcelona🇪🇨 vs. Universidad Católica🇪🇨
-DESCRIPTION:Grupo D - Fecha 3 - Copa Libertadores
+DESCRIPTION:Grupo D - Fecha 3 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Banco Pichincha
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20260505T210000Z_Barcelona_BocaJuniors
 DTSTART;TZID=America/Montevideo:20260505T210000
 DTEND;TZID=America/Montevideo:20260505T230000
 SUMMARY:Barcelona🇪🇨 vs. Boca Juniors🇦🇷
-DESCRIPTION:Grupo D - Fecha 4 - Copa Libertadores
+DESCRIPTION:Grupo D - Fecha 4 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Banco Pichincha
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20260506T230000Z_UniversidadCatolica_Cruzeiro
 DTSTART;TZID=America/Montevideo:20260506T230000
 DTEND;TZID=America/Montevideo:20260507T010000
 SUMMARY:Universidad Católica🇪🇨 vs. Cruzeiro🇧🇷
-DESCRIPTION:Grupo D - Fecha 4 - Copa Libertadores
+DESCRIPTION:Grupo D - Fecha 4 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio San Carlos de Apoquindo
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20260519T213000Z_BocaJuniors_Cruzeiro
 DTSTART;TZID=America/Montevideo:20260519T213000
 DTEND;TZID=America/Montevideo:20260519T233000
 SUMMARY:Boca Juniors🇦🇷 vs. Cruzeiro🇧🇷
-DESCRIPTION:Grupo D - Fecha 5 - Copa Libertadores
+DESCRIPTION:Grupo D - Fecha 5 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Alberto José Armando (La Bombonera)
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20260521T213000Z_UniversidadCatolica_Barcelona
 DTSTART;TZID=America/Montevideo:20260521T213000
 DTEND;TZID=America/Montevideo:20260521T233000
 SUMMARY:Universidad Católica🇪🇨 vs. Barcelona🇪🇨
-DESCRIPTION:Grupo D - Fecha 5 - Copa Libertadores
+DESCRIPTION:Grupo D - Fecha 5 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio San Carlos de Apoquindo
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20260528T213000Z_BocaJuniors_UniversidadCatolica
 DTSTART;TZID=America/Montevideo:20260528T213000
 DTEND;TZID=America/Montevideo:20260528T233000
 SUMMARY:Boca Juniors🇦🇷 vs. Universidad Católica🇪🇨
-DESCRIPTION:Grupo D - Fecha 6 - Copa Libertadores
+DESCRIPTION:Grupo D - Fecha 6 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Alberto José Armando (La Bombonera)
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20260528T213000Z_Cruzeiro_Barcelona
 DTSTART;TZID=America/Montevideo:20260528T213000
 DTEND;TZID=America/Montevideo:20260528T233000
 SUMMARY:Cruzeiro🇧🇷 vs. Barcelona🇪🇨
-DESCRIPTION:Grupo D - Fecha 6 - Copa Libertadores
+DESCRIPTION:Grupo D - Fecha 6 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Mineirão
 END:VEVENT
@@ -126,7 +126,7 @@ UID:20260723T213000Z_BocaJuniors_OHiggins
 DTSTART;TZID=America/Montevideo:20260723T213000
 DTEND;TZID=America/Montevideo:20260723T233000
 SUMMARY:Boca Juniors🇦🇷 vs. O'Higgins🇨🇱
-DESCRIPTION:Play-offs - Ida - Copa Sudamericana
+DESCRIPTION:Play-offs - Ida - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Alberto José Armando (La Bombonera)
 END:VEVENT
@@ -136,7 +136,7 @@ UID:20260730T213000Z_OHiggins_BocaJuniors
 DTSTART;TZID=America/Montevideo:20260730T213000
 DTEND;TZID=America/Montevideo:20260730T233000
 SUMMARY:O'Higgins🇨🇱 vs. Boca Juniors🇦🇷
-DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana
+DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio a definir
 END:VEVENT
@@ -146,7 +146,7 @@ UID:20260811T213000Z_Estudiantes_UniversidadCatolica
 DTSTART;TZID=America/Montevideo:20260811T213000
 DTEND;TZID=America/Montevideo:20260811T233000
 SUMMARY:Estudiantes🇦🇷 vs. Universidad Católica🇪🇨
-DESCRIPTION:Octavos de final - Ida - Copa Libertadores
+DESCRIPTION:Octavos de final - Ida - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Jorge Luis Hirschi
 END:VEVENT
@@ -156,7 +156,7 @@ UID:20260812T213000Z_Cruzeiro_Flamengo
 DTSTART;TZID=America/Montevideo:20260812T213000
 DTEND;TZID=America/Montevideo:20260812T233000
 SUMMARY:Cruzeiro🇧🇷 vs. Flamengo🇧🇷
-DESCRIPTION:Octavos de final - Ida - Copa Libertadores
+DESCRIPTION:Octavos de final - Ida - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Mineirão
 END:VEVENT
@@ -166,7 +166,7 @@ UID:20260818T213000Z_UniversidadCatolica_Estudiantes
 DTSTART;TZID=America/Montevideo:20260818T213000
 DTEND;TZID=America/Montevideo:20260818T233000
 SUMMARY:Universidad Católica🇪🇨 vs. Estudiantes🇦🇷
-DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
+DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio San Carlos de Apoquindo
 END:VEVENT
@@ -176,7 +176,7 @@ UID:20260819T213000Z_Flamengo_Cruzeiro
 DTSTART;TZID=America/Montevideo:20260819T213000
 DTEND;TZID=America/Montevideo:20260819T233000
 SUMMARY:Flamengo🇧🇷 vs. Cruzeiro🇧🇷
-DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
+DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio do Maracana
 END:VEVENT

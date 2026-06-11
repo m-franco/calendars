@@ -6,7 +6,7 @@ UID:20260617T140000Z_Portugal_RepublicaDemocraticaDelCongo
 DTSTART;TZID=America/Montevideo:20260617T140000
 DTEND;TZID=America/Montevideo:20260617T160000
 SUMMARY:Portugal vs. República Democrática del Congo
-DESCRIPTION:Grupo K - Fecha 1 - Copa del Mundo
+DESCRIPTION:Grupo K - Fecha 1 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:NRG Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260623T140000Z_Portugal_Uzbekistan
 DTSTART;TZID=America/Montevideo:20260623T140000
 DTEND;TZID=America/Montevideo:20260623T160000
 SUMMARY:Portugal vs. Uzbekistán
-DESCRIPTION:Grupo K - Fecha 2 - Copa del Mundo
+DESCRIPTION:Grupo K - Fecha 2 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:NRG Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260627T203000Z_Colombia_Portugal
 DTSTART;TZID=America/Montevideo:20260627T203000
 DTEND;TZID=America/Montevideo:20260627T223000
 SUMMARY:Colombia vs. Portugal
-DESCRIPTION:Grupo K - Fecha 3 - Copa del Mundo
+DESCRIPTION:Grupo K - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium
 END:VEVENT

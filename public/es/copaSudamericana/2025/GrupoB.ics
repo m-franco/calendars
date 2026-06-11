@@ -6,7 +6,7 @@ UID:20250402T213000Z_Vitoria_UniversidadCatolica
 DTSTART;TZID=America/Montevideo:20250402T213000
 DTEND;TZID=America/Montevideo:20250402T233000
 SUMMARY:Vitória🇧🇷 vs. Universidad Católica🇪🇨
-DESCRIPTION:Grupo B - Fecha 1 - Copa Sudamericana
+DESCRIPTION:Grupo B - Fecha 1 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Manoel Barradas
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20250403T213000Z_CerroLargo_DefensaYJusticia
 DTSTART;TZID=America/Montevideo:20250403T213000
 DTEND;TZID=America/Montevideo:20250403T233000
 SUMMARY:Cerro Largo🇺🇾 vs. Defensa Y Justicia🇦🇷
-DESCRIPTION:Grupo B - Fecha 1 - Copa Sudamericana
+DESCRIPTION:Grupo B - Fecha 1 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Centenario
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20250410T190000Z_DefensaYJusticia_Vitoria
 DTSTART;TZID=America/Montevideo:20250410T190000
 DTEND;TZID=America/Montevideo:20250410T210000
 SUMMARY:Defensa Y Justicia🇦🇷 vs. Vitória🇧🇷
-DESCRIPTION:Grupo B - Fecha 2 - Copa Sudamericana
+DESCRIPTION:Grupo B - Fecha 2 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Norberto Tomaghello
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20250410T230000Z_UniversidadCatolica_CerroLargo
 DTSTART;TZID=America/Montevideo:20250410T230000
 DTEND;TZID=America/Montevideo:20250411T010000
 SUMMARY:Universidad Católica🇪🇨 vs. Cerro Largo🇺🇾
-DESCRIPTION:Grupo B - Fecha 2 - Copa Sudamericana
+DESCRIPTION:Grupo B - Fecha 2 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Olímpico Atahualpa
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20250423T213000Z_Vitoria_CerroLargo
 DTSTART;TZID=America/Montevideo:20250423T213000
 DTEND;TZID=America/Montevideo:20250423T233000
 SUMMARY:Vitória🇧🇷 vs. Cerro Largo🇺🇾
-DESCRIPTION:Grupo B - Fecha 3 - Copa Sudamericana
+DESCRIPTION:Grupo B - Fecha 3 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Manoel Barradas
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20250424T230000Z_UniversidadCatolica_DefensaYJusticia
 DTSTART;TZID=America/Montevideo:20250424T230000
 DTEND;TZID=America/Montevideo:20250425T010000
 SUMMARY:Universidad Católica🇪🇨 vs. Defensa Y Justicia🇦🇷
-DESCRIPTION:Grupo B - Fecha 3 - Copa Sudamericana
+DESCRIPTION:Grupo B - Fecha 3 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Olímpico Atahualpa
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20250506T190000Z_Vitoria_DefensaYJusticia
 DTSTART;TZID=America/Montevideo:20250506T190000
 DTEND;TZID=America/Montevideo:20250506T210000
 SUMMARY:Vitória🇧🇷 vs. Defensa Y Justicia🇦🇷
-DESCRIPTION:Grupo B - Fecha 4 - Copa Sudamericana
+DESCRIPTION:Grupo B - Fecha 4 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Manoel Barradas
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20250507T190000Z_CerroLargo_UniversidadCatolica
 DTSTART;TZID=America/Montevideo:20250507T190000
 DTEND;TZID=America/Montevideo:20250507T210000
 SUMMARY:Cerro Largo🇺🇾 vs. Universidad Católica🇪🇨
-DESCRIPTION:Grupo B - Fecha 4 - Copa Sudamericana
+DESCRIPTION:Grupo B - Fecha 4 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Centenario
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20250514T190000Z_DefensaYJusticia_UniversidadCatolica
 DTSTART;TZID=America/Montevideo:20250514T190000
 DTEND;TZID=America/Montevideo:20250514T210000
 SUMMARY:Defensa Y Justicia🇦🇷 vs. Universidad Católica🇪🇨
-DESCRIPTION:Grupo B - Fecha 5 - Copa Sudamericana
+DESCRIPTION:Grupo B - Fecha 5 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Norberto Tomaghello
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20250514T213000Z_CerroLargo_Vitoria
 DTSTART;TZID=America/Montevideo:20250514T213000
 DTEND;TZID=America/Montevideo:20250514T233000
 SUMMARY:Cerro Largo🇺🇾 vs. Vitória🇧🇷
-DESCRIPTION:Grupo B - Fecha 5 - Copa Sudamericana
+DESCRIPTION:Grupo B - Fecha 5 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Centenario
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20250528T213000Z_DefensaYJusticia_CerroLargo
 DTSTART;TZID=America/Montevideo:20250528T213000
 DTEND;TZID=America/Montevideo:20250528T233000
 SUMMARY:Defensa Y Justicia🇦🇷 vs. Cerro Largo🇺🇾
-DESCRIPTION:Grupo B - Fecha 6 - Copa Sudamericana
+DESCRIPTION:Grupo B - Fecha 6 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Norberto Tomaghello
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20250528T213000Z_UniversidadCatolica_Vitoria
 DTSTART;TZID=America/Montevideo:20250528T213000
 DTEND;TZID=America/Montevideo:20250528T233000
 SUMMARY:Universidad Católica🇪🇨 vs. Vitória🇧🇷
-DESCRIPTION:Grupo B - Fecha 6 - Copa Sudamericana
+DESCRIPTION:Grupo B - Fecha 6 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Olímpico Atahualpa
 END:VEVENT
@@ -126,7 +126,7 @@ UID:20250715T190000Z_CentralCordoba_CerroLargo
 DTSTART;TZID=America/Montevideo:20250715T190000
 DTEND;TZID=America/Montevideo:20250715T210000
 SUMMARY:Central Córdoba🇦🇷 vs. Cerro Largo🇺🇾
-DESCRIPTION:Play-offs - Ida - Copa Sudamericana
+DESCRIPTION:Play-offs - Ida - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Único Madre de Ciudades
 END:VEVENT
@@ -136,7 +136,7 @@ UID:20250722T190000Z_CerroLargo_CentralCordoba
 DTSTART;TZID=America/Montevideo:20250722T190000
 DTEND;TZID=America/Montevideo:20250722T210000
 SUMMARY:Cerro Largo🇺🇾 vs. Central Córdoba🇦🇷
-DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana
+DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Campeón del Siglo
 END:VEVENT
@@ -146,7 +146,7 @@ UID:20250813T213000Z_AlianzaLima_UniversidadCatolica
 DTSTART;TZID=America/Montevideo:20250813T213000
 DTEND;TZID=America/Montevideo:20250813T233000
 SUMMARY:Alianza Lima🇵🇪 vs. Universidad Católica🇪🇨
-DESCRIPTION:Octavos de final - Ida - Copa Sudamericana
+DESCRIPTION:Octavos de final - Ida - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Alejandro Villanueva
 END:VEVENT
@@ -156,7 +156,7 @@ UID:20250820T213000Z_UniversidadCatolica_AlianzaLima
 DTSTART;TZID=America/Montevideo:20250820T213000
 DTEND;TZID=America/Montevideo:20250820T233000
 SUMMARY:Universidad Católica🇪🇨 vs. Alianza Lima🇵🇪
-DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana
+DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Olímpico Atahualpa
 END:VEVENT

@@ -3,7 +3,7 @@
 import { selecciones, gentilicios, confederaciones, type Lang } from "./countries";
 import { getCalendarFilePath } from "../utils/teamImages";
 
-export const calendarBasePath = "m-franco.github.io/calendars/";
+export const calendarBasePath = "myfixtu.re/";
 
 export type { Lang };
 
@@ -21,9 +21,9 @@ export const LANG_FLAGS: Record<Lang, string> = {
 };
 
 // Prefijo de ruta para los <a href> internos (sin el basePath).
-// ES vive en la raíz; en/pt bajo /en y /pt.
+// Cada idioma vive bajo su segmento: /es, /en, /pt.
 export function langSegment(lang: Lang): string {
-  return lang === DEFAULT_LANG ? "" : `${lang}/`;
+  return `${lang}/`;
 }
 
 // URL interna (con basePath + segmento de idioma) a partir de segmentos.
@@ -127,6 +127,48 @@ export const strings: Record<Lang, Dict> = {
 
 export function t(lang: Lang): Dict {
   return strings[lang];
+}
+
+// ---------------------------------------------------------------------------
+// Apoyo económico
+// ---------------------------------------------------------------------------
+export const PAYPAL_URL = "https://paypal.me/matiasfranco86";
+
+export const supportSlug: Record<Lang, string> = {
+  es: "apoyar",
+  en: "support",
+  pt: "apoiar",
+};
+
+export const supportCopy: Record<
+  Lang,
+  { nav: string; title: string; intro: string; button: string }
+> = {
+  es: {
+    nav: "Apoyar",
+    title: "Apoyar el proyecto",
+    intro:
+      "Si querés ayudar a que este proyecto siga creciendo, podés hacer un aporte. ¡Gracias!",
+    button: "Apoyar a través de PayPal",
+  },
+  en: {
+    nav: "Support",
+    title: "Support the project",
+    intro:
+      "If you'd like to help this project keep growing, you can make a contribution. Thank you!",
+    button: "Support through PayPal",
+  },
+  pt: {
+    nav: "Apoiar",
+    title: "Apoie o projeto",
+    intro:
+      "Se você quer ajudar este projeto a continuar crescendo, pode fazer uma contribuição. Obrigado!",
+    button: "Apoiar através do PayPal",
+  },
+};
+
+export function supportUrl(lang: Lang): string {
+  return urlFor(lang, [supportSlug[lang]]);
 }
 
 // ---------------------------------------------------------------------------

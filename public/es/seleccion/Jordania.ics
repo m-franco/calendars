@@ -6,7 +6,7 @@ UID:20260617T010000Z_Austria_Jordania
 DTSTART;TZID=America/Montevideo:20260617T010000
 DTEND;TZID=America/Montevideo:20260617T030000
 SUMMARY:Austria vs. Jordania
-DESCRIPTION:Grupo J - Fecha 1 - Copa del Mundo
+DESCRIPTION:Grupo J - Fecha 1 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260623T000000Z_Jordania_Argelia
 DTSTART;TZID=America/Montevideo:20260623T000000
 DTEND;TZID=America/Montevideo:20260623T020000
 SUMMARY:Jordania vs. Argelia
-DESCRIPTION:Grupo J - Fecha 2 - Copa del Mundo
+DESCRIPTION:Grupo J - Fecha 2 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260627T230000Z_Jordania_Argentina
 DTSTART;TZID=America/Montevideo:20260627T230000
 DTEND;TZID=America/Montevideo:20260628T010000
 SUMMARY:Jordania vs. Argentina
-DESCRIPTION:Grupo J - Fecha 3 - Copa del Mundo
+DESCRIPTION:Grupo J - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
 END:VEVENT

@@ -6,7 +6,7 @@ UID:20240404T190000Z_Deportivo_Garcilaso_Metropolitanos
 DTSTART;TZID=America/Montevideo:20240404T190000
 DTEND;TZID=America/Montevideo:20240404T210000
 SUMMARY:Deportivo Garcilaso🇵🇪 vs. Metropolitanos🇻🇪
-DESCRIPTION:Group G - Matchday 1 - Sudamericana Cup
+DESCRIPTION:Group G - Matchday 1 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Inca Garcilaso de la Vega Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20240411T190000Z_Metropolitanos_Cuiaba
 DTSTART;TZID=America/Montevideo:20240411T190000
 DTEND;TZID=America/Montevideo:20240411T210000
 SUMMARY:Metropolitanos🇻🇪 vs. Cuiabá🇧🇷
-DESCRIPTION:Group G - Matchday 2 - Sudamericana Cup
+DESCRIPTION:Group G - Matchday 2 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Olímpico de la UCV Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240425T190000Z_Metropolitanos_Lanus
 DTSTART;TZID=America/Montevideo:20240425T190000
 DTEND;TZID=America/Montevideo:20240425T210000
 SUMMARY:Metropolitanos🇻🇪 vs. Lanús🇦🇷
-DESCRIPTION:Group G - Matchday 3 - Sudamericana Cup
+DESCRIPTION:Group G - Matchday 3 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Olímpico de la UCV Stadium
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20240508T210000Z_Cuiaba_Metropolitanos
 DTSTART;TZID=America/Montevideo:20240508T210000
 DTEND;TZID=America/Montevideo:20240508T230000
 SUMMARY:Cuiabá🇧🇷 vs. Metropolitanos🇻🇪
-DESCRIPTION:Group G - Matchday 4 - Sudamericana Cup
+DESCRIPTION:Group G - Matchday 4 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Arena Pantanal
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20240515T190000Z_Lanus_Metropolitanos
 DTSTART;TZID=America/Montevideo:20240515T190000
 DTEND;TZID=America/Montevideo:20240515T210000
 SUMMARY:Lanús🇦🇷 vs. Metropolitanos🇻🇪
-DESCRIPTION:Group G - Matchday 5 - Sudamericana Cup
+DESCRIPTION:Group G - Matchday 5 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Ciudad de Lanús Stadium
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20240529T190000Z_Metropolitanos_Deportivo_Garcilaso
 DTSTART;TZID=America/Montevideo:20240529T190000
 DTEND;TZID=America/Montevideo:20240529T210000
 SUMMARY:Metropolitanos🇻🇪 vs. Deportivo Garcilaso🇵🇪
-DESCRIPTION:Group G - Matchday 6 - Sudamericana Cup
+DESCRIPTION:Group G - Matchday 6 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Olímpico de la UCV Stadium
 END:VEVENT

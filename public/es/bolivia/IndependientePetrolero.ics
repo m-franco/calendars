@@ -6,7 +6,7 @@ UID:20260407T190000Z_IndependientePetrolero_Racing
 DTSTART;TZID=America/Montevideo:20260407T190000
 DTEND;TZID=America/Montevideo:20260407T210000
 SUMMARY:Independiente Petrolero🇧🇴 vs. Racing🇦🇷
-DESCRIPTION:Grupo E - Fecha 1 - Copa Sudamericana
+DESCRIPTION:Grupo E - Fecha 1 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Olímpico Patria
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260415T190000Z_Caracas_IndependientePetrolero
 DTSTART;TZID=America/Montevideo:20260415T190000
 DTEND;TZID=America/Montevideo:20260415T210000
 SUMMARY:Caracas🇻🇪 vs. Independiente Petrolero🇧🇴
-DESCRIPTION:Grupo E - Fecha 2 - Copa Sudamericana
+DESCRIPTION:Grupo E - Fecha 2 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Olímpico de la UCV
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260428T190000Z_Botafogo_IndependientePetrolero
 DTSTART;TZID=America/Montevideo:20260428T190000
 DTEND;TZID=America/Montevideo:20260428T210000
 SUMMARY:Botafogo🇧🇷 vs. Independiente Petrolero🇧🇴
-DESCRIPTION:Grupo E - Fecha 3 - Copa Sudamericana
+DESCRIPTION:Grupo E - Fecha 3 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Joao Havelange Stadium
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20260505T190000Z_IndependientePetrolero_Caracas
 DTSTART;TZID=America/Montevideo:20260505T190000
 DTEND;TZID=America/Montevideo:20260505T210000
 SUMMARY:Independiente Petrolero🇧🇴 vs. Caracas🇻🇪
-DESCRIPTION:Grupo E - Fecha 4 - Copa Sudamericana
+DESCRIPTION:Grupo E - Fecha 4 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Olímpico Patria
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20260520T210000Z_IndependientePetrolero_Botafogo
 DTSTART;TZID=America/Montevideo:20260520T210000
 DTEND;TZID=America/Montevideo:20260520T230000
 SUMMARY:Independiente Petrolero🇧🇴 vs. Botafogo🇧🇷
-DESCRIPTION:Grupo E - Fecha 5 - Copa Sudamericana
+DESCRIPTION:Grupo E - Fecha 5 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Tigo La Huerta
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20260527T190000Z_Racing_IndependientePetrolero
 DTSTART;TZID=America/Montevideo:20260527T190000
 DTEND;TZID=America/Montevideo:20260527T210000
 SUMMARY:Racing🇦🇷 vs. Independiente Petrolero🇧🇴
-DESCRIPTION:Grupo E - Fecha 6 - Copa Sudamericana
+DESCRIPTION:Grupo E - Fecha 6 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Presidente Perón (Cilindro de Avellaneda)
 END:VEVENT

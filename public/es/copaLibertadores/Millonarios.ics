@@ -6,7 +6,7 @@ UID:20240402T190000Z_Millonarios_Flamengo
 DTSTART;TZID=America/Montevideo:20240402T190000
 DTEND;TZID=America/Montevideo:20240402T210000
 SUMMARY:Millonarios🇨🇴 vs. Flamengo🇧🇷
-DESCRIPTION:Grupo E - Fecha 1 - Copa Libertadores
+DESCRIPTION:Grupo E - Fecha 1 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Nemesio Camacho
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20240411T190000Z_Bolívar_Millonarios
 DTSTART;TZID=America/Montevideo:20240411T190000
 DTEND;TZID=America/Montevideo:20240411T210000
 SUMMARY:Bolívar🇧🇴 vs. Millonarios🇨🇴
-DESCRIPTION:Grupo E - Fecha 2 - Copa Libertadores
+DESCRIPTION:Grupo E - Fecha 2 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Hernando Siles
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240425T210000Z_Palestino_Millonarios
 DTSTART;TZID=America/Montevideo:20240425T210000
 DTEND;TZID=America/Montevideo:20240425T230000
 SUMMARY:Palestino🇨🇱 vs. Millonarios🇨🇴
-DESCRIPTION:Grupo E - Fecha 3 - Copa Libertadores
+DESCRIPTION:Grupo E - Fecha 3 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio a definir
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20240508T230000Z_Millonarios_Bolívar
 DTSTART;TZID=America/Montevideo:20240508T230000
 DTEND;TZID=America/Montevideo:20240509T010000
 SUMMARY:Millonarios🇨🇴 vs. Bolívar🇧🇴
-DESCRIPTION:Grupo E - Fecha 4 - Copa Libertadores
+DESCRIPTION:Grupo E - Fecha 4 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Nemesio Camacho
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20240514T230000Z_Millonarios_Palestino
 DTSTART;TZID=America/Montevideo:20240514T230000
 DTEND;TZID=America/Montevideo:20240515T010000
 SUMMARY:Millonarios🇨🇴 vs. Palestino🇨🇱
-DESCRIPTION:Grupo E - Fecha 5 - Copa Libertadores
+DESCRIPTION:Grupo E - Fecha 5 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Nemesio Camacho
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20240528T210000Z_Flamengo_Millonarios
 DTSTART;TZID=America/Montevideo:20240528T210000
 DTEND;TZID=America/Montevideo:20240528T230000
 SUMMARY:Flamengo🇧🇷 vs. Millonarios🇨🇴
-DESCRIPTION:Grupo E - Fecha 6 - Copa Libertadores
+DESCRIPTION:Grupo E - Fecha 6 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Maracaná
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20260407T210000Z_OHiggins_Millonarios
 DTSTART;TZID=America/Montevideo:20260407T210000
 DTEND;TZID=America/Montevideo:20260407T230000
 SUMMARY:O'Higgins🇨🇱 vs. Millonarios🇨🇴
-DESCRIPTION:Grupo C - Fecha 1 - Copa Sudamericana
+DESCRIPTION:Grupo C - Fecha 1 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio El Teniente
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20260415T230000Z_Millonarios_BostonRiver
 DTSTART;TZID=America/Montevideo:20260415T230000
 DTEND;TZID=America/Montevideo:20260416T010000
 SUMMARY:Millonarios🇨🇴 vs. Boston River🇺🇾
-DESCRIPTION:Grupo C - Fecha 2 - Copa Sudamericana
+DESCRIPTION:Grupo C - Fecha 2 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Nemesio Camacho El Campín
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20260428T213000Z_Millonarios_SanPablo
 DTSTART;TZID=America/Montevideo:20260428T213000
 DTEND;TZID=America/Montevideo:20260428T233000
 SUMMARY:Millonarios🇨🇴 vs. San Pablo🇧🇷
-DESCRIPTION:Grupo C - Fecha 3 - Copa Sudamericana
+DESCRIPTION:Grupo C - Fecha 3 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Nemesio Camacho El Campín
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20260507T190000Z_BostonRiver_Millonarios
 DTSTART;TZID=America/Montevideo:20260507T190000
 DTEND;TZID=America/Montevideo:20260507T210000
 SUMMARY:Boston River🇺🇾 vs. Millonarios🇨🇴
-DESCRIPTION:Grupo C - Fecha 4 - Copa Sudamericana
+DESCRIPTION:Grupo C - Fecha 4 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Centenario
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20260519T213000Z_SanPablo_Millonarios
 DTSTART;TZID=America/Montevideo:20260519T213000
 DTEND;TZID=America/Montevideo:20260519T233000
 SUMMARY:San Pablo🇧🇷 vs. Millonarios🇨🇴
-DESCRIPTION:Grupo C - Fecha 5 - Copa Sudamericana
+DESCRIPTION:Grupo C - Fecha 5 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estádio Cícero Pompeu de Toledo
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20260526T190000Z_Millonarios_OHiggins
 DTSTART;TZID=America/Montevideo:20260526T190000
 DTEND;TZID=America/Montevideo:20260526T210000
 SUMMARY:Millonarios🇨🇴 vs. O'Higgins🇨🇱
-DESCRIPTION:Grupo C - Fecha 6 - Copa Sudamericana
+DESCRIPTION:Grupo C - Fecha 6 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Nemesio Camacho El Campín
 END:VEVENT

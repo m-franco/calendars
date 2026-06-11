@@ -6,7 +6,7 @@ UID:20240402T190000Z_Liverpool_IndependienteDelValle
 DTSTART;TZID=America/Montevideo:20240402T190000
 DTEND;TZID=America/Montevideo:20240402T210000
 SUMMARY:Liverpool🇺🇾 vs. Independiente del Valle🇪🇨
-DESCRIPTION:Group F - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Centenario Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20240403T213000Z_SanLorenzo_Palmeiras
 DTSTART;TZID=America/Montevideo:20240403T213000
 DTEND;TZID=America/Montevideo:20240403T233000
 SUMMARY:San Lorenzo🇦🇷 vs. Palmeiras🇧🇷
-DESCRIPTION:Group F - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nuevo Gasómtro Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240410T190000Z_IndependienteDelValle_SanLorenzo
 DTSTART;TZID=America/Montevideo:20240410T190000
 DTEND;TZID=America/Montevideo:20240410T210000
 SUMMARY:Independiente del Valle🇪🇨 vs. San Lorenzo🇦🇷
-DESCRIPTION:Group F - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Guayaquil Stadium
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20240411T210000Z_Palmeiras_Liverpool
 DTSTART;TZID=America/Montevideo:20240411T210000
 DTEND;TZID=America/Montevideo:20240411T230000
 SUMMARY:Palmeiras🇧🇷 vs. Liverpool🇺🇾
-DESCRIPTION:Group F - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Allianz Parque Stadium
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20240423T210000Z_Liverpool_SanLorenzo
 DTSTART;TZID=America/Montevideo:20240423T210000
 DTEND;TZID=America/Montevideo:20240423T230000
 SUMMARY:Liverpool🇺🇾 vs. San Lorenzo🇦🇷
-DESCRIPTION:Group F - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Centenario Stadium
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20240424T213000Z_IndependienteDelValle_Palmeiras
 DTSTART;TZID=America/Montevideo:20240424T213000
 DTEND;TZID=America/Montevideo:20240424T233000
 SUMMARY:Independiente del Valle🇪🇨 vs. Palmeiras🇧🇷
-DESCRIPTION:Group F - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Guayaquil Stadium
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20240509T190000Z_IndependienteDelValle_Liverpool
 DTSTART;TZID=America/Montevideo:20240509T190000
 DTEND;TZID=America/Montevideo:20240509T210000
 SUMMARY:Independiente del Valle🇪🇨 vs. Liverpool🇺🇾
-DESCRIPTION:Group F - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Guayaquil Stadium
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20240509T190000Z_Palmeiras_SanLorenzo
 DTSTART;TZID=America/Montevideo:20240509T190000
 DTEND;TZID=America/Montevideo:20240509T210000
 SUMMARY:Palmeiras🇧🇷 vs. San Lorenzo🇦🇷
-DESCRIPTION:Group F - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Allianz Parque Stadium
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20240515T213000Z_Palmeiras_IndependienteDelValle
 DTSTART;TZID=America/Montevideo:20240515T213000
 DTEND;TZID=America/Montevideo:20240515T233000
 SUMMARY:Palmeiras🇧🇷 vs. Independiente del Valle🇪🇨
-DESCRIPTION:Group F - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Allianz Parque Stadium
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20240516T210000Z_SanLorenzo_Liverpool
 DTSTART;TZID=America/Montevideo:20240516T210000
 DTEND;TZID=America/Montevideo:20240516T230000
 SUMMARY:San Lorenzo🇦🇷 vs. Liverpool🇺🇾
-DESCRIPTION:Group F - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nuevo Gasómtro Stadium
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20240530T190000Z_IndependienteDelValle_Liverpool
 DTSTART;TZID=America/Montevideo:20240530T190000
 DTEND;TZID=America/Montevideo:20240530T210000
 SUMMARY:Independiente del Valle🇪🇨 vs. Liverpool🇺🇾
-DESCRIPTION:Group F - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Guayaquil Stadium
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20240530T190000Z_Palmeiras_SanLorenzo
 DTSTART;TZID=America/Montevideo:20240530T190000
 DTEND;TZID=America/Montevideo:20240530T210000
 SUMMARY:Palmeiras🇧🇷 vs. San Lorenzo🇦🇷
-DESCRIPTION:Group F - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Allianz Parque Stadium
 END:VEVENT
@@ -126,7 +126,7 @@ UID:20240717T213000Z_IndependienteDelValle_Boca_Juniors
 DTSTART;TZID=America/Montevideo:20240717T213000
 DTEND;TZID=America/Montevideo:20240717T233000
 SUMMARY:Independiente del Valle🇪🇨 vs. Boca Juniors🇦🇷
-DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Banco Guayaquil Stadium, Quito
 CLASS:PUBLIC
 END:VEVENT
@@ -136,7 +136,7 @@ UID:20240724T213000Z_Boca_Juniors_IndependienteDelValle
 DTSTART;TZID=America/Montevideo:20240724T213000
 DTEND;TZID=America/Montevideo:20240724T233000
 SUMMARY:Boca Juniors🇦🇷 vs. Independiente del Valle🇪🇨
-DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:La Bombonera, Buenos Aires
 CLASS:PUBLIC
 END:VEVENT
@@ -146,7 +146,7 @@ UID:20240813T213000Z_SanLorenzo_AtleticoMineiro
 DTSTART;TZID=America/Montevideo:20240813T213000
 DTEND;TZID=America/Montevideo:20240813T233000
 SUMMARY:San Lorenzo🇦🇷 vs. Atlético Mineiro🇧🇷
-DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Nuevo Gasómetro Stadium
 CLASS:PUBLIC
 END:VEVENT
@@ -156,7 +156,7 @@ UID:20240814T213000Z_Botafogo_Palmeiras
 DTSTART;TZID=America/Montevideo:20240814T213000
 DTEND;TZID=America/Montevideo:20240814T233000
 SUMMARY:Botafogo🇧🇷 vs. Palmeiras🇧🇷
-DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Olímpico Nilton Santos Stadium
 CLASS:PUBLIC
 END:VEVENT
@@ -166,7 +166,7 @@ UID:20240820T213000Z_AtleticoMineiro_SanLorenzo
 DTSTART;TZID=America/Montevideo:20240820T213000
 DTEND;TZID=America/Montevideo:20240820T233000
 SUMMARY:Atlético Mineiro🇧🇷 vs. San Lorenzo🇦🇷
-DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Arena MRV Stadium
 CLASS:PUBLIC
 END:VEVENT
@@ -176,7 +176,7 @@ UID:20240821T213000Z_Palmeiras_Botafogo
 DTSTART;TZID=America/Montevideo:20240821T213000
 DTEND;TZID=America/Montevideo:20240821T233000
 SUMMARY:Palmeiras🇧🇷 vs. Botafogo🇧🇷
-DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Allianz Parque Stadium
 CLASS:PUBLIC
 END:VEVENT

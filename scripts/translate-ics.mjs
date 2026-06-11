@@ -39,16 +39,36 @@ const LEGACY_DIRS = ["libertadores", "sudamericana"];
 // ---------------------------------------------------------------------------
 // es-slug -> { en: slug, pt: slug }
 const seleccionSlug = {};
-// es-display-name -> { en: name, pt: name }
+// es-display-name -> { es, en, pt }
 const seleccionName = {};
 for (const [esSlug, loc] of Object.entries(selecciones)) {
-  seleccionSlug[esSlug] = { en: loc.en.slug, pt: loc.pt.slug };
-  seleccionName[loc.es.name] = { en: loc.en.name, pt: loc.pt.name };
+  seleccionSlug[esSlug] = { es: loc.es.slug, en: loc.en.slug, pt: loc.pt.slug };
+  seleccionName[loc.es.name] = { es: loc.es.name, en: loc.en.name, pt: loc.pt.name };
 }
 // Indexado por el slug en español (el nombre real del archivo en public/es).
 const gentilicioSlug = {};
 for (const loc of Object.values(gentilicios)) {
-  gentilicioSlug[loc.es.slug] = { en: loc.en.slug, pt: loc.pt.slug };
+  gentilicioSlug[loc.es.slug] = { es: loc.es.slug, en: loc.en.slug, pt: loc.pt.slug };
+}
+
+// Mensaje de apoyo que se agrega a la DESCRIPTION de cada evento. Apunta a la
+// pantalla de apoyo dentro del sitio (no directo a PayPal).
+const SITE = "https://myfixtu.re";
+const supportMessage = {
+  es: `¿Te gusta este calendario? Puedes apoyar este proyecto en: ${SITE}/es/apoyar`,
+  en: `Enjoying this calendar? Support the project: ${SITE}/en/support`,
+  pt: `Gostou deste calendário? Apoie o projeto: ${SITE}/pt/apoiar`,
+};
+
+// Detecta un bloque de apoyo agregado previamente (cualquier dominio/idioma).
+const SUPPORT_RE = /apoyar|support|apoiar|github\.io\/calendars|myfixtu\.re/;
+
+// Quita el bloque de apoyo agregado previamente (idempotencia). El valor de
+// DESCRIPTION usa "\n" literales; el apoyo va tras el último "\n\n".
+function stripSupport(descValue) {
+  const j = descValue.lastIndexOf("\\n\\n");
+  if (j === -1) return descValue;
+  return SUPPORT_RE.test(descValue.slice(j)) ? descValue.slice(0, j) : descValue;
 }
 
 // Carpeta/archivo de torneo por idioma (camelCase del nombre localizado).
@@ -212,8 +232,12 @@ function translateContent(text, rel, lang) {
   const wc = isWorldCupFile(rel);
   return text.split("\n").map((line) => {
     if (line.startsWith("DESCRIPTION:")) {
-      return "DESCRIPTION:" + translateDescription(line.slice("DESCRIPTION:".length), lang);
+      let v = stripSupport(line.slice("DESCRIPTION:".length));
+      if (lang !== "es") v = translateDescription(v, lang);
+      return "DESCRIPTION:" + v + "\\n\\n" + supportMessage[lang];
     }
+    // En español sólo agregamos el apoyo; el resto del contenido queda igual.
+    if (lang === "es") return line;
     if (line.startsWith("PRODID:")) {
       return line.replace(/\/\/ES\s*$/, `//${lang.toUpperCase()}`);
     }
@@ -272,22 +296,26 @@ function walk(dir, base = dir) {
 }
 
 function generate() {
-  const files = walk(ES);
-  for (const lang of LANGS) {
+  // Leemos el contenido de public/es en memoria ANTES de escribir, porque
+  // también reescribimos es (en el lugar) para agregarle el mensaje de apoyo.
+  const sources = walk(ES).map((rel) => {
+    const relPosix = rel.split(path.sep).join("/");
+    return { relPosix, text: fs.readFileSync(path.join(ES, rel), "utf8") };
+  });
+
+  for (const lang of ["es", "en", "pt"]) {
     const langRoot = path.join(PUBLIC, lang);
-    fs.rmSync(langRoot, { recursive: true, force: true });
+    if (lang !== "es") fs.rmSync(langRoot, { recursive: true, force: true });
     let count = 0;
-    for (const rel of files) {
-      const src = path.join(ES, rel);
-      const text = fs.readFileSync(src, "utf8");
-      const outText = translateContent(text, rel.split(path.sep).join("/"), lang);
-      const outRel = translateRelPath(rel.split(path.sep).join("/"), lang);
+    for (const { relPosix, text } of sources) {
+      const outText = translateContent(text, relPosix, lang);
+      const outRel = translateRelPath(relPosix, lang);
       const dest = path.join(langRoot, outRel);
       fs.mkdirSync(path.dirname(dest), { recursive: true });
       fs.writeFileSync(dest, outText);
       count++;
     }
-    console.log(`public/${lang}: ${count} archivos generados.`);
+    console.log(`public/${lang}: ${count} archivos procesados.`);
   }
 }
 

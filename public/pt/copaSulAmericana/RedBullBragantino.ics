@@ -6,7 +6,7 @@ UID:20240403T210000Z_Red_Bull_Bragantino_Coquimbo_Unido
 DTSTART;TZID=America/Montevideo:20240403T210000
 DTEND;TZID=America/Montevideo:20240403T230000
 SUMMARY:Red Bull Bragantino🇧🇷 vs. Coquimbo Unido🇨🇱
-DESCRIPTION:Grupo H - Rodada 1 - Copa Sul-Americana
+DESCRIPTION:Grupo H - Rodada 1 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Nabi Abi Chedid
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20240410T213000Z_Racing_Arg_Red_Bull_Bragantino
 DTSTART;TZID=America/Montevideo:20240410T213000
 DTEND;TZID=America/Montevideo:20240410T233000
 SUMMARY:Racing(Arg)🇦🇷 vs. Red Bull Bragantino🇧🇷
-DESCRIPTION:Grupo H - Rodada 2 - Copa Sul-Americana
+DESCRIPTION:Grupo H - Rodada 2 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Presidente Perón
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240424T210000Z_Red_Bull_Bragantino_Sportivo_Luqueno
 DTSTART;TZID=America/Montevideo:20240424T210000
 DTEND;TZID=America/Montevideo:20240424T230000
 SUMMARY:Red Bull Bragantino🇧🇷 vs. Sportivo Luqueño🇵🇾
-DESCRIPTION:Grupo H - Rodada 3 - Copa Sul-Americana
+DESCRIPTION:Grupo H - Rodada 3 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Nabi Abi Chedid
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20240509T210000Z_Red_Bull_Bragantino_Racing_Arg
 DTSTART;TZID=America/Montevideo:20240509T210000
 DTEND;TZID=America/Montevideo:20240509T230000
 SUMMARY:Red Bull Bragantino🇧🇷 vs. Racing(Arg)🇦🇷
-DESCRIPTION:Grupo H - Rodada 4 - Copa Sul-Americana
+DESCRIPTION:Grupo H - Rodada 4 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Nabi Abi Chedid
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20240522T213000Z_Coquimbo_Unido_Red_Bull_Bragantino
 DTSTART;TZID=America/Montevideo:20240522T213000
 DTEND;TZID=America/Montevideo:20240522T233000
 SUMMARY:Coquimbo Unido🇨🇱 vs. Red Bull Bragantino🇧🇷
-DESCRIPTION:Grupo H - Rodada 5 - Copa Sul-Americana
+DESCRIPTION:Grupo H - Rodada 5 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Francisco Sánchez Rumoroso
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20240605T190000Z_Sportivo_Luqueno_Red_Bull_Bragantino
 DTSTART;TZID=America/Montevideo:20240605T190000
 DTEND;TZID=America/Montevideo:20240605T210000
 SUMMARY:Sportivo Luqueño🇵🇾 vs. Red Bull Bragantino🇧🇷
-DESCRIPTION:Grupo H - Rodada 6 - Copa Sul-Americana
+DESCRIPTION:Grupo H - Rodada 6 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Defensores del Chaco
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20240717T213000Z_Barcelona_Red_Bull_Bragantino
 DTSTART;TZID=America/Montevideo:20240717T213000
 DTEND;TZID=America/Montevideo:20240717T233000
 SUMMARY:Barcelona🇪🇨 vs. Red Bull Bragantino🇧🇷
-DESCRIPTION:Play-offs - Ida - Copa Sul-Americana
+DESCRIPTION:Play-offs - Ida - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 LOCATION:Estádio Monumental Isidro Romero Carbo, Guayaquil
 CLASS:PUBLIC
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20240724T213000Z_Red_Bull_Bragantino_Barcelona
 DTSTART;TZID=America/Montevideo:20240724T213000
 DTEND;TZID=America/Montevideo:20240724T233000
 SUMMARY:Red Bull Bragantino🇧🇷 vs. Barcelona🇪🇨
-DESCRIPTION:Play-offs - Volta - Copa Sul-Americana
+DESCRIPTION:Play-offs - Volta - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 LOCATION:Estádio Nabi Abi Chedid, Bragança Paulista
 CLASS:PUBLIC
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20240813T213000Z_Red_Bull_Bragantino_Corinthians
 DTSTART;TZID=America/Montevideo:20240813T213000
 DTEND;TZID=America/Montevideo:20240813T233000
 SUMMARY:Red Bull Bragantino🇧🇷 vs. Corinthians🇧🇷
-DESCRIPTION:Oitavas de final - Ida - Copa Sul-Americana
+DESCRIPTION:Oitavas de final - Ida - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 LOCATION:Estádio Santa Cruz, Ribeirão Preto
 CLASS:PUBLIC
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20240820T213000Z_Corinthians_Red_Bull_Bragantino
 DTSTART;TZID=America/Montevideo:20240820T213000
 DTEND;TZID=America/Montevideo:20240820T233000
 SUMMARY:Corinthians🇧🇷 vs. Red Bull Bragantino🇧🇷
-DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana
+DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 LOCATION:Neo Química Arena, São Paulo
 CLASS:PUBLIC
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20260409T213000Z_Carabobo_RedBullBragantino
 DTSTART;TZID=America/Montevideo:20260409T213000
 DTEND;TZID=America/Montevideo:20260409T233000
 SUMMARY:Carabobo🇻🇪 vs. Red Bull Bragantino🇧🇷
-DESCRIPTION:Grupo H - Rodada 1 - Copa Sul-Americana
+DESCRIPTION:Grupo H - Rodada 1 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Misael Delgado
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20260416T213000Z_RedBullBragantino_Blooming
 DTSTART;TZID=America/Montevideo:20260416T213000
 DTEND;TZID=America/Montevideo:20260416T233000
 SUMMARY:Red Bull Bragantino🇧🇷 vs. Blooming🇧🇴
-DESCRIPTION:Grupo H - Rodada 2 - Copa Sul-Americana
+DESCRIPTION:Grupo H - Rodada 2 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Municipal Cicero de Souza Marques
 END:VEVENT
@@ -126,7 +126,7 @@ UID:20260430T213000Z_RedBullBragantino_River
 DTSTART;TZID=America/Montevideo:20260430T213000
 DTEND;TZID=America/Montevideo:20260430T233000
 SUMMARY:Red Bull Bragantino🇧🇷 vs. River🇦🇷
-DESCRIPTION:Grupo H - Rodada 3 - Copa Sul-Americana
+DESCRIPTION:Grupo H - Rodada 3 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Municipal Cicero de Souza Marques
 END:VEVENT
@@ -136,7 +136,7 @@ UID:20260507T213000Z_Blooming_RedBullBragantino
 DTSTART;TZID=America/Montevideo:20260507T213000
 DTEND;TZID=America/Montevideo:20260507T233000
 SUMMARY:Blooming🇧🇴 vs. Red Bull Bragantino🇧🇷
-DESCRIPTION:Grupo H - Rodada 4 - Copa Sul-Americana
+DESCRIPTION:Grupo H - Rodada 4 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Ramón Tahuichi
 END:VEVENT
@@ -146,7 +146,7 @@ UID:20260520T213000Z_River_RedBullBragantino
 DTSTART;TZID=America/Montevideo:20260520T213000
 DTEND;TZID=America/Montevideo:20260520T233000
 SUMMARY:River🇦🇷 vs. Red Bull Bragantino🇧🇷
-DESCRIPTION:Grupo H - Rodada 5 - Copa Sul-Americana
+DESCRIPTION:Grupo H - Rodada 5 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Más Monumental
 END:VEVENT
@@ -156,7 +156,7 @@ UID:20260527T213000Z_RedBullBragantino_Carabobo
 DTSTART;TZID=America/Montevideo:20260527T213000
 DTEND;TZID=America/Montevideo:20260527T233000
 SUMMARY:Red Bull Bragantino🇧🇷 vs. Carabobo🇻🇪
-DESCRIPTION:Grupo H - Rodada 6 - Copa Sul-Americana
+DESCRIPTION:Grupo H - Rodada 6 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Municipal Cicero de Souza Marques
 END:VEVENT
@@ -166,7 +166,7 @@ UID:20260722T213000Z_SportingCristal_RedBullBragantino
 DTSTART;TZID=America/Montevideo:20260722T213000
 DTEND;TZID=America/Montevideo:20260722T233000
 SUMMARY:Sporting Cristal🇵🇪 vs. Red Bull Bragantino🇧🇷
-DESCRIPTION:Play-offs - Ida - Copa Sul-Americana
+DESCRIPTION:Play-offs - Ida - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Nacional de Lima
 END:VEVENT
@@ -176,7 +176,7 @@ UID:20260729T213000Z_RedBullBragantino_SportingCristal
 DTSTART;TZID=America/Montevideo:20260729T213000
 DTEND;TZID=America/Montevideo:20260729T233000
 SUMMARY:Red Bull Bragantino🇧🇷 vs. Sporting Cristal🇵🇪
-DESCRIPTION:Play-offs - Volta - Copa Sul-Americana
+DESCRIPTION:Play-offs - Volta - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio a definir
 END:VEVENT

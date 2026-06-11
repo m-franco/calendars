@@ -6,7 +6,7 @@ UID:20240402T190000Z_Cobresal_Barcelona
 DTSTART;TZID=America/Montevideo:20240402T190000
 DTEND;TZID=America/Montevideo:20240402T210000
 SUMMARY:Cobresal🇨🇱 vs. Barcelona🇪🇨
-DESCRIPTION:Group B - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Zorros del Desierto Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20240409T210000Z_Barcelona_Talleres
 DTSTART;TZID=America/Montevideo:20240409T210000
 DTEND;TZID=America/Montevideo:20240409T230000
 SUMMARY:Barcelona🇪🇨 vs. Talleres🇦🇷
-DESCRIPTION:Group B - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Monumental Banco Pichincha Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240425T210000Z_Barcelona_SanPablo
 DTSTART;TZID=America/Montevideo:20240425T210000
 DTEND;TZID=America/Montevideo:20240425T230000
 SUMMARY:Barcelona🇪🇨 vs. San Pablo🇧🇷
-DESCRIPTION:Group B - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Monumental Banco Pichincha Stadium
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20240508T190000Z_Talleres_Barcelona
 DTSTART;TZID=America/Montevideo:20240508T190000
 DTEND;TZID=America/Montevideo:20240508T210000
 SUMMARY:Talleres🇦🇷 vs. Barcelona🇪🇨
-DESCRIPTION:Group B - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Mario Alberto Kempes Stadium
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20240516T210000Z_SanPablo_Barcelona
 DTSTART;TZID=America/Montevideo:20240516T210000
 DTEND;TZID=America/Montevideo:20240516T230000
 SUMMARY:San Pablo🇧🇷 vs. Barcelona🇪🇨
-DESCRIPTION:Group B - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Morumbí Stadium
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20240529T213000Z_Barcelona_Cobresal
 DTSTART;TZID=America/Montevideo:20240529T213000
 DTEND;TZID=America/Montevideo:20240529T233000
 SUMMARY:Barcelona🇪🇨 vs. Cobresal🇨🇱
-DESCRIPTION:Group B - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Monumental Banco Pichincha Stadium
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20240717T213000Z_Barcelona_Red_Bull_Bragantino
 DTSTART;TZID=America/Montevideo:20240717T213000
 DTEND;TZID=America/Montevideo:20240717T233000
 SUMMARY:Barcelona🇪🇨 vs. Red Bull Bragantino🇧🇷
-DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Monumental Isidro Romero Carbo Stadium, Guayaquil
 CLASS:PUBLIC
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20240724T213000Z_Red_Bull_Bragantino_Barcelona
 DTSTART;TZID=America/Montevideo:20240724T213000
 DTEND;TZID=America/Montevideo:20240724T233000
 SUMMARY:Red Bull Bragantino🇧🇷 vs. Barcelona🇪🇨
-DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Estádio Nabi Abi Chedid, Bragança Paulista
 CLASS:PUBLIC
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20250401T230000Z_Barcelona_IndependienteDelValle
 DTSTART;TZID=America/Montevideo:20250401T230000
 DTEND;TZID=America/Montevideo:20250402T010000
 SUMMARY:Barcelona🇪🇨 vs. Independiente del Valle🇪🇨
-DESCRIPTION:Group B - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Banco Pichincha Stadium
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20250408T213000Z_River_Barcelona
 DTSTART;TZID=America/Montevideo:20250408T213000
 DTEND;TZID=America/Montevideo:20250408T233000
 SUMMARY:River🇦🇷 vs. Barcelona🇪🇨
-DESCRIPTION:Group B - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Más Monumental
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20250422T230000Z_Barcelona_Universitario
 DTSTART;TZID=America/Montevideo:20250422T230000
 DTEND;TZID=America/Montevideo:20250423T010000
 SUMMARY:Barcelona🇪🇨 vs. Universitario🇵🇪
-DESCRIPTION:Group B - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Banco Pichincha Stadium
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20250508T213000Z_Barcelona_River
 DTSTART;TZID=America/Montevideo:20250508T213000
 DTEND;TZID=America/Montevideo:20250508T233000
 SUMMARY:Barcelona🇪🇨 vs. River🇦🇷
-DESCRIPTION:Group B - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Banco Pichincha Stadium
 END:VEVENT
@@ -126,7 +126,7 @@ UID:20250514T230000Z_Universitario_Barcelona
 DTSTART;TZID=America/Montevideo:20250514T230000
 DTEND;TZID=America/Montevideo:20250515T010000
 SUMMARY:Universitario🇵🇪 vs. Barcelona🇪🇨
-DESCRIPTION:Group B - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Monumental de Lima Stadium
 END:VEVENT
@@ -136,7 +136,7 @@ UID:20250527T213000Z_IndependienteDelValle_Barcelona
 DTSTART;TZID=America/Montevideo:20250527T213000
 DTEND;TZID=America/Montevideo:20250527T233000
 SUMMARY:Independiente del Valle🇪🇨 vs. Barcelona🇪🇨
-DESCRIPTION:Group B - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Banco Guayaquil Stadium
 END:VEVENT
@@ -146,7 +146,7 @@ UID:20260407T210000Z_Barcelona_Cruzeiro
 DTSTART;TZID=America/Montevideo:20260407T210000
 DTEND;TZID=America/Montevideo:20260407T230000
 SUMMARY:Barcelona🇪🇨 vs. Cruzeiro🇧🇷
-DESCRIPTION:Group D - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group D - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Banco Pichincha Stadium
 END:VEVENT
@@ -156,7 +156,7 @@ UID:20260414T210000Z_BocaJuniors_Barcelona
 DTSTART;TZID=America/Montevideo:20260414T210000
 DTEND;TZID=America/Montevideo:20260414T230000
 SUMMARY:Boca Juniors🇦🇷 vs. Barcelona🇪🇨
-DESCRIPTION:Group D - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group D - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Alberto José Armando (La Bombonera)
 END:VEVENT
@@ -166,7 +166,7 @@ UID:20260429T210000Z_Barcelona_UniversidadCatolica
 DTSTART;TZID=America/Montevideo:20260429T210000
 DTEND;TZID=America/Montevideo:20260429T230000
 SUMMARY:Barcelona🇪🇨 vs. Universidad Católica🇪🇨
-DESCRIPTION:Group D - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group D - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Banco Pichincha Stadium
 END:VEVENT
@@ -176,7 +176,7 @@ UID:20260505T210000Z_Barcelona_BocaJuniors
 DTSTART;TZID=America/Montevideo:20260505T210000
 DTEND;TZID=America/Montevideo:20260505T230000
 SUMMARY:Barcelona🇪🇨 vs. Boca Juniors🇦🇷
-DESCRIPTION:Group D - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group D - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Banco Pichincha Stadium
 END:VEVENT
@@ -186,7 +186,7 @@ UID:20260521T213000Z_UniversidadCatolica_Barcelona
 DTSTART;TZID=America/Montevideo:20260521T213000
 DTEND;TZID=America/Montevideo:20260521T233000
 SUMMARY:Universidad Católica🇪🇨 vs. Barcelona🇪🇨
-DESCRIPTION:Group D - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group D - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:San Carlos de Apoquindo Stadium
 END:VEVENT
@@ -196,7 +196,7 @@ UID:20260528T213000Z_Cruzeiro_Barcelona
 DTSTART;TZID=America/Montevideo:20260528T213000
 DTEND;TZID=America/Montevideo:20260528T233000
 SUMMARY:Cruzeiro🇧🇷 vs. Barcelona🇪🇨
-DESCRIPTION:Group D - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group D - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Mineirão Stadium
 END:VEVENT

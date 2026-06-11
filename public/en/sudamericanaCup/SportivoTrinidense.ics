@@ -6,7 +6,7 @@ UID:20240403T210000Z_Sportivo_Trinidense_Fortaleza
 DTSTART;TZID=America/Montevideo:20240403T210000
 DTEND;TZID=America/Montevideo:20240403T230000
 SUMMARY:Sportivo Trinidense🇵🇾 vs. Fortaleza🇧🇷
-DESCRIPTION:Group D - Matchday 1 - Sudamericana Cup
+DESCRIPTION:Group D - Matchday 1 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Defensores del Chaco Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20240409T210000Z_Boca_Juniors_Sportivo_Trinidense
 DTSTART;TZID=America/Montevideo:20240409T210000
 DTEND;TZID=America/Montevideo:20240409T230000
 SUMMARY:Boca Juniors🇦🇷 vs. Sportivo Trinidense🇵🇾
-DESCRIPTION:Group D - Matchday 2 - Sudamericana Cup
+DESCRIPTION:Group D - Matchday 2 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Alberto José Armando Stadium (La Bombonera)
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240423T210000Z_Sportivo_Trinidense_Nacional_Potosi
 DTSTART;TZID=America/Montevideo:20240423T210000
 DTEND;TZID=America/Montevideo:20240423T230000
 SUMMARY:Sportivo Trinidense🇵🇾 vs. Nacional Potosí🇧🇴
-DESCRIPTION:Group D - Matchday 3 - Sudamericana Cup
+DESCRIPTION:Group D - Matchday 3 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Defensores del Chaco Stadium
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20240507T213000Z_Sportivo_Trinidense_Fortaleza
 DTSTART;TZID=America/Montevideo:20240507T213000
 DTEND;TZID=America/Montevideo:20240507T233000
 SUMMARY:Sportivo Trinidense🇵🇾 vs. Fortaleza🇧🇷
-DESCRIPTION:Group D - Matchday 4 - Sudamericana Cup
+DESCRIPTION:Group D - Matchday 4 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Defensores del Chaco Stadium
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20240515T190000Z_Boca_Juniors_Sportivo_Trinidense
 DTSTART;TZID=America/Montevideo:20240515T190000
 DTEND;TZID=America/Montevideo:20240515T210000
 SUMMARY:Boca Juniors🇦🇷 vs. Sportivo Trinidense🇵🇾
-DESCRIPTION:Group D - Matchday 5 - Sudamericana Cup
+DESCRIPTION:Group D - Matchday 5 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Alberto José Armando Stadium (La Bombonera)
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20240529T190000Z_Sportivo_Trinidense_Nacional_Potosi
 DTSTART;TZID=America/Montevideo:20240529T190000
 DTEND;TZID=America/Montevideo:20240529T210000
 SUMMARY:Sportivo Trinidense🇵🇾 vs. Nacional Potosí🇧🇴
-DESCRIPTION:Group D - Matchday 6 - Sudamericana Cup
+DESCRIPTION:Group D - Matchday 6 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Defensores del Chaco Stadium
 END:VEVENT

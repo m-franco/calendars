@@ -6,7 +6,7 @@ UID:20240403T230000Z_Botafogo_Junior
 DTSTART;TZID=America/Montevideo:20240403T230000
 DTEND;TZID=America/Montevideo:20240404T010000
 SUMMARY:Botafogo🇧🇷 vs. Junior🇨🇴
-DESCRIPTION:Group D - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group D - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Olímpico Nilton Santos Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20240411T190000Z_LigaQuito_Botafogo
 DTSTART;TZID=America/Montevideo:20240411T190000
 DTEND;TZID=America/Montevideo:20240411T210000
 SUMMARY:Liga de Quito🇪🇨 vs. Botafogo🇧🇷
-DESCRIPTION:Group D - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group D - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Rodrigo Paz Delgado Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240424T190000Z_Botafogo_Universitario
 DTSTART;TZID=America/Montevideo:20240424T190000
 DTEND;TZID=America/Montevideo:20240424T210000
 SUMMARY:Botafogo🇧🇷 vs. Universitario🇵🇪
-DESCRIPTION:Group D - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group D - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Olímpico Nilton Santos Stadium
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20240508T213000Z_Botafogo_LigaQuito
 DTSTART;TZID=America/Montevideo:20240508T213000
 DTEND;TZID=America/Montevideo:20240508T233000
 SUMMARY:Botafogo🇧🇷 vs. Liga de Quito🇪🇨
-DESCRIPTION:Group D - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group D - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Olímpico Nilton Santos Stadium
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20240516T230000Z_Universitario_Botafogo
 DTSTART;TZID=America/Montevideo:20240516T230000
 DTEND;TZID=America/Montevideo:20240517T010000
 SUMMARY:Universitario🇵🇪 vs. Botafogo🇧🇷
-DESCRIPTION:Group D - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group D - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Monumental U Marathon
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20240528T190000Z_Junior_Botafogo
 DTSTART;TZID=America/Montevideo:20240528T190000
 DTEND;TZID=America/Montevideo:20240528T210000
 SUMMARY:Junior🇨🇴 vs. Botafogo🇧🇷
-DESCRIPTION:Group D - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group D - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Metropolitano Roberto Meléndez Stadium
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20240814T213000Z_Botafogo_Palmeiras
 DTSTART;TZID=America/Montevideo:20240814T213000
 DTEND;TZID=America/Montevideo:20240814T233000
 SUMMARY:Botafogo🇧🇷 vs. Palmeiras🇧🇷
-DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Olímpico Nilton Santos Stadium
 CLASS:PUBLIC
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20240821T213000Z_Palmeiras_Botafogo
 DTSTART;TZID=America/Montevideo:20240821T213000
 DTEND;TZID=America/Montevideo:20240821T233000
 SUMMARY:Palmeiras🇧🇷 vs. Botafogo🇧🇷
-DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Allianz Parque Stadium
 CLASS:PUBLIC
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20240918T213000Z_Botafogo_SaoPaulo
 DTSTART;TZID=America/Montevideo:20240918T213000
 DTEND;TZID=America/Montevideo:20240918T233000
 SUMMARY:Botafogo🇧🇷 vs. San Pablo🇧🇷
-DESCRIPTION:Quarter-finals - First leg - Libertadores Cup
+DESCRIPTION:Quarter-finals - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Nilton Santos Stadium, Río de Janeiro
 CLASS:PUBLIC
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20240925T213000Z_SaoPaulo_Botafogo
 DTSTART;TZID=America/Montevideo:20240925T213000
 DTEND;TZID=America/Montevideo:20240925T233000
 SUMMARY:San Pablo🇧🇷 vs. Botafogo🇧🇷
-DESCRIPTION:Quarter-finals - Second leg - Libertadores Cup
+DESCRIPTION:Quarter-finals - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Morumbí Stadium, San Pablo
 CLASS:PUBLIC
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20241023T213000Z_Botafogo_Penarol
 DTSTART;TZID=America/Montevideo:20241023T213000
 DTEND;TZID=America/Montevideo:20241023T233000
 SUMMARY:Botafogo🇧🇷 vs. Peñarol🇺🇾
-DESCRIPTION:Semi-finals - First leg - Libertadores Cup
+DESCRIPTION:Semi-finals - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Estádio Olímpico Nilton Santos, Rio de Janeiro
 CLASS:PUBLIC
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20241030T213000Z_Penarol_Botafogo
 DTSTART;TZID=America/Montevideo:20241030T213000
 DTEND;TZID=America/Montevideo:20241030T233000
 SUMMARY:Peñarol🇺🇾 vs. Botafogo🇧🇷
-DESCRIPTION:Semi-finals - Second leg - Libertadores Cup
+DESCRIPTION:Semi-finals - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Centenario Stadium, Montevideo
 CLASS:PUBLIC
 END:VEVENT
@@ -126,7 +126,7 @@ UID:20241130T170000Z_AtleticoMineiro_Botafogo
 DTSTART;TZID=America/Montevideo:20241130T170000
 DTEND;TZID=America/Montevideo:20241130T190000
 SUMMARY:Atlético Mineiro🇧🇷 vs. Botafogo🇧🇷
-DESCRIPTION:Final - Libertadores Cup
+DESCRIPTION:Final - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Monumental Stadium, Buenos Aires
 CLASS:PUBLIC
 END:VEVENT
@@ -136,7 +136,7 @@ UID:20250402T213000Z_UniversidadDeChile_Botafogo
 DTSTART;TZID=America/Montevideo:20250402T213000
 DTEND;TZID=America/Montevideo:20250402T233000
 SUMMARY:Universidad de Chile🇨🇱 vs. Botafogo🇧🇷
-DESCRIPTION:Group A - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nacional Julio Martínez Prádanos Stadium
 END:VEVENT
@@ -146,7 +146,7 @@ UID:20250408T190000Z_Botafogo_Carabobo
 DTSTART;TZID=America/Montevideo:20250408T190000
 DTEND;TZID=America/Montevideo:20250408T210000
 SUMMARY:Botafogo🇧🇷 vs. Carabobo🇻🇪
-DESCRIPTION:Group A - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Estádio Olímpico Nilton Santos
 END:VEVENT
@@ -156,7 +156,7 @@ UID:20250423T213000Z_Estudiantes_Botafogo
 DTSTART;TZID=America/Montevideo:20250423T213000
 DTEND;TZID=America/Montevideo:20250423T233000
 SUMMARY:Estudiantes🇦🇷 vs. Botafogo🇧🇷
-DESCRIPTION:Group A - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Jorge Luis Hirschi
 END:VEVENT
@@ -166,7 +166,7 @@ UID:20250506T190000Z_Carabobo_Botafogo
 DTSTART;TZID=America/Montevideo:20250506T190000
 DTEND;TZID=America/Montevideo:20250506T210000
 SUMMARY:Carabobo🇻🇪 vs. Botafogo🇧🇷
-DESCRIPTION:Group A - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Misael Delgado Stadium
 END:VEVENT
@@ -176,7 +176,7 @@ UID:20250514T213000Z_Botafogo_Estudiantes
 DTSTART;TZID=America/Montevideo:20250514T213000
 DTEND;TZID=America/Montevideo:20250514T233000
 SUMMARY:Botafogo🇧🇷 vs. Estudiantes🇦🇷
-DESCRIPTION:Group A - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Estádio Olímpico Nilton Santos
 END:VEVENT
@@ -186,7 +186,7 @@ UID:20250527T213000Z_Botafogo_UniversidadDeChile
 DTSTART;TZID=America/Montevideo:20250527T213000
 DTEND;TZID=America/Montevideo:20250527T233000
 SUMMARY:Botafogo🇧🇷 vs. Universidad de Chile🇨🇱
-DESCRIPTION:Group A - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Estádio Olímpico Nilton Santos
 END:VEVENT
@@ -196,7 +196,7 @@ UID:20250814T190000Z_Botafogo_LigaDeQuito
 DTSTART;TZID=America/Montevideo:20250814T190000
 DTEND;TZID=America/Montevideo:20250814T210000
 SUMMARY:Botafogo🇧🇷 vs. Liga de Quito🇪🇨
-DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Estádio Olímpico Nilton Santos
 END:VEVENT
@@ -206,7 +206,7 @@ UID:20250821T190000Z_LigaDeQuito_Botafogo
 DTSTART;TZID=America/Montevideo:20250821T190000
 DTEND;TZID=America/Montevideo:20250821T210000
 SUMMARY:Liga de Quito🇪🇨 vs. Botafogo🇧🇷
-DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Rodrigo Paz Delgado
 END:VEVENT
@@ -216,7 +216,7 @@ UID:20260409T190000Z_Botafogo_Caracas
 DTSTART;TZID=America/Montevideo:20260409T190000
 DTEND;TZID=America/Montevideo:20260409T210000
 SUMMARY:Botafogo🇧🇷 vs. Caracas🇻🇪
-DESCRIPTION:Group E - Matchday 1 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 1 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Joao Havelange Stadium
 END:VEVENT
@@ -226,7 +226,7 @@ UID:20260415T190000Z_Racing_Botafogo
 DTSTART;TZID=America/Montevideo:20260415T190000
 DTEND;TZID=America/Montevideo:20260415T210000
 SUMMARY:Racing🇦🇷 vs. Botafogo🇧🇷
-DESCRIPTION:Group E - Matchday 2 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 2 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Presidente Perón (Cilindro de Avellaneda)
 END:VEVENT
@@ -236,7 +236,7 @@ UID:20260428T190000Z_Botafogo_IndependientePetrolero
 DTSTART;TZID=America/Montevideo:20260428T190000
 DTEND;TZID=America/Montevideo:20260428T210000
 SUMMARY:Botafogo🇧🇷 vs. Independiente Petrolero🇧🇴
-DESCRIPTION:Group E - Matchday 3 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 3 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Joao Havelange Stadium
 END:VEVENT
@@ -246,7 +246,7 @@ UID:20260506T213000Z_Botafogo_Racing
 DTSTART;TZID=America/Montevideo:20260506T213000
 DTEND;TZID=America/Montevideo:20260506T233000
 SUMMARY:Botafogo🇧🇷 vs. Racing🇦🇷
-DESCRIPTION:Group E - Matchday 4 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 4 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Joao Havelange Stadium
 END:VEVENT
@@ -256,7 +256,7 @@ UID:20260520T210000Z_IndependientePetrolero_Botafogo
 DTSTART;TZID=America/Montevideo:20260520T210000
 DTEND;TZID=America/Montevideo:20260520T230000
 SUMMARY:Independiente Petrolero🇧🇴 vs. Botafogo🇧🇷
-DESCRIPTION:Group E - Matchday 5 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 5 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Tigo La Huerta Stadium
 END:VEVENT
@@ -266,7 +266,7 @@ UID:20260527T190000Z_Caracas_Botafogo
 DTSTART;TZID=America/Montevideo:20260527T190000
 DTEND;TZID=America/Montevideo:20260527T210000
 SUMMARY:Caracas🇻🇪 vs. Botafogo🇧🇷
-DESCRIPTION:Group E - Matchday 6 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 6 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Olímpico de la UCV Stadium
 END:VEVENT

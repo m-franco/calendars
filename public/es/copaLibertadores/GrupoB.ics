@@ -6,7 +6,7 @@ UID:20240402T190000Z_Cobresal_Barcelona
 DTSTART;TZID=America/Montevideo:20240402T190000
 DTEND;TZID=America/Montevideo:20240402T210000
 SUMMARY:Cobresal🇨🇱 vs. Barcelona🇪🇨
-DESCRIPTION:Grupo B - Fecha 1 - Copa Libertadores
+DESCRIPTION:Grupo B - Fecha 1 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Zorros del Desierto
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20240404T210000Z_Talleres_SanPablo
 DTSTART;TZID=America/Montevideo:20240404T210000
 DTEND;TZID=America/Montevideo:20240404T230000
 SUMMARY:Talleres🇦🇷 vs. San Pablo🇧🇷
-DESCRIPTION:Grupo B - Fecha 1 - Copa Libertadores
+DESCRIPTION:Grupo B - Fecha 1 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Mario Alberto Kempes
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240409T210000Z_Barcelona_Talleres
 DTSTART;TZID=America/Montevideo:20240409T210000
 DTEND;TZID=America/Montevideo:20240409T230000
 SUMMARY:Barcelona🇪🇨 vs. Talleres🇦🇷
-DESCRIPTION:Grupo B - Fecha 2 - Copa Libertadores
+DESCRIPTION:Grupo B - Fecha 2 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Monumental Banco Pichincha
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20240410T213000Z_SanPablo_Cobresal
 DTSTART;TZID=America/Montevideo:20240410T213000
 DTEND;TZID=America/Montevideo:20240410T233000
 SUMMARY:San Pablo🇧🇷 vs. Cobresal🇨🇱
-DESCRIPTION:Grupo B - Fecha 2 - Copa Libertadores
+DESCRIPTION:Grupo B - Fecha 2 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Morumbí
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20240425T190000Z_Cobresal_Talleres
 DTSTART;TZID=America/Montevideo:20240425T190000
 DTEND;TZID=America/Montevideo:20240425T210000
 SUMMARY:Cobresal🇨🇱 vs. Talleres🇦🇷
-DESCRIPTION:Grupo B - Fecha 3 - Copa Libertadores
+DESCRIPTION:Grupo B - Fecha 3 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Zorros del Desierto
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20240425T210000Z_Barcelona_SanPablo
 DTSTART;TZID=America/Montevideo:20240425T210000
 DTEND;TZID=America/Montevideo:20240425T230000
 SUMMARY:Barcelona🇪🇨 vs. San Pablo🇧🇷
-DESCRIPTION:Grupo B - Fecha 3 - Copa Libertadores
+DESCRIPTION:Grupo B - Fecha 3 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Monumental Banco Pichincha
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20240508T190000Z_Talleres_Barcelona
 DTSTART;TZID=America/Montevideo:20240508T190000
 DTEND;TZID=America/Montevideo:20240508T210000
 SUMMARY:Talleres🇦🇷 vs. Barcelona🇪🇨
-DESCRIPTION:Grupo B - Fecha 4 - Copa Libertadores
+DESCRIPTION:Grupo B - Fecha 4 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Mario Alberto Kempes
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20240508T213000Z_Cobresal_SanPablo
 DTSTART;TZID=America/Montevideo:20240508T213000
 DTEND;TZID=America/Montevideo:20240508T233000
 SUMMARY:Cobresal🇨🇱 vs. San Pablo🇧🇷
-DESCRIPTION:Grupo B - Fecha 4 - Copa Libertadores
+DESCRIPTION:Grupo B - Fecha 4 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Zorros del Desierto
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20240514T190000Z_Talleres_Cobresal
 DTSTART;TZID=America/Montevideo:20240514T190000
 DTEND;TZID=America/Montevideo:20240514T210000
 SUMMARY:Talleres🇦🇷 vs. Cobresal🇨🇱
-DESCRIPTION:Grupo B - Fecha 5 - Copa Libertadores
+DESCRIPTION:Grupo B - Fecha 5 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Mario Alberto Kempes
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20240516T210000Z_SanPablo_Barcelona
 DTSTART;TZID=America/Montevideo:20240516T210000
 DTEND;TZID=America/Montevideo:20240516T230000
 SUMMARY:San Pablo🇧🇷 vs. Barcelona🇪🇨
-DESCRIPTION:Grupo B - Fecha 5 - Copa Libertadores
+DESCRIPTION:Grupo B - Fecha 5 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Morumbí
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20240529T213000Z_Barcelona_Cobresal
 DTSTART;TZID=America/Montevideo:20240529T213000
 DTEND;TZID=America/Montevideo:20240529T233000
 SUMMARY:Barcelona🇪🇨 vs. Cobresal🇨🇱
-DESCRIPTION:Grupo B - Fecha 6 - Copa Libertadores
+DESCRIPTION:Grupo B - Fecha 6 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Monumental Banco Pichincha
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20240529T213000Z_SanPablo_Talleres
 DTSTART;TZID=America/Montevideo:20240529T213000
 DTEND;TZID=America/Montevideo:20240529T233000
 SUMMARY:San Pablo🇧🇷 vs. Talleres🇦🇷
-DESCRIPTION:Grupo B - Fecha 6 - Copa Libertadores
+DESCRIPTION:Grupo B - Fecha 6 - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Morumbí
 END:VEVENT
@@ -126,7 +126,7 @@ UID:20240717T213000Z_Barcelona_Red_Bull_Bragantino
 DTSTART;TZID=America/Montevideo:20240717T213000
 DTEND;TZID=America/Montevideo:20240717T233000
 SUMMARY:Barcelona🇪🇨 vs. Red Bull Bragantino🇧🇷
-DESCRIPTION:Play-offs - Ida - Copa Sudamericana
+DESCRIPTION:Play-offs - Ida - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 LOCATION:Estadio Monumental Isidro Romero Carbo, Guayaquil
 CLASS:PUBLIC
 END:VEVENT
@@ -136,7 +136,7 @@ UID:20240724T213000Z_Red_Bull_Bragantino_Barcelona
 DTSTART;TZID=America/Montevideo:20240724T213000
 DTEND;TZID=America/Montevideo:20240724T233000
 SUMMARY:Red Bull Bragantino🇧🇷 vs. Barcelona🇪🇨
-DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana
+DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 LOCATION:Estádio Nabi Abi Chedid, Bragança Paulista
 CLASS:PUBLIC
 END:VEVENT
@@ -146,7 +146,7 @@ UID:20240814T213000Z_Talleres_River
 DTSTART;TZID=America/Montevideo:20240814T213000
 DTEND;TZID=America/Montevideo:20240814T233000
 SUMMARY:Talleres🇦🇷 vs. River🇦🇷
-DESCRIPTION:Octavos de final - Ida - Copa Libertadores
+DESCRIPTION:Octavos de final - Ida - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 LOCATION:Estadio Mario Alberto Kempes
 CLASS:PUBLIC
 END:VEVENT
@@ -156,7 +156,7 @@ UID:20240815T190000Z_Nacional_SanPablo
 DTSTART;TZID=America/Montevideo:20240815T190000
 DTEND;TZID=America/Montevideo:20240815T210000
 SUMMARY:Nacional🇺🇾 vs. San Pablo🇧🇷
-DESCRIPTION:Octavos de final - Ida - Copa Libertadores
+DESCRIPTION:Octavos de final - Ida - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 LOCATION:Estadio Gran Parque Central
 CLASS:PUBLIC
 END:VEVENT
@@ -166,7 +166,7 @@ UID:20240821T213000Z_River_Talleres
 DTSTART;TZID=America/Montevideo:20240821T213000
 DTEND;TZID=America/Montevideo:20240821T233000
 SUMMARY:River🇦🇷 vs. Talleres🇦🇷
-DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
+DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 LOCATION:Estadio Monumental
 CLASS:PUBLIC
 END:VEVENT
@@ -176,7 +176,7 @@ UID:20240822T190000Z_SanPablo_Nacional
 DTSTART;TZID=America/Montevideo:20240822T190000
 DTEND;TZID=America/Montevideo:20240822T210000
 SUMMARY:San Pablo🇧🇷 vs. Nacional🇺🇾
-DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
+DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 LOCATION:Estadio Morumbí
 CLASS:PUBLIC
 END:VEVENT
@@ -186,7 +186,7 @@ UID:20240918T213000Z_Botafogo_SaoPaulo
 DTSTART;TZID=America/Montevideo:20240918T213000
 DTEND;TZID=America/Montevideo:20240918T233000
 SUMMARY:Botafogo🇧🇷 vs. San Pablo🇧🇷
-DESCRIPTION:Cuartos de final - Ida - Copa Libertadores
+DESCRIPTION:Cuartos de final - Ida - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 LOCATION:Estadio Nilton Santos, Río de Janeiro
 CLASS:PUBLIC
 END:VEVENT
@@ -196,7 +196,7 @@ UID:20240925T213000Z_SaoPaulo_Botafogo
 DTSTART;TZID=America/Montevideo:20240925T213000
 DTEND;TZID=America/Montevideo:20240925T233000
 SUMMARY:San Pablo🇧🇷 vs. Botafogo🇧🇷
-DESCRIPTION:Cuartos de final - Vuelta - Copa Libertadores
+DESCRIPTION:Cuartos de final - Vuelta - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 LOCATION:Estadio Morumbí, San Pablo
 CLASS:PUBLIC
 END:VEVENT

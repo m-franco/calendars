@@ -1,8 +1,23 @@
 ---
-import Home from "../components/pages/Home.astro";
-import { alternatesFor, urlFor } from "../i18n/ui";
+// La raíz redirige al idioma por defecto (/es/). Cada idioma vive bajo su
+// segmento: /es, /en, /pt.
+import { urlFor } from "../i18n/ui";
 
-const alternates = alternatesFor((l) => urlFor(l));
+const target = urlFor("es");
 ---
 
-<Home lang="es" alternates={alternates} />
+<!doctype html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="refresh" content={`0; url=${target}`} />
+        <link rel="canonical" href={target} />
+        <title>Calendarios Deportivos</title>
+        <script is:inline define:vars={{ target }}>
+            window.location.replace(target);
+        </script>
+    </head>
+    <body>
+        <a href={target}>Calendarios Deportivos</a>
+    </body>
+</html>

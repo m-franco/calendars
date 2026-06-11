@@ -6,7 +6,7 @@ UID:20260613T190000Z_Brazil_Morocco
 DTSTART;TZID=America/Montevideo:20260613T190000
 DTEND;TZID=America/Montevideo:20260613T210000
 SUMMARY:Brazil vs. Morocco
-DESCRIPTION:Group C - Matchday 1 - World Cup
+DESCRIPTION:Group C - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260619T213000Z_Brazil_Haiti
 DTSTART;TZID=America/Montevideo:20260619T213000
 DTEND;TZID=America/Montevideo:20260619T233000
 SUMMARY:Brazil vs. Haiti
-DESCRIPTION:Group C - Matchday 2 - World Cup
+DESCRIPTION:Group C - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Lincoln Financial Field
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260624T190000Z_Scotland_Brazil
 DTSTART;TZID=America/Montevideo:20260624T190000
 DTEND;TZID=America/Montevideo:20260624T210000
 SUMMARY:Scotland vs. Brazil
-DESCRIPTION:Group C - Matchday 3 - World Cup
+DESCRIPTION:Group C - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium
 END:VEVENT

@@ -6,7 +6,7 @@ UID:20260612T220000Z_UnitedStates_Paraguay
 DTSTART;TZID=America/Montevideo:20260612T220000
 DTEND;TZID=America/Montevideo:20260613T000000
 SUMMARY:United States vs. Paraguay
-DESCRIPTION:Group D - Matchday 1 - World Cup
+DESCRIPTION:Group D - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260619T160000Z_UnitedStates_Australia
 DTSTART;TZID=America/Montevideo:20260619T160000
 DTEND;TZID=America/Montevideo:20260619T180000
 SUMMARY:United States vs. Australia
-DESCRIPTION:Group D - Matchday 2 - World Cup
+DESCRIPTION:Group D - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Lumen Field
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260625T230000Z_Turkey_UnitedStates
 DTSTART;TZID=America/Montevideo:20260625T230000
 DTEND;TZID=America/Montevideo:20260626T010000
 SUMMARY:Turkey vs. United States
-DESCRIPTION:Group D - Matchday 3 - World Cup
+DESCRIPTION:Group D - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
 END:VEVENT

@@ -6,7 +6,7 @@ UID:20240402T190000Z_Nacional_Par_Argentinos_Juniors
 DTSTART;TZID=America/Montevideo:20240402T190000
 DTEND;TZID=America/Montevideo:20240402T210000
 SUMMARY:Nacional(Par)🇵🇾 vs. Argentinos Juniors🇦🇷
-DESCRIPTION:Grupo F - Rodada 1 - Copa Sul-Americana
+DESCRIPTION:Grupo F - Rodada 1 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Defensores del Chaco
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20240409T190000Z_Argentinos_Juniors_Racing_Uru
 DTSTART;TZID=America/Montevideo:20240409T190000
 DTEND;TZID=America/Montevideo:20240409T210000
 SUMMARY:Argentinos Juniors🇦🇷 vs.Racing(Uru)🇺🇾
-DESCRIPTION:Grupo F - Rodada 2 - Copa Sul-Americana
+DESCRIPTION:Grupo F - Rodada 2 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Diego Armando Maradona
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240423T213000Z_Argentinos_Juniors_Corinthians
 DTSTART;TZID=America/Montevideo:20240423T213000
 DTEND;TZID=America/Montevideo:20240423T233000
 SUMMARY:Argentinos Juniors🇦🇷 vs. Corinthians🇧🇷
-DESCRIPTION:Grupo F - Rodada 3 - Copa Sul-Americana
+DESCRIPTION:Grupo F - Rodada 3 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Diego Armando Maradona
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20240507T190000Z_Corinthians_Argentinos_Juniors
 DTSTART;TZID=America/Montevideo:20240507T190000
 DTEND;TZID=America/Montevideo:20240507T210000
 SUMMARY:Corinthians🇧🇷 vs. Argentinos Juniors🇦🇷
-DESCRIPTION:Grupo F - Rodada 4 - Copa Sul-Americana
+DESCRIPTION:Grupo F - Rodada 4 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Neo Química Arena
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20240514T213000Z_Corinthians_Argentinos_Juniors
 DTSTART;TZID=America/Montevideo:20240514T213000
 DTEND;TZID=America/Montevideo:20240514T233000
 SUMMARY:Corinthians🇧🇷 vs. Argentinos Juniors🇦🇷
-DESCRIPTION:Grupo F - Rodada 5 - Copa Sul-Americana
+DESCRIPTION:Grupo F - Rodada 5 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Neo Química Arena
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20240528T190000Z_Argentinos_Juniors_Nacional_Par
 DTSTART;TZID=America/Montevideo:20240528T190000
 DTEND;TZID=America/Montevideo:20240528T210000
 SUMMARY:Argentinos Juniors🇦🇷 vs. Nacional(Par)🇵🇾
-DESCRIPTION:Grupo F - Rodada 6 - Copa Sul-Americana
+DESCRIPTION:Grupo F - Rodada 6 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Diego Armando Maradona
 END:VEVENT

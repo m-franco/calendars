@@ -6,7 +6,7 @@ UID:20260611T160000Z_Mexico_SouthAfrica
 DTSTART;TZID=America/Montevideo:20260611T160000
 DTEND;TZID=America/Montevideo:20260611T180000
 SUMMARY:Mexico vs. South Africa
-DESCRIPTION:Group A - Matchday 1 - World Cup
+DESCRIPTION:Group A - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Banorte Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260612T160000Z_Canada_BosniaAndHerzegovina
 DTSTART;TZID=America/Montevideo:20260612T160000
 DTEND;TZID=America/Montevideo:20260612T180000
 SUMMARY:Canada vs. Bosnia and Herzegovina
-DESCRIPTION:Group B - Matchday 1 - World Cup
+DESCRIPTION:Group B - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:BMO Field
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260612T220000Z_UnitedStates_Paraguay
 DTSTART;TZID=America/Montevideo:20260612T220000
 DTEND;TZID=America/Montevideo:20260613T000000
 SUMMARY:United States vs. Paraguay
-DESCRIPTION:Group D - Matchday 1 - World Cup
+DESCRIPTION:Group D - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20260613T220000Z_Haiti_Scotland
 DTSTART;TZID=America/Montevideo:20260613T220000
 DTEND;TZID=America/Montevideo:20260614T000000
 SUMMARY:Haiti vs. Scotland
-DESCRIPTION:Group C - Matchday 1 - World Cup
+DESCRIPTION:Group C - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Gillette Stadium
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20260614T140000Z_Germany_Curacao
 DTSTART;TZID=America/Montevideo:20260614T140000
 DTEND;TZID=America/Montevideo:20260614T160000
 SUMMARY:Germany vs. Curaçao
-DESCRIPTION:Group E - Matchday 1 - World Cup
+DESCRIPTION:Group E - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:NRG Stadium
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20260617T200000Z_Ghana_Panama
 DTSTART;TZID=America/Montevideo:20260617T200000
 DTEND;TZID=America/Montevideo:20260617T220000
 SUMMARY:Ghana vs. Panama
-DESCRIPTION:Group L - Matchday 1 - World Cup
+DESCRIPTION:Group L - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:BMO Field
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20260618T190000Z_Canada_Qatar
 DTSTART;TZID=America/Montevideo:20260618T190000
 DTEND;TZID=America/Montevideo:20260618T210000
 SUMMARY:Canada vs. Qatar
-DESCRIPTION:Group B - Matchday 2 - World Cup
+DESCRIPTION:Group B - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:BC Place
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20260618T220000Z_Mexico_SouthKorea
 DTSTART;TZID=America/Montevideo:20260618T220000
 DTEND;TZID=America/Montevideo:20260619T000000
 SUMMARY:Mexico vs. South Korea
-DESCRIPTION:Group A - Matchday 2 - World Cup
+DESCRIPTION:Group A - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Akron Stadium
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20260619T160000Z_UnitedStates_Australia
 DTSTART;TZID=America/Montevideo:20260619T160000
 DTEND;TZID=America/Montevideo:20260619T180000
 SUMMARY:United States vs. Australia
-DESCRIPTION:Group D - Matchday 2 - World Cup
+DESCRIPTION:Group D - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Lumen Field
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20260619T213000Z_Brazil_Haiti
 DTSTART;TZID=America/Montevideo:20260619T213000
 DTEND;TZID=America/Montevideo:20260619T233000
 SUMMARY:Brazil vs. Haiti
-DESCRIPTION:Group C - Matchday 2 - World Cup
+DESCRIPTION:Group C - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Lincoln Financial Field
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20260620T210000Z_Ecuador_Curacao
 DTSTART;TZID=America/Montevideo:20260620T210000
 DTEND;TZID=America/Montevideo:20260620T230000
 SUMMARY:Ecuador vs. Curaçao
-DESCRIPTION:Group E - Matchday 2 - World Cup
+DESCRIPTION:Group E - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:GEHA Field at Arrowhead Stadium
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20260623T200000Z_Panama_Croatia
 DTSTART;TZID=America/Montevideo:20260623T200000
 DTEND;TZID=America/Montevideo:20260623T220000
 SUMMARY:Panama vs. Croatia
-DESCRIPTION:Group L - Matchday 2 - World Cup
+DESCRIPTION:Group L - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:BMO Field
 END:VEVENT
@@ -126,7 +126,7 @@ UID:20260624T160000Z_Switzerland_Canada
 DTSTART;TZID=America/Montevideo:20260624T160000
 DTEND;TZID=America/Montevideo:20260624T180000
 SUMMARY:Switzerland vs. Canada
-DESCRIPTION:Group B - Matchday 3 - World Cup
+DESCRIPTION:Group B - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:BC Place
 END:VEVENT
@@ -136,7 +136,7 @@ UID:20260624T190000Z_Morocco_Haiti
 DTSTART;TZID=America/Montevideo:20260624T190000
 DTEND;TZID=America/Montevideo:20260624T210000
 SUMMARY:Morocco vs. Haiti
-DESCRIPTION:Group C - Matchday 3 - World Cup
+DESCRIPTION:Group C - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
 END:VEVENT
@@ -146,7 +146,7 @@ UID:20260624T220000Z_CzechRepublic_Mexico
 DTSTART;TZID=America/Montevideo:20260624T220000
 DTEND;TZID=America/Montevideo:20260625T000000
 SUMMARY:Czech Republic vs. Mexico
-DESCRIPTION:Group A - Matchday 3 - World Cup
+DESCRIPTION:Group A - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Banorte Stadium
 END:VEVENT
@@ -156,7 +156,7 @@ UID:20260625T170000Z_Curacao_IvoryCoast
 DTSTART;TZID=America/Montevideo:20260625T170000
 DTEND;TZID=America/Montevideo:20260625T190000
 SUMMARY:Curaçao vs. Ivory Coast
-DESCRIPTION:Group E - Matchday 3 - World Cup
+DESCRIPTION:Group E - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Lincoln Financial Field
 END:VEVENT
@@ -166,7 +166,7 @@ UID:20260625T230000Z_Turkey_UnitedStates
 DTSTART;TZID=America/Montevideo:20260625T230000
 DTEND;TZID=America/Montevideo:20260626T010000
 SUMMARY:Turkey vs. United States
-DESCRIPTION:Group D - Matchday 3 - World Cup
+DESCRIPTION:Group D - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
 END:VEVENT
@@ -176,7 +176,7 @@ UID:20260627T180000Z_Panama_England
 DTSTART;TZID=America/Montevideo:20260627T180000
 DTEND;TZID=America/Montevideo:20260627T200000
 SUMMARY:Panama vs. England
-DESCRIPTION:Group L - Matchday 3 - World Cup
+DESCRIPTION:Group L - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
 END:VEVENT

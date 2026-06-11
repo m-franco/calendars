@@ -6,7 +6,7 @@ UID:20260615T130000Z_Espana_CaboVerde
 DTSTART;TZID=America/Montevideo:20260615T130000
 DTEND;TZID=America/Montevideo:20260615T150000
 SUMMARY:España vs. Cabo Verde
-DESCRIPTION:Grupo H - Fecha 1 - Copa del Mundo
+DESCRIPTION:Grupo H - Fecha 1 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260615T190000Z_ArabiaSaudita_Uruguay
 DTSTART;TZID=America/Montevideo:20260615T190000
 DTEND;TZID=America/Montevideo:20260615T210000
 SUMMARY:Arabia Saudita vs. Uruguay
-DESCRIPTION:Grupo H - Fecha 1 - Copa del Mundo
+DESCRIPTION:Grupo H - Fecha 1 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260621T130000Z_Espana_ArabiaSaudita
 DTSTART;TZID=America/Montevideo:20260621T130000
 DTEND;TZID=America/Montevideo:20260621T150000
 SUMMARY:España vs. Arabia Saudita
-DESCRIPTION:Grupo H - Fecha 2 - Copa del Mundo
+DESCRIPTION:Grupo H - Fecha 2 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20260621T190000Z_Uruguay_CaboVerde
 DTSTART;TZID=America/Montevideo:20260621T190000
 DTEND;TZID=America/Montevideo:20260621T210000
 SUMMARY:Uruguay vs. Cabo Verde
-DESCRIPTION:Grupo H - Fecha 2 - Copa del Mundo
+DESCRIPTION:Grupo H - Fecha 2 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20260626T210000Z_CaboVerde_ArabiaSaudita
 DTSTART;TZID=America/Montevideo:20260626T210000
 DTEND;TZID=America/Montevideo:20260626T230000
 SUMMARY:Cabo Verde vs. Arabia Saudita
-DESCRIPTION:Grupo H - Fecha 3 - Copa del Mundo
+DESCRIPTION:Grupo H - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:NRG Stadium
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20260626T210000Z_Uruguay_Espana
 DTSTART;TZID=America/Montevideo:20260626T210000
 DTEND;TZID=America/Montevideo:20260626T230000
 SUMMARY:Uruguay vs. España
-DESCRIPTION:Grupo H - Fecha 3 - Copa del Mundo
+DESCRIPTION:Grupo H - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Akron
 END:VEVENT

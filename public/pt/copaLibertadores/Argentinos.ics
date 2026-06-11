@@ -6,7 +6,7 @@ UID:20240402T210000Z_Huachipato_Estudiantes
 DTSTART;TZID=America/Montevideo:20240402T210000
 DTEND;TZID=America/Montevideo:20240402T230000
 SUMMARY:Huachipato🇨🇱 vs. Estudiantes🇦🇷
-DESCRIPTION:Grupo C - Rodada 1 - Copa Libertadores
+DESCRIPTION:Grupo C - Rodada 1 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Huachipato
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20240402T213000Z_DeportivoTachira_River
 DTSTART;TZID=America/Montevideo:20240402T213000
 DTEND;TZID=America/Montevideo:20240402T233000
 SUMMARY:Deportivo Táchira🇻🇪 vs. River🇦🇷
-DESCRIPTION:Grupo H - Rodada 1 - Copa Libertadores
+DESCRIPTION:Grupo H - Rodada 1 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Polideportivo de Pueblo Nuevo
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240403T213000Z_SanLorenzo_Palmeiras
 DTSTART;TZID=America/Montevideo:20240403T213000
 DTEND;TZID=America/Montevideo:20240403T233000
 SUMMARY:San Lorenzo🇦🇷 vs. Palmeiras🇧🇷
-DESCRIPTION:Grupo F - Rodada 1 - Copa Libertadores
+DESCRIPTION:Grupo F - Rodada 1 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Nuevo Gasómetro
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20240404T190000Z_RosarioCentral_Peñarol
 DTSTART;TZID=America/Montevideo:20240404T190000
 DTEND;TZID=America/Montevideo:20240404T210000
 SUMMARY:Rosario Central🇦🇷 vs. Peñarol🇺🇾
-DESCRIPTION:Grupo G - Rodada 1 - Copa Libertadores
+DESCRIPTION:Grupo G - Rodada 1 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Gigante de Arroyito
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20240404T210000Z_Talleres_SanPablo
 DTSTART;TZID=America/Montevideo:20240404T210000
 DTEND;TZID=America/Montevideo:20240404T230000
 SUMMARY:Talleres🇦🇷 vs. San Pablo🇧🇷
-DESCRIPTION:Grupo B - Rodada 1 - Copa Libertadores
+DESCRIPTION:Grupo B - Rodada 1 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Mario Alberto Kempes
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20240409T190000Z_Estudiantes_TheStrongest
 DTSTART;TZID=America/Montevideo:20240409T190000
 DTEND;TZID=America/Montevideo:20240409T210000
 SUMMARY:Estudiantes🇦🇷 vs. The Strongest🇧🇴
-DESCRIPTION:Grupo C - Rodada 2 - Copa Libertadores
+DESCRIPTION:Grupo C - Rodada 2 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio UNO Jorge Luis Hirschi
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20240409T210000Z_Barcelona_Talleres
 DTSTART;TZID=America/Montevideo:20240409T210000
 DTEND;TZID=America/Montevideo:20240409T230000
 SUMMARY:Barcelona🇪🇨 vs. Talleres🇦🇷
-DESCRIPTION:Grupo B - Rodada 2 - Copa Libertadores
+DESCRIPTION:Grupo B - Rodada 2 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Monumental Banco Pichincha
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20240410T190000Z_AtléticoMineiro_RosarioCentral
 DTSTART;TZID=America/Montevideo:20240410T190000
 DTEND;TZID=America/Montevideo:20240410T210000
 SUMMARY:Atlético Mineiro🇧🇷 vs. Rosario Central🇦🇷
-DESCRIPTION:Grupo G - Rodada 2 - Copa Libertadores
+DESCRIPTION:Grupo G - Rodada 2 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Arena MRV
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20240410T190000Z_IndependienteDelValle_SanLorenzo
 DTSTART;TZID=America/Montevideo:20240410T190000
 DTEND;TZID=America/Montevideo:20240410T210000
 SUMMARY:Independiente del Valle🇪🇨 vs. San Lorenzo🇦🇷
-DESCRIPTION:Grupo F - Rodada 2 - Copa Libertadores
+DESCRIPTION:Grupo F - Rodada 2 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Guayaquil
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20240411T210000Z_River_Nacional
 DTSTART;TZID=America/Montevideo:20240411T210000
 DTEND;TZID=America/Montevideo:20240411T230000
 SUMMARY:River🇦🇷 vs. Nacional🇺🇾
-DESCRIPTION:Grupo H - Rodada 2 - Copa Libertadores
+DESCRIPTION:Grupo H - Rodada 2 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Monumental
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20240423T190000Z_Caracas_RosarioCentral
 DTSTART;TZID=America/Montevideo:20240423T190000
 DTEND;TZID=America/Montevideo:20240423T210000
 SUMMARY:Caracas🇻🇪 vs. Rosario Central🇦🇷
-DESCRIPTION:Grupo G - Rodada 3 - Copa Libertadores
+DESCRIPTION:Grupo G - Rodada 3 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Olímpico U.C.V.
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20240423T190000Z_Estudiantes_Gremio
 DTSTART;TZID=America/Montevideo:20240423T190000
 DTEND;TZID=America/Montevideo:20240423T210000
 SUMMARY:Estudiantes🇦🇷 vs. Gremio🇧🇷
-DESCRIPTION:Grupo C - Rodada 3 - Copa Libertadores
+DESCRIPTION:Grupo C - Rodada 3 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio UNO Jorge Luis Hirschi
 END:VEVENT
@@ -126,7 +126,7 @@ UID:20240423T210000Z_Liverpool_SanLorenzo
 DTSTART;TZID=America/Montevideo:20240423T210000
 DTEND;TZID=America/Montevideo:20240423T230000
 SUMMARY:Liverpool🇺🇾 vs. San Lorenzo🇦🇷
-DESCRIPTION:Grupo F - Rodada 3 - Copa Libertadores
+DESCRIPTION:Grupo F - Rodada 3 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Centenario
 END:VEVENT
@@ -136,7 +136,7 @@ UID:20240424T210000Z_Libertad_River
 DTSTART;TZID=America/Montevideo:20240424T210000
 DTEND;TZID=America/Montevideo:20240424T230000
 SUMMARY:Libertad🇵🇾 vs. River🇦🇷
-DESCRIPTION:Grupo H - Rodada 3 - Copa Libertadores
+DESCRIPTION:Grupo H - Rodada 3 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Defensores del Chaco
 END:VEVENT
@@ -146,7 +146,7 @@ UID:20240425T190000Z_Cobresal_Talleres
 DTSTART;TZID=America/Montevideo:20240425T190000
 DTEND;TZID=America/Montevideo:20240425T210000
 SUMMARY:Cobresal🇨🇱 vs. Talleres🇦🇷
-DESCRIPTION:Grupo B - Rodada 3 - Copa Libertadores
+DESCRIPTION:Grupo B - Rodada 3 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Zorros del Desierto
 END:VEVENT
@@ -156,7 +156,7 @@ UID:20240507T190000Z_RosarioCentral_AtleticoMineiro
 DTSTART;TZID=America/Montevideo:20240507T190000
 DTEND;TZID=America/Montevideo:20240507T210000
 SUMMARY:Rosario Central🇦🇷 vs. Atlético Mineiro🇧🇷
-DESCRIPTION:Grupo G - Rodada 4 - Copa Libertadores
+DESCRIPTION:Grupo G - Rodada 4 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Gigante de Arroyito
 END:VEVENT
@@ -166,7 +166,7 @@ UID:20240507T210000Z_Nacional_River
 DTSTART;TZID=America/Montevideo:20240507T210000
 DTEND;TZID=America/Montevideo:20240507T230000
 SUMMARY:Nacional🇺🇾 vs. River🇦🇷
-DESCRIPTION:Grupo H - Rodada 4 - Copa Libertadores
+DESCRIPTION:Grupo H - Rodada 4 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Gran Parque Central
 END:VEVENT
@@ -176,7 +176,7 @@ UID:20240508T190000Z_Talleres_Barcelona
 DTSTART;TZID=America/Montevideo:20240508T190000
 DTEND;TZID=America/Montevideo:20240508T210000
 SUMMARY:Talleres🇦🇷 vs. Barcelona🇪🇨
-DESCRIPTION:Grupo B - Rodada 4 - Copa Libertadores
+DESCRIPTION:Grupo B - Rodada 4 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Mario Alberto Kempes
 END:VEVENT
@@ -186,7 +186,7 @@ UID:20240509T190000Z_SanLorenzo_IndependienteDelValle
 DTSTART;TZID=America/Montevideo:20240509T190000
 DTEND;TZID=America/Montevideo:20240509T210000
 SUMMARY:San Lorenzo🇦🇷 vs. Independiente del Valle🇪🇨
-DESCRIPTION:Grupo F - Rodada 4 - Copa Libertadores
+DESCRIPTION:Grupo F - Rodada 4 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Nuevo Gasómetro
 END:VEVENT
@@ -196,7 +196,7 @@ UID:20240509T210000Z_TheStrongest_Estudiantes
 DTSTART;TZID=America/Montevideo:20240509T210000
 DTEND;TZID=America/Montevideo:20240509T230000
 SUMMARY:The Strongest🇧🇴 vs. Estudiantes🇦🇷
-DESCRIPTION:Grupo C - Rodada 4 - Copa Libertadores
+DESCRIPTION:Grupo C - Rodada 4 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Hernando Siles
 END:VEVENT
@@ -206,7 +206,7 @@ UID:20240514T190000Z_Talleres_Cobresal
 DTSTART;TZID=America/Montevideo:20240514T190000
 DTEND;TZID=America/Montevideo:20240514T210000
 SUMMARY:Talleres🇦🇷 vs. Cobresal🇨🇱
-DESCRIPTION:Grupo B - Rodada 5 - Copa Libertadores
+DESCRIPTION:Grupo B - Rodada 5 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Mario Alberto Kempes
 END:VEVENT
@@ -216,7 +216,7 @@ UID:20240514T210000Z_River_Libertad
 DTSTART;TZID=America/Montevideo:20240514T210000
 DTEND;TZID=America/Montevideo:20240514T230000
 SUMMARY:River🇦🇷 vs. Libertad🇵🇾
-DESCRIPTION:Grupo H - Rodada 5 - Copa Libertadores
+DESCRIPTION:Grupo H - Rodada 5 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Monumental
 END:VEVENT
@@ -226,7 +226,7 @@ UID:20240516T190000Z_RosarioCentral_Caracas
 DTSTART;TZID=America/Montevideo:20240516T190000
 DTEND;TZID=America/Montevideo:20240516T210000
 SUMMARY:Rosario Central🇦🇷 vs. Caracas🇻🇪
-DESCRIPTION:Grupo G - Rodada 5 - Copa Libertadores
+DESCRIPTION:Grupo G - Rodada 5 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Gigante de Arroyito
 END:VEVENT
@@ -236,7 +236,7 @@ UID:20240516T210000Z_SanLorenzo_Liverpool
 DTSTART;TZID=America/Montevideo:20240516T210000
 DTEND;TZID=America/Montevideo:20240516T230000
 SUMMARY:San Lorenzo🇦🇷 vs. Liverpool🇺🇾
-DESCRIPTION:Grupo F - Rodada 5 - Copa Libertadores
+DESCRIPTION:Grupo F - Rodada 5 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Nuevo Gasómtro
 END:VEVENT
@@ -246,7 +246,7 @@ UID:20240528T190000Z_Peñarol_RosarioCentral
 DTSTART;TZID=America/Montevideo:20240528T190000
 DTEND;TZID=America/Montevideo:20240528T210000
 SUMMARY:Peñarol🇺🇾 vs. Rosario Central🇦🇷
-DESCRIPTION:Grupo G - Rodada 6 - Copa Libertadores
+DESCRIPTION:Grupo G - Rodada 6 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Campeón del Siglo
 END:VEVENT
@@ -256,7 +256,7 @@ UID:20240529T190000Z_Estudiantes_Huachipato
 DTSTART;TZID=America/Montevideo:20240529T190000
 DTEND;TZID=America/Montevideo:20240529T210000
 SUMMARY:Estudiantes🇦🇷 vs. Huachipato🇨🇱
-DESCRIPTION:Grupo C - Rodada 6 - Copa Libertadores
+DESCRIPTION:Grupo C - Rodada 6 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio UNO Jorge Luis Hirschi
 END:VEVENT
@@ -266,7 +266,7 @@ UID:20240529T213000Z_SanPablo_Talleres
 DTSTART;TZID=America/Montevideo:20240529T213000
 DTEND;TZID=America/Montevideo:20240529T233000
 SUMMARY:San Pablo🇧🇷 vs. Talleres🇦🇷
-DESCRIPTION:Grupo B - Rodada 6 - Copa Libertadores
+DESCRIPTION:Grupo B - Rodada 6 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Morumbí
 END:VEVENT
@@ -276,7 +276,7 @@ UID:20240530T190000Z_Palmeiras_SanLorenzo
 DTSTART;TZID=America/Montevideo:20240530T190000
 DTEND;TZID=America/Montevideo:20240530T210000
 SUMMARY:Palmeiras🇧🇷 vs. San Lorenzo🇦🇷
-DESCRIPTION:Grupo F - Rodada 6 - Copa Libertadores
+DESCRIPTION:Grupo F - Rodada 6 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Allianz Parque
 END:VEVENT
@@ -286,7 +286,7 @@ UID:20240530T210000Z_River_DeportivoTachira
 DTSTART;TZID=America/Montevideo:20240530T210000
 DTEND;TZID=America/Montevideo:20240530T230000
 SUMMARY:River🇦🇷 vs. Deportivo Táchira🇻🇪
-DESCRIPTION:Grupo H - Rodada 6 - Copa Libertadores
+DESCRIPTION:Grupo H - Rodada 6 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Monumental
 END:VEVENT
@@ -296,7 +296,7 @@ UID:20240608T190000Z_Gremio_Estudiantes
 DTSTART;TZID=America/Montevideo:20240608T190000
 DTEND;TZID=America/Montevideo:20240608T210000
 SUMMARY:Gremio🇧🇷 vs. Estudiantes🇦🇷
-DESCRIPTION:Grupo C - Rodada 5 - Copa Libertadores
+DESCRIPTION:Grupo C - Rodada 5 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Couto Pereira
 END:VEVENT
@@ -306,7 +306,7 @@ UID:20240813T213000Z_SanLorenzo_AtleticoMineiro
 DTSTART;TZID=America/Montevideo:20240813T213000
 DTEND;TZID=America/Montevideo:20240813T233000
 SUMMARY:San Lorenzo🇦🇷 vs. Atlético Mineiro🇧🇷
-DESCRIPTION:Oitavas de final - Ida - Copa Libertadores
+DESCRIPTION:Oitavas de final - Ida - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 LOCATION:Estádio Nuevo Gasómetro
 CLASS:PUBLIC
 END:VEVENT
@@ -316,7 +316,7 @@ UID:20240814T213000Z_Talleres_River
 DTSTART;TZID=America/Montevideo:20240814T213000
 DTEND;TZID=America/Montevideo:20240814T233000
 SUMMARY:Talleres🇦🇷 vs. River🇦🇷
-DESCRIPTION:Oitavas de final - Ida - Copa Libertadores
+DESCRIPTION:Oitavas de final - Ida - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 LOCATION:Estádio Mario Alberto Kempes
 CLASS:PUBLIC
 END:VEVENT
@@ -326,7 +326,7 @@ UID:20240820T213000Z_AtleticoMineiro_SanLorenzo
 DTSTART;TZID=America/Montevideo:20240820T213000
 DTEND;TZID=America/Montevideo:20240820T233000
 SUMMARY:Atlético Mineiro🇧🇷 vs. San Lorenzo🇦🇷
-DESCRIPTION:Oitavas de final - Volta - Copa Libertadores
+DESCRIPTION:Oitavas de final - Volta - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 LOCATION:Estádio Arena MRV
 CLASS:PUBLIC
 END:VEVENT
@@ -336,7 +336,7 @@ UID:20240821T213000Z_River_Talleres
 DTSTART;TZID=America/Montevideo:20240821T213000
 DTEND;TZID=America/Montevideo:20240821T233000
 SUMMARY:River🇦🇷 vs. Talleres🇦🇷
-DESCRIPTION:Oitavas de final - Volta - Copa Libertadores
+DESCRIPTION:Oitavas de final - Volta - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 LOCATION:Estádio Monumental
 CLASS:PUBLIC
 END:VEVENT
@@ -346,7 +346,7 @@ UID:20240917T213000Z_ColoColo_RiverPlate
 DTSTART;TZID=America/Montevideo:20240917T213000
 DTEND;TZID=America/Montevideo:20240917T233000
 SUMMARY:Colo Colo🇨🇱 vs. River Plate🇦🇷
-DESCRIPTION:Quartas de final - Ida - Copa Libertadores
+DESCRIPTION:Quartas de final - Ida - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 LOCATION:Estádio Monumental, Santiago
 CLASS:PUBLIC
 END:VEVENT
@@ -356,7 +356,7 @@ UID:20240924T213000Z_RiverPlate_ColoColo
 DTSTART;TZID=America/Montevideo:20240924T213000
 DTEND;TZID=America/Montevideo:20240924T233000
 SUMMARY:River Plate🇦🇷 vs. Colo Colo🇨🇱
-DESCRIPTION:Quartas de final - Volta - Copa Libertadores
+DESCRIPTION:Quartas de final - Volta - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 LOCATION:Estádio Monumental, Buenos Aires
 CLASS:PUBLIC
 END:VEVENT
@@ -366,7 +366,7 @@ UID:20241022T213000Z_AtleticoMineiro_River
 DTSTART;TZID=America/Montevideo:20241022T213000
 DTEND;TZID=America/Montevideo:20241022T233000
 SUMMARY:Atlético Mineiro🇧🇷 vs. River🇦🇷
-DESCRIPTION:Semifinal - Ida - Copa Libertadores
+DESCRIPTION:Semifinal - Ida - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 LOCATION:Arena MRV, Belo Horizonte
 CLASS:PUBLIC
 END:VEVENT
@@ -376,7 +376,7 @@ UID:20241029T213000Z_River_AtleticoMineiro
 DTSTART;TZID=America/Montevideo:20241029T213000
 DTEND;TZID=America/Montevideo:20241029T233000
 SUMMARY:River🇦🇷 vs. Atlético Mineiro🇧🇷
-DESCRIPTION:Semifinal - Volta - Copa Libertadores
+DESCRIPTION:Semifinal - Volta - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 LOCATION:Estádio Monumental, Buenos Aires
 CLASS:PUBLIC
 END:VEVENT
@@ -386,7 +386,7 @@ UID:20250401T190000Z_Carabobo_Estudiantes
 DTSTART;TZID=America/Montevideo:20250401T190000
 DTEND;TZID=America/Montevideo:20250401T210000
 SUMMARY:Carabobo🇻🇪 vs. Estudiantes🇦🇷
-DESCRIPTION:Grupo A - Rodada 1 - Copa Libertadores
+DESCRIPTION:Grupo A - Rodada 1 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Misael Delgado
 END:VEVENT
@@ -396,7 +396,7 @@ UID:20250401T190000Z_NacionalPotosi_Independiente
 DTSTART;TZID=America/Montevideo:20250401T190000
 DTEND;TZID=America/Montevideo:20250401T210000
 SUMMARY:Nacional Potosí🇧🇴 vs. Independiente🇦🇷
-DESCRIPTION:Grupo A - Rodada 1 - Copa Sul-Americana
+DESCRIPTION:Grupo A - Rodada 1 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Víctor Agustín Ugarte
 END:VEVENT
@@ -406,7 +406,7 @@ UID:20250401T190000Z_Union_Cruzeiro
 DTSTART;TZID=America/Montevideo:20250401T190000
 DTEND;TZID=America/Montevideo:20250401T210000
 SUMMARY:Unión🇦🇷 vs. Cruzeiro🇧🇷
-DESCRIPTION:Grupo E - Rodada 1 - Copa Sul-Americana
+DESCRIPTION:Grupo E - Rodada 1 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:15 de Abril
 END:VEVENT
@@ -416,7 +416,7 @@ UID:20250401T213000Z_Fortaleza_Racing
 DTSTART;TZID=America/Montevideo:20250401T213000
 DTEND;TZID=America/Montevideo:20250401T233000
 SUMMARY:Fortaleza🇧🇷 vs. Racing🇦🇷
-DESCRIPTION:Grupo E - Rodada 1 - Copa Libertadores
+DESCRIPTION:Grupo E - Rodada 1 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Castelão
 END:VEVENT
@@ -426,7 +426,7 @@ UID:20250402T190000Z_VelezSarsfield_Penarol
 DTSTART;TZID=America/Montevideo:20250402T190000
 DTEND;TZID=America/Montevideo:20250402T210000
 SUMMARY:Vélez Sarsfield🇦🇷 vs. Peñarol🇺🇾
-DESCRIPTION:Grupo H - Rodada 1 - Copa Libertadores
+DESCRIPTION:Grupo H - Rodada 1 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:José Amalfitani
 END:VEVENT
@@ -436,7 +436,7 @@ UID:20250402T190000Z_Corinthians_Huracan
 DTSTART;TZID=America/Montevideo:20250402T190000
 DTEND;TZID=America/Montevideo:20250402T210000
 SUMMARY:Corinthians🇧🇷 vs. Huracán🇦🇷
-DESCRIPTION:Grupo C - Rodada 1 - Copa Sul-Americana
+DESCRIPTION:Grupo C - Rodada 1 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Neo Química Arena
 END:VEVENT
@@ -446,7 +446,7 @@ UID:20250402T213000Z_Talleres_SanPablo
 DTSTART;TZID=America/Montevideo:20250402T213000
 DTEND;TZID=America/Montevideo:20250402T233000
 SUMMARY:Talleres🇦🇷 vs. San Pablo🇧🇷
-DESCRIPTION:Grupo D - Rodada 1 - Copa Libertadores
+DESCRIPTION:Grupo D - Rodada 1 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Mario Alberto Kempes
 END:VEVENT
@@ -456,7 +456,7 @@ UID:20250402T213000Z_Universitario_River
 DTSTART;TZID=America/Montevideo:20250402T213000
 DTEND;TZID=America/Montevideo:20250402T233000
 SUMMARY:Universitario🇵🇪 vs. River🇦🇷
-DESCRIPTION:Grupo B - Rodada 1 - Copa Libertadores
+DESCRIPTION:Grupo B - Rodada 1 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Monumental de Lima
 END:VEVENT
@@ -466,7 +466,7 @@ UID:20250402T230000Z_AtleticoGrau_GodoyCruz
 DTSTART;TZID=America/Montevideo:20250402T230000
 DTEND;TZID=America/Montevideo:20250403T010000
 SUMMARY:Atlético Grau🇵🇪 vs. Godoy Cruz🇦🇷
-DESCRIPTION:Grupo D - Rodada 1 - Copa Sul-Americana
+DESCRIPTION:Grupo D - Rodada 1 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Alejandro Villanueva
 END:VEVENT
@@ -476,7 +476,7 @@ UID:20250403T190000Z_CentralCordoba_LigaDeQuito
 DTSTART;TZID=America/Montevideo:20250403T190000
 DTEND;TZID=America/Montevideo:20250403T210000
 SUMMARY:Central Córdoba🇦🇷 vs. Liga de Quito🇪🇨
-DESCRIPTION:Grupo C - Rodada 1 - Copa Libertadores
+DESCRIPTION:Grupo C - Rodada 1 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Único Madre de Ciudades
 END:VEVENT
@@ -486,7 +486,7 @@ UID:20250403T190000Z_AcademiaPuertoCabello_Lanus
 DTSTART;TZID=America/Montevideo:20250403T190000
 DTEND;TZID=America/Montevideo:20250403T210000
 SUMMARY:Academia Puerto Cabello🇻🇪 vs. Lanús🇦🇷
-DESCRIPTION:Grupo G - Rodada 1 - Copa Sul-Americana
+DESCRIPTION:Grupo G - Rodada 1 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Misael Delgado
 END:VEVENT
@@ -496,7 +496,7 @@ UID:20250403T213000Z_CerroLargo_DefensaYJusticia
 DTSTART;TZID=America/Montevideo:20250403T213000
 DTEND;TZID=America/Montevideo:20250403T233000
 SUMMARY:Cerro Largo🇺🇾 vs. Defensa Y Justicia🇦🇷
-DESCRIPTION:Grupo B - Rodada 1 - Copa Sul-Americana
+DESCRIPTION:Grupo B - Rodada 1 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Centenario
 END:VEVENT
@@ -506,7 +506,7 @@ UID:20250408T190000Z_Libertad_Talleres
 DTSTART;TZID=America/Montevideo:20250408T190000
 DTEND;TZID=America/Montevideo:20250408T210000
 SUMMARY:Libertad🇵🇾 vs. Talleres🇦🇷
-DESCRIPTION:Grupo D - Rodada 2 - Copa Libertadores
+DESCRIPTION:Grupo D - Rodada 2 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Tigo La Huerta
 END:VEVENT
@@ -516,7 +516,7 @@ UID:20250408T190000Z_Independiente_BostonRiver
 DTSTART;TZID=America/Montevideo:20250408T190000
 DTEND;TZID=America/Montevideo:20250408T210000
 SUMMARY:Independiente🇦🇷 vs. Boston River🇺🇾
-DESCRIPTION:Grupo A - Rodada 2 - Copa Sul-Americana
+DESCRIPTION:Grupo A - Rodada 2 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Libertadores de América
 END:VEVENT
@@ -526,7 +526,7 @@ UID:20250408T213000Z_Estudiantes_UniversidadDeChile
 DTSTART;TZID=America/Montevideo:20250408T213000
 DTEND;TZID=America/Montevideo:20250408T233000
 SUMMARY:Estudiantes🇦🇷 vs. Universidad de Chile🇨🇱
-DESCRIPTION:Grupo A - Rodada 2 - Copa Libertadores
+DESCRIPTION:Grupo A - Rodada 2 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Jorge Luis Hirschi
 END:VEVENT
@@ -536,7 +536,7 @@ UID:20250408T213000Z_River_Barcelona
 DTSTART;TZID=America/Montevideo:20250408T213000
 DTEND;TZID=America/Montevideo:20250408T233000
 SUMMARY:River🇦🇷 vs. Barcelona🇪🇨
-DESCRIPTION:Grupo B - Rodada 2 - Copa Libertadores
+DESCRIPTION:Grupo B - Rodada 2 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Más Monumental
 END:VEVENT
@@ -546,7 +546,7 @@ UID:20250408T213000Z_GodoyCruz_SportivoLuqueno
 DTSTART;TZID=America/Montevideo:20250408T213000
 DTEND;TZID=America/Montevideo:20250408T233000
 SUMMARY:Godoy Cruz🇦🇷 vs. Sportivo Luqueño🇵🇾
-DESCRIPTION:Grupo D - Rodada 2 - Copa Sul-Americana
+DESCRIPTION:Grupo D - Rodada 2 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Malvinas Argentinas (Mendoza)
 END:VEVENT
@@ -556,7 +556,7 @@ UID:20250409T190000Z_Olimpia_VelezSarsfield
 DTSTART;TZID=America/Montevideo:20250409T190000
 DTEND;TZID=America/Montevideo:20250409T210000
 SUMMARY:Olimpia🇵🇾 vs. Vélez Sarsfield🇦🇷
-DESCRIPTION:Grupo H - Rodada 2 - Copa Libertadores
+DESCRIPTION:Grupo H - Rodada 2 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio ueno Defensores del Chaco
 END:VEVENT
@@ -566,7 +566,7 @@ UID:20250409T190000Z_Huracan_RacingUruguay
 DTSTART;TZID=America/Montevideo:20250409T190000
 DTEND;TZID=America/Montevideo:20250409T210000
 SUMMARY:Huracán🇦🇷 vs. Racing (Uru)🇺🇾
-DESCRIPTION:Grupo C - Rodada 2 - Copa Sul-Americana
+DESCRIPTION:Grupo C - Rodada 2 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Tomás Adolfo Ducó
 END:VEVENT
@@ -576,7 +576,7 @@ UID:20250409T190000Z_Palestino_Union
 DTSTART;TZID=America/Montevideo:20250409T190000
 DTEND;TZID=America/Montevideo:20250409T210000
 SUMMARY:Palestino🇨🇱 vs. Unión🇦🇷
-DESCRIPTION:Grupo E - Rodada 2 - Copa Sul-Americana
+DESCRIPTION:Grupo E - Rodada 2 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Nacional Julio Martínez Prádanos
 END:VEVENT
@@ -586,7 +586,7 @@ UID:20250409T213000Z_Flamengo_CentralCordoba
 DTSTART;TZID=America/Montevideo:20250409T213000
 DTEND;TZID=America/Montevideo:20250409T233000
 SUMMARY:Flamengo🇧🇷 vs. Central Córdoba🇦🇷
-DESCRIPTION:Grupo C - Rodada 2 - Copa Libertadores
+DESCRIPTION:Grupo C - Rodada 2 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio do Maracana
 END:VEVENT
@@ -596,7 +596,7 @@ UID:20250409T213000Z_Lanus_Melgar
 DTSTART;TZID=America/Montevideo:20250409T213000
 DTEND;TZID=America/Montevideo:20250409T233000
 SUMMARY:Lanús🇦🇷 vs. Melgar🇵🇪
-DESCRIPTION:Grupo G - Rodada 2 - Copa Sul-Americana
+DESCRIPTION:Grupo G - Rodada 2 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Ciudad de Lanús
 END:VEVENT
@@ -606,7 +606,7 @@ UID:20250410T190000Z_Racing_AtleticoBucaramanga
 DTSTART;TZID=America/Montevideo:20250410T190000
 DTEND;TZID=America/Montevideo:20250410T210000
 SUMMARY:Racing🇦🇷 vs. Atlético Bucaramanga🇨🇴
-DESCRIPTION:Grupo E - Rodada 2 - Copa Libertadores
+DESCRIPTION:Grupo E - Rodada 2 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Presidente Perón (Cilindro de Avellaneda)
 END:VEVENT
@@ -616,7 +616,7 @@ UID:20250410T190000Z_DefensaYJusticia_Vitoria
 DTSTART;TZID=America/Montevideo:20250410T190000
 DTEND;TZID=America/Montevideo:20250410T210000
 SUMMARY:Defensa Y Justicia🇦🇷 vs. Vitória🇧🇷
-DESCRIPTION:Grupo B - Rodada 2 - Copa Sul-Americana
+DESCRIPTION:Grupo B - Rodada 2 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Norberto Tomaghello
 END:VEVENT
@@ -626,7 +626,7 @@ UID:20250422T190000Z_AlianzaLima_Talleres
 DTSTART;TZID=America/Montevideo:20250422T190000
 DTEND;TZID=America/Montevideo:20250422T210000
 SUMMARY:Alianza Lima🇵🇪 vs. Talleres🇦🇷
-DESCRIPTION:Grupo D - Rodada 3 - Copa Libertadores
+DESCRIPTION:Grupo D - Rodada 3 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Alejandro Villanueva
 END:VEVENT
@@ -636,7 +636,7 @@ UID:20250422T190000Z_Guarani_Independiente
 DTSTART;TZID=America/Montevideo:20250422T190000
 DTEND;TZID=America/Montevideo:20250422T210000
 SUMMARY:Guaraní🇵🇾 vs. Independiente🇦🇷
-DESCRIPTION:Grupo A - Rodada 3 - Copa Sul-Americana
+DESCRIPTION:Grupo A - Rodada 3 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio ueno Defensores del Chaco
 END:VEVENT
@@ -646,7 +646,7 @@ UID:20250422T213000Z_ColoColo_Racing
 DTSTART;TZID=America/Montevideo:20250422T213000
 DTEND;TZID=America/Montevideo:20250422T233000
 SUMMARY:Colo-Colo🇨🇱 vs. Racing🇦🇷
-DESCRIPTION:Grupo E - Rodada 3 - Copa Libertadores
+DESCRIPTION:Grupo E - Rodada 3 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Monumental David Arellano
 END:VEVENT
@@ -656,7 +656,7 @@ UID:20250422T213000Z_VascoDaGama_Lanus
 DTSTART;TZID=America/Montevideo:20250422T213000
 DTEND;TZID=America/Montevideo:20250422T233000
 SUMMARY:Vasco da Gama🇧🇷 vs. Lanús🇦🇷
-DESCRIPTION:Grupo G - Rodada 3 - Copa Sul-Americana
+DESCRIPTION:Grupo G - Rodada 3 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio São Januário
 END:VEVENT
@@ -666,7 +666,7 @@ UID:20250423T190000Z_SanAntonioBuloBulo_VelezSarsfield
 DTSTART;TZID=America/Montevideo:20250423T190000
 DTEND;TZID=America/Montevideo:20250423T210000
 SUMMARY:San Antonio Bulo Bulo🇧🇴 vs. Vélez Sarsfield🇦🇷
-DESCRIPTION:Grupo H - Rodada 3 - Copa Libertadores
+DESCRIPTION:Grupo H - Rodada 3 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Félix Capriles
 END:VEVENT
@@ -676,7 +676,7 @@ UID:20250423T190000Z_Huracan_AmericaDeCali
 DTSTART;TZID=America/Montevideo:20250423T190000
 DTEND;TZID=America/Montevideo:20250423T210000
 SUMMARY:Huracán🇦🇷 vs. América de Cali🇨🇴
-DESCRIPTION:Grupo C - Rodada 3 - Copa Sul-Americana
+DESCRIPTION:Grupo C - Rodada 3 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Tomás Adolfo Ducó
 END:VEVENT
@@ -686,7 +686,7 @@ UID:20250423T213000Z_Estudiantes_Botafogo
 DTSTART;TZID=America/Montevideo:20250423T213000
 DTEND;TZID=America/Montevideo:20250423T233000
 SUMMARY:Estudiantes🇦🇷 vs. Botafogo🇧🇷
-DESCRIPTION:Grupo A - Rodada 3 - Copa Libertadores
+DESCRIPTION:Grupo A - Rodada 3 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Jorge Luis Hirschi
 END:VEVENT
@@ -696,7 +696,7 @@ UID:20250423T213000Z_IndependienteDelValle_River
 DTSTART;TZID=America/Montevideo:20250423T213000
 DTEND;TZID=America/Montevideo:20250423T233000
 SUMMARY:Independiente del Valle🇪🇨 vs. River🇦🇷
-DESCRIPTION:Grupo B - Rodada 3 - Copa Libertadores
+DESCRIPTION:Grupo B - Rodada 3 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Banco Guayaquil
 END:VEVENT
@@ -706,7 +706,7 @@ UID:20250423T230000Z_MushucRuna_Union
 DTSTART;TZID=America/Montevideo:20250423T230000
 DTEND;TZID=America/Montevideo:20250424T010000
 SUMMARY:Mushuc Runa🇪🇨 vs. Unión🇦🇷
-DESCRIPTION:Grupo E - Rodada 3 - Copa Sul-Americana
+DESCRIPTION:Grupo E - Rodada 3 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Banco Guayaquil
 END:VEVENT
@@ -716,7 +716,7 @@ UID:20250424T190000Z_CentralCordoba_DeportivoTachira
 DTSTART;TZID=America/Montevideo:20250424T190000
 DTEND;TZID=America/Montevideo:20250424T210000
 SUMMARY:Central Córdoba🇦🇷 vs. Deportivo Táchira🇻🇪
-DESCRIPTION:Grupo C - Rodada 3 - Copa Libertadores
+DESCRIPTION:Grupo C - Rodada 3 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Único Madre de Ciudades
 END:VEVENT
@@ -726,7 +726,7 @@ UID:20250424T190000Z_GodoyCruz_Gremio
 DTSTART;TZID=America/Montevideo:20250424T190000
 DTEND;TZID=America/Montevideo:20250424T210000
 SUMMARY:Godoy Cruz🇦🇷 vs. Gremio🇧🇷
-DESCRIPTION:Grupo D - Rodada 3 - Copa Sul-Americana
+DESCRIPTION:Grupo D - Rodada 3 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Malvinas Argentinas (Mendoza)
 END:VEVENT
@@ -736,7 +736,7 @@ UID:20250424T230000Z_UniversidadCatolica_DefensaYJusticia
 DTSTART;TZID=America/Montevideo:20250424T230000
 DTEND;TZID=America/Montevideo:20250425T010000
 SUMMARY:Universidad Católica🇪🇨 vs. Defensa Y Justicia🇦🇷
-DESCRIPTION:Grupo B - Rodada 3 - Copa Sul-Americana
+DESCRIPTION:Grupo B - Rodada 3 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Olímpico Atahualpa
 END:VEVENT
@@ -746,7 +746,7 @@ UID:20250506T190000Z_AtleticoBucaramanga_Racing
 DTSTART;TZID=America/Montevideo:20250506T190000
 DTEND;TZID=America/Montevideo:20250506T210000
 SUMMARY:Atlético Bucaramanga🇨🇴 vs. Racing🇦🇷
-DESCRIPTION:Grupo E - Rodada 4 - Copa Libertadores
+DESCRIPTION:Grupo E - Rodada 4 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Américo Montanini
 END:VEVENT
@@ -756,7 +756,7 @@ UID:20250506T190000Z_SportivoLuqueno_GodoyCruz
 DTSTART;TZID=America/Montevideo:20250506T190000
 DTEND;TZID=America/Montevideo:20250506T210000
 SUMMARY:Sportivo Luqueño🇵🇾 vs. Godoy Cruz🇦🇷
-DESCRIPTION:Grupo D - Rodada 4 - Copa Sul-Americana
+DESCRIPTION:Grupo D - Rodada 4 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Tigo La Huerta
 END:VEVENT
@@ -766,7 +766,7 @@ UID:20250506T190000Z_Vitoria_DefensaYJusticia
 DTSTART;TZID=America/Montevideo:20250506T190000
 DTEND;TZID=America/Montevideo:20250506T210000
 SUMMARY:Vitória🇧🇷 vs. Defensa Y Justicia🇦🇷
-DESCRIPTION:Grupo B - Rodada 4 - Copa Sul-Americana
+DESCRIPTION:Grupo B - Rodada 4 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Manoel Barradas
 END:VEVENT
@@ -776,7 +776,7 @@ UID:20250506T213000Z_BostonRiver_Independiente
 DTSTART;TZID=America/Montevideo:20250506T213000
 DTEND;TZID=America/Montevideo:20250506T233000
 SUMMARY:Boston River🇺🇾 vs. Independiente🇦🇷
-DESCRIPTION:Grupo A - Rodada 4 - Copa Sul-Americana
+DESCRIPTION:Grupo A - Rodada 4 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Centenario
 END:VEVENT
@@ -786,7 +786,7 @@ UID:20250506T230000Z_Melgar_Lanus
 DTSTART;TZID=America/Montevideo:20250506T230000
 DTEND;TZID=America/Montevideo:20250507T010000
 SUMMARY:Melgar🇵🇪 vs. Lanús🇦🇷
-DESCRIPTION:Grupo G - Rodada 4 - Copa Sul-Americana
+DESCRIPTION:Grupo G - Rodada 4 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Monumental de la UNSA
 END:VEVENT
@@ -796,7 +796,7 @@ UID:20250507T190000Z_Union_Palestino
 DTSTART;TZID=America/Montevideo:20250507T190000
 DTEND;TZID=America/Montevideo:20250507T210000
 SUMMARY:Unión🇦🇷 vs. Palestino🇨🇱
-DESCRIPTION:Grupo E - Rodada 4 - Copa Sul-Americana
+DESCRIPTION:Grupo E - Rodada 4 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:15 de Abril
 END:VEVENT
@@ -806,7 +806,7 @@ UID:20250507T210000Z_UniversidadDeChile_Estudiantes
 DTSTART;TZID=America/Montevideo:20250507T210000
 DTEND;TZID=America/Montevideo:20250507T230000
 SUMMARY:Universidad de Chile🇨🇱 vs. Estudiantes🇦🇷
-DESCRIPTION:Grupo A - Rodada 4 - Copa Libertadores
+DESCRIPTION:Grupo A - Rodada 4 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Nacional Julio Martínez Prádanos
 END:VEVENT
@@ -816,7 +816,7 @@ UID:20250507T213000Z_CentralCordoba_Flamengo
 DTSTART;TZID=America/Montevideo:20250507T213000
 DTEND;TZID=America/Montevideo:20250507T233000
 SUMMARY:Central Córdoba🇦🇷 vs. Flamengo🇧🇷
-DESCRIPTION:Grupo C - Rodada 4 - Copa Libertadores
+DESCRIPTION:Grupo C - Rodada 4 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Único Madre de Ciudades
 END:VEVENT
@@ -826,7 +826,7 @@ UID:20250508T190000Z_Talleres_Libertad
 DTSTART;TZID=America/Montevideo:20250508T190000
 DTEND;TZID=America/Montevideo:20250508T210000
 SUMMARY:Talleres🇦🇷 vs. Libertad🇵🇾
-DESCRIPTION:Grupo D - Rodada 4 - Copa Libertadores
+DESCRIPTION:Grupo D - Rodada 4 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Mario Alberto Kempes
 END:VEVENT
@@ -836,7 +836,7 @@ UID:20250508T190000Z_VelezSarsfield_Olimpia
 DTSTART;TZID=America/Montevideo:20250508T190000
 DTEND;TZID=America/Montevideo:20250508T210000
 SUMMARY:Vélez Sarsfield🇦🇷 vs. Olimpia🇵🇾
-DESCRIPTION:Grupo H - Rodada 4 - Copa Libertadores
+DESCRIPTION:Grupo H - Rodada 4 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:José Amalfitani
 END:VEVENT
@@ -846,7 +846,7 @@ UID:20250508T190000Z_RacingUruguay_Huracan
 DTSTART;TZID=America/Montevideo:20250508T190000
 DTEND;TZID=America/Montevideo:20250508T210000
 SUMMARY:Racing (Uru)🇺🇾 vs. Huracán🇦🇷
-DESCRIPTION:Grupo C - Rodada 4 - Copa Sul-Americana
+DESCRIPTION:Grupo C - Rodada 4 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Centenario
 END:VEVENT
@@ -856,7 +856,7 @@ UID:20250508T213000Z_Barcelona_River
 DTSTART;TZID=America/Montevideo:20250508T213000
 DTEND;TZID=America/Montevideo:20250508T233000
 SUMMARY:Barcelona🇪🇨 vs. River🇦🇷
-DESCRIPTION:Grupo B - Rodada 4 - Copa Libertadores
+DESCRIPTION:Grupo B - Rodada 4 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Banco Pichincha
 END:VEVENT
@@ -866,7 +866,7 @@ UID:20250513T190000Z_DeportivoTachira_CentralCordoba
 DTSTART;TZID=America/Montevideo:20250513T190000
 DTEND;TZID=America/Montevideo:20250513T210000
 SUMMARY:Deportivo Táchira🇻🇪 vs. Central Córdoba🇦🇷
-DESCRIPTION:Grupo C - Rodada 5 - Copa Libertadores
+DESCRIPTION:Grupo C - Rodada 5 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Pueblo Nuevo
 END:VEVENT
@@ -876,7 +876,7 @@ UID:20250513T190000Z_Gremio_GodoyCruz
 DTSTART;TZID=America/Montevideo:20250513T190000
 DTEND;TZID=America/Montevideo:20250513T210000
 SUMMARY:Gremio🇧🇷 vs. Godoy Cruz🇦🇷
-DESCRIPTION:Grupo D - Rodada 5 - Copa Sul-Americana
+DESCRIPTION:Grupo D - Rodada 5 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Grêmio Arena
 END:VEVENT
@@ -886,7 +886,7 @@ UID:20250513T213000Z_Lanus_VascoDaGama
 DTSTART;TZID=America/Montevideo:20250513T213000
 DTEND;TZID=America/Montevideo:20250513T233000
 SUMMARY:Lanús🇦🇷 vs. Vasco da Gama🇧🇷
-DESCRIPTION:Grupo G - Rodada 5 - Copa Sul-Americana
+DESCRIPTION:Grupo G - Rodada 5 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Ciudad de Lanús
 END:VEVENT
@@ -896,7 +896,7 @@ UID:20250513T213000Z_Union_MushucRuna
 DTSTART;TZID=America/Montevideo:20250513T213000
 DTEND;TZID=America/Montevideo:20250513T233000
 SUMMARY:Unión🇦🇷 vs. Mushuc Runa🇪🇨
-DESCRIPTION:Grupo E - Rodada 5 - Copa Sul-Americana
+DESCRIPTION:Grupo E - Rodada 5 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:15 de Abril
 END:VEVENT
@@ -906,7 +906,7 @@ UID:20250514T190000Z_VelezSarsfield_SanAntonioBuloBulo
 DTSTART;TZID=America/Montevideo:20250514T190000
 DTEND;TZID=America/Montevideo:20250514T210000
 SUMMARY:Vélez Sarsfield🇦🇷 vs. San Antonio Bulo Bulo🇧🇴
-DESCRIPTION:Grupo H - Rodada 5 - Copa Libertadores
+DESCRIPTION:Grupo H - Rodada 5 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:José Amalfitani
 END:VEVENT
@@ -916,7 +916,7 @@ UID:20250514T190000Z_DefensaYJusticia_UniversidadCatolica
 DTSTART;TZID=America/Montevideo:20250514T190000
 DTEND;TZID=America/Montevideo:20250514T210000
 SUMMARY:Defensa Y Justicia🇦🇷 vs. Universidad Católica🇪🇨
-DESCRIPTION:Grupo B - Rodada 5 - Copa Sul-Americana
+DESCRIPTION:Grupo B - Rodada 5 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Norberto Tomaghello
 END:VEVENT
@@ -926,7 +926,7 @@ UID:20250514T213000Z_Botafogo_Estudiantes
 DTSTART;TZID=America/Montevideo:20250514T213000
 DTEND;TZID=America/Montevideo:20250514T233000
 SUMMARY:Botafogo🇧🇷 vs. Estudiantes🇦🇷
-DESCRIPTION:Grupo A - Rodada 5 - Copa Libertadores
+DESCRIPTION:Grupo A - Rodada 5 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Olímpico Nilton Santos
 END:VEVENT
@@ -936,7 +936,7 @@ UID:20250514T213000Z_Racing_ColoColo
 DTSTART;TZID=America/Montevideo:20250514T213000
 DTEND;TZID=America/Montevideo:20250514T233000
 SUMMARY:Racing🇦🇷 vs. Colo-Colo🇨🇱
-DESCRIPTION:Grupo E - Rodada 5 - Copa Libertadores
+DESCRIPTION:Grupo E - Rodada 5 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Presidente Perón (Cilindro de Avellaneda)
 END:VEVENT
@@ -946,7 +946,7 @@ UID:20250514T230000Z_AmericaDeCali_Huracan
 DTSTART;TZID=America/Montevideo:20250514T230000
 DTEND;TZID=America/Montevideo:20250515T010000
 SUMMARY:América de Cali🇨🇴 vs. Huracán🇦🇷
-DESCRIPTION:Grupo C - Rodada 5 - Copa Sul-Americana
+DESCRIPTION:Grupo C - Rodada 5 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Pascual Guerrero
 END:VEVENT
@@ -956,7 +956,7 @@ UID:20250515T190000Z_Talleres_AlianzaLima
 DTSTART;TZID=America/Montevideo:20250515T190000
 DTEND;TZID=America/Montevideo:20250515T210000
 SUMMARY:Talleres🇦🇷 vs. Alianza Lima🇵🇪
-DESCRIPTION:Grupo D - Rodada 5 - Copa Libertadores
+DESCRIPTION:Grupo D - Rodada 5 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Mario Alberto Kempes
 END:VEVENT
@@ -966,7 +966,7 @@ UID:20250515T190000Z_Independiente_Guarani
 DTSTART;TZID=America/Montevideo:20250515T190000
 DTEND;TZID=America/Montevideo:20250515T210000
 SUMMARY:Independiente🇦🇷 vs. Guaraní🇵🇾
-DESCRIPTION:Grupo A - Rodada 5 - Copa Sul-Americana
+DESCRIPTION:Grupo A - Rodada 5 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Libertadores de América
 END:VEVENT
@@ -976,7 +976,7 @@ UID:20250515T213000Z_River_IndependienteDelValle
 DTSTART;TZID=America/Montevideo:20250515T213000
 DTEND;TZID=America/Montevideo:20250515T233000
 SUMMARY:River🇦🇷 vs. Independiente del Valle🇪🇨
-DESCRIPTION:Grupo B - Rodada 5 - Copa Libertadores
+DESCRIPTION:Grupo B - Rodada 5 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Más Monumental
 END:VEVENT
@@ -986,7 +986,7 @@ UID:20250527T190000Z_SanPablo_Talleres
 DTSTART;TZID=America/Montevideo:20250527T190000
 DTEND;TZID=America/Montevideo:20250527T210000
 SUMMARY:San Pablo🇧🇷 vs. Talleres🇦🇷
-DESCRIPTION:Grupo D - Rodada 6 - Copa Libertadores
+DESCRIPTION:Grupo D - Rodada 6 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:MorumBIS
 END:VEVENT
@@ -996,7 +996,7 @@ UID:20250527T190000Z_Lanus_AcademiaPuertoCabello
 DTSTART;TZID=America/Montevideo:20250527T190000
 DTEND;TZID=America/Montevideo:20250527T210000
 SUMMARY:Lanús🇦🇷 vs. Academia Puerto Cabello🇻🇪
-DESCRIPTION:Grupo G - Rodada 6 - Copa Sul-Americana
+DESCRIPTION:Grupo G - Rodada 6 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Ciudad de Lanús
 END:VEVENT
@@ -1006,7 +1006,7 @@ UID:20250527T213000Z_Estudiantes_Carabobo
 DTSTART;TZID=America/Montevideo:20250527T213000
 DTEND;TZID=America/Montevideo:20250527T233000
 SUMMARY:Estudiantes🇦🇷 vs. Carabobo🇻🇪
-DESCRIPTION:Grupo A - Rodada 6 - Copa Libertadores
+DESCRIPTION:Grupo A - Rodada 6 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Jorge Luis Hirschi
 END:VEVENT
@@ -1016,7 +1016,7 @@ UID:20250527T213000Z_River_Universitario
 DTSTART;TZID=America/Montevideo:20250527T213000
 DTEND;TZID=America/Montevideo:20250527T233000
 SUMMARY:River🇦🇷 vs. Universitario🇵🇪
-DESCRIPTION:Grupo B - Rodada 6 - Copa Libertadores
+DESCRIPTION:Grupo B - Rodada 6 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Más Monumental
 END:VEVENT
@@ -1026,7 +1026,7 @@ UID:20250527T213000Z_Huracan_Corinthians
 DTSTART;TZID=America/Montevideo:20250527T213000
 DTEND;TZID=America/Montevideo:20250527T233000
 SUMMARY:Huracán🇦🇷 vs. Corinthians🇧🇷
-DESCRIPTION:Grupo C - Rodada 6 - Copa Sul-Americana
+DESCRIPTION:Grupo C - Rodada 6 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Tomás Adolfo Ducó
 END:VEVENT
@@ -1036,7 +1036,7 @@ UID:20250528T190000Z_Independiente_NacionalPotosi
 DTSTART;TZID=America/Montevideo:20250528T190000
 DTEND;TZID=America/Montevideo:20250528T210000
 SUMMARY:Independiente🇦🇷 vs. Nacional Potosí🇧🇴
-DESCRIPTION:Grupo A - Rodada 6 - Copa Sul-Americana
+DESCRIPTION:Grupo A - Rodada 6 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Libertadores de América
 END:VEVENT
@@ -1046,7 +1046,7 @@ UID:20250528T213000Z_LigaDeQuito_CentralCordoba
 DTSTART;TZID=America/Montevideo:20250528T213000
 DTEND;TZID=America/Montevideo:20250528T233000
 SUMMARY:Liga de Quito🇪🇨 vs. Central Córdoba🇦🇷
-DESCRIPTION:Grupo C - Rodada 6 - Copa Libertadores
+DESCRIPTION:Grupo C - Rodada 6 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Rodrigo Paz Delgado
 END:VEVENT
@@ -1056,7 +1056,7 @@ UID:20250528T213000Z_Cruzeiro_Union
 DTSTART;TZID=America/Montevideo:20250528T213000
 DTEND;TZID=America/Montevideo:20250528T233000
 SUMMARY:Cruzeiro🇧🇷 vs. Unión🇦🇷
-DESCRIPTION:Grupo E - Rodada 6 - Copa Sul-Americana
+DESCRIPTION:Grupo E - Rodada 6 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Mineirão
 END:VEVENT
@@ -1066,7 +1066,7 @@ UID:20250528T213000Z_DefensaYJusticia_CerroLargo
 DTSTART;TZID=America/Montevideo:20250528T213000
 DTEND;TZID=America/Montevideo:20250528T233000
 SUMMARY:Defensa Y Justicia🇦🇷 vs. Cerro Largo🇺🇾
-DESCRIPTION:Grupo B - Rodada 6 - Copa Sul-Americana
+DESCRIPTION:Grupo B - Rodada 6 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Norberto Tomaghello
 END:VEVENT
@@ -1076,7 +1076,7 @@ UID:20250529T190000Z_Penarol_VelezSarsfield
 DTSTART;TZID=America/Montevideo:20250529T190000
 DTEND;TZID=America/Montevideo:20250529T210000
 SUMMARY:Peñarol🇺🇾 vs. Vélez Sarsfield🇦🇷
-DESCRIPTION:Grupo H - Rodada 6 - Copa Libertadores
+DESCRIPTION:Grupo H - Rodada 6 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Campeón del Siglo
 END:VEVENT
@@ -1086,7 +1086,7 @@ UID:20250529T190000Z_GodoyCruz_AtleticoGrau
 DTSTART;TZID=America/Montevideo:20250529T190000
 DTEND;TZID=America/Montevideo:20250529T210000
 SUMMARY:Godoy Cruz🇦🇷 vs. Atlético Grau🇵🇪
-DESCRIPTION:Grupo D - Rodada 6 - Copa Sul-Americana
+DESCRIPTION:Grupo D - Rodada 6 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Malvinas Argentinas (Mendoza)
 END:VEVENT
@@ -1096,7 +1096,7 @@ UID:20250529T213000Z_Racing_Fortaleza
 DTSTART;TZID=America/Montevideo:20250529T213000
 DTEND;TZID=America/Montevideo:20250529T233000
 SUMMARY:Racing🇦🇷 vs. Fortaleza🇧🇷
-DESCRIPTION:Grupo E - Rodada 6 - Copa Libertadores
+DESCRIPTION:Grupo E - Rodada 6 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Presidente Perón (Cilindro de Avellaneda)
 END:VEVENT
@@ -1106,7 +1106,7 @@ UID:20250715T190000Z_CentralCordoba_CerroLargo
 DTSTART;TZID=America/Montevideo:20250715T190000
 DTEND;TZID=America/Montevideo:20250715T210000
 SUMMARY:Central Córdoba🇦🇷 vs. Cerro Largo🇺🇾
-DESCRIPTION:Play-offs - Ida - Copa Sul-Americana
+DESCRIPTION:Play-offs - Ida - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Único Madre de Ciudades
 END:VEVENT
@@ -1116,7 +1116,7 @@ UID:20250722T190000Z_CerroLargo_CentralCordoba
 DTSTART;TZID=America/Montevideo:20250722T190000
 DTEND;TZID=America/Montevideo:20250722T210000
 SUMMARY:Cerro Largo🇺🇾 vs. Central Córdoba🇦🇷
-DESCRIPTION:Play-offs - Volta - Copa Sul-Americana
+DESCRIPTION:Play-offs - Volta - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Campeón del Siglo
 END:VEVENT
@@ -1126,7 +1126,7 @@ UID:20250812T190000Z_Fortaleza_VelezSarsfield
 DTSTART;TZID=America/Montevideo:20250812T190000
 DTEND;TZID=America/Montevideo:20250812T210000
 SUMMARY:Fortaleza🇧🇷 vs. Vélez Sarsfield🇦🇷
-DESCRIPTION:Oitavas de final - Ida - Copa Libertadores
+DESCRIPTION:Oitavas de final - Ida - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Castelão
 END:VEVENT
@@ -1136,7 +1136,7 @@ UID:20250812T190000Z_OnceCaldas_Huracan
 DTSTART;TZID=America/Montevideo:20250812T190000
 DTEND;TZID=America/Montevideo:20250812T210000
 SUMMARY:Once Caldas🇨🇴 vs. Huracán🇦🇷
-DESCRIPTION:Oitavas de final - Ida - Copa Sul-Americana
+DESCRIPTION:Oitavas de final - Ida - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Palogrande
 END:VEVENT
@@ -1146,7 +1146,7 @@ UID:20250812T213000Z_Penarol_Racing
 DTSTART;TZID=America/Montevideo:20250812T213000
 DTEND;TZID=America/Montevideo:20250812T233000
 SUMMARY:Peñarol🇺🇾 vs. Racing🇦🇷
-DESCRIPTION:Oitavas de final - Ida - Copa Libertadores
+DESCRIPTION:Oitavas de final - Ida - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Campeón del Siglo
 END:VEVENT
@@ -1156,7 +1156,7 @@ UID:20250813T190000Z_CerroPorteno_Estudiantes
 DTSTART;TZID=America/Montevideo:20250813T190000
 DTEND;TZID=America/Montevideo:20250813T210000
 SUMMARY:Cerro Porteño🇵🇾 vs. Estudiantes🇦🇷
-DESCRIPTION:Oitavas de final - Ida - Copa Libertadores
+DESCRIPTION:Oitavas de final - Ida - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio ueno La Nueva Olla
 END:VEVENT
@@ -1166,7 +1166,7 @@ UID:20250813T213000Z_UniversidadDeChile_Independiente
 DTSTART;TZID=America/Montevideo:20250813T213000
 DTEND;TZID=America/Montevideo:20250813T233000
 SUMMARY:Universidad de Chile🇨🇱 vs. Independiente🇦🇷
-DESCRIPTION:Oitavas de final - Ida - Copa Sul-Americana
+DESCRIPTION:Oitavas de final - Ida - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Nacional Julio Martínez Prádanos
 END:VEVENT
@@ -1176,7 +1176,7 @@ UID:20250814T190000Z_AtleticoMineiro_GodoyCruz
 DTSTART;TZID=America/Montevideo:20250814T190000
 DTEND;TZID=America/Montevideo:20250814T210000
 SUMMARY:Atlético Mineiro🇧🇷 vs. Godoy Cruz🇦🇷
-DESCRIPTION:Oitavas de final - Ida - Copa Sul-Americana
+DESCRIPTION:Oitavas de final - Ida - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Arena MRV
 END:VEVENT
@@ -1186,7 +1186,7 @@ UID:20250814T213000Z_Libertad_River
 DTSTART;TZID=America/Montevideo:20250814T213000
 DTEND;TZID=America/Montevideo:20250814T233000
 SUMMARY:Libertad🇵🇾 vs. River🇦🇷
-DESCRIPTION:Oitavas de final - Ida - Copa Libertadores
+DESCRIPTION:Oitavas de final - Ida - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Tigo La Huerta
 END:VEVENT
@@ -1196,7 +1196,7 @@ UID:20250814T213000Z_CentralCordoba_Lanus
 DTSTART;TZID=America/Montevideo:20250814T213000
 DTEND;TZID=America/Montevideo:20250814T233000
 SUMMARY:Central Córdoba🇦🇷 vs. Lanús🇦🇷
-DESCRIPTION:Oitavas de final - Ida - Copa Sul-Americana
+DESCRIPTION:Oitavas de final - Ida - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Único Madre de Ciudades
 END:VEVENT
@@ -1206,7 +1206,7 @@ UID:20250819T190000Z_VelezSarsfield_Fortaleza
 DTSTART;TZID=America/Montevideo:20250819T190000
 DTEND;TZID=America/Montevideo:20250819T210000
 SUMMARY:Vélez Sarsfield🇦🇷 vs. Fortaleza🇧🇷
-DESCRIPTION:Oitavas de final - Volta - Copa Libertadores
+DESCRIPTION:Oitavas de final - Volta - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:José Amalfitani
 END:VEVENT
@@ -1216,7 +1216,7 @@ UID:20250819T190000Z_Huracan_OnceCaldas
 DTSTART;TZID=America/Montevideo:20250819T190000
 DTEND;TZID=America/Montevideo:20250819T210000
 SUMMARY:Huracán🇦🇷 vs. Once Caldas🇨🇴
-DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana
+DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Tomás Adolfo Ducó
 END:VEVENT
@@ -1226,7 +1226,7 @@ UID:20250819T213000Z_Racing_Penarol
 DTSTART;TZID=America/Montevideo:20250819T213000
 DTEND;TZID=America/Montevideo:20250819T233000
 SUMMARY:Racing🇦🇷 vs. Peñarol🇺🇾
-DESCRIPTION:Oitavas de final - Volta - Copa Libertadores
+DESCRIPTION:Oitavas de final - Volta - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Presidente Perón (Cilindro de Avellaneda)
 END:VEVENT
@@ -1236,7 +1236,7 @@ UID:20250820T190000Z_Estudiantes_CerroPorteno
 DTSTART;TZID=America/Montevideo:20250820T190000
 DTEND;TZID=America/Montevideo:20250820T210000
 SUMMARY:Estudiantes🇦🇷 vs. Cerro Porteño🇵🇾
-DESCRIPTION:Oitavas de final - Volta - Copa Libertadores
+DESCRIPTION:Oitavas de final - Volta - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Jorge Luis Hirschi
 END:VEVENT
@@ -1246,7 +1246,7 @@ UID:20250820T213000Z_Independiente_UniversidadDeChile
 DTSTART;TZID=America/Montevideo:20250820T213000
 DTEND;TZID=America/Montevideo:20250820T233000
 SUMMARY:Independiente🇦🇷 vs. Universidad de Chile🇨🇱
-DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana
+DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Libertadores de América
 END:VEVENT
@@ -1256,7 +1256,7 @@ UID:20250821T190000Z_GodoyCruz_AtleticoMineiro
 DTSTART;TZID=America/Montevideo:20250821T190000
 DTEND;TZID=America/Montevideo:20250821T210000
 SUMMARY:Godoy Cruz🇦🇷 vs. Atlético Mineiro🇧🇷
-DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana
+DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Feliciano Gambarte
 END:VEVENT
@@ -1266,7 +1266,7 @@ UID:20250821T213000Z_River_Libertad
 DTSTART;TZID=America/Montevideo:20250821T213000
 DTEND;TZID=America/Montevideo:20250821T233000
 SUMMARY:River🇦🇷 vs. Libertad🇵🇾
-DESCRIPTION:Oitavas de final - Volta - Copa Libertadores
+DESCRIPTION:Oitavas de final - Volta - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Más Monumental
 END:VEVENT
@@ -1276,7 +1276,7 @@ UID:20250821T213000Z_Lanus_CentralCordoba
 DTSTART;TZID=America/Montevideo:20250821T213000
 DTEND;TZID=America/Montevideo:20250821T233000
 SUMMARY:Lanús🇦🇷 vs. Central Córdoba🇦🇷
-DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana
+DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Ciudad de Lanús
 END:VEVENT
@@ -1286,7 +1286,7 @@ UID:20250916T190000Z_VelezSarsfield_Racing
 DTSTART;TZID=America/Montevideo:20250916T190000
 DTEND;TZID=America/Montevideo:20250916T210000
 SUMMARY:Vélez Sarsfield🇦🇷 vs. Racing🇦🇷
-DESCRIPTION:Quartas de final - Ida - Copa Libertadores
+DESCRIPTION:Quartas de final - Ida - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:José Amalfitani
 END:VEVENT
@@ -1296,7 +1296,7 @@ UID:20250916T213000Z_Lanus_Fluminense
 DTSTART;TZID=America/Montevideo:20250916T213000
 DTEND;TZID=America/Montevideo:20250916T233000
 SUMMARY:Lanús🇦🇷 vs. Fluminense🇧🇷
-DESCRIPTION:Quartas de final - Ida - Copa Sul-Americana
+DESCRIPTION:Quartas de final - Ida - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Ciudad de Lanús
 END:VEVENT
@@ -1306,7 +1306,7 @@ UID:20250917T213000Z_River_Palmeiras
 DTSTART;TZID=America/Montevideo:20250917T213000
 DTEND;TZID=America/Montevideo:20250917T233000
 SUMMARY:River🇦🇷 vs. Palmeiras🇧🇷
-DESCRIPTION:Quartas de final - Ida - Copa Libertadores
+DESCRIPTION:Quartas de final - Ida - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Más Monumental
 END:VEVENT
@@ -1316,7 +1316,7 @@ UID:20250918T213000Z_Flamengo_Estudiantes
 DTSTART;TZID=America/Montevideo:20250918T213000
 DTEND;TZID=America/Montevideo:20250918T233000
 SUMMARY:Flamengo🇧🇷 vs. Estudiantes🇦🇷
-DESCRIPTION:Quartas de final - Ida - Copa Libertadores
+DESCRIPTION:Quartas de final - Ida - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio do Maracana
 END:VEVENT
@@ -1326,7 +1326,7 @@ UID:20250923T190000Z_Racing_VelezSarsfield
 DTSTART;TZID=America/Montevideo:20250923T190000
 DTEND;TZID=America/Montevideo:20250923T210000
 SUMMARY:Racing🇦🇷 vs. Vélez Sarsfield🇦🇷
-DESCRIPTION:Quartas de final - Volta - Copa Libertadores
+DESCRIPTION:Quartas de final - Volta - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Presidente Perón (Cilindro de Avellaneda)
 END:VEVENT
@@ -1336,7 +1336,7 @@ UID:20250923T213000Z_Fluminense_Lanus
 DTSTART;TZID=America/Montevideo:20250923T213000
 DTEND;TZID=America/Montevideo:20250923T233000
 SUMMARY:Fluminense🇧🇷 vs. Lanús🇦🇷
-DESCRIPTION:Quartas de final - Volta - Copa Sul-Americana
+DESCRIPTION:Quartas de final - Volta - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio do Maracana
 END:VEVENT
@@ -1346,7 +1346,7 @@ UID:20250924T213000Z_Palmeiras_River
 DTSTART;TZID=America/Montevideo:20250924T213000
 DTEND;TZID=America/Montevideo:20250924T233000
 SUMMARY:Palmeiras🇧🇷 vs. River🇦🇷
-DESCRIPTION:Quartas de final - Volta - Copa Libertadores
+DESCRIPTION:Quartas de final - Volta - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Allianz Parque
 END:VEVENT
@@ -1356,7 +1356,7 @@ UID:20250925T213000Z_Estudiantes_Flamengo
 DTSTART;TZID=America/Montevideo:20250925T213000
 DTEND;TZID=America/Montevideo:20250925T233000
 SUMMARY:Estudiantes🇦🇷 vs. Flamengo🇧🇷
-DESCRIPTION:Quartas de final - Volta - Copa Libertadores
+DESCRIPTION:Quartas de final - Volta - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Jorge Luis Hirschi
 END:VEVENT
@@ -1366,7 +1366,7 @@ UID:20251022T213000Z_Flamengo_Racing
 DTSTART;TZID=America/Montevideo:20251022T213000
 DTEND;TZID=America/Montevideo:20251022T233000
 SUMMARY:Flamengo🇧🇷 vs. Racing🇦🇷
-DESCRIPTION:Semifinal - Ida - Copa Libertadores
+DESCRIPTION:Semifinal - Ida - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio do Maracana
 END:VEVENT
@@ -1376,7 +1376,7 @@ UID:20251023T190000Z_UniversidadDeChile_Lanus
 DTSTART;TZID=America/Montevideo:20251023T190000
 DTEND;TZID=America/Montevideo:20251023T210000
 SUMMARY:Universidad de Chile🇨🇱 vs. Lanús🇦🇷
-DESCRIPTION:Semifinal - Ida - Copa Sul-Americana
+DESCRIPTION:Semifinal - Ida - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Nacional Julio Martínez Prádanos
 END:VEVENT
@@ -1386,7 +1386,7 @@ UID:20251029T213000Z_Racing_Flamengo
 DTSTART;TZID=America/Montevideo:20251029T213000
 DTEND;TZID=America/Montevideo:20251029T233000
 SUMMARY:Racing🇦🇷 vs. Flamengo🇧🇷
-DESCRIPTION:Semifinal - Volta - Copa Libertadores
+DESCRIPTION:Semifinal - Volta - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Presidente Perón (Cilindro de Avellaneda)
 END:VEVENT
@@ -1396,7 +1396,7 @@ UID:20251030T190000Z_Lanus_UniversidadDeChile
 DTSTART;TZID=America/Montevideo:20251030T190000
 DTEND;TZID=America/Montevideo:20251030T210000
 SUMMARY:Lanús🇦🇷 vs. Universidad de Chile🇨🇱
-DESCRIPTION:Semifinal - Volta - Copa Sul-Americana
+DESCRIPTION:Semifinal - Volta - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Ciudad de Lanús
 END:VEVENT
@@ -1406,7 +1406,7 @@ UID:20251122T170000Z_Lanus_AtleticoMineiro
 DTSTART;TZID=America/Montevideo:20251122T170000
 DTEND;TZID=America/Montevideo:20251122T190000
 SUMMARY:Lanús🇦🇷 vs. Atlético Mineiro🇧🇷
-DESCRIPTION:Final - Copa Sul-Americana
+DESCRIPTION:Final - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Defensores del Chaco
 END:VEVENT
@@ -1416,7 +1416,7 @@ UID:20260407T190000Z_IndependienteRivadavia_Bolivar
 DTSTART;TZID=America/Montevideo:20260407T190000
 DTEND;TZID=America/Montevideo:20260407T210000
 SUMMARY:Independiente Rivadavia🇦🇷 vs. Bolívar🇧🇴
-DESCRIPTION:Grupo C - Rodada 1 - Copa Libertadores
+DESCRIPTION:Grupo C - Rodada 1 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Malvinas Argentinas (Mendoza)
 END:VEVENT
@@ -1426,7 +1426,7 @@ UID:20260407T190000Z_BarracasCentral_VascoDaGama
 DTSTART;TZID=America/Montevideo:20260407T190000
 DTEND;TZID=America/Montevideo:20260407T210000
 SUMMARY:Barracas Central🇦🇷 vs. Vasco da Gama🇧🇷
-DESCRIPTION:Grupo G - Rodada 1 - Copa Sul-Americana
+DESCRIPTION:Grupo G - Rodada 1 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Florencio Solá
 END:VEVENT
@@ -1436,7 +1436,7 @@ UID:20260407T190000Z_IndependientePetrolero_Racing
 DTSTART;TZID=America/Montevideo:20260407T190000
 DTEND;TZID=America/Montevideo:20260407T210000
 SUMMARY:Independiente Petrolero🇧🇴 vs. Racing🇦🇷
-DESCRIPTION:Grupo E - Rodada 1 - Copa Sul-Americana
+DESCRIPTION:Grupo E - Rodada 1 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Olímpico Patria
 END:VEVENT
@@ -1446,7 +1446,7 @@ UID:20260407T213000Z_UniversidadCatolica_BocaJuniors
 DTSTART;TZID=America/Montevideo:20260407T213000
 DTEND;TZID=America/Montevideo:20260407T233000
 SUMMARY:Universidad Católica🇪🇨 vs. Boca Juniors🇦🇷
-DESCRIPTION:Grupo D - Rodada 1 - Copa Libertadores
+DESCRIPTION:Grupo D - Rodada 1 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio San Carlos de Apoquindo
 END:VEVENT
@@ -1456,7 +1456,7 @@ UID:20260407T230000Z_AlianzaAtletico_Tigre
 DTSTART;TZID=America/Montevideo:20260407T230000
 DTEND;TZID=America/Montevideo:20260408T010000
 SUMMARY:Alianza Atlético🇵🇪 vs. Tigre🇦🇷
-DESCRIPTION:Grupo A - Rodada 1 - Copa Sul-Americana
+DESCRIPTION:Grupo A - Rodada 1 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Miguel Grau del Callao
 END:VEVENT
@@ -1466,7 +1466,7 @@ UID:20260408T190000Z_Mirassol_Lanus
 DTSTART;TZID=America/Montevideo:20260408T190000
 DTEND;TZID=America/Montevideo:20260408T210000
 SUMMARY:Mirassol🇧🇷 vs. Lanús🇦🇷
-DESCRIPTION:Grupo G - Rodada 1 - Copa Libertadores
+DESCRIPTION:Grupo G - Rodada 1 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Municipal José Maria de Campos Maia
 END:VEVENT
@@ -1476,7 +1476,7 @@ UID:20260408T190000Z_Recoleta_SanLorenzo
 DTSTART;TZID=America/Montevideo:20260408T190000
 DTEND;TZID=America/Montevideo:20260408T210000
 SUMMARY:Recoleta🇵🇾 vs. San Lorenzo🇦🇷
-DESCRIPTION:Grupo D - Rodada 1 - Copa Sul-Americana
+DESCRIPTION:Grupo D - Rodada 1 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Defensores del Chaco
 END:VEVENT
@@ -1486,7 +1486,7 @@ UID:20260408T190000Z_DeportivoRiestra_Palestino
 DTSTART;TZID=America/Montevideo:20260408T190000
 DTEND;TZID=America/Montevideo:20260408T210000
 SUMMARY:Deportivo Riestra🇦🇷 vs. Palestino🇨🇱
-DESCRIPTION:Grupo F - Rodada 1 - Copa Sul-Americana
+DESCRIPTION:Grupo F - Rodada 1 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Pedro Bidegain
 END:VEVENT
@@ -1496,7 +1496,7 @@ UID:20260408T210000Z_IndependienteDeMedellin_Estudiantes
 DTSTART;TZID=America/Montevideo:20260408T210000
 DTEND;TZID=America/Montevideo:20260408T230000
 SUMMARY:Independiente de Medellín🇨🇴 vs. Estudiantes🇦🇷
-DESCRIPTION:Grupo A - Rodada 1 - Copa Libertadores
+DESCRIPTION:Grupo A - Rodada 1 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Atanasio Girardot
 END:VEVENT
@@ -1506,7 +1506,7 @@ UID:20260408T213000Z_Blooming_River
 DTSTART;TZID=America/Montevideo:20260408T213000
 DTEND;TZID=America/Montevideo:20260408T233000
 SUMMARY:Blooming🇧🇴 vs. River🇦🇷
-DESCRIPTION:Grupo H - Rodada 1 - Copa Sul-Americana
+DESCRIPTION:Grupo H - Rodada 1 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Ramón Tahuichi
 END:VEVENT
@@ -1516,7 +1516,7 @@ UID:20260409T190000Z_RosarioCentral_IndependienteDelValle
 DTSTART;TZID=America/Montevideo:20260409T190000
 DTEND;TZID=America/Montevideo:20260409T210000
 SUMMARY:Rosario Central🇦🇷 vs. Independiente del Valle🇪🇨
-DESCRIPTION:Grupo H - Rodada 1 - Copa Libertadores
+DESCRIPTION:Grupo H - Rodada 1 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Gigante de Arroyito
 END:VEVENT
@@ -1526,7 +1526,7 @@ UID:20260409T210000Z_Platense_Corinthians
 DTSTART;TZID=America/Montevideo:20260409T210000
 DTEND;TZID=America/Montevideo:20260409T230000
 SUMMARY:Platense🇦🇷 vs. Corinthians🇧🇷
-DESCRIPTION:Grupo E - Rodada 1 - Copa Libertadores
+DESCRIPTION:Grupo E - Rodada 1 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Ciudad de Vicente López
 END:VEVENT
@@ -1536,7 +1536,7 @@ UID:20260414T190000Z_Estudiantes_Cusco
 DTSTART;TZID=America/Montevideo:20260414T190000
 DTEND;TZID=America/Montevideo:20260414T210000
 SUMMARY:Estudiantes🇦🇷 vs. Cusco🇵🇪
-DESCRIPTION:Grupo A - Rodada 2 - Copa Libertadores
+DESCRIPTION:Grupo A - Rodada 2 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Jorge Luis Hirschi
 END:VEVENT
@@ -1546,7 +1546,7 @@ UID:20260414T190000Z_Gremio_DeportivoRiestra
 DTSTART;TZID=America/Montevideo:20260414T190000
 DTEND;TZID=America/Montevideo:20260414T210000
 SUMMARY:Gremio🇧🇷 vs. Deportivo Riestra🇦🇷
-DESCRIPTION:Grupo F - Rodada 2 - Copa Sul-Americana
+DESCRIPTION:Grupo F - Rodada 2 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Arena do Grêmio
 END:VEVENT
@@ -1556,7 +1556,7 @@ UID:20260414T210000Z_BocaJuniors_Barcelona
 DTSTART;TZID=America/Montevideo:20260414T210000
 DTEND;TZID=America/Montevideo:20260414T230000
 SUMMARY:Boca Juniors🇦🇷 vs. Barcelona🇪🇨
-DESCRIPTION:Grupo D - Rodada 2 - Copa Libertadores
+DESCRIPTION:Grupo D - Rodada 2 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Alberto José Armando (La Bombonera)
 END:VEVENT
@@ -1566,7 +1566,7 @@ UID:20260415T190000Z_Libertad_RosarioCentral
 DTSTART;TZID=America/Montevideo:20260415T190000
 DTEND;TZID=America/Montevideo:20260415T210000
 SUMMARY:Libertad🇵🇾 vs. Rosario Central🇦🇷
-DESCRIPTION:Grupo H - Rodada 2 - Copa Libertadores
+DESCRIPTION:Grupo H - Rodada 2 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Tigo La Huerta
 END:VEVENT
@@ -1576,7 +1576,7 @@ UID:20260415T190000Z_Racing_Botafogo
 DTSTART;TZID=America/Montevideo:20260415T190000
 DTEND;TZID=America/Montevideo:20260415T210000
 SUMMARY:Racing🇦🇷 vs. Botafogo🇧🇷
-DESCRIPTION:Grupo E - Rodada 2 - Copa Sul-Americana
+DESCRIPTION:Grupo E - Rodada 2 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Presidente Perón (Cilindro de Avellaneda)
 END:VEVENT
@@ -1586,7 +1586,7 @@ UID:20260415T210000Z_Olimpia_BarracasCentral
 DTSTART;TZID=America/Montevideo:20260415T210000
 DTEND;TZID=America/Montevideo:20260415T230000
 SUMMARY:Olimpia🇵🇾 vs. Barracas Central🇦🇷
-DESCRIPTION:Grupo G - Rodada 2 - Copa Sul-Americana
+DESCRIPTION:Grupo G - Rodada 2 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Defensores del Chaco
 END:VEVENT
@@ -1596,7 +1596,7 @@ UID:20260415T213000Z_Fluminense_IndependienteRivadavia
 DTSTART;TZID=America/Montevideo:20260415T213000
 DTEND;TZID=America/Montevideo:20260415T233000
 SUMMARY:Fluminense🇧🇷 vs. Independiente Rivadavia🇦🇷
-DESCRIPTION:Grupo C - Rodada 2 - Copa Libertadores
+DESCRIPTION:Grupo C - Rodada 2 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio do Maracana
 END:VEVENT
@@ -1606,7 +1606,7 @@ UID:20260415T213000Z_River_Carabobo
 DTSTART;TZID=America/Montevideo:20260415T213000
 DTEND;TZID=America/Montevideo:20260415T233000
 SUMMARY:River🇦🇷 vs. Carabobo🇻🇪
-DESCRIPTION:Grupo H - Rodada 2 - Copa Sul-Americana
+DESCRIPTION:Grupo H - Rodada 2 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Más Monumental
 END:VEVENT
@@ -1616,7 +1616,7 @@ UID:20260416T190000Z_Lanus_AlwaysReady
 DTSTART;TZID=America/Montevideo:20260416T190000
 DTEND;TZID=America/Montevideo:20260416T210000
 SUMMARY:Lanús🇦🇷 vs. Always Ready🇧🇴
-DESCRIPTION:Grupo G - Rodada 2 - Copa Libertadores
+DESCRIPTION:Grupo G - Rodada 2 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Ciudad de Lanús
 END:VEVENT
@@ -1626,7 +1626,7 @@ UID:20260416T190000Z_Tigre_Macara
 DTSTART;TZID=America/Montevideo:20260416T190000
 DTEND;TZID=America/Montevideo:20260416T210000
 SUMMARY:Tigre🇦🇷 vs. Macará🇪🇨
-DESCRIPTION:Grupo A - Rodada 2 - Copa Sul-Americana
+DESCRIPTION:Grupo A - Rodada 2 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Monumental de Victoria (José Dellagiovanna)
 END:VEVENT
@@ -1636,7 +1636,7 @@ UID:20260416T213000Z_Penarol_Platense
 DTSTART;TZID=America/Montevideo:20260416T213000
 DTEND;TZID=America/Montevideo:20260416T233000
 SUMMARY:Peñarol🇺🇾 vs. Platense🇦🇷
-DESCRIPTION:Grupo E - Rodada 2 - Copa Libertadores
+DESCRIPTION:Grupo E - Rodada 2 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Campeón del Siglo
 END:VEVENT
@@ -1646,7 +1646,7 @@ UID:20260416T213000Z_SanLorenzo_DeportivoCuenca
 DTSTART;TZID=America/Montevideo:20260416T213000
 DTEND;TZID=America/Montevideo:20260416T233000
 SUMMARY:San Lorenzo🇦🇷 vs. Deportivo Cuenca🇪🇨
-DESCRIPTION:Grupo D - Rodada 2 - Copa Sul-Americana
+DESCRIPTION:Grupo D - Rodada 2 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Pedro Bidegain
 END:VEVENT
@@ -1656,7 +1656,7 @@ UID:20260428T190000Z_Lanus_LigaDeQuito
 DTSTART;TZID=America/Montevideo:20260428T190000
 DTEND;TZID=America/Montevideo:20260428T210000
 SUMMARY:Lanús🇦🇷 vs. Liga de Quito🇪🇨
-DESCRIPTION:Grupo G - Rodada 3 - Copa Libertadores
+DESCRIPTION:Grupo G - Rodada 3 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Ciudad de Lanús
 END:VEVENT
@@ -1666,7 +1666,7 @@ UID:20260428T190000Z_SanLorenzo_Santos
 DTSTART;TZID=America/Montevideo:20260428T190000
 DTEND;TZID=America/Montevideo:20260428T210000
 SUMMARY:San Lorenzo🇦🇷 vs. Santos🇧🇷
-DESCRIPTION:Grupo D - Rodada 3 - Copa Sul-Americana
+DESCRIPTION:Grupo D - Rodada 3 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Pedro Bidegain
 END:VEVENT
@@ -1676,7 +1676,7 @@ UID:20260428T210000Z_UniversidadCentral_RosarioCentral
 DTSTART;TZID=America/Montevideo:20260428T210000
 DTEND;TZID=America/Montevideo:20260428T230000
 SUMMARY:Universidad Central🇻🇪 vs. Rosario Central🇦🇷
-DESCRIPTION:Grupo H - Rodada 3 - Copa Libertadores
+DESCRIPTION:Grupo H - Rodada 3 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Olímpico de la UCV
 END:VEVENT
@@ -1686,7 +1686,7 @@ UID:20260428T210000Z_BarracasCentral_AudaxItaliano
 DTSTART;TZID=America/Montevideo:20260428T210000
 DTEND;TZID=America/Montevideo:20260428T230000
 SUMMARY:Barracas Central🇦🇷 vs. Audax Italiano🇨🇱
-DESCRIPTION:Grupo G - Rodada 3 - Copa Sul-Americana
+DESCRIPTION:Grupo G - Rodada 3 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Florencio Solá
 END:VEVENT
@@ -1696,7 +1696,7 @@ UID:20260428T213000Z_Cruzeiro_BocaJuniors
 DTSTART;TZID=America/Montevideo:20260428T213000
 DTEND;TZID=America/Montevideo:20260428T233000
 SUMMARY:Cruzeiro🇧🇷 vs. Boca Juniors🇦🇷
-DESCRIPTION:Grupo D - Rodada 3 - Copa Libertadores
+DESCRIPTION:Grupo D - Rodada 3 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Mineirão
 END:VEVENT
@@ -1706,7 +1706,7 @@ UID:20260429T190000Z_Platense_SantaFe
 DTSTART;TZID=America/Montevideo:20260429T190000
 DTEND;TZID=America/Montevideo:20260429T210000
 SUMMARY:Platense🇦🇷 vs. Santa Fe🇨🇴
-DESCRIPTION:Grupo E - Rodada 3 - Copa Libertadores
+DESCRIPTION:Grupo E - Rodada 3 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Ciudad de Vicente López
 END:VEVENT
@@ -1716,7 +1716,7 @@ UID:20260429T190000Z_Caracas_Racing
 DTSTART;TZID=America/Montevideo:20260429T190000
 DTEND;TZID=America/Montevideo:20260429T210000
 SUMMARY:Caracas🇻🇪 vs. Racing🇦🇷
-DESCRIPTION:Grupo E - Rodada 3 - Copa Sul-Americana
+DESCRIPTION:Grupo E - Rodada 3 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Olímpico de la UCV
 END:VEVENT
@@ -1726,7 +1726,7 @@ UID:20260429T190000Z_DeportivoRiestra_MontevideoCityTorque
 DTSTART;TZID=America/Montevideo:20260429T190000
 DTEND;TZID=America/Montevideo:20260429T210000
 SUMMARY:Deportivo Riestra🇦🇷 vs. Montevideo City Torque🇺🇾
-DESCRIPTION:Grupo F - Rodada 3 - Copa Sul-Americana
+DESCRIPTION:Grupo F - Rodada 3 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Pedro Bidegain
 END:VEVENT
@@ -1736,7 +1736,7 @@ UID:20260429T213000Z_Estudiantes_Flamengo
 DTSTART;TZID=America/Montevideo:20260429T213000
 DTEND;TZID=America/Montevideo:20260429T233000
 SUMMARY:Estudiantes🇦🇷 vs. Flamengo🇧🇷
-DESCRIPTION:Grupo A - Rodada 3 - Copa Libertadores
+DESCRIPTION:Grupo A - Rodada 3 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Jorge Luis Hirschi
 END:VEVENT
@@ -1746,7 +1746,7 @@ UID:20260430T190000Z_IndependienteRivadavia_DeportivoLaGuaira
 DTSTART;TZID=America/Montevideo:20260430T190000
 DTEND;TZID=America/Montevideo:20260430T210000
 SUMMARY:Independiente Rivadavia🇦🇷 vs. Deportivo La Guaira🇻🇪
-DESCRIPTION:Grupo C - Rodada 3 - Copa Libertadores
+DESCRIPTION:Grupo C - Rodada 3 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Malvinas Argentinas (Mendoza)
 END:VEVENT
@@ -1756,7 +1756,7 @@ UID:20260430T210000Z_Tigre_AmericaDeCali
 DTSTART;TZID=America/Montevideo:20260430T210000
 DTEND;TZID=America/Montevideo:20260430T230000
 SUMMARY:Tigre🇦🇷 vs. América de Cali🇨🇴
-DESCRIPTION:Grupo A - Rodada 3 - Copa Sul-Americana
+DESCRIPTION:Grupo A - Rodada 3 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Monumental de Victoria (José Dellagiovanna)
 END:VEVENT
@@ -1766,7 +1766,7 @@ UID:20260430T213000Z_RedBullBragantino_River
 DTSTART;TZID=America/Montevideo:20260430T213000
 DTEND;TZID=America/Montevideo:20260430T233000
 SUMMARY:Red Bull Bragantino🇧🇷 vs. River🇦🇷
-DESCRIPTION:Grupo H - Rodada 3 - Copa Sul-Americana
+DESCRIPTION:Grupo H - Rodada 3 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Municipal Cicero de Souza Marques
 END:VEVENT
@@ -1776,7 +1776,7 @@ UID:20260505T190000Z_RosarioCentral_Libertad
 DTSTART;TZID=America/Montevideo:20260505T190000
 DTEND;TZID=America/Montevideo:20260505T210000
 SUMMARY:Rosario Central🇦🇷 vs. Libertad🇵🇾
-DESCRIPTION:Grupo H - Rodada 4 - Copa Libertadores
+DESCRIPTION:Grupo H - Rodada 4 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Gigante de Arroyito
 END:VEVENT
@@ -1786,7 +1786,7 @@ UID:20260505T190000Z_DeportivoRiestra_Gremio
 DTSTART;TZID=America/Montevideo:20260505T190000
 DTEND;TZID=America/Montevideo:20260505T210000
 SUMMARY:Deportivo Riestra🇦🇷 vs. Gremio🇧🇷
-DESCRIPTION:Grupo F - Rodada 4 - Copa Sul-Americana
+DESCRIPTION:Grupo F - Rodada 4 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Pedro Bidegain
 END:VEVENT
@@ -1796,7 +1796,7 @@ UID:20260505T210000Z_Barcelona_BocaJuniors
 DTSTART;TZID=America/Montevideo:20260505T210000
 DTEND;TZID=America/Montevideo:20260505T230000
 SUMMARY:Barcelona🇪🇨 vs. Boca Juniors🇦🇷
-DESCRIPTION:Grupo D - Rodada 4 - Copa Libertadores
+DESCRIPTION:Grupo D - Rodada 4 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Banco Pichincha
 END:VEVENT
@@ -1806,7 +1806,7 @@ UID:20260505T213000Z_AlwaysReady_Lanus
 DTSTART;TZID=America/Montevideo:20260505T213000
 DTEND;TZID=America/Montevideo:20260505T233000
 SUMMARY:Always Ready🇧🇴 vs. Lanús🇦🇷
-DESCRIPTION:Grupo G - Rodada 4 - Copa Libertadores
+DESCRIPTION:Grupo G - Rodada 4 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Municipal Villa Ingenio
 END:VEVENT
@@ -1816,7 +1816,7 @@ UID:20260505T230000Z_DeportivoCuenca_SanLorenzo
 DTSTART;TZID=America/Montevideo:20260505T230000
 DTEND;TZID=America/Montevideo:20260506T010000
 SUMMARY:Deportivo Cuenca🇪🇨 vs. San Lorenzo🇦🇷
-DESCRIPTION:Grupo D - Rodada 4 - Copa Sul-Americana
+DESCRIPTION:Grupo D - Rodada 4 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Banco del Austro Alejandro Serrano Aguil
 END:VEVENT
@@ -1826,7 +1826,7 @@ UID:20260506T190000Z_Cusco_Estudiantes
 DTSTART;TZID=America/Montevideo:20260506T190000
 DTEND;TZID=America/Montevideo:20260506T210000
 SUMMARY:Cusco🇵🇪 vs. Estudiantes🇦🇷
-DESCRIPTION:Grupo A - Rodada 4 - Copa Libertadores
+DESCRIPTION:Grupo A - Rodada 4 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Inca Garcilaso de la Vega
 END:VEVENT
@@ -1836,7 +1836,7 @@ UID:20260506T210000Z_BarracasCentral_Olimpia
 DTSTART;TZID=America/Montevideo:20260506T210000
 DTEND;TZID=America/Montevideo:20260506T230000
 SUMMARY:Barracas Central🇦🇷 vs. Olimpia🇵🇾
-DESCRIPTION:Grupo G - Rodada 4 - Copa Sul-Americana
+DESCRIPTION:Grupo G - Rodada 4 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Florencio Solá
 END:VEVENT
@@ -1846,7 +1846,7 @@ UID:20260506T210000Z_Macara_Tigre
 DTSTART;TZID=America/Montevideo:20260506T210000
 DTEND;TZID=America/Montevideo:20260506T230000
 SUMMARY:Macará🇪🇨 vs. Tigre🇦🇷
-DESCRIPTION:Grupo A - Rodada 4 - Copa Sul-Americana
+DESCRIPTION:Grupo A - Rodada 4 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Bellavista
 END:VEVENT
@@ -1856,7 +1856,7 @@ UID:20260506T213000Z_IndependienteRivadavia_Fluminense
 DTSTART;TZID=America/Montevideo:20260506T213000
 DTEND;TZID=America/Montevideo:20260506T233000
 SUMMARY:Independiente Rivadavia🇦🇷 vs. Fluminense🇧🇷
-DESCRIPTION:Grupo C - Rodada 4 - Copa Libertadores
+DESCRIPTION:Grupo C - Rodada 4 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Malvinas Argentinas (Mendoza)
 END:VEVENT
@@ -1866,7 +1866,7 @@ UID:20260506T213000Z_Botafogo_Racing
 DTSTART;TZID=America/Montevideo:20260506T213000
 DTEND;TZID=America/Montevideo:20260506T233000
 SUMMARY:Botafogo🇧🇷 vs. Racing🇦🇷
-DESCRIPTION:Grupo E - Rodada 4 - Copa Sul-Americana
+DESCRIPTION:Grupo E - Rodada 4 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Joao Havelange Stadium
 END:VEVENT
@@ -1876,7 +1876,7 @@ UID:20260507T190000Z_Platense_Penarol
 DTSTART;TZID=America/Montevideo:20260507T190000
 DTEND;TZID=America/Montevideo:20260507T210000
 SUMMARY:Platense🇦🇷 vs. Peñarol🇺🇾
-DESCRIPTION:Grupo E - Rodada 4 - Copa Libertadores
+DESCRIPTION:Grupo E - Rodada 4 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Ciudad de Vicente López
 END:VEVENT
@@ -1886,7 +1886,7 @@ UID:20260507T213000Z_Carabobo_River
 DTSTART;TZID=America/Montevideo:20260507T213000
 DTEND;TZID=America/Montevideo:20260507T233000
 SUMMARY:Carabobo🇻🇪 vs. River🇦🇷
-DESCRIPTION:Grupo H - Rodada 4 - Copa Sul-Americana
+DESCRIPTION:Grupo H - Rodada 4 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Misael Delgado
 END:VEVENT
@@ -1896,7 +1896,7 @@ UID:20260519T190000Z_RosarioCentral_UniversidadCentral
 DTSTART;TZID=America/Montevideo:20260519T190000
 DTEND;TZID=America/Montevideo:20260519T210000
 SUMMARY:Rosario Central🇦🇷 vs. Universidad Central🇻🇪
-DESCRIPTION:Grupo H - Rodada 5 - Copa Libertadores
+DESCRIPTION:Grupo H - Rodada 5 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Gigante de Arroyito
 END:VEVENT
@@ -1906,7 +1906,7 @@ UID:20260519T190000Z_AudaxItaliano_BarracasCentral
 DTSTART;TZID=America/Montevideo:20260519T190000
 DTEND;TZID=America/Montevideo:20260519T210000
 SUMMARY:Audax Italiano🇨🇱 vs. Barracas Central🇦🇷
-DESCRIPTION:Grupo G - Rodada 5 - Copa Sul-Americana
+DESCRIPTION:Grupo G - Rodada 5 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Municipal de La Florida
 END:VEVENT
@@ -1916,7 +1916,7 @@ UID:20260519T190000Z_MontevideoCityTorque_DeportivoRiestra
 DTSTART;TZID=America/Montevideo:20260519T190000
 DTEND;TZID=America/Montevideo:20260519T210000
 SUMMARY:Montevideo City Torque🇺🇾 vs. Deportivo Riestra🇦🇷
-DESCRIPTION:Grupo F - Rodada 5 - Copa Sul-Americana
+DESCRIPTION:Grupo F - Rodada 5 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Centenario
 END:VEVENT
@@ -1926,7 +1926,7 @@ UID:20260519T210000Z_SantaFe_Platense
 DTSTART;TZID=America/Montevideo:20260519T210000
 DTEND;TZID=America/Montevideo:20260519T230000
 SUMMARY:Santa Fe🇨🇴 vs. Platense🇦🇷
-DESCRIPTION:Grupo E - Rodada 5 - Copa Libertadores
+DESCRIPTION:Grupo E - Rodada 5 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Nemesio Camacho El Campín
 END:VEVENT
@@ -1936,7 +1936,7 @@ UID:20260519T213000Z_BocaJuniors_Cruzeiro
 DTSTART;TZID=America/Montevideo:20260519T213000
 DTEND;TZID=America/Montevideo:20260519T233000
 SUMMARY:Boca Juniors🇦🇷 vs. Cruzeiro🇧🇷
-DESCRIPTION:Grupo D - Rodada 5 - Copa Libertadores
+DESCRIPTION:Grupo D - Rodada 5 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Alberto José Armando (La Bombonera)
 END:VEVENT
@@ -1946,7 +1946,7 @@ UID:20260519T230000Z_AmericaDeCali_Tigre
 DTSTART;TZID=America/Montevideo:20260519T230000
 DTEND;TZID=America/Montevideo:20260520T010000
 SUMMARY:América de Cali🇨🇴 vs. Tigre🇦🇷
-DESCRIPTION:Grupo A - Rodada 5 - Copa Sul-Americana
+DESCRIPTION:Grupo A - Rodada 5 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Pascual Guerrero
 END:VEVENT
@@ -1956,7 +1956,7 @@ UID:20260520T190000Z_Santos_SanLorenzo
 DTSTART;TZID=America/Montevideo:20260520T190000
 DTEND;TZID=America/Montevideo:20260520T210000
 SUMMARY:Santos🇧🇷 vs. San Lorenzo🇦🇷
-DESCRIPTION:Grupo D - Rodada 5 - Copa Sul-Americana
+DESCRIPTION:Grupo D - Rodada 5 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Vila Belmiro (Urbano Caldeira)
 END:VEVENT
@@ -1966,7 +1966,7 @@ UID:20260520T213000Z_Flamengo_Estudiantes
 DTSTART;TZID=America/Montevideo:20260520T213000
 DTEND;TZID=America/Montevideo:20260520T233000
 SUMMARY:Flamengo🇧🇷 vs. Estudiantes🇦🇷
-DESCRIPTION:Grupo A - Rodada 5 - Copa Libertadores
+DESCRIPTION:Grupo A - Rodada 5 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio do Maracana
 END:VEVENT
@@ -1976,7 +1976,7 @@ UID:20260520T213000Z_LigaDeQuito_Lanus
 DTSTART;TZID=America/Montevideo:20260520T213000
 DTEND;TZID=America/Montevideo:20260520T233000
 SUMMARY:Liga de Quito🇪🇨 vs. Lanús🇦🇷
-DESCRIPTION:Grupo G - Rodada 5 - Copa Libertadores
+DESCRIPTION:Grupo G - Rodada 5 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Rodrigo Paz Delgado
 END:VEVENT
@@ -1986,7 +1986,7 @@ UID:20260520T213000Z_River_RedBullBragantino
 DTSTART;TZID=America/Montevideo:20260520T213000
 DTEND;TZID=America/Montevideo:20260520T233000
 SUMMARY:River🇦🇷 vs. Red Bull Bragantino🇧🇷
-DESCRIPTION:Grupo H - Rodada 5 - Copa Sul-Americana
+DESCRIPTION:Grupo H - Rodada 5 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Más Monumental
 END:VEVENT
@@ -1996,7 +1996,7 @@ UID:20260521T190000Z_DeportivoLaGuaira_IndependienteRivadavia
 DTSTART;TZID=America/Montevideo:20260521T190000
 DTEND;TZID=America/Montevideo:20260521T210000
 SUMMARY:Deportivo La Guaira🇻🇪 vs. Independiente Rivadavia🇦🇷
-DESCRIPTION:Grupo C - Rodada 5 - Copa Libertadores
+DESCRIPTION:Grupo C - Rodada 5 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Olímpico de la UCV
 END:VEVENT
@@ -2006,7 +2006,7 @@ UID:20260521T210000Z_Racing_Caracas
 DTSTART;TZID=America/Montevideo:20260521T210000
 DTEND;TZID=America/Montevideo:20260521T230000
 SUMMARY:Racing🇦🇷 vs. Caracas🇻🇪
-DESCRIPTION:Grupo E - Rodada 5 - Copa Sul-Americana
+DESCRIPTION:Grupo E - Rodada 5 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Presidente Perón (Cilindro de Avellaneda)
 END:VEVENT
@@ -2016,7 +2016,7 @@ UID:20260526T190000Z_Lanus_Mirassol
 DTSTART;TZID=America/Montevideo:20260526T190000
 DTEND;TZID=America/Montevideo:20260526T210000
 SUMMARY:Lanús🇦🇷 vs. Mirassol🇧🇷
-DESCRIPTION:Grupo G - Rodada 6 - Copa Libertadores
+DESCRIPTION:Grupo G - Rodada 6 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Ciudad de Lanús
 END:VEVENT
@@ -2026,7 +2026,7 @@ UID:20260526T190000Z_Palestino_DeportivoRiestra
 DTSTART;TZID=America/Montevideo:20260526T190000
 DTEND;TZID=America/Montevideo:20260526T210000
 SUMMARY:Palestino🇨🇱 vs. Deportivo Riestra🇦🇷
-DESCRIPTION:Grupo F - Rodada 6 - Copa Sul-Americana
+DESCRIPTION:Grupo F - Rodada 6 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Municipal de La Cisterna
 END:VEVENT
@@ -2036,7 +2036,7 @@ UID:20260526T213000Z_Estudiantes_IndependienteDeMedellin
 DTSTART;TZID=America/Montevideo:20260526T213000
 DTEND;TZID=America/Montevideo:20260526T233000
 SUMMARY:Estudiantes🇦🇷 vs. Independiente de Medellín🇨🇴
-DESCRIPTION:Grupo A - Rodada 6 - Copa Libertadores
+DESCRIPTION:Grupo A - Rodada 6 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Jorge Luis Hirschi
 END:VEVENT
@@ -2046,7 +2046,7 @@ UID:20260526T213000Z_SanLorenzo_Recoleta
 DTSTART;TZID=America/Montevideo:20260526T213000
 DTEND;TZID=America/Montevideo:20260526T233000
 SUMMARY:San Lorenzo🇦🇷 vs. Recoleta🇵🇾
-DESCRIPTION:Grupo D - Rodada 6 - Copa Sul-Americana
+DESCRIPTION:Grupo D - Rodada 6 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Pedro Bidegain
 END:VEVENT
@@ -2056,7 +2056,7 @@ UID:20260527T190000Z_IndependienteDelValle_RosarioCentral
 DTSTART;TZID=America/Montevideo:20260527T190000
 DTEND;TZID=America/Montevideo:20260527T210000
 SUMMARY:Independiente del Valle🇪🇨 vs. Rosario Central🇦🇷
-DESCRIPTION:Grupo H - Rodada 6 - Copa Libertadores
+DESCRIPTION:Grupo H - Rodada 6 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Banco Guayaquil
 END:VEVENT
@@ -2066,7 +2066,7 @@ UID:20260527T190000Z_Racing_IndependientePetrolero
 DTSTART;TZID=America/Montevideo:20260527T190000
 DTEND;TZID=America/Montevideo:20260527T210000
 SUMMARY:Racing🇦🇷 vs. Independiente Petrolero🇧🇴
-DESCRIPTION:Grupo E - Rodada 6 - Copa Sul-Americana
+DESCRIPTION:Grupo E - Rodada 6 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Presidente Perón (Cilindro de Avellaneda)
 END:VEVENT
@@ -2076,7 +2076,7 @@ UID:20260527T190000Z_VascoDaGama_BarracasCentral
 DTSTART;TZID=America/Montevideo:20260527T190000
 DTEND;TZID=America/Montevideo:20260527T210000
 SUMMARY:Vasco da Gama🇧🇷 vs. Barracas Central🇦🇷
-DESCRIPTION:Grupo G - Rodada 6 - Copa Sul-Americana
+DESCRIPTION:Grupo G - Rodada 6 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio São Januário
 END:VEVENT
@@ -2086,7 +2086,7 @@ UID:20260527T213000Z_Bolivar_IndependienteRivadavia
 DTSTART;TZID=America/Montevideo:20260527T213000
 DTEND;TZID=America/Montevideo:20260527T233000
 SUMMARY:Bolívar🇧🇴 vs. Independiente Rivadavia🇦🇷
-DESCRIPTION:Grupo C - Rodada 6 - Copa Libertadores
+DESCRIPTION:Grupo C - Rodada 6 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Ramón Tahuichi
 END:VEVENT
@@ -2096,7 +2096,7 @@ UID:20260527T213000Z_Corinthians_Platense
 DTSTART;TZID=America/Montevideo:20260527T213000
 DTEND;TZID=America/Montevideo:20260527T233000
 SUMMARY:Corinthians🇧🇷 vs. Platense🇦🇷
-DESCRIPTION:Grupo E - Rodada 6 - Copa Libertadores
+DESCRIPTION:Grupo E - Rodada 6 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Neo Química Arena
 END:VEVENT
@@ -2106,7 +2106,7 @@ UID:20260527T213000Z_River_Blooming
 DTSTART;TZID=America/Montevideo:20260527T213000
 DTEND;TZID=America/Montevideo:20260527T233000
 SUMMARY:River🇦🇷 vs. Blooming🇧🇴
-DESCRIPTION:Grupo H - Rodada 6 - Copa Sul-Americana
+DESCRIPTION:Grupo H - Rodada 6 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Más Monumental
 END:VEVENT
@@ -2116,7 +2116,7 @@ UID:20260528T213000Z_BocaJuniors_UniversidadCatolica
 DTSTART;TZID=America/Montevideo:20260528T213000
 DTEND;TZID=America/Montevideo:20260528T233000
 SUMMARY:Boca Juniors🇦🇷 vs. Universidad Católica🇪🇨
-DESCRIPTION:Grupo D - Rodada 6 - Copa Libertadores
+DESCRIPTION:Grupo D - Rodada 6 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Alberto José Armando (La Bombonera)
 END:VEVENT
@@ -2126,7 +2126,7 @@ UID:20260528T213000Z_Tigre_AlianzaAtletico
 DTSTART;TZID=America/Montevideo:20260528T213000
 DTEND;TZID=America/Montevideo:20260528T233000
 SUMMARY:Tigre🇦🇷 vs. Alianza Atlético🇵🇪
-DESCRIPTION:Grupo A - Rodada 6 - Copa Sul-Americana
+DESCRIPTION:Grupo A - Rodada 6 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Monumental de Victoria (José Dellagiovanna)
 END:VEVENT
@@ -2136,7 +2136,7 @@ UID:20260721T190000Z_Nacional_Tigre
 DTSTART;TZID=America/Montevideo:20260721T190000
 DTEND;TZID=America/Montevideo:20260721T210000
 SUMMARY:Nacional🇺🇾 vs. Tigre🇦🇷
-DESCRIPTION:Play-offs - Ida - Copa Sul-Americana
+DESCRIPTION:Play-offs - Ida - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Gran Parque Central
 END:VEVENT
@@ -2146,7 +2146,7 @@ UID:20260722T213000Z_Lanus_Cienciano
 DTSTART;TZID=America/Montevideo:20260722T213000
 DTEND;TZID=America/Montevideo:20260722T233000
 SUMMARY:Lanús🇦🇷 vs. Cienciano🇵🇪
-DESCRIPTION:Play-offs - Ida - Copa Sul-Americana
+DESCRIPTION:Play-offs - Ida - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Ciudad de Lanús
 END:VEVENT
@@ -2156,7 +2156,7 @@ UID:20260723T213000Z_BocaJuniors_OHiggins
 DTSTART;TZID=America/Montevideo:20260723T213000
 DTEND;TZID=America/Montevideo:20260723T233000
 SUMMARY:Boca Juniors🇦🇷 vs. O'Higgins🇨🇱
-DESCRIPTION:Play-offs - Ida - Copa Sul-Americana
+DESCRIPTION:Play-offs - Ida - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Alberto José Armando (La Bombonera)
 END:VEVENT
@@ -2166,7 +2166,7 @@ UID:20260728T190000Z_Tigre_Nacional
 DTSTART;TZID=America/Montevideo:20260728T190000
 DTEND;TZID=America/Montevideo:20260728T210000
 SUMMARY:Tigre🇦🇷 vs. Nacional🇺🇾
-DESCRIPTION:Play-offs - Volta - Copa Sul-Americana
+DESCRIPTION:Play-offs - Volta - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Monumental de Victoria (José Dellagiovanna)
 END:VEVENT
@@ -2176,7 +2176,7 @@ UID:20260729T213000Z_Cienciano_Lanus
 DTSTART;TZID=America/Montevideo:20260729T213000
 DTEND;TZID=America/Montevideo:20260729T233000
 SUMMARY:Cienciano🇵🇪 vs. Lanús🇦🇷
-DESCRIPTION:Play-offs - Volta - Copa Sul-Americana
+DESCRIPTION:Play-offs - Volta - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Inca Garcilaso de la Vega
 END:VEVENT
@@ -2186,7 +2186,7 @@ UID:20260730T213000Z_OHiggins_BocaJuniors
 DTSTART;TZID=America/Montevideo:20260730T213000
 DTEND;TZID=America/Montevideo:20260730T233000
 SUMMARY:O'Higgins🇨🇱 vs. Boca Juniors🇦🇷
-DESCRIPTION:Play-offs - Volta - Copa Sul-Americana
+DESCRIPTION:Play-offs - Volta - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio a definir
 END:VEVENT
@@ -2196,7 +2196,7 @@ UID:20260811T190000Z_Fluminense_IndependienteRivadavia
 DTSTART;TZID=America/Montevideo:20260811T190000
 DTEND;TZID=America/Montevideo:20260811T210000
 SUMMARY:Fluminense🇧🇷 vs. Independiente Rivadavia🇦🇷
-DESCRIPTION:Oitavas de final - Ida - Copa Libertadores
+DESCRIPTION:Oitavas de final - Ida - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio do Maracana
 END:VEVENT
@@ -2206,7 +2206,7 @@ UID:20260811T213000Z_Estudiantes_UniversidadCatolica
 DTSTART;TZID=America/Montevideo:20260811T213000
 DTEND;TZID=America/Montevideo:20260811T233000
 SUMMARY:Estudiantes🇦🇷 vs. Universidad Católica🇪🇨
-DESCRIPTION:Oitavas de final - Ida - Copa Libertadores
+DESCRIPTION:Oitavas de final - Ida - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Jorge Luis Hirschi
 END:VEVENT
@@ -2216,7 +2216,7 @@ UID:20260812T190000Z_Platense_CoquimboUnido
 DTSTART;TZID=America/Montevideo:20260812T190000
 DTEND;TZID=America/Montevideo:20260812T210000
 SUMMARY:Platense🇦🇷 vs. Coquimbo Unido🇨🇱
-DESCRIPTION:Oitavas de final - Ida - Copa Libertadores
+DESCRIPTION:Oitavas de final - Ida - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Ciudad de Vicente López
 END:VEVENT
@@ -2226,7 +2226,7 @@ UID:20260813T213000Z_RosarioCentral_Corinthians
 DTSTART;TZID=America/Montevideo:20260813T213000
 DTEND;TZID=America/Montevideo:20260813T233000
 SUMMARY:Rosario Central🇦🇷 vs. Corinthians🇧🇷
-DESCRIPTION:Oitavas de final - Ida - Copa Libertadores
+DESCRIPTION:Oitavas de final - Ida - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Gigante de Arroyito
 END:VEVENT
@@ -2236,7 +2236,7 @@ UID:20260818T190000Z_IndependienteRivadavia_Fluminense
 DTSTART;TZID=America/Montevideo:20260818T190000
 DTEND;TZID=America/Montevideo:20260818T210000
 SUMMARY:Independiente Rivadavia🇦🇷 vs. Fluminense🇧🇷
-DESCRIPTION:Oitavas de final - Volta - Copa Libertadores
+DESCRIPTION:Oitavas de final - Volta - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Malvinas Argentinas (Mendoza)
 END:VEVENT
@@ -2246,7 +2246,7 @@ UID:20260818T213000Z_UniversidadCatolica_Estudiantes
 DTSTART;TZID=America/Montevideo:20260818T213000
 DTEND;TZID=America/Montevideo:20260818T233000
 SUMMARY:Universidad Católica🇪🇨 vs. Estudiantes🇦🇷
-DESCRIPTION:Oitavas de final - Volta - Copa Libertadores
+DESCRIPTION:Oitavas de final - Volta - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio San Carlos de Apoquindo
 END:VEVENT
@@ -2256,7 +2256,7 @@ UID:20260819T190000Z_CoquimboUnido_Platense
 DTSTART;TZID=America/Montevideo:20260819T190000
 DTEND;TZID=America/Montevideo:20260819T210000
 SUMMARY:Coquimbo Unido🇨🇱 vs. Platense🇦🇷
-DESCRIPTION:Oitavas de final - Volta - Copa Libertadores
+DESCRIPTION:Oitavas de final - Volta - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio a definir
 END:VEVENT
@@ -2266,7 +2266,7 @@ UID:20260820T213000Z_Corinthians_RosarioCentral
 DTSTART;TZID=America/Montevideo:20260820T213000
 DTEND;TZID=America/Montevideo:20260820T233000
 SUMMARY:Corinthians🇧🇷 vs. Rosario Central🇦🇷
-DESCRIPTION:Oitavas de final - Volta - Copa Libertadores
+DESCRIPTION:Oitavas de final - Volta - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Neo Química Arena
 END:VEVENT

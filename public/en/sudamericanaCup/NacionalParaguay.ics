@@ -6,7 +6,7 @@ UID:20240402T190000Z_Nacional_Par_Argentinos_Juniors
 DTSTART;TZID=America/Montevideo:20240402T190000
 DTEND;TZID=America/Montevideo:20240402T210000
 SUMMARY:Nacional(Par)🇵🇾 vs. Argentinos Juniors🇦🇷
-DESCRIPTION:Group F - Matchday 1 - Sudamericana Cup
+DESCRIPTION:Group F - Matchday 1 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Defensores del Chaco Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20240409T190000Z_Corinthians_Nacional_Par
 DTSTART;TZID=America/Montevideo:20240409T190000
 DTEND;TZID=America/Montevideo:20240409T210000
 SUMMARY:Corinthians🇧🇷 vs. Nacional(Par)🇵🇾
-DESCRIPTION:Group F - Matchday 2 - Sudamericana Cup
+DESCRIPTION:Group F - Matchday 2 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Neo Química Arena
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240425T190000Z_Nacional_Par_Racing_Uru
 DTSTART;TZID=America/Montevideo:20240425T190000
 DTEND;TZID=America/Montevideo:20240425T210000
 SUMMARY:Nacional(Par)🇵🇾 vs.Racing(Uru)🇺🇾
-DESCRIPTION:Group F - Matchday 3 - Sudamericana Cup
+DESCRIPTION:Group F - Matchday 3 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Defensores del Chaco Stadium
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20240507T190000Z_Racing_Uru_Nacional_Par
 DTSTART;TZID=America/Montevideo:20240507T190000
 DTEND;TZID=America/Montevideo:20240507T210000
 SUMMARY:Racing(Uru)🇺🇾 vs. Nacional(Par)🇵🇾
-DESCRIPTION:Group F - Matchday 4 - Sudamericana Cup
+DESCRIPTION:Group F - Matchday 4 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Centenario Stadium
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20240514T190000Z_Racing_Uru_Nacional_Par
 DTSTART;TZID=America/Montevideo:20240514T190000
 DTEND;TZID=America/Montevideo:20240514T210000
 SUMMARY:Racing(Uru)🇺🇾 vs. Nacional(Par)🇵🇾
-DESCRIPTION:Group F - Matchday 5 - Sudamericana Cup
+DESCRIPTION:Group F - Matchday 5 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Centenario Stadium
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20240528T190000Z_Argentinos_Juniors_Nacional_Par
 DTSTART;TZID=America/Montevideo:20240528T190000
 DTEND;TZID=America/Montevideo:20240528T210000
 SUMMARY:Argentinos Juniors🇦🇷 vs. Nacional(Par)🇵🇾
-DESCRIPTION:Group F - Matchday 6 - Sudamericana Cup
+DESCRIPTION:Group F - Matchday 6 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Diego Armando Maradona Stadium
 END:VEVENT

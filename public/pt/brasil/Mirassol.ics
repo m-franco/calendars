@@ -6,7 +6,7 @@ UID:20260408T190000Z_Mirassol_Lanus
 DTSTART;TZID=America/Montevideo:20260408T190000
 DTEND;TZID=America/Montevideo:20260408T210000
 SUMMARY:Mirassol🇧🇷 vs. Lanús🇦🇷
-DESCRIPTION:Grupo G - Rodada 1 - Copa Libertadores
+DESCRIPTION:Grupo G - Rodada 1 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Municipal José Maria de Campos Maia
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260414T230000Z_LigaDeQuito_Mirassol
 DTSTART;TZID=America/Montevideo:20260414T230000
 DTEND;TZID=America/Montevideo:20260415T010000
 SUMMARY:Liga de Quito🇪🇨 vs. Mirassol🇧🇷
-DESCRIPTION:Grupo G - Rodada 2 - Copa Libertadores
+DESCRIPTION:Grupo G - Rodada 2 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Rodrigo Paz Delgado
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260429T190000Z_Mirassol_AlwaysReady
 DTSTART;TZID=America/Montevideo:20260429T190000
 DTEND;TZID=America/Montevideo:20260429T210000
 SUMMARY:Mirassol🇧🇷 vs. Always Ready🇧🇴
-DESCRIPTION:Grupo G - Rodada 3 - Copa Libertadores
+DESCRIPTION:Grupo G - Rodada 3 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Municipal José Maria de Campos Maia
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20260507T190000Z_Mirassol_LigaDeQuito
 DTSTART;TZID=America/Montevideo:20260507T190000
 DTEND;TZID=America/Montevideo:20260507T210000
 SUMMARY:Mirassol🇧🇷 vs. Liga de Quito🇪🇨
-DESCRIPTION:Grupo G - Rodada 4 - Copa Libertadores
+DESCRIPTION:Grupo G - Rodada 4 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Municipal José Maria de Campos Maia
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20260519T210000Z_AlwaysReady_Mirassol
 DTSTART;TZID=America/Montevideo:20260519T210000
 DTEND;TZID=America/Montevideo:20260519T230000
 SUMMARY:Always Ready🇧🇴 vs. Mirassol🇧🇷
-DESCRIPTION:Grupo G - Rodada 5 - Copa Libertadores
+DESCRIPTION:Grupo G - Rodada 5 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Tigo La Huerta
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20260526T190000Z_Lanus_Mirassol
 DTSTART;TZID=America/Montevideo:20260526T190000
 DTEND;TZID=America/Montevideo:20260526T210000
 SUMMARY:Lanús🇦🇷 vs. Mirassol🇧🇷
-DESCRIPTION:Grupo G - Rodada 6 - Copa Libertadores
+DESCRIPTION:Grupo G - Rodada 6 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Ciudad de Lanús
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20260813T190000Z_Mirassol_LigaDeQuito
 DTSTART;TZID=America/Montevideo:20260813T190000
 DTEND;TZID=America/Montevideo:20260813T210000
 SUMMARY:Mirassol🇧🇷 vs. Liga de Quito🇪🇨
-DESCRIPTION:Oitavas de final - Ida - Copa Libertadores
+DESCRIPTION:Oitavas de final - Ida - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio a definir
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20260820T190000Z_LigaDeQuito_Mirassol
 DTSTART;TZID=America/Montevideo:20260820T190000
 DTEND;TZID=America/Montevideo:20260820T210000
 SUMMARY:Liga de Quito🇪🇨 vs. Mirassol🇧🇷
-DESCRIPTION:Oitavas de final - Volta - Copa Libertadores
+DESCRIPTION:Oitavas de final - Volta - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Rodrigo Paz Delgado
 END:VEVENT

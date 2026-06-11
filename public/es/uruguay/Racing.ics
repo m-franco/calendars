@@ -6,7 +6,7 @@ UID:20240402T213000Z_Racing_Uru_Corinthians
 DTSTART;TZID=America/Montevideo:20240402T213000
 DTEND;TZID=America/Montevideo:20240402T233000
 SUMMARY:Racing(Uru)🇺🇾 vs. Corinthians🇧🇷
-DESCRIPTION:Grupo F - Fecha 1 - Copa Sudamericana
+DESCRIPTION:Grupo F - Fecha 1 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Centenario
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20240409T190000Z_Argentinos_Juniors_Racing_Uru
 DTSTART;TZID=America/Montevideo:20240409T190000
 DTEND;TZID=America/Montevideo:20240409T210000
 SUMMARY:Argentinos Juniors🇦🇷 vs.Racing(Uru)🇺🇾
-DESCRIPTION:Grupo F - Fecha 2 - Copa Sudamericana
+DESCRIPTION:Grupo F - Fecha 2 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Diego Armando Maradona
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240425T190000Z_Nacional_Par_Racing_Uru
 DTSTART;TZID=America/Montevideo:20240425T190000
 DTEND;TZID=America/Montevideo:20240425T210000
 SUMMARY:Nacional(Par)🇵🇾 vs.Racing(Uru)🇺🇾
-DESCRIPTION:Grupo F - Fecha 3 - Copa Sudamericana
+DESCRIPTION:Grupo F - Fecha 3 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Defensores del Chaco
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20240507T190000Z_Racing_Uru_Nacional_Par
 DTSTART;TZID=America/Montevideo:20240507T190000
 DTEND;TZID=America/Montevideo:20240507T210000
 SUMMARY:Racing(Uru)🇺🇾 vs. Nacional(Par)🇵🇾
-DESCRIPTION:Grupo F - Fecha 4 - Copa Sudamericana
+DESCRIPTION:Grupo F - Fecha 4 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Centenario
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20240514T190000Z_Racing_Uru_Nacional_Par
 DTSTART;TZID=America/Montevideo:20240514T190000
 DTEND;TZID=America/Montevideo:20240514T210000
 SUMMARY:Racing(Uru)🇺🇾 vs. Nacional(Par)🇵🇾
-DESCRIPTION:Grupo F - Fecha 5 - Copa Sudamericana
+DESCRIPTION:Grupo F - Fecha 5 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Centenario
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20240528T190000Z_Corinthians_Racing_Uru
 DTSTART;TZID=America/Montevideo:20240528T190000
 DTEND;TZID=America/Montevideo:20240528T210000
 SUMMARY:Corinthians🇧🇷 vs.Racing(Uru)🇺🇾
-DESCRIPTION:Grupo F - Fecha 6 - Copa Sudamericana
+DESCRIPTION:Grupo F - Fecha 6 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Neo Química Arena
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20240716T190000Z_Huachipato_Racing_Uru
 DTSTART;TZID=America/Montevideo:20240716T190000
 DTEND;TZID=America/Montevideo:20240716T210000
 SUMMARY:Huachipato🇨🇱 vs. Racing(Uru)🇺🇾
-DESCRIPTION:Play-offs - Ida - Copa Sudamericana
+DESCRIPTION:Play-offs - Ida - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 LOCATION:Estadio Ester Roa, Concepción
 CLASS:PUBLIC
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20240723T190000Z_Racing_Uru_Huachipato
 DTSTART;TZID=America/Montevideo:20240723T190000
 DTEND;TZID=America/Montevideo:20240723T210000
 SUMMARY:Racing(Uru)🇺🇾 vs. Huachipato🇨🇱
-DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana
+DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 LOCATION:Estadio Centenario, Montevideo
 CLASS:PUBLIC
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20250402T213000Z_RacingUruguay_AmericaDeCali
 DTSTART;TZID=America/Montevideo:20250402T213000
 DTEND;TZID=America/Montevideo:20250402T233000
 SUMMARY:Racing (Uru)🇺🇾 vs. América de Cali🇨🇴
-DESCRIPTION:Grupo C - Fecha 1 - Copa Sudamericana
+DESCRIPTION:Grupo C - Fecha 1 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Centenario
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20250409T190000Z_Huracan_RacingUruguay
 DTSTART;TZID=America/Montevideo:20250409T190000
 DTEND;TZID=America/Montevideo:20250409T210000
 SUMMARY:Huracán🇦🇷 vs. Racing (Uru)🇺🇾
-DESCRIPTION:Grupo C - Fecha 2 - Copa Sudamericana
+DESCRIPTION:Grupo C - Fecha 2 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Tomás Adolfo Ducó
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20250424T190000Z_Corinthians_RacingUruguay
 DTSTART;TZID=America/Montevideo:20250424T190000
 DTEND;TZID=America/Montevideo:20250424T210000
 SUMMARY:Corinthians🇧🇷 vs. Racing (Uru)🇺🇾
-DESCRIPTION:Grupo C - Fecha 3 - Copa Sudamericana
+DESCRIPTION:Grupo C - Fecha 3 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Neo Química Arena
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20250508T190000Z_RacingUruguay_Huracan
 DTSTART;TZID=America/Montevideo:20250508T190000
 DTEND;TZID=America/Montevideo:20250508T210000
 SUMMARY:Racing (Uru)🇺🇾 vs. Huracán🇦🇷
-DESCRIPTION:Grupo C - Fecha 4 - Copa Sudamericana
+DESCRIPTION:Grupo C - Fecha 4 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Centenario
 END:VEVENT
@@ -126,7 +126,7 @@ UID:20250515T190000Z_RacingUruguay_Corinthians
 DTSTART;TZID=America/Montevideo:20250515T190000
 DTEND;TZID=America/Montevideo:20250515T210000
 SUMMARY:Racing (Uru)🇺🇾 vs. Corinthians🇧🇷
-DESCRIPTION:Grupo C - Fecha 5 - Copa Sudamericana
+DESCRIPTION:Grupo C - Fecha 5 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Centenario
 END:VEVENT
@@ -136,7 +136,7 @@ UID:20250527T213000Z_AmericaDeCali_RacingUruguay
 DTSTART;TZID=America/Montevideo:20250527T213000
 DTEND;TZID=America/Montevideo:20250527T233000
 SUMMARY:América de Cali🇨🇴 vs. Racing (Uru)🇺🇾
-DESCRIPTION:Grupo C - Fecha 6 - Copa Sudamericana
+DESCRIPTION:Grupo C - Fecha 6 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Pascual Guerrero
 END:VEVENT

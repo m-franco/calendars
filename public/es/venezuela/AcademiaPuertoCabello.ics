@@ -6,7 +6,7 @@ UID:20250403T190000Z_AcademiaPuertoCabello_Lanus
 DTSTART;TZID=America/Montevideo:20250403T190000
 DTEND;TZID=America/Montevideo:20250403T210000
 SUMMARY:Academia Puerto Cabello🇻🇪 vs. Lanús🇦🇷
-DESCRIPTION:Grupo G - Fecha 1 - Copa Sudamericana
+DESCRIPTION:Grupo G - Fecha 1 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Misael Delgado
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20250408T213000Z_VascoDaGama_AcademiaPuertoCabello
 DTSTART;TZID=America/Montevideo:20250408T213000
 DTEND;TZID=America/Montevideo:20250408T233000
 SUMMARY:Vasco da Gama🇧🇷 vs. Academia Puerto Cabello🇻🇪
-DESCRIPTION:Grupo G - Fecha 2 - Copa Sudamericana
+DESCRIPTION:Grupo G - Fecha 2 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estádio São Januário
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20250422T230000Z_Melgar_AcademiaPuertoCabello
 DTSTART;TZID=America/Montevideo:20250422T230000
 DTEND;TZID=America/Montevideo:20250423T010000
 SUMMARY:Melgar🇵🇪 vs. Academia Puerto Cabello🇻🇪
-DESCRIPTION:Grupo G - Fecha 3 - Copa Sudamericana
+DESCRIPTION:Grupo G - Fecha 3 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Monumental de la UNSA
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20250507T190000Z_AcademiaPuertoCabello_VascoDaGama
 DTSTART;TZID=America/Montevideo:20250507T190000
 DTEND;TZID=America/Montevideo:20250507T210000
 SUMMARY:Academia Puerto Cabello🇻🇪 vs. Vasco da Gama🇧🇷
-DESCRIPTION:Grupo G - Fecha 4 - Copa Sudamericana
+DESCRIPTION:Grupo G - Fecha 4 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Misael Delgado
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20250513T213000Z_AcademiaPuertoCabello_Melgar
 DTSTART;TZID=America/Montevideo:20250513T213000
 DTEND;TZID=America/Montevideo:20250513T233000
 SUMMARY:Academia Puerto Cabello🇻🇪 vs. Melgar🇵🇪
-DESCRIPTION:Grupo G - Fecha 5 - Copa Sudamericana
+DESCRIPTION:Grupo G - Fecha 5 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Misael Delgado
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20250527T190000Z_Lanus_AcademiaPuertoCabello
 DTSTART;TZID=America/Montevideo:20250527T190000
 DTEND;TZID=America/Montevideo:20250527T210000
 SUMMARY:Lanús🇦🇷 vs. Academia Puerto Cabello🇻🇪
-DESCRIPTION:Grupo G - Fecha 6 - Copa Sudamericana
+DESCRIPTION:Grupo G - Fecha 6 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Ciudad de Lanús
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20260408T230000Z_AcademiaPuertoCabello_AtleticoMineiro
 DTSTART;TZID=America/Montevideo:20260408T230000
 DTEND;TZID=America/Montevideo:20260409T010000
 SUMMARY:Academia Puerto Cabello🇻🇪 vs. Atlético Mineiro🇧🇷
-DESCRIPTION:Grupo B - Fecha 1 - Copa Sudamericana
+DESCRIPTION:Grupo B - Fecha 1 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Misael Delgado
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20260416T230000Z_Cienciano_AcademiaPuertoCabello
 DTSTART;TZID=America/Montevideo:20260416T230000
 DTEND;TZID=America/Montevideo:20260417T010000
 SUMMARY:Cienciano🇵🇪 vs. Academia Puerto Cabello🇻🇪
-DESCRIPTION:Grupo B - Fecha 2 - Copa Sudamericana
+DESCRIPTION:Grupo B - Fecha 2 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Inca Garcilaso de la Vega
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20260429T190000Z_Juventud_AcademiaPuertoCabello
 DTSTART;TZID=America/Montevideo:20260429T190000
 DTEND;TZID=America/Montevideo:20260429T210000
 SUMMARY:Juventud🇺🇾 vs. Academia Puerto Cabello🇻🇪
-DESCRIPTION:Grupo B - Fecha 3 - Copa Sudamericana
+DESCRIPTION:Grupo B - Fecha 3 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Centenario
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20260505T213000Z_AcademiaPuertoCabello_Cienciano
 DTSTART;TZID=America/Montevideo:20260505T213000
 DTEND;TZID=America/Montevideo:20260505T233000
 SUMMARY:Academia Puerto Cabello🇻🇪 vs. Cienciano🇵🇪
-DESCRIPTION:Grupo B - Fecha 4 - Copa Sudamericana
+DESCRIPTION:Grupo B - Fecha 4 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Misael Delgado
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20260521T190000Z_AcademiaPuertoCabello_Juventud
 DTSTART;TZID=America/Montevideo:20260521T190000
 DTEND;TZID=America/Montevideo:20260521T210000
 SUMMARY:Academia Puerto Cabello🇻🇪 vs. Juventud🇺🇾
-DESCRIPTION:Grupo B - Fecha 5 - Copa Sudamericana
+DESCRIPTION:Grupo B - Fecha 5 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Misael Delgado
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20260527T190000Z_AtleticoMineiro_AcademiaPuertoCabello
 DTSTART;TZID=America/Montevideo:20260527T190000
 DTEND;TZID=America/Montevideo:20260527T210000
 SUMMARY:Atlético Mineiro🇧🇷 vs. Academia Puerto Cabello🇻🇪
-DESCRIPTION:Grupo B - Fecha 6 - Copa Sudamericana
+DESCRIPTION:Grupo B - Fecha 6 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Arena MRV
 END:VEVENT

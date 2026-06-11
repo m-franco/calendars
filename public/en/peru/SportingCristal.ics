@@ -6,7 +6,7 @@ UID:20250403T190000Z_SportingCristal_Palmeiras
 DTSTART;TZID=America/Montevideo:20250403T190000
 DTEND;TZID=America/Montevideo:20250403T210000
 SUMMARY:Sporting Cristal🇵🇪 vs. Palmeiras🇧🇷
-DESCRIPTION:Group G - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group G - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nacional de Lima Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20250409T213000Z_Bolivar_SportingCristal
 DTSTART;TZID=America/Montevideo:20250409T213000
 DTEND;TZID=America/Montevideo:20250409T233000
 SUMMARY:Bolívar🇧🇴 vs. Sporting Cristal🇵🇪
-DESCRIPTION:Group G - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group G - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Hernando Siles Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20250424T213000Z_CerroPorteno_SportingCristal
 DTSTART;TZID=America/Montevideo:20250424T213000
 DTEND;TZID=America/Montevideo:20250424T233000
 SUMMARY:Cerro Porteño🇵🇾 vs. Sporting Cristal🇵🇪
-DESCRIPTION:Group G - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group G - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:ueno La Nueva Olla Stadium
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20250507T230000Z_SportingCristal_Bolivar
 DTSTART;TZID=America/Montevideo:20250507T230000
 DTEND;TZID=America/Montevideo:20250508T010000
 SUMMARY:Sporting Cristal🇵🇪 vs. Bolívar🇧🇴
-DESCRIPTION:Group G - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group G - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nacional de Lima Stadium
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20250513T213000Z_SportingCristal_CerroPorteno
 DTSTART;TZID=America/Montevideo:20250513T213000
 DTEND;TZID=America/Montevideo:20250513T233000
 SUMMARY:Sporting Cristal🇵🇪 vs. Cerro Porteño🇵🇾
-DESCRIPTION:Group G - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group G - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nacional de Lima Stadium
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20250528T213000Z_Palmeiras_SportingCristal
 DTSTART;TZID=America/Montevideo:20250528T213000
 DTEND;TZID=America/Montevideo:20250528T233000
 SUMMARY:Palmeiras🇧🇷 vs. Sporting Cristal🇵🇪
-DESCRIPTION:Group G - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group G - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Allianz Parque
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20260408T230000Z_SportingCristal_CerroPorteno
 DTSTART;TZID=America/Montevideo:20260408T230000
 DTEND;TZID=America/Montevideo:20260409T010000
 SUMMARY:Sporting Cristal🇵🇪 vs. Cerro Porteño🇵🇾
-DESCRIPTION:Group F - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Miguel Grau del Callao Stadium
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20260416T190000Z_Palmeiras_SportingCristal
 DTSTART;TZID=America/Montevideo:20260416T190000
 DTEND;TZID=America/Montevideo:20260416T210000
 SUMMARY:Palmeiras🇧🇷 vs. Sporting Cristal🇵🇪
-DESCRIPTION:Group F - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Allianz Parque
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20260428T230000Z_SportingCristal_Junior
 DTSTART;TZID=America/Montevideo:20260428T230000
 DTEND;TZID=America/Montevideo:20260429T010000
 SUMMARY:Sporting Cristal🇵🇪 vs. Junior🇨🇴
-DESCRIPTION:Group F - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Alejandro Villanueva Stadium
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20260505T190000Z_SportingCristal_Palmeiras
 DTSTART;TZID=America/Montevideo:20260505T190000
 DTEND;TZID=America/Montevideo:20260505T210000
 SUMMARY:Sporting Cristal🇵🇪 vs. Palmeiras🇧🇷
-DESCRIPTION:Group F - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Alejandro Villanueva Stadium
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20260520T230000Z_Junior_SportingCristal
 DTSTART;TZID=America/Montevideo:20260520T230000
 DTEND;TZID=America/Montevideo:20260521T010000
 SUMMARY:Junior🇨🇴 vs. Sporting Cristal🇵🇪
-DESCRIPTION:Group F - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:a definir Stadium
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20260528T190000Z_CerroPorteno_SportingCristal
 DTSTART;TZID=America/Montevideo:20260528T190000
 DTEND;TZID=America/Montevideo:20260528T210000
 SUMMARY:Cerro Porteño🇵🇾 vs. Sporting Cristal🇵🇪
-DESCRIPTION:Group F - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:ueno La Nueva Olla Stadium
 END:VEVENT
@@ -126,7 +126,7 @@ UID:20260722T213000Z_SportingCristal_RedBullBragantino
 DTSTART;TZID=America/Montevideo:20260722T213000
 DTEND;TZID=America/Montevideo:20260722T233000
 SUMMARY:Sporting Cristal🇵🇪 vs. Red Bull Bragantino🇧🇷
-DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nacional de Lima Stadium
 END:VEVENT
@@ -136,7 +136,7 @@ UID:20260729T213000Z_RedBullBragantino_SportingCristal
 DTSTART;TZID=America/Montevideo:20260729T213000
 DTEND;TZID=America/Montevideo:20260729T233000
 SUMMARY:Red Bull Bragantino🇧🇷 vs. Sporting Cristal🇵🇪
-DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:a definir Stadium
 END:VEVENT

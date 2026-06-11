@@ -4,7 +4,7 @@ import { yearIndexPaths } from "../../../../i18n/paths";
 import { alternatesFor, urlFor, localizedTournamentSlug, type Lang } from "../../../../i18n/ui";
 
 export function getStaticPaths() {
-    return (["en", "pt"] as Lang[]).flatMap((l) =>
+    return (["es", "en", "pt"] as Lang[]).flatMap((l) =>
         yearIndexPaths(l).map((e) => ({ params: { lang: l, ...e.params }, props: e.props }))
     );
 }

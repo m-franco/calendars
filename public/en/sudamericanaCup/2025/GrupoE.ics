@@ -6,7 +6,7 @@ UID:20250401T190000Z_Union_Cruzeiro
 DTSTART;TZID=America/Montevideo:20250401T190000
 DTEND;TZID=America/Montevideo:20250401T210000
 SUMMARY:Unión🇦🇷 vs. Cruzeiro🇧🇷
-DESCRIPTION:Group E - Matchday 1 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 1 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:15 de Abril
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20250403T230000Z_MushucRuna_Palestino
 DTSTART;TZID=America/Montevideo:20250403T230000
 DTEND;TZID=America/Montevideo:20250404T010000
 SUMMARY:Mushuc Runa🇪🇨 vs. Palestino🇨🇱
-DESCRIPTION:Group E - Matchday 1 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 1 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Fernando Guerrero Guerrero Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20250409T190000Z_Palestino_Union
 DTSTART;TZID=America/Montevideo:20250409T190000
 DTEND;TZID=America/Montevideo:20250409T210000
 SUMMARY:Palestino🇨🇱 vs. Unión🇦🇷
-DESCRIPTION:Group E - Matchday 2 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 2 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nacional Julio Martínez Prádanos Stadium
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20250409T213000Z_Cruzeiro_MushucRuna
 DTSTART;TZID=America/Montevideo:20250409T213000
 DTEND;TZID=America/Montevideo:20250409T233000
 SUMMARY:Cruzeiro🇧🇷 vs. Mushuc Runa🇪🇨
-DESCRIPTION:Group E - Matchday 2 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 2 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Mineirão Stadium
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20250423T230000Z_MushucRuna_Union
 DTSTART;TZID=America/Montevideo:20250423T230000
 DTEND;TZID=America/Montevideo:20250424T010000
 SUMMARY:Mushuc Runa🇪🇨 vs. Unión🇦🇷
-DESCRIPTION:Group E - Matchday 3 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 3 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Banco Guayaquil Stadium
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20250424T213000Z_Palestino_Cruzeiro
 DTSTART;TZID=America/Montevideo:20250424T213000
 DTEND;TZID=America/Montevideo:20250424T233000
 SUMMARY:Palestino🇨🇱 vs. Cruzeiro🇧🇷
-DESCRIPTION:Group E - Matchday 3 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 3 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Francisco Sánchez Rumoroso
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20250507T190000Z_Union_Palestino
 DTSTART;TZID=America/Montevideo:20250507T190000
 DTEND;TZID=America/Montevideo:20250507T210000
 SUMMARY:Unión🇦🇷 vs. Palestino🇨🇱
-DESCRIPTION:Group E - Matchday 4 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 4 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:15 de Abril
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20250507T213000Z_MushucRuna_Cruzeiro
 DTSTART;TZID=America/Montevideo:20250507T213000
 DTEND;TZID=America/Montevideo:20250507T233000
 SUMMARY:Mushuc Runa🇪🇨 vs. Cruzeiro🇧🇷
-DESCRIPTION:Group E - Matchday 4 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 4 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Fernando Guerrero Guerrero Stadium
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20250513T213000Z_Union_MushucRuna
 DTSTART;TZID=America/Montevideo:20250513T213000
 DTEND;TZID=America/Montevideo:20250513T233000
 SUMMARY:Unión🇦🇷 vs. Mushuc Runa🇪🇨
-DESCRIPTION:Group E - Matchday 5 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 5 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:15 de Abril
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20250514T213000Z_Cruzeiro_Palestino
 DTSTART;TZID=America/Montevideo:20250514T213000
 DTEND;TZID=America/Montevideo:20250514T233000
 SUMMARY:Cruzeiro🇧🇷 vs. Palestino🇨🇱
-DESCRIPTION:Group E - Matchday 5 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 5 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Mineirão Stadium
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20250528T213000Z_Cruzeiro_Union
 DTSTART;TZID=America/Montevideo:20250528T213000
 DTEND;TZID=America/Montevideo:20250528T233000
 SUMMARY:Cruzeiro🇧🇷 vs. Unión🇦🇷
-DESCRIPTION:Group E - Matchday 6 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 6 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Mineirão Stadium
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20250528T213000Z_Palestino_MushucRuna
 DTSTART;TZID=America/Montevideo:20250528T213000
 DTEND;TZID=America/Montevideo:20250528T233000
 SUMMARY:Palestino🇨🇱 vs. Mushuc Runa🇪🇨
-DESCRIPTION:Group E - Matchday 6 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 6 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Municipal de La Florida Stadium
 END:VEVENT
@@ -126,7 +126,7 @@ UID:20250716T190000Z_Bolivar_Palestino
 DTSTART;TZID=America/Montevideo:20250716T190000
 DTEND;TZID=America/Montevideo:20250716T210000
 SUMMARY:Bolívar🇧🇴 vs. Palestino🇨🇱
-DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Hernando Siles Stadium
 END:VEVENT
@@ -136,7 +136,7 @@ UID:20250723T190000Z_Palestino_Bolivar
 DTSTART;TZID=America/Montevideo:20250723T190000
 DTEND;TZID=America/Montevideo:20250723T210000
 SUMMARY:Palestino🇨🇱 vs. Bolívar🇧🇴
-DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nacional Julio Martínez Prádanos Stadium
 END:VEVENT
@@ -146,7 +146,7 @@ UID:20250812T213000Z_IndependienteDelValle_MushucRuna
 DTSTART;TZID=America/Montevideo:20250812T213000
 DTEND;TZID=America/Montevideo:20250812T233000
 SUMMARY:Independiente del Valle🇪🇨 vs. Mushuc Runa🇪🇨
-DESCRIPTION:Round of 16 - First leg - Sudamericana Cup
+DESCRIPTION:Round of 16 - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Banco Guayaquil Stadium
 END:VEVENT
@@ -156,7 +156,7 @@ UID:20250819T213000Z_MushucRuna_IndependienteDelValle
 DTSTART;TZID=America/Montevideo:20250819T213000
 DTEND;TZID=America/Montevideo:20250819T233000
 SUMMARY:Mushuc Runa🇪🇨 vs. Independiente del Valle🇪🇨
-DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup
+DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Olímpico Atahualpa Stadium
 END:VEVENT

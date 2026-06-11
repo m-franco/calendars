@@ -6,7 +6,7 @@ UID:20260614T230000Z_Suecia_Tunisia
 DTSTART;TZID=America/Montevideo:20260614T230000
 DTEND;TZID=America/Montevideo:20260615T010000
 SUMMARY:Suécia vs. Tunísia
-DESCRIPTION:Grupo F - Rodada 1 - Copa do Mundo
+DESCRIPTION:Grupo F - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio BBVA
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260621T010000Z_Tunisia_Japao
 DTSTART;TZID=America/Montevideo:20260621T010000
 DTEND;TZID=America/Montevideo:20260621T030000
 SUMMARY:Tunísia vs. Japão
-DESCRIPTION:Grupo F - Rodada 2 - Copa do Mundo
+DESCRIPTION:Grupo F - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio BBVA
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260625T200000Z_Tunisia_PaisesBaixos
 DTSTART;TZID=America/Montevideo:20260625T200000
 DTEND;TZID=America/Montevideo:20260625T220000
 SUMMARY:Tunísia vs. Países Baixos
-DESCRIPTION:Grupo F - Rodada 3 - Copa do Mundo
+DESCRIPTION:Grupo F - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:GEHA Field at Arrowhead Stadium
 END:VEVENT

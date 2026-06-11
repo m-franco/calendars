@@ -6,7 +6,7 @@ UID:20260407T190000Z_BarracasCentral_VascoDaGama
 DTSTART;TZID=America/Montevideo:20260407T190000
 DTEND;TZID=America/Montevideo:20260407T210000
 SUMMARY:Barracas Central🇦🇷 vs. Vasco da Gama🇧🇷
-DESCRIPTION:Group G - Matchday 1 - Sudamericana Cup
+DESCRIPTION:Group G - Matchday 1 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Florencio Solá
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260408T210000Z_AudaxItaliano_Olimpia
 DTSTART;TZID=America/Montevideo:20260408T210000
 DTEND;TZID=America/Montevideo:20260408T230000
 SUMMARY:Audax Italiano🇨🇱 vs. Olimpia🇵🇾
-DESCRIPTION:Group G - Matchday 1 - Sudamericana Cup
+DESCRIPTION:Group G - Matchday 1 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Municipal de La Florida Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260414T210000Z_VascoDaGama_AudaxItaliano
 DTSTART;TZID=America/Montevideo:20260414T210000
 DTEND;TZID=America/Montevideo:20260414T230000
 SUMMARY:Vasco da Gama🇧🇷 vs. Audax Italiano🇨🇱
-DESCRIPTION:Group G - Matchday 2 - Sudamericana Cup
+DESCRIPTION:Group G - Matchday 2 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Estádio São Januário
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20260415T210000Z_Olimpia_BarracasCentral
 DTSTART;TZID=America/Montevideo:20260415T210000
 DTEND;TZID=America/Montevideo:20260415T230000
 SUMMARY:Olimpia🇵🇾 vs. Barracas Central🇦🇷
-DESCRIPTION:Group G - Matchday 2 - Sudamericana Cup
+DESCRIPTION:Group G - Matchday 2 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Defensores del Chaco
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20260428T210000Z_BarracasCentral_AudaxItaliano
 DTSTART;TZID=America/Montevideo:20260428T210000
 DTEND;TZID=America/Montevideo:20260428T230000
 SUMMARY:Barracas Central🇦🇷 vs. Audax Italiano🇨🇱
-DESCRIPTION:Group G - Matchday 3 - Sudamericana Cup
+DESCRIPTION:Group G - Matchday 3 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Florencio Solá
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20260430T190000Z_VascoDaGama_Olimpia
 DTSTART;TZID=America/Montevideo:20260430T190000
 DTEND;TZID=America/Montevideo:20260430T210000
 SUMMARY:Vasco da Gama🇧🇷 vs. Olimpia🇵🇾
-DESCRIPTION:Group G - Matchday 3 - Sudamericana Cup
+DESCRIPTION:Group G - Matchday 3 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Estádio São Januário
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20260506T190000Z_AudaxItaliano_VascoDaGama
 DTSTART;TZID=America/Montevideo:20260506T190000
 DTEND;TZID=America/Montevideo:20260506T210000
 SUMMARY:Audax Italiano🇨🇱 vs. Vasco da Gama🇧🇷
-DESCRIPTION:Group G - Matchday 4 - Sudamericana Cup
+DESCRIPTION:Group G - Matchday 4 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Municipal de La Florida Stadium
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20260506T210000Z_BarracasCentral_Olimpia
 DTSTART;TZID=America/Montevideo:20260506T210000
 DTEND;TZID=America/Montevideo:20260506T230000
 SUMMARY:Barracas Central🇦🇷 vs. Olimpia🇵🇾
-DESCRIPTION:Group G - Matchday 4 - Sudamericana Cup
+DESCRIPTION:Group G - Matchday 4 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Florencio Solá
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20260519T190000Z_AudaxItaliano_BarracasCentral
 DTSTART;TZID=America/Montevideo:20260519T190000
 DTEND;TZID=America/Montevideo:20260519T210000
 SUMMARY:Audax Italiano🇨🇱 vs. Barracas Central🇦🇷
-DESCRIPTION:Group G - Matchday 5 - Sudamericana Cup
+DESCRIPTION:Group G - Matchday 5 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Municipal de La Florida Stadium
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20260520T190000Z_Olimpia_VascoDaGama
 DTSTART;TZID=America/Montevideo:20260520T190000
 DTEND;TZID=America/Montevideo:20260520T210000
 SUMMARY:Olimpia🇵🇾 vs. Vasco da Gama🇧🇷
-DESCRIPTION:Group G - Matchday 5 - Sudamericana Cup
+DESCRIPTION:Group G - Matchday 5 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Defensores del Chaco
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20260527T190000Z_Olimpia_AudaxItaliano
 DTSTART;TZID=America/Montevideo:20260527T190000
 DTEND;TZID=America/Montevideo:20260527T210000
 SUMMARY:Olimpia🇵🇾 vs. Audax Italiano🇨🇱
-DESCRIPTION:Group G - Matchday 6 - Sudamericana Cup
+DESCRIPTION:Group G - Matchday 6 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Defensores del Chaco
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20260527T190000Z_VascoDaGama_BarracasCentral
 DTSTART;TZID=America/Montevideo:20260527T190000
 DTEND;TZID=America/Montevideo:20260527T210000
 SUMMARY:Vasco da Gama🇧🇷 vs. Barracas Central🇦🇷
-DESCRIPTION:Group G - Matchday 6 - Sudamericana Cup
+DESCRIPTION:Group G - Matchday 6 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Estádio São Januário
 END:VEVENT
@@ -126,7 +126,7 @@ UID:20260722T190000Z_IndependienteDeMedellin_VascoDaGama
 DTSTART;TZID=America/Montevideo:20260722T190000
 DTEND;TZID=America/Montevideo:20260722T210000
 SUMMARY:Independiente de Medellín🇨🇴 vs. Vasco da Gama🇧🇷
-DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Atanasio Girardot
 END:VEVENT
@@ -136,7 +136,7 @@ UID:20260729T190000Z_VascoDaGama_IndependienteDeMedellin
 DTSTART;TZID=America/Montevideo:20260729T190000
 DTEND;TZID=America/Montevideo:20260729T210000
 SUMMARY:Vasco da Gama🇧🇷 vs. Independiente de Medellín🇨🇴
-DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Estádio São Januário
 END:VEVENT

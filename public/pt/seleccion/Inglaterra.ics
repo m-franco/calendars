@@ -6,7 +6,7 @@ UID:20260617T170000Z_Inglaterra_Croacia
 DTSTART;TZID=America/Montevideo:20260617T170000
 DTEND;TZID=America/Montevideo:20260617T190000
 SUMMARY:Inglaterra vs. Croácia
-DESCRIPTION:Grupo L - Rodada 1 - Copa do Mundo
+DESCRIPTION:Grupo L - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260623T170000Z_Inglaterra_Gana
 DTSTART;TZID=America/Montevideo:20260623T170000
 DTEND;TZID=America/Montevideo:20260623T190000
 SUMMARY:Inglaterra vs. Gana
-DESCRIPTION:Grupo L - Rodada 2 - Copa do Mundo
+DESCRIPTION:Grupo L - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Gillette Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260627T180000Z_Panama_Inglaterra
 DTSTART;TZID=America/Montevideo:20260627T180000
 DTEND;TZID=America/Montevideo:20260627T200000
 SUMMARY:Panamá vs. Inglaterra
-DESCRIPTION:Grupo L - Rodada 3 - Copa do Mundo
+DESCRIPTION:Grupo L - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
 END:VEVENT

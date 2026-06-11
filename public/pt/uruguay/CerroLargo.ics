@@ -6,7 +6,7 @@ UID:20250403T213000Z_CerroLargo_DefensaYJusticia
 DTSTART;TZID=America/Montevideo:20250403T213000
 DTEND;TZID=America/Montevideo:20250403T233000
 SUMMARY:Cerro Largo🇺🇾 vs. Defensa Y Justicia🇦🇷
-DESCRIPTION:Grupo B - Rodada 1 - Copa Sul-Americana
+DESCRIPTION:Grupo B - Rodada 1 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Centenario
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20250410T230000Z_UniversidadCatolica_CerroLargo
 DTSTART;TZID=America/Montevideo:20250410T230000
 DTEND;TZID=America/Montevideo:20250411T010000
 SUMMARY:Universidad Católica🇪🇨 vs. Cerro Largo🇺🇾
-DESCRIPTION:Grupo B - Rodada 2 - Copa Sul-Americana
+DESCRIPTION:Grupo B - Rodada 2 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Olímpico Atahualpa
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20250423T213000Z_Vitoria_CerroLargo
 DTSTART;TZID=America/Montevideo:20250423T213000
 DTEND;TZID=America/Montevideo:20250423T233000
 SUMMARY:Vitória🇧🇷 vs. Cerro Largo🇺🇾
-DESCRIPTION:Grupo B - Rodada 3 - Copa Sul-Americana
+DESCRIPTION:Grupo B - Rodada 3 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Manoel Barradas
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20250507T190000Z_CerroLargo_UniversidadCatolica
 DTSTART;TZID=America/Montevideo:20250507T190000
 DTEND;TZID=America/Montevideo:20250507T210000
 SUMMARY:Cerro Largo🇺🇾 vs. Universidad Católica🇪🇨
-DESCRIPTION:Grupo B - Rodada 4 - Copa Sul-Americana
+DESCRIPTION:Grupo B - Rodada 4 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Centenario
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20250514T213000Z_CerroLargo_Vitoria
 DTSTART;TZID=America/Montevideo:20250514T213000
 DTEND;TZID=America/Montevideo:20250514T233000
 SUMMARY:Cerro Largo🇺🇾 vs. Vitória🇧🇷
-DESCRIPTION:Grupo B - Rodada 5 - Copa Sul-Americana
+DESCRIPTION:Grupo B - Rodada 5 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Centenario
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20250528T213000Z_DefensaYJusticia_CerroLargo
 DTSTART;TZID=America/Montevideo:20250528T213000
 DTEND;TZID=America/Montevideo:20250528T233000
 SUMMARY:Defensa Y Justicia🇦🇷 vs. Cerro Largo🇺🇾
-DESCRIPTION:Grupo B - Rodada 6 - Copa Sul-Americana
+DESCRIPTION:Grupo B - Rodada 6 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Norberto Tomaghello
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20250715T190000Z_CentralCordoba_CerroLargo
 DTSTART;TZID=America/Montevideo:20250715T190000
 DTEND;TZID=America/Montevideo:20250715T210000
 SUMMARY:Central Córdoba🇦🇷 vs. Cerro Largo🇺🇾
-DESCRIPTION:Play-offs - Ida - Copa Sul-Americana
+DESCRIPTION:Play-offs - Ida - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Único Madre de Ciudades
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20250722T190000Z_CerroLargo_CentralCordoba
 DTSTART;TZID=America/Montevideo:20250722T190000
 DTEND;TZID=America/Montevideo:20250722T210000
 SUMMARY:Cerro Largo🇺🇾 vs. Central Córdoba🇦🇷
-DESCRIPTION:Play-offs - Volta - Copa Sul-Americana
+DESCRIPTION:Play-offs - Volta - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Campeón del Siglo
 END:VEVENT

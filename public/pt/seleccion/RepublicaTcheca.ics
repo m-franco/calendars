@@ -6,7 +6,7 @@ UID:20260611T230000Z_CoreiaDoSul_RepublicaTcheca
 DTSTART;TZID=America/Montevideo:20260611T230000
 DTEND;TZID=America/Montevideo:20260612T010000
 SUMMARY:Coreia do Sul vs. República Tcheca
-DESCRIPTION:Grupo A - Rodada 1 - Copa do Mundo
+DESCRIPTION:Grupo A - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Akron
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260618T130000Z_RepublicaTcheca_AfricaDoSul
 DTSTART;TZID=America/Montevideo:20260618T130000
 DTEND;TZID=America/Montevideo:20260618T150000
 SUMMARY:República Tcheca vs. África do Sul
-DESCRIPTION:Grupo A - Rodada 2 - Copa do Mundo
+DESCRIPTION:Grupo A - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260624T220000Z_RepublicaTcheca_Mexico
 DTSTART;TZID=America/Montevideo:20260624T220000
 DTEND;TZID=America/Montevideo:20260625T000000
 SUMMARY:República Tcheca vs. México
-DESCRIPTION:Grupo A - Rodada 3 - Copa do Mundo
+DESCRIPTION:Grupo A - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Banorte
 END:VEVENT

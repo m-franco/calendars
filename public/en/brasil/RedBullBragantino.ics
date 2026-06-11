@@ -6,7 +6,7 @@ UID:20240403T210000Z_Red_Bull_Bragantino_Coquimbo_Unido
 DTSTART;TZID=America/Montevideo:20240403T210000
 DTEND;TZID=America/Montevideo:20240403T230000
 SUMMARY:Red Bull Bragantino🇧🇷 vs. Coquimbo Unido🇨🇱
-DESCRIPTION:Group H - Matchday 1 - Sudamericana Cup
+DESCRIPTION:Group H - Matchday 1 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nabi Abi Chedid Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20240410T213000Z_Racing_Arg_Red_Bull_Bragantino
 DTSTART;TZID=America/Montevideo:20240410T213000
 DTEND;TZID=America/Montevideo:20240410T233000
 SUMMARY:Racing(Arg)🇦🇷 vs. Red Bull Bragantino🇧🇷
-DESCRIPTION:Group H - Matchday 2 - Sudamericana Cup
+DESCRIPTION:Group H - Matchday 2 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Presidente Perón Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240424T210000Z_Red_Bull_Bragantino_Sportivo_Luqueno
 DTSTART;TZID=America/Montevideo:20240424T210000
 DTEND;TZID=America/Montevideo:20240424T230000
 SUMMARY:Red Bull Bragantino🇧🇷 vs. Sportivo Luqueño🇵🇾
-DESCRIPTION:Group H - Matchday 3 - Sudamericana Cup
+DESCRIPTION:Group H - Matchday 3 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nabi Abi Chedid Stadium
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20240509T210000Z_Red_Bull_Bragantino_Racing_Arg
 DTSTART;TZID=America/Montevideo:20240509T210000
 DTEND;TZID=America/Montevideo:20240509T230000
 SUMMARY:Red Bull Bragantino🇧🇷 vs. Racing(Arg)🇦🇷
-DESCRIPTION:Group H - Matchday 4 - Sudamericana Cup
+DESCRIPTION:Group H - Matchday 4 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nabi Abi Chedid Stadium
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20240522T213000Z_Coquimbo_Unido_Red_Bull_Bragantino
 DTSTART;TZID=America/Montevideo:20240522T213000
 DTEND;TZID=America/Montevideo:20240522T233000
 SUMMARY:Coquimbo Unido🇨🇱 vs. Red Bull Bragantino🇧🇷
-DESCRIPTION:Group H - Matchday 5 - Sudamericana Cup
+DESCRIPTION:Group H - Matchday 5 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Francisco Sánchez Rumoroso Stadium
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20240605T190000Z_Sportivo_Luqueno_Red_Bull_Bragantino
 DTSTART;TZID=America/Montevideo:20240605T190000
 DTEND;TZID=America/Montevideo:20240605T210000
 SUMMARY:Sportivo Luqueño🇵🇾 vs. Red Bull Bragantino🇧🇷
-DESCRIPTION:Group H - Matchday 6 - Sudamericana Cup
+DESCRIPTION:Group H - Matchday 6 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Defensores del Chaco Stadium
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20240717T213000Z_Barcelona_Red_Bull_Bragantino
 DTSTART;TZID=America/Montevideo:20240717T213000
 DTEND;TZID=America/Montevideo:20240717T233000
 SUMMARY:Barcelona🇪🇨 vs. Red Bull Bragantino🇧🇷
-DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Monumental Isidro Romero Carbo Stadium, Guayaquil
 CLASS:PUBLIC
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20240724T213000Z_Red_Bull_Bragantino_Barcelona
 DTSTART;TZID=America/Montevideo:20240724T213000
 DTEND;TZID=America/Montevideo:20240724T233000
 SUMMARY:Red Bull Bragantino🇧🇷 vs. Barcelona🇪🇨
-DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Estádio Nabi Abi Chedid, Bragança Paulista
 CLASS:PUBLIC
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20240813T213000Z_Red_Bull_Bragantino_Corinthians
 DTSTART;TZID=America/Montevideo:20240813T213000
 DTEND;TZID=America/Montevideo:20240813T233000
 SUMMARY:Red Bull Bragantino🇧🇷 vs. Corinthians🇧🇷
-DESCRIPTION:Round of 16 - First leg - Sudamericana Cup
+DESCRIPTION:Round of 16 - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Estádio Santa Cruz, Ribeirão Preto
 CLASS:PUBLIC
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20240820T213000Z_Corinthians_Red_Bull_Bragantino
 DTSTART;TZID=America/Montevideo:20240820T213000
 DTEND;TZID=America/Montevideo:20240820T233000
 SUMMARY:Corinthians🇧🇷 vs. Red Bull Bragantino🇧🇷
-DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup
+DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Neo Química Arena, São Paulo
 CLASS:PUBLIC
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20260409T213000Z_Carabobo_RedBullBragantino
 DTSTART;TZID=America/Montevideo:20260409T213000
 DTEND;TZID=America/Montevideo:20260409T233000
 SUMMARY:Carabobo🇻🇪 vs. Red Bull Bragantino🇧🇷
-DESCRIPTION:Group H - Matchday 1 - Sudamericana Cup
+DESCRIPTION:Group H - Matchday 1 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Misael Delgado Stadium
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20260416T213000Z_RedBullBragantino_Blooming
 DTSTART;TZID=America/Montevideo:20260416T213000
 DTEND;TZID=America/Montevideo:20260416T233000
 SUMMARY:Red Bull Bragantino🇧🇷 vs. Blooming🇧🇴
-DESCRIPTION:Group H - Matchday 2 - Sudamericana Cup
+DESCRIPTION:Group H - Matchday 2 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Estádio Municipal Cicero de Souza Marques
 END:VEVENT
@@ -126,7 +126,7 @@ UID:20260430T213000Z_RedBullBragantino_River
 DTSTART;TZID=America/Montevideo:20260430T213000
 DTEND;TZID=America/Montevideo:20260430T233000
 SUMMARY:Red Bull Bragantino🇧🇷 vs. River🇦🇷
-DESCRIPTION:Group H - Matchday 3 - Sudamericana Cup
+DESCRIPTION:Group H - Matchday 3 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Estádio Municipal Cicero de Souza Marques
 END:VEVENT
@@ -136,7 +136,7 @@ UID:20260507T213000Z_Blooming_RedBullBragantino
 DTSTART;TZID=America/Montevideo:20260507T213000
 DTEND;TZID=America/Montevideo:20260507T233000
 SUMMARY:Blooming🇧🇴 vs. Red Bull Bragantino🇧🇷
-DESCRIPTION:Group H - Matchday 4 - Sudamericana Cup
+DESCRIPTION:Group H - Matchday 4 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Ramón Tahuichi Stadium
 END:VEVENT
@@ -146,7 +146,7 @@ UID:20260520T213000Z_River_RedBullBragantino
 DTSTART;TZID=America/Montevideo:20260520T213000
 DTEND;TZID=America/Montevideo:20260520T233000
 SUMMARY:River🇦🇷 vs. Red Bull Bragantino🇧🇷
-DESCRIPTION:Group H - Matchday 5 - Sudamericana Cup
+DESCRIPTION:Group H - Matchday 5 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Más Monumental Stadium
 END:VEVENT
@@ -156,7 +156,7 @@ UID:20260527T213000Z_RedBullBragantino_Carabobo
 DTSTART;TZID=America/Montevideo:20260527T213000
 DTEND;TZID=America/Montevideo:20260527T233000
 SUMMARY:Red Bull Bragantino🇧🇷 vs. Carabobo🇻🇪
-DESCRIPTION:Group H - Matchday 6 - Sudamericana Cup
+DESCRIPTION:Group H - Matchday 6 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Estádio Municipal Cicero de Souza Marques
 END:VEVENT
@@ -166,7 +166,7 @@ UID:20260722T213000Z_SportingCristal_RedBullBragantino
 DTSTART;TZID=America/Montevideo:20260722T213000
 DTEND;TZID=America/Montevideo:20260722T233000
 SUMMARY:Sporting Cristal🇵🇪 vs. Red Bull Bragantino🇧🇷
-DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nacional de Lima Stadium
 END:VEVENT
@@ -176,7 +176,7 @@ UID:20260729T213000Z_RedBullBragantino_SportingCristal
 DTSTART;TZID=America/Montevideo:20260729T213000
 DTEND;TZID=America/Montevideo:20260729T233000
 SUMMARY:Red Bull Bragantino🇧🇷 vs. Sporting Cristal🇵🇪
-DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:a definir Stadium
 END:VEVENT

@@ -6,7 +6,7 @@ UID:20260407T230000Z_AlianzaAtletico_Tigre
 DTSTART;TZID=America/Montevideo:20260407T230000
 DTEND;TZID=America/Montevideo:20260408T010000
 SUMMARY:Alianza Atlético🇵🇪 vs. Tigre🇦🇷
-DESCRIPTION:Grupo A - Fecha 1 - Copa Sudamericana
+DESCRIPTION:Grupo A - Fecha 1 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Miguel Grau del Callao
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260415T230000Z_AmericaDeCali_AlianzaAtletico
 DTSTART;TZID=America/Montevideo:20260415T230000
 DTEND;TZID=America/Montevideo:20260416T010000
 SUMMARY:América de Cali🇨🇴 vs. Alianza Atlético🇵🇪
-DESCRIPTION:Grupo A - Fecha 2 - Copa Sudamericana
+DESCRIPTION:Grupo A - Fecha 2 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Pascual Guerrero
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260430T230000Z_AlianzaAtletico_Macara
 DTSTART;TZID=America/Montevideo:20260430T230000
 DTEND;TZID=America/Montevideo:20260501T010000
 SUMMARY:Alianza Atlético🇵🇪 vs. Macará🇪🇨
-DESCRIPTION:Grupo A - Fecha 3 - Copa Sudamericana
+DESCRIPTION:Grupo A - Fecha 3 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Miguel Grau del Callao
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20260506T230000Z_AlianzaAtletico_AmericaDeCali
 DTSTART;TZID=America/Montevideo:20260506T230000
 DTEND;TZID=America/Montevideo:20260507T010000
 SUMMARY:Alianza Atlético🇵🇪 vs. América de Cali🇨🇴
-DESCRIPTION:Grupo A - Fecha 4 - Copa Sudamericana
+DESCRIPTION:Grupo A - Fecha 4 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Miguel Grau del Callao
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20260521T230000Z_Macara_AlianzaAtletico
 DTSTART;TZID=America/Montevideo:20260521T230000
 DTEND;TZID=America/Montevideo:20260522T010000
 SUMMARY:Macará🇪🇨 vs. Alianza Atlético🇵🇪
-DESCRIPTION:Grupo A - Fecha 5 - Copa Sudamericana
+DESCRIPTION:Grupo A - Fecha 5 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Bellavista
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20260528T213000Z_Tigre_AlianzaAtletico
 DTSTART;TZID=America/Montevideo:20260528T213000
 DTEND;TZID=America/Montevideo:20260528T233000
 SUMMARY:Tigre🇦🇷 vs. Alianza Atlético🇵🇪
-DESCRIPTION:Grupo A - Fecha 6 - Copa Sudamericana
+DESCRIPTION:Grupo A - Fecha 6 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Monumental de Victoria (José Dellagiovanna)
 END:VEVENT

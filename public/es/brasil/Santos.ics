@@ -6,7 +6,7 @@ UID:20260408T190000Z_DeportivoCuenca_Santos
 DTSTART;TZID=America/Montevideo:20260408T190000
 DTEND;TZID=America/Montevideo:20260408T210000
 SUMMARY:Deportivo Cuenca🇪🇨 vs. Santos🇧🇷
-DESCRIPTION:Grupo D - Fecha 1 - Copa Sudamericana
+DESCRIPTION:Grupo D - Fecha 1 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Banco del Austro Alejandro Serrano Aguil
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260414T213000Z_Santos_Recoleta
 DTSTART;TZID=America/Montevideo:20260414T213000
 DTEND;TZID=America/Montevideo:20260414T233000
 SUMMARY:Santos🇧🇷 vs. Recoleta🇵🇾
-DESCRIPTION:Grupo D - Fecha 2 - Copa Sudamericana
+DESCRIPTION:Grupo D - Fecha 2 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estádio Vila Belmiro (Urbano Caldeira)
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260428T190000Z_SanLorenzo_Santos
 DTSTART;TZID=America/Montevideo:20260428T190000
 DTEND;TZID=America/Montevideo:20260428T210000
 SUMMARY:San Lorenzo🇦🇷 vs. Santos🇧🇷
-DESCRIPTION:Grupo D - Fecha 3 - Copa Sudamericana
+DESCRIPTION:Grupo D - Fecha 3 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Pedro Bidegain
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20260505T213000Z_Recoleta_Santos
 DTSTART;TZID=America/Montevideo:20260505T213000
 DTEND;TZID=America/Montevideo:20260505T233000
 SUMMARY:Recoleta🇵🇾 vs. Santos🇧🇷
-DESCRIPTION:Grupo D - Fecha 4 - Copa Sudamericana
+DESCRIPTION:Grupo D - Fecha 4 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Río Parapití
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20260520T190000Z_Santos_SanLorenzo
 DTSTART;TZID=America/Montevideo:20260520T190000
 DTEND;TZID=America/Montevideo:20260520T210000
 SUMMARY:Santos🇧🇷 vs. San Lorenzo🇦🇷
-DESCRIPTION:Grupo D - Fecha 5 - Copa Sudamericana
+DESCRIPTION:Grupo D - Fecha 5 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estádio Vila Belmiro (Urbano Caldeira)
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20260526T213000Z_Santos_DeportivoCuenca
 DTSTART;TZID=America/Montevideo:20260526T213000
 DTEND;TZID=America/Montevideo:20260526T233000
 SUMMARY:Santos🇧🇷 vs. Deportivo Cuenca🇪🇨
-DESCRIPTION:Grupo D - Fecha 6 - Copa Sudamericana
+DESCRIPTION:Grupo D - Fecha 6 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estádio Vila Belmiro (Urbano Caldeira)
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20260721T213000Z_UniversidadCentral_Santos
 DTSTART;TZID=America/Montevideo:20260721T213000
 DTEND;TZID=America/Montevideo:20260721T233000
 SUMMARY:Universidad Central🇻🇪 vs. Santos🇧🇷
-DESCRIPTION:Play-offs - Ida - Copa Sudamericana
+DESCRIPTION:Play-offs - Ida - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Olímpico de la UCV
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20260728T213000Z_Santos_UniversidadCentral
 DTSTART;TZID=America/Montevideo:20260728T213000
 DTEND;TZID=America/Montevideo:20260728T233000
 SUMMARY:Santos🇧🇷 vs. Universidad Central🇻🇪
-DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana
+DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estádio Vila Belmiro (Urbano Caldeira)
 END:VEVENT

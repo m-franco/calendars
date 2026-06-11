@@ -6,7 +6,7 @@ UID:20240402T190000Z_Millonarios_Flamengo
 DTSTART;TZID=America/Montevideo:20240402T190000
 DTEND;TZID=America/Montevideo:20240402T210000
 SUMMARY:Millonarios🇨🇴 vs. Flamengo🇧🇷
-DESCRIPTION:Group E - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nemesio Camacho Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20240403T230000Z_Alianza_Union_La_Calera
 DTSTART;TZID=America/Montevideo:20240403T230000
 DTEND;TZID=America/Montevideo:20240404T010000
 SUMMARY:Alianza🇨🇴 vs. Unión La Calera🇨🇱
-DESCRIPTION:Group B - Matchday 1 - Sudamericana Cup
+DESCRIPTION:Group B - Matchday 1 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Armando Maestre Pavajeau Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240403T230000Z_Botafogo_Junior
 DTSTART;TZID=America/Montevideo:20240403T230000
 DTEND;TZID=America/Montevideo:20240404T010000
 SUMMARY:Botafogo🇧🇷 vs. Junior🇨🇴
-DESCRIPTION:Group D - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group D - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Olímpico Nilton Santos Stadium
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20240404T230000Z_Always_Ready_Independiente_Medellin
 DTSTART;TZID=America/Montevideo:20240404T230000
 DTEND;TZID=America/Montevideo:20240405T010000
 SUMMARY:Always Ready🇧🇴 vs. Independiente de Medellín🇨🇴
-DESCRIPTION:Group A - Matchday 1 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 1 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Municipal Villa Ingenio Stadium
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20240409T230000Z_Junior_Universitario
 DTSTART;TZID=America/Montevideo:20240409T230000
 DTEND;TZID=America/Montevideo:20240410T010000
 SUMMARY:Junior🇨🇴 vs. Universitario🇵🇪
-DESCRIPTION:Group D - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group D - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Metropolitano Roberto Meléndez Stadium
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20240410T230000Z_Independiente_Medellin_UCV
 DTSTART;TZID=America/Montevideo:20240410T230000
 DTEND;TZID=America/Montevideo:20240411T010000
 SUMMARY:Independiente de Medellín🇨🇴 vs. Universidad César Vallejo🇵🇪
-DESCRIPTION:Group A - Matchday 2 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 2 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Atanasio Girardot Stadium
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20240411T190000Z_Bolívar_Millonarios
 DTSTART;TZID=America/Montevideo:20240411T190000
 DTEND;TZID=America/Montevideo:20240411T210000
 SUMMARY:Bolívar🇧🇴 vs. Millonarios🇨🇴
-DESCRIPTION:Group E - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Hernando Siles Stadium
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20240411T210000Z_Cruzeiro_Alianza
 DTSTART;TZID=America/Montevideo:20240411T210000
 DTEND;TZID=America/Montevideo:20240411T230000
 SUMMARY:Cruzeiro🇧🇷 vs. Alianza🇨🇴
-DESCRIPTION:Group B - Matchday 2 - Sudamericana Cup
+DESCRIPTION:Group B - Matchday 2 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Mineirão Stadium
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20240423T230000Z_Alianza_Universidad_Catolica
 DTSTART;TZID=America/Montevideo:20240423T230000
 DTEND;TZID=America/Montevideo:20240424T010000
 SUMMARY:Alianza🇨🇴 vs. Universidad Católica🇪🇨
-DESCRIPTION:Group B - Matchday 3 - Sudamericana Cup
+DESCRIPTION:Group B - Matchday 3 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Armando Maestre Pavajeau Stadium
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20240423T230000Z_Junior_LigaQuito
 DTSTART;TZID=America/Montevideo:20240423T230000
 DTEND;TZID=America/Montevideo:20240424T010000
 SUMMARY:Junior🇨🇴 vs. Liga de Quito🇪🇨
-DESCRIPTION:Group D - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group D - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Metropolitano Roberto Meléndez Stadium
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20240425T210000Z_Palestino_Millonarios
 DTSTART;TZID=America/Montevideo:20240425T210000
 DTEND;TZID=America/Montevideo:20240425T230000
 SUMMARY:Palestino🇨🇱 vs. Millonarios🇨🇴
-DESCRIPTION:Group E - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:a definir Stadium
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20240425T230000Z_Independiente_Medellin_Defensa_y_Justicia
 DTSTART;TZID=America/Montevideo:20240425T230000
 DTEND;TZID=America/Montevideo:20240426T010000
 SUMMARY:Independiente de Medellín🇨🇴 vs. Defensa y Justicia🇦🇷
-DESCRIPTION:Group A - Matchday 3 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 3 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Atanasio Girardot Stadium
 END:VEVENT
@@ -126,7 +126,7 @@ UID:20240507T210000Z_UCV_Independiente_Medellin
 DTSTART;TZID=America/Montevideo:20240507T210000
 DTEND;TZID=America/Montevideo:20240507T230000
 SUMMARY:Universidad César Vallejo🇵🇪 vs. Independiente de Medellín🇨🇴
-DESCRIPTION:Group A - Matchday 4 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 4 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Mansiche Stadium
 END:VEVENT
@@ -136,7 +136,7 @@ UID:20240507T213000Z_Alianza_Cruzeiro
 DTSTART;TZID=America/Montevideo:20240507T213000
 DTEND;TZID=America/Montevideo:20240507T233000
 SUMMARY:Alianza🇨🇴 vs. Cruzeiro🇧🇷
-DESCRIPTION:Group B - Matchday 4 - Sudamericana Cup
+DESCRIPTION:Group B - Matchday 4 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Armando Maestre Pavajeau Stadium
 END:VEVENT
@@ -146,7 +146,7 @@ UID:20240507T230000Z_Universitario_Junior
 DTSTART;TZID=America/Montevideo:20240507T230000
 DTEND;TZID=America/Montevideo:20240508T010000
 SUMMARY:Universitario🇵🇪 vs. Junior🇨🇴
-DESCRIPTION:Group D - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group D - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Monumental U Marathon
 END:VEVENT
@@ -156,7 +156,7 @@ UID:20240508T230000Z_Millonarios_Bolívar
 DTSTART;TZID=America/Montevideo:20240508T230000
 DTEND;TZID=America/Montevideo:20240509T010000
 SUMMARY:Millonarios🇨🇴 vs. Bolívar🇧🇴
-DESCRIPTION:Group E - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nemesio Camacho Stadium
 END:VEVENT
@@ -166,7 +166,7 @@ UID:20240514T190000Z_LigaQuito_Junior
 DTSTART;TZID=America/Montevideo:20240514T190000
 DTEND;TZID=America/Montevideo:20240514T210000
 SUMMARY:Liga de Quito🇪🇨 vs. Junior🇨🇴
-DESCRIPTION:Group D - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group D - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Rodrigo Paz Delgado Stadium
 END:VEVENT
@@ -176,7 +176,7 @@ UID:20240514T210000Z_Defensa_y_Justicia_Independiente_Medellin
 DTSTART;TZID=America/Montevideo:20240514T210000
 DTEND;TZID=America/Montevideo:20240514T230000
 SUMMARY:Defensa y Justicia🇦🇷 vs. Independiente de Medellín🇨🇴
-DESCRIPTION:Group A - Matchday 5 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 5 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Norberto Tomaghello Stadium
 END:VEVENT
@@ -186,7 +186,7 @@ UID:20240514T230000Z_Millonarios_Palestino
 DTSTART;TZID=America/Montevideo:20240514T230000
 DTEND;TZID=America/Montevideo:20240515T010000
 SUMMARY:Millonarios🇨🇴 vs. Palestino🇨🇱
-DESCRIPTION:Group E - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nemesio Camacho Stadium
 END:VEVENT
@@ -196,7 +196,7 @@ UID:20240516T230000Z_Universidad_Catolica_Alianza
 DTSTART;TZID=America/Montevideo:20240516T230000
 DTEND;TZID=America/Montevideo:20240517T010000
 SUMMARY:Universidad Católica🇪🇨 vs. Alianza🇨🇴
-DESCRIPTION:Group B - Matchday 5 - Sudamericana Cup
+DESCRIPTION:Group B - Matchday 5 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Olímpico Atahualpa Stadium
 END:VEVENT
@@ -206,7 +206,7 @@ UID:20240528T190000Z_Junior_Botafogo
 DTSTART;TZID=America/Montevideo:20240528T190000
 DTEND;TZID=America/Montevideo:20240528T210000
 SUMMARY:Junior🇨🇴 vs. Botafogo🇧🇷
-DESCRIPTION:Group D - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group D - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Metropolitano Roberto Meléndez Stadium
 END:VEVENT
@@ -216,7 +216,7 @@ UID:20240528T210000Z_Flamengo_Millonarios
 DTSTART;TZID=America/Montevideo:20240528T210000
 DTEND;TZID=America/Montevideo:20240528T230000
 SUMMARY:Flamengo🇧🇷 vs. Millonarios🇨🇴
-DESCRIPTION:Group E - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Maracaná Stadium
 END:VEVENT
@@ -226,7 +226,7 @@ UID:20240529T210000Z_Independiente_Medellin_Always_Ready
 DTSTART;TZID=America/Montevideo:20240529T210000
 DTEND;TZID=America/Montevideo:20240529T230000
 SUMMARY:Independiente de Medellín🇨🇴 vs. Always Ready🇧🇴
-DESCRIPTION:Group A - Matchday 6 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 6 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Atanasio Girardot Stadium
 END:VEVENT
@@ -236,7 +236,7 @@ UID:20240530T210000Z_Union_La_Calera_Alianza
 DTSTART;TZID=America/Montevideo:20240530T210000
 DTEND;TZID=America/Montevideo:20240530T230000
 SUMMARY:Unión La Calera🇨🇱 vs. Alianza🇨🇴
-DESCRIPTION:Group B - Matchday 6 - Sudamericana Cup
+DESCRIPTION:Group B - Matchday 6 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Municipal Alcaldesa Ester Roa Rebolledo Stadium
 END:VEVENT
@@ -246,7 +246,7 @@ UID:20240813T213000Z_ColoColo_Junior
 DTSTART;TZID=America/Montevideo:20240813T213000
 DTEND;TZID=America/Montevideo:20240813T233000
 SUMMARY:Colo Colo🇨🇱 vs. Junior🇨🇴
-DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Monumental David Arellano Stadium
 CLASS:PUBLIC
 END:VEVENT
@@ -256,7 +256,7 @@ UID:20240814T213000Z_Palestino_Independiente_Medellin
 DTSTART;TZID=America/Montevideo:20240814T213000
 DTEND;TZID=America/Montevideo:20240814T233000
 SUMMARY:Palestino🇨🇱 vs. Independiente de Medellín🇨🇴
-DESCRIPTION:Round of 16 - First leg - Sudamericana Cup
+DESCRIPTION:Round of 16 - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Nacional Julio Martínez Prádanos Stadium, Santiago
 CLASS:PUBLIC
 END:VEVENT
@@ -266,7 +266,7 @@ UID:20240820T213000Z_Junior_ColoColo
 DTSTART;TZID=America/Montevideo:20240820T213000
 DTEND;TZID=America/Montevideo:20240820T233000
 SUMMARY:Junior🇨🇴 vs. Colo Colo🇨🇱
-DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Metropolitano Roberto Meléndez Stadium
 CLASS:PUBLIC
 END:VEVENT
@@ -276,7 +276,7 @@ UID:20240821T213000Z_Independiente_Medellin_Palestino
 DTSTART;TZID=America/Montevideo:20240821T213000
 DTEND;TZID=America/Montevideo:20240821T233000
 SUMMARY:Independiente de Medellín🇨🇴 vs. Palestino🇨🇱
-DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup
+DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Hernán Ramírez Villegas Stadium, Pereira
 CLASS:PUBLIC
 END:VEVENT
@@ -286,7 +286,7 @@ UID:20240918T213000Z_Lanus_Independiente_Medellin
 DTSTART;TZID=America/Montevideo:20240918T213000
 DTEND;TZID=America/Montevideo:20240918T233000
 SUMMARY:Lanús🇦🇷 vs. Independiente de Medellín🇨🇴
-DESCRIPTION:Quarter-finals - First leg - Sudamericana Cup
+DESCRIPTION:Quarter-finals - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Ciudad de Lanús Stadium, Lanús
 CLASS:PUBLIC
 END:VEVENT
@@ -296,7 +296,7 @@ UID:20240925T213000Z_Independiente_Medellin_Lanus
 DTSTART;TZID=America/Montevideo:20240925T213000
 DTEND;TZID=America/Montevideo:20240925T233000
 SUMMARY:Independiente de Medellín🇨🇴 vs. Lanús🇦🇷
-DESCRIPTION:Quarter-finals - Second leg - Sudamericana Cup
+DESCRIPTION:Quarter-finals - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Atanasio Girardot Stadium, Medellín
 CLASS:PUBLIC
 END:VEVENT
@@ -306,7 +306,7 @@ UID:20250401T213000Z_AtleticoBucaramanga_ColoColo
 DTSTART;TZID=America/Montevideo:20250401T213000
 DTEND;TZID=America/Montevideo:20250401T233000
 SUMMARY:Atlético Bucaramanga🇨🇴 vs. Colo-Colo🇨🇱
-DESCRIPTION:Group E - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Américo Montanini Stadium
 END:VEVENT
@@ -316,7 +316,7 @@ UID:20250401T213000Z_OnceCaldas_Fluminense
 DTSTART;TZID=America/Montevideo:20250401T213000
 DTEND;TZID=America/Montevideo:20250401T233000
 SUMMARY:Once Caldas🇨🇴 vs. Fluminense🇧🇷
-DESCRIPTION:Group F - Matchday 1 - Sudamericana Cup
+DESCRIPTION:Group F - Matchday 1 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Palogrande
 END:VEVENT
@@ -326,7 +326,7 @@ UID:20250402T213000Z_RacingUruguay_AmericaDeCali
 DTSTART;TZID=America/Montevideo:20250402T213000
 DTEND;TZID=America/Montevideo:20250402T233000
 SUMMARY:Racing (Uru)🇺🇾 vs. América de Cali🇨🇴
-DESCRIPTION:Group C - Matchday 1 - Sudamericana Cup
+DESCRIPTION:Group C - Matchday 1 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Centenario Stadium
 END:VEVENT
@@ -336,7 +336,7 @@ UID:20250402T230000Z_AtleticoNacional_Nacional
 DTSTART;TZID=America/Montevideo:20250402T230000
 DTEND;TZID=America/Montevideo:20250403T010000
 SUMMARY:Atlético Nacional🇨🇴 vs. Nacional🇺🇾
-DESCRIPTION:Group F - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Atanasio Girardot
 END:VEVENT
@@ -346,7 +346,7 @@ UID:20250408T213000Z_AmericaDeCali_Corinthians
 DTSTART;TZID=America/Montevideo:20250408T213000
 DTEND;TZID=America/Montevideo:20250408T233000
 SUMMARY:América de Cali🇨🇴 vs. Corinthians🇧🇷
-DESCRIPTION:Group C - Matchday 2 - Sudamericana Cup
+DESCRIPTION:Group C - Matchday 2 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Pascual Guerrero
 END:VEVENT
@@ -356,7 +356,7 @@ UID:20250409T213000Z_UnionEspanola_OnceCaldas
 DTSTART;TZID=America/Montevideo:20250409T213000
 DTEND;TZID=America/Montevideo:20250409T233000
 SUMMARY:Unión Española🇨🇱 vs. Once Caldas🇨🇴
-DESCRIPTION:Group F - Matchday 2 - Sudamericana Cup
+DESCRIPTION:Group F - Matchday 2 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Sausalito Stadium
 END:VEVENT
@@ -366,7 +366,7 @@ UID:20250410T190000Z_Internacional_AtleticoNacional
 DTSTART;TZID=America/Montevideo:20250410T190000
 DTEND;TZID=America/Montevideo:20250410T210000
 SUMMARY:Internacional🇧🇷 vs. Atlético Nacional🇨🇴
-DESCRIPTION:Group F - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Beira-Rio Stadium
 END:VEVENT
@@ -376,7 +376,7 @@ UID:20250410T190000Z_Racing_AtleticoBucaramanga
 DTSTART;TZID=America/Montevideo:20250410T190000
 DTEND;TZID=America/Montevideo:20250410T210000
 SUMMARY:Racing🇦🇷 vs. Atlético Bucaramanga🇨🇴
-DESCRIPTION:Group E - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Presidente Perón (Cilindro de Avellaneda)
 END:VEVENT
@@ -386,7 +386,7 @@ UID:20250422T213000Z_GVSanJose_OnceCaldas
 DTSTART;TZID=America/Montevideo:20250422T213000
 DTEND;TZID=America/Montevideo:20250422T233000
 SUMMARY:GV San José🇧🇴 vs. Once Caldas🇨🇴
-DESCRIPTION:Group F - Matchday 3 - Sudamericana Cup
+DESCRIPTION:Group F - Matchday 3 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Hernando Siles Stadium
 END:VEVENT
@@ -396,7 +396,7 @@ UID:20250423T190000Z_Huracan_AmericaDeCali
 DTSTART;TZID=America/Montevideo:20250423T190000
 DTEND;TZID=America/Montevideo:20250423T210000
 SUMMARY:Huracán🇦🇷 vs. América de Cali🇨🇴
-DESCRIPTION:Group C - Matchday 3 - Sudamericana Cup
+DESCRIPTION:Group C - Matchday 3 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Tomás Adolfo Ducó
 END:VEVENT
@@ -406,7 +406,7 @@ UID:20250423T230000Z_AtleticoBucaramanga_Fortaleza
 DTSTART;TZID=America/Montevideo:20250423T230000
 DTEND;TZID=America/Montevideo:20250424T010000
 SUMMARY:Atlético Bucaramanga🇨🇴 vs. Fortaleza🇧🇷
-DESCRIPTION:Group E - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Américo Montanini Stadium
 END:VEVENT
@@ -416,7 +416,7 @@ UID:20250424T210000Z_Bahia_AtleticoNacional
 DTSTART;TZID=America/Montevideo:20250424T210000
 DTEND;TZID=America/Montevideo:20250424T230000
 SUMMARY:Bahia🇧🇷 vs. Atlético Nacional🇨🇴
-DESCRIPTION:Group F - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Casa de Apostas Arena Fonte Nova
 END:VEVENT
@@ -426,7 +426,7 @@ UID:20250506T190000Z_AtleticoBucaramanga_Racing
 DTSTART;TZID=America/Montevideo:20250506T190000
 DTEND;TZID=America/Montevideo:20250506T210000
 SUMMARY:Atlético Bucaramanga🇨🇴 vs. Racing🇦🇷
-DESCRIPTION:Group E - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Américo Montanini Stadium
 END:VEVENT
@@ -436,7 +436,7 @@ UID:20250506T213000Z_Corinthians_AmericaDeCali
 DTSTART;TZID=America/Montevideo:20250506T213000
 DTEND;TZID=America/Montevideo:20250506T233000
 SUMMARY:Corinthians🇧🇷 vs. América de Cali🇨🇴
-DESCRIPTION:Group C - Matchday 4 - Sudamericana Cup
+DESCRIPTION:Group C - Matchday 4 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Neo Química Arena
 END:VEVENT
@@ -446,7 +446,7 @@ UID:20250507T230000Z_OnceCaldas_UnionEspanola
 DTSTART;TZID=America/Montevideo:20250507T230000
 DTEND;TZID=America/Montevideo:20250508T010000
 SUMMARY:Once Caldas🇨🇴 vs. Unión Española🇨🇱
-DESCRIPTION:Group F - Matchday 4 - Sudamericana Cup
+DESCRIPTION:Group F - Matchday 4 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Palogrande
 END:VEVENT
@@ -456,7 +456,7 @@ UID:20250508T213000Z_AtleticoNacional_Internacional
 DTSTART;TZID=America/Montevideo:20250508T213000
 DTEND;TZID=America/Montevideo:20250508T233000
 SUMMARY:Atlético Nacional🇨🇴 vs. Internacional🇧🇷
-DESCRIPTION:Group F - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Atanasio Girardot
 END:VEVENT
@@ -466,7 +466,7 @@ UID:20250513T213000Z_Fortaleza_AtleticoBucaramanga
 DTSTART;TZID=America/Montevideo:20250513T213000
 DTEND;TZID=America/Montevideo:20250513T233000
 SUMMARY:Fortaleza🇧🇷 vs. Atlético Bucaramanga🇨🇴
-DESCRIPTION:Group E - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Castelão
 END:VEVENT
@@ -476,7 +476,7 @@ UID:20250514T190000Z_AtleticoNacional_Bahia
 DTSTART;TZID=America/Montevideo:20250514T190000
 DTEND;TZID=America/Montevideo:20250514T210000
 SUMMARY:Atlético Nacional🇨🇴 vs. Bahia🇧🇷
-DESCRIPTION:Group F - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Atanasio Girardot
 END:VEVENT
@@ -486,7 +486,7 @@ UID:20250514T230000Z_AmericaDeCali_Huracan
 DTSTART;TZID=America/Montevideo:20250514T230000
 DTEND;TZID=America/Montevideo:20250515T010000
 SUMMARY:América de Cali🇨🇴 vs. Huracán🇦🇷
-DESCRIPTION:Group C - Matchday 5 - Sudamericana Cup
+DESCRIPTION:Group C - Matchday 5 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Pascual Guerrero
 END:VEVENT
@@ -496,7 +496,7 @@ UID:20250515T230000Z_OnceCaldas_GVSanJose
 DTSTART;TZID=America/Montevideo:20250515T230000
 DTEND;TZID=America/Montevideo:20250516T010000
 SUMMARY:Once Caldas🇨🇴 vs. GV San José🇧🇴
-DESCRIPTION:Group F - Matchday 5 - Sudamericana Cup
+DESCRIPTION:Group F - Matchday 5 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Palogrande
 END:VEVENT
@@ -506,7 +506,7 @@ UID:20250527T213000Z_AmericaDeCali_RacingUruguay
 DTSTART;TZID=America/Montevideo:20250527T213000
 DTEND;TZID=America/Montevideo:20250527T233000
 SUMMARY:América de Cali🇨🇴 vs. Racing (Uru)🇺🇾
-DESCRIPTION:Group C - Matchday 6 - Sudamericana Cup
+DESCRIPTION:Group C - Matchday 6 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Pascual Guerrero
 END:VEVENT
@@ -516,7 +516,7 @@ UID:20250528T190000Z_Nacional_AtleticoNacional
 DTSTART;TZID=America/Montevideo:20250528T190000
 DTEND;TZID=America/Montevideo:20250528T210000
 SUMMARY:Nacional🇺🇾 vs. Atlético Nacional🇨🇴
-DESCRIPTION:Group F - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Gran Parque Central
 END:VEVENT
@@ -526,7 +526,7 @@ UID:20250529T213000Z_ColoColo_AtleticoBucaramanga
 DTSTART;TZID=America/Montevideo:20250529T213000
 DTEND;TZID=America/Montevideo:20250529T233000
 SUMMARY:Colo-Colo🇨🇱 vs. Atlético Bucaramanga🇨🇴
-DESCRIPTION:Group E - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Monumental David Arellano Stadium
 END:VEVENT
@@ -536,7 +536,7 @@ UID:20250529T213000Z_Fluminense_OnceCaldas
 DTSTART;TZID=America/Montevideo:20250529T213000
 DTEND;TZID=America/Montevideo:20250529T233000
 SUMMARY:Fluminense🇧🇷 vs. Once Caldas🇨🇴
-DESCRIPTION:Group F - Matchday 6 - Sudamericana Cup
+DESCRIPTION:Group F - Matchday 6 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:do Maracana Stadium
 END:VEVENT
@@ -546,7 +546,7 @@ UID:20250715T213000Z_Bahia_AmericaDeCali
 DTSTART;TZID=America/Montevideo:20250715T213000
 DTEND;TZID=America/Montevideo:20250715T233000
 SUMMARY:Bahia🇧🇷 vs. América de Cali🇨🇴
-DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Casa de Apostas Arena Fonte Nova
 END:VEVENT
@@ -556,7 +556,7 @@ UID:20250716T213000Z_SanAntonioBuloBulo_OnceCaldas
 DTSTART;TZID=America/Montevideo:20250716T213000
 DTEND;TZID=America/Montevideo:20250716T233000
 SUMMARY:San Antonio Bulo Bulo🇧🇴 vs. Once Caldas🇨🇴
-DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Félix Capriles Stadium
 END:VEVENT
@@ -566,7 +566,7 @@ UID:20250717T213000Z_AtleticoBucaramanga_AtleticoMineiro
 DTSTART;TZID=America/Montevideo:20250717T213000
 DTEND;TZID=America/Montevideo:20250717T233000
 SUMMARY:Atlético Bucaramanga🇨🇴 vs. Atlético Mineiro🇧🇷
-DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Américo Montanini Stadium
 END:VEVENT
@@ -576,7 +576,7 @@ UID:20250722T213000Z_AmericaDeCali_Bahia
 DTSTART;TZID=America/Montevideo:20250722T213000
 DTEND;TZID=America/Montevideo:20250722T233000
 SUMMARY:América de Cali🇨🇴 vs. Bahia🇧🇷
-DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Pascual Guerrero
 END:VEVENT
@@ -586,7 +586,7 @@ UID:20250723T213000Z_OnceCaldas_SanAntonioBuloBulo
 DTSTART;TZID=America/Montevideo:20250723T213000
 DTEND;TZID=America/Montevideo:20250723T233000
 SUMMARY:Once Caldas🇨🇴 vs. San Antonio Bulo Bulo🇧🇴
-DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Palogrande
 END:VEVENT
@@ -596,7 +596,7 @@ UID:20250724T213000Z_AtleticoMineiro_AtleticoBucaramanga
 DTSTART;TZID=America/Montevideo:20250724T213000
 DTEND;TZID=America/Montevideo:20250724T233000
 SUMMARY:Atlético Mineiro🇧🇷 vs. Atlético Bucaramanga🇨🇴
-DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Arena MRV
 END:VEVENT
@@ -606,7 +606,7 @@ UID:20250812T190000Z_OnceCaldas_Huracan
 DTSTART;TZID=America/Montevideo:20250812T190000
 DTEND;TZID=America/Montevideo:20250812T210000
 SUMMARY:Once Caldas🇨🇴 vs. Huracán🇦🇷
-DESCRIPTION:Round of 16 - First leg - Sudamericana Cup
+DESCRIPTION:Round of 16 - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Palogrande
 END:VEVENT
@@ -616,7 +616,7 @@ UID:20250812T213000Z_AtleticoNacional_SanPablo
 DTSTART;TZID=America/Montevideo:20250812T213000
 DTEND;TZID=America/Montevideo:20250812T233000
 SUMMARY:Atlético Nacional🇨🇴 vs. San Pablo🇧🇷
-DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Atanasio Girardot
 END:VEVENT
@@ -626,7 +626,7 @@ UID:20250812T213000Z_AmericaDeCali_Fluminense
 DTSTART;TZID=America/Montevideo:20250812T213000
 DTEND;TZID=America/Montevideo:20250812T233000
 SUMMARY:América de Cali🇨🇴 vs. Fluminense🇧🇷
-DESCRIPTION:Round of 16 - First leg - Sudamericana Cup
+DESCRIPTION:Round of 16 - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Pascual Guerrero
 END:VEVENT
@@ -636,7 +636,7 @@ UID:20250819T190000Z_Huracan_OnceCaldas
 DTSTART;TZID=America/Montevideo:20250819T190000
 DTEND;TZID=America/Montevideo:20250819T210000
 SUMMARY:Huracán🇦🇷 vs. Once Caldas🇨🇴
-DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup
+DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Tomás Adolfo Ducó
 END:VEVENT
@@ -646,7 +646,7 @@ UID:20250819T213000Z_SanPablo_AtleticoNacional
 DTSTART;TZID=America/Montevideo:20250819T213000
 DTEND;TZID=America/Montevideo:20250819T233000
 SUMMARY:San Pablo🇧🇷 vs. Atlético Nacional🇨🇴
-DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:MorumBIS
 END:VEVENT
@@ -656,7 +656,7 @@ UID:20250819T213000Z_Fluminense_AmericaDeCali
 DTSTART;TZID=America/Montevideo:20250819T213000
 DTEND;TZID=America/Montevideo:20250819T233000
 SUMMARY:Fluminense🇧🇷 vs. América de Cali🇨🇴
-DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup
+DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:do Maracana Stadium
 END:VEVENT
@@ -666,7 +666,7 @@ UID:20250917T213000Z_IndependienteDelValle_OnceCaldas
 DTSTART;TZID=America/Montevideo:20250917T213000
 DTEND;TZID=America/Montevideo:20250917T233000
 SUMMARY:Independiente del Valle🇪🇨 vs. Once Caldas🇨🇴
-DESCRIPTION:Quarter-finals - First leg - Sudamericana Cup
+DESCRIPTION:Quarter-finals - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Banco Guayaquil Stadium
 END:VEVENT
@@ -676,7 +676,7 @@ UID:20250924T213000Z_OnceCaldas_IndependienteDelValle
 DTSTART;TZID=America/Montevideo:20250924T213000
 DTEND;TZID=America/Montevideo:20250924T233000
 SUMMARY:Once Caldas🇨🇴 vs. Independiente del Valle🇪🇨
-DESCRIPTION:Quarter-finals - Second leg - Sudamericana Cup
+DESCRIPTION:Quarter-finals - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Palogrande
 END:VEVENT
@@ -686,7 +686,7 @@ UID:20260407T210000Z_OHiggins_Millonarios
 DTSTART;TZID=America/Montevideo:20260407T210000
 DTEND;TZID=America/Montevideo:20260407T230000
 SUMMARY:O'Higgins🇨🇱 vs. Millonarios🇨🇴
-DESCRIPTION:Group C - Matchday 1 - Sudamericana Cup
+DESCRIPTION:Group C - Matchday 1 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:El Teniente Stadium
 END:VEVENT
@@ -696,7 +696,7 @@ UID:20260407T230000Z_DeportesTolima_Universitario
 DTSTART;TZID=America/Montevideo:20260407T230000
 DTEND;TZID=America/Montevideo:20260408T010000
 SUMMARY:Deportes Tolima🇨🇴 vs. Universitario🇵🇪
-DESCRIPTION:Group B - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Manuel Murillo Toro Stadium
 END:VEVENT
@@ -706,7 +706,7 @@ UID:20260408T210000Z_IndependienteDeMedellin_Estudiantes
 DTSTART;TZID=America/Montevideo:20260408T210000
 DTEND;TZID=America/Montevideo:20260408T230000
 SUMMARY:Independiente de Medellín🇨🇴 vs. Estudiantes🇦🇷
-DESCRIPTION:Group A - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Atanasio Girardot
 END:VEVENT
@@ -716,7 +716,7 @@ UID:20260408T213000Z_Junior_Palmeiras
 DTSTART;TZID=America/Montevideo:20260408T213000
 DTEND;TZID=America/Montevideo:20260408T233000
 SUMMARY:Junior🇨🇴 vs. Palmeiras🇧🇷
-DESCRIPTION:Group F - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:a definir Stadium
 END:VEVENT
@@ -726,7 +726,7 @@ UID:20260409T213000Z_Macara_AmericaDeCali
 DTSTART;TZID=America/Montevideo:20260409T213000
 DTEND;TZID=America/Montevideo:20260409T233000
 SUMMARY:Macará🇪🇨 vs. América de Cali🇨🇴
-DESCRIPTION:Group A - Matchday 1 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 1 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Bellavista Stadium
 END:VEVENT
@@ -736,7 +736,7 @@ UID:20260409T230000Z_SantaFe_Penarol
 DTSTART;TZID=America/Montevideo:20260409T230000
 DTEND;TZID=America/Montevideo:20260410T010000
 SUMMARY:Santa Fe🇨🇴 vs. Peñarol🇺🇾
-DESCRIPTION:Group E - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nemesio Camacho El Campín Stadium
 END:VEVENT
@@ -746,7 +746,7 @@ UID:20260414T190000Z_CerroPorteno_Junior
 DTSTART;TZID=America/Montevideo:20260414T190000
 DTEND;TZID=America/Montevideo:20260414T210000
 SUMMARY:Cerro Porteño🇵🇾 vs. Junior🇨🇴
-DESCRIPTION:Group F - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:ueno La Nueva Olla Stadium
 END:VEVENT
@@ -756,7 +756,7 @@ UID:20260414T190000Z_Nacional_DeportesTolima
 DTSTART;TZID=America/Montevideo:20260414T190000
 DTEND;TZID=America/Montevideo:20260414T210000
 SUMMARY:Nacional🇺🇾 vs. Deportes Tolima🇨🇴
-DESCRIPTION:Group B - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Gran Parque Central
 END:VEVENT
@@ -766,7 +766,7 @@ UID:20260415T213000Z_Corinthians_SantaFe
 DTSTART;TZID=America/Montevideo:20260415T213000
 DTEND;TZID=America/Montevideo:20260415T233000
 SUMMARY:Corinthians🇧🇷 vs. Santa Fe🇨🇴
-DESCRIPTION:Group E - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Neo Química Arena
 END:VEVENT
@@ -776,7 +776,7 @@ UID:20260415T230000Z_AmericaDeCali_AlianzaAtletico
 DTSTART;TZID=America/Montevideo:20260415T230000
 DTEND;TZID=America/Montevideo:20260416T010000
 SUMMARY:América de Cali🇨🇴 vs. Alianza Atlético🇵🇪
-DESCRIPTION:Group A - Matchday 2 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 2 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Pascual Guerrero
 END:VEVENT
@@ -786,7 +786,7 @@ UID:20260415T230000Z_Millonarios_BostonRiver
 DTSTART;TZID=America/Montevideo:20260415T230000
 DTEND;TZID=America/Montevideo:20260416T010000
 SUMMARY:Millonarios🇨🇴 vs. Boston River🇺🇾
-DESCRIPTION:Group C - Matchday 2 - Sudamericana Cup
+DESCRIPTION:Group C - Matchday 2 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nemesio Camacho El Campín Stadium
 END:VEVENT
@@ -796,7 +796,7 @@ UID:20260416T213000Z_Flamengo_IndependienteDeMedellin
 DTSTART;TZID=America/Montevideo:20260416T213000
 DTEND;TZID=America/Montevideo:20260416T233000
 SUMMARY:Flamengo🇧🇷 vs. Independiente de Medellín🇨🇴
-DESCRIPTION:Group A - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:do Maracana Stadium
 END:VEVENT
@@ -806,7 +806,7 @@ UID:20260428T213000Z_Millonarios_SanPablo
 DTSTART;TZID=America/Montevideo:20260428T213000
 DTEND;TZID=America/Montevideo:20260428T233000
 SUMMARY:Millonarios🇨🇴 vs. San Pablo🇧🇷
-DESCRIPTION:Group C - Matchday 3 - Sudamericana Cup
+DESCRIPTION:Group C - Matchday 3 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nemesio Camacho El Campín Stadium
 END:VEVENT
@@ -816,7 +816,7 @@ UID:20260428T230000Z_DeportesTolima_CoquimboUnido
 DTSTART;TZID=America/Montevideo:20260428T230000
 DTEND;TZID=America/Montevideo:20260429T010000
 SUMMARY:Deportes Tolima🇨🇴 vs. Coquimbo Unido🇨🇱
-DESCRIPTION:Group B - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Manuel Murillo Toro Stadium
 END:VEVENT
@@ -826,7 +826,7 @@ UID:20260428T230000Z_SportingCristal_Junior
 DTSTART;TZID=America/Montevideo:20260428T230000
 DTEND;TZID=America/Montevideo:20260429T010000
 SUMMARY:Sporting Cristal🇵🇪 vs. Junior🇨🇴
-DESCRIPTION:Group F - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Alejandro Villanueva Stadium
 END:VEVENT
@@ -836,7 +836,7 @@ UID:20260429T190000Z_Platense_SantaFe
 DTSTART;TZID=America/Montevideo:20260429T190000
 DTEND;TZID=America/Montevideo:20260429T210000
 SUMMARY:Platense🇦🇷 vs. Santa Fe🇨🇴
-DESCRIPTION:Group E - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Ciudad de Vicente López
 END:VEVENT
@@ -846,7 +846,7 @@ UID:20260430T210000Z_Tigre_AmericaDeCali
 DTSTART;TZID=America/Montevideo:20260430T210000
 DTEND;TZID=America/Montevideo:20260430T230000
 SUMMARY:Tigre🇦🇷 vs. América de Cali🇨🇴
-DESCRIPTION:Group A - Matchday 3 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 3 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Monumental de Victoria (José Dellagiovanna)
 END:VEVENT
@@ -856,7 +856,7 @@ UID:20260430T230000Z_IndependienteDeMedellin_Cusco
 DTSTART;TZID=America/Montevideo:20260430T230000
 DTEND;TZID=America/Montevideo:20260501T010000
 SUMMARY:Independiente de Medellín🇨🇴 vs. Cusco🇵🇪
-DESCRIPTION:Group A - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Atanasio Girardot
 END:VEVENT
@@ -866,7 +866,7 @@ UID:20260506T213000Z_SantaFe_Corinthians
 DTSTART;TZID=America/Montevideo:20260506T213000
 DTEND;TZID=America/Montevideo:20260506T233000
 SUMMARY:Santa Fe🇨🇴 vs. Corinthians🇧🇷
-DESCRIPTION:Group E - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nemesio Camacho El Campín Stadium
 END:VEVENT
@@ -876,7 +876,7 @@ UID:20260506T230000Z_DeportesTolima_Nacional
 DTSTART;TZID=America/Montevideo:20260506T230000
 DTEND;TZID=America/Montevideo:20260507T010000
 SUMMARY:Deportes Tolima🇨🇴 vs. Nacional🇺🇾
-DESCRIPTION:Group B - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Manuel Murillo Toro Stadium
 END:VEVENT
@@ -886,7 +886,7 @@ UID:20260506T230000Z_AlianzaAtletico_AmericaDeCali
 DTSTART;TZID=America/Montevideo:20260506T230000
 DTEND;TZID=America/Montevideo:20260507T010000
 SUMMARY:Alianza Atlético🇵🇪 vs. América de Cali🇨🇴
-DESCRIPTION:Group A - Matchday 4 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 4 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Miguel Grau del Callao Stadium
 END:VEVENT
@@ -896,7 +896,7 @@ UID:20260507T190000Z_BostonRiver_Millonarios
 DTSTART;TZID=America/Montevideo:20260507T190000
 DTEND;TZID=America/Montevideo:20260507T210000
 SUMMARY:Boston River🇺🇾 vs. Millonarios🇨🇴
-DESCRIPTION:Group C - Matchday 4 - Sudamericana Cup
+DESCRIPTION:Group C - Matchday 4 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Centenario Stadium
 END:VEVENT
@@ -906,7 +906,7 @@ UID:20260507T213000Z_IndependienteDeMedellin_Flamengo
 DTSTART;TZID=America/Montevideo:20260507T213000
 DTEND;TZID=America/Montevideo:20260507T233000
 SUMMARY:Independiente de Medellín🇨🇴 vs. Flamengo🇧🇷
-DESCRIPTION:Group A - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Atanasio Girardot
 END:VEVENT
@@ -916,7 +916,7 @@ UID:20260507T230000Z_Junior_CerroPorteno
 DTSTART;TZID=America/Montevideo:20260507T230000
 DTEND;TZID=America/Montevideo:20260508T010000
 SUMMARY:Junior🇨🇴 vs. Cerro Porteño🇵🇾
-DESCRIPTION:Group F - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Romelio Martínez
 END:VEVENT
@@ -926,7 +926,7 @@ UID:20260519T190000Z_CoquimboUnido_DeportesTolima
 DTSTART;TZID=America/Montevideo:20260519T190000
 DTEND;TZID=America/Montevideo:20260519T210000
 SUMMARY:Coquimbo Unido🇨🇱 vs. Deportes Tolima🇨🇴
-DESCRIPTION:Group B - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Francisco Sánchez Rumoroso Stadium
 END:VEVENT
@@ -936,7 +936,7 @@ UID:20260519T210000Z_SantaFe_Platense
 DTSTART;TZID=America/Montevideo:20260519T210000
 DTEND;TZID=America/Montevideo:20260519T230000
 SUMMARY:Santa Fe🇨🇴 vs. Platense🇦🇷
-DESCRIPTION:Group E - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nemesio Camacho El Campín Stadium
 END:VEVENT
@@ -946,7 +946,7 @@ UID:20260519T213000Z_SanPablo_Millonarios
 DTSTART;TZID=America/Montevideo:20260519T213000
 DTEND;TZID=America/Montevideo:20260519T233000
 SUMMARY:San Pablo🇧🇷 vs. Millonarios🇨🇴
-DESCRIPTION:Group C - Matchday 5 - Sudamericana Cup
+DESCRIPTION:Group C - Matchday 5 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Estádio Cícero Pompeu de Toledo
 END:VEVENT
@@ -956,7 +956,7 @@ UID:20260519T230000Z_AmericaDeCali_Tigre
 DTSTART;TZID=America/Montevideo:20260519T230000
 DTEND;TZID=America/Montevideo:20260520T010000
 SUMMARY:América de Cali🇨🇴 vs. Tigre🇦🇷
-DESCRIPTION:Group A - Matchday 5 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 5 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Pascual Guerrero
 END:VEVENT
@@ -966,7 +966,7 @@ UID:20260520T230000Z_Junior_SportingCristal
 DTSTART;TZID=America/Montevideo:20260520T230000
 DTEND;TZID=America/Montevideo:20260521T010000
 SUMMARY:Junior🇨🇴 vs. Sporting Cristal🇵🇪
-DESCRIPTION:Group F - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:a definir Stadium
 END:VEVENT
@@ -976,7 +976,7 @@ UID:20260520T230000Z_Cusco_IndependienteDeMedellin
 DTSTART;TZID=America/Montevideo:20260520T230000
 DTEND;TZID=America/Montevideo:20260521T010000
 SUMMARY:Cusco🇵🇪 vs. Independiente de Medellín🇨🇴
-DESCRIPTION:Group A - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Inca Garcilaso de la Vega Stadium
 END:VEVENT
@@ -986,7 +986,7 @@ UID:20260526T190000Z_Millonarios_OHiggins
 DTSTART;TZID=America/Montevideo:20260526T190000
 DTEND;TZID=America/Montevideo:20260526T210000
 SUMMARY:Millonarios🇨🇴 vs. O'Higgins🇨🇱
-DESCRIPTION:Group C - Matchday 6 - Sudamericana Cup
+DESCRIPTION:Group C - Matchday 6 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nemesio Camacho El Campín Stadium
 END:VEVENT
@@ -996,7 +996,7 @@ UID:20260526T213000Z_Estudiantes_IndependienteDeMedellin
 DTSTART;TZID=America/Montevideo:20260526T213000
 DTEND;TZID=America/Montevideo:20260526T233000
 SUMMARY:Estudiantes🇦🇷 vs. Independiente de Medellín🇨🇴
-DESCRIPTION:Group A - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Jorge Luis Hirschi Stadium
 END:VEVENT
@@ -1006,7 +1006,7 @@ UID:20260526T213000Z_Universitario_DeportesTolima
 DTSTART;TZID=America/Montevideo:20260526T213000
 DTEND;TZID=America/Montevideo:20260526T233000
 SUMMARY:Universitario🇵🇪 vs. Deportes Tolima🇨🇴
-DESCRIPTION:Group B - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Monumental de Lima Stadium
 END:VEVENT
@@ -1016,7 +1016,7 @@ UID:20260527T213000Z_Penarol_SantaFe
 DTSTART;TZID=America/Montevideo:20260527T213000
 DTEND;TZID=America/Montevideo:20260527T233000
 SUMMARY:Peñarol🇺🇾 vs. Santa Fe🇨🇴
-DESCRIPTION:Group E - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Campeón del Siglo Stadium
 END:VEVENT
@@ -1026,7 +1026,7 @@ UID:20260528T190000Z_Palmeiras_Junior
 DTSTART;TZID=America/Montevideo:20260528T190000
 DTEND;TZID=America/Montevideo:20260528T210000
 SUMMARY:Palmeiras🇧🇷 vs. Junior🇨🇴
-DESCRIPTION:Group F - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Allianz Parque
 END:VEVENT
@@ -1036,7 +1036,7 @@ UID:20260528T213000Z_AmericaDeCali_Macara
 DTSTART;TZID=America/Montevideo:20260528T213000
 DTEND;TZID=America/Montevideo:20260528T233000
 SUMMARY:América de Cali🇨🇴 vs. Macará🇪🇨
-DESCRIPTION:Group A - Matchday 6 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 6 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Pascual Guerrero
 END:VEVENT
@@ -1046,7 +1046,7 @@ UID:20260722T190000Z_IndependienteDeMedellin_VascoDaGama
 DTSTART;TZID=America/Montevideo:20260722T190000
 DTEND;TZID=America/Montevideo:20260722T210000
 SUMMARY:Independiente de Medellín🇨🇴 vs. Vasco da Gama🇧🇷
-DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Atanasio Girardot
 END:VEVENT
@@ -1056,7 +1056,7 @@ UID:20260723T213000Z_SantaFe_Caracas
 DTSTART;TZID=America/Montevideo:20260723T213000
 DTEND;TZID=America/Montevideo:20260723T233000
 SUMMARY:Santa Fe🇨🇴 vs. Caracas🇻🇪
-DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nemesio Camacho El Campín Stadium
 END:VEVENT
@@ -1066,7 +1066,7 @@ UID:20260729T190000Z_VascoDaGama_IndependienteDeMedellin
 DTSTART;TZID=America/Montevideo:20260729T190000
 DTEND;TZID=America/Montevideo:20260729T210000
 SUMMARY:Vasco da Gama🇧🇷 vs. Independiente de Medellín🇨🇴
-DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Estádio São Januário
 END:VEVENT
@@ -1076,7 +1076,7 @@ UID:20260730T213000Z_Caracas_SantaFe
 DTSTART;TZID=America/Montevideo:20260730T213000
 DTEND;TZID=America/Montevideo:20260730T233000
 SUMMARY:Caracas🇻🇪 vs. Santa Fe🇨🇴
-DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Olímpico de la UCV Stadium
 END:VEVENT
@@ -1086,7 +1086,7 @@ UID:20260811T213000Z_DeportesTolima_IndependienteDelValle
 DTSTART;TZID=America/Montevideo:20260811T213000
 DTEND;TZID=America/Montevideo:20260811T233000
 SUMMARY:Deportes Tolima🇨🇴 vs. Independiente del Valle🇪🇨
-DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Manuel Murillo Toro Stadium
 END:VEVENT
@@ -1096,7 +1096,7 @@ UID:20260818T213000Z_IndependienteDelValle_DeportesTolima
 DTSTART;TZID=America/Montevideo:20260818T213000
 DTEND;TZID=America/Montevideo:20260818T233000
 SUMMARY:Independiente del Valle🇪🇨 vs. Deportes Tolima🇨🇴
-DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:a definir Stadium
 END:VEVENT

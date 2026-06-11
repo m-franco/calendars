@@ -6,7 +6,7 @@ UID:20250401T190000Z_Carabobo_Estudiantes
 DTSTART;TZID=America/Montevideo:20250401T190000
 DTEND;TZID=America/Montevideo:20250401T210000
 SUMMARY:Carabobo🇻🇪 vs. Estudiantes🇦🇷
-DESCRIPTION:Group A - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Misael Delgado Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20250402T213000Z_UniversidadDeChile_Botafogo
 DTSTART;TZID=America/Montevideo:20250402T213000
 DTEND;TZID=America/Montevideo:20250402T233000
 SUMMARY:Universidad de Chile🇨🇱 vs. Botafogo🇧🇷
-DESCRIPTION:Group A - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nacional Julio Martínez Prádanos Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20250408T190000Z_Botafogo_Carabobo
 DTSTART;TZID=America/Montevideo:20250408T190000
 DTEND;TZID=America/Montevideo:20250408T210000
 SUMMARY:Botafogo🇧🇷 vs. Carabobo🇻🇪
-DESCRIPTION:Group A - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Estádio Olímpico Nilton Santos
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20250408T213000Z_Estudiantes_UniversidadDeChile
 DTSTART;TZID=America/Montevideo:20250408T213000
 DTEND;TZID=America/Montevideo:20250408T233000
 SUMMARY:Estudiantes🇦🇷 vs. Universidad de Chile🇨🇱
-DESCRIPTION:Group A - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Jorge Luis Hirschi
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20250422T200000Z_Carabobo_UniversidadDeChile
 DTSTART;TZID=America/Montevideo:20250422T200000
 DTEND;TZID=America/Montevideo:20250422T220000
 SUMMARY:Carabobo🇻🇪 vs. Universidad de Chile🇨🇱
-DESCRIPTION:Group A - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Misael Delgado Stadium
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20250423T213000Z_Estudiantes_Botafogo
 DTSTART;TZID=America/Montevideo:20250423T213000
 DTEND;TZID=America/Montevideo:20250423T233000
 SUMMARY:Estudiantes🇦🇷 vs. Botafogo🇧🇷
-DESCRIPTION:Group A - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Jorge Luis Hirschi
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20250506T190000Z_Carabobo_Botafogo
 DTSTART;TZID=America/Montevideo:20250506T190000
 DTEND;TZID=America/Montevideo:20250506T210000
 SUMMARY:Carabobo🇻🇪 vs. Botafogo🇧🇷
-DESCRIPTION:Group A - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Misael Delgado Stadium
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20250507T210000Z_UniversidadDeChile_Estudiantes
 DTSTART;TZID=America/Montevideo:20250507T210000
 DTEND;TZID=America/Montevideo:20250507T230000
 SUMMARY:Universidad de Chile🇨🇱 vs. Estudiantes🇦🇷
-DESCRIPTION:Group A - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nacional Julio Martínez Prádanos Stadium
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20250513T213000Z_UniversidadDeChile_Carabobo
 DTSTART;TZID=America/Montevideo:20250513T213000
 DTEND;TZID=America/Montevideo:20250513T233000
 SUMMARY:Universidad de Chile🇨🇱 vs. Carabobo🇻🇪
-DESCRIPTION:Group A - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nacional Julio Martínez Prádanos Stadium
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20250514T213000Z_Botafogo_Estudiantes
 DTSTART;TZID=America/Montevideo:20250514T213000
 DTEND;TZID=America/Montevideo:20250514T233000
 SUMMARY:Botafogo🇧🇷 vs. Estudiantes🇦🇷
-DESCRIPTION:Group A - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Estádio Olímpico Nilton Santos
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20250527T213000Z_Botafogo_UniversidadDeChile
 DTSTART;TZID=America/Montevideo:20250527T213000
 DTEND;TZID=America/Montevideo:20250527T233000
 SUMMARY:Botafogo🇧🇷 vs. Universidad de Chile🇨🇱
-DESCRIPTION:Group A - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Estádio Olímpico Nilton Santos
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20250527T213000Z_Estudiantes_Carabobo
 DTSTART;TZID=America/Montevideo:20250527T213000
 DTEND;TZID=America/Montevideo:20250527T233000
 SUMMARY:Estudiantes🇦🇷 vs. Carabobo🇻🇪
-DESCRIPTION:Group A - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Jorge Luis Hirschi
 END:VEVENT
@@ -126,7 +126,7 @@ UID:20250717T190000Z_UniversidadDeChile_Guarani
 DTSTART;TZID=America/Montevideo:20250717T190000
 DTEND;TZID=America/Montevideo:20250717T210000
 SUMMARY:Universidad de Chile🇨🇱 vs. Guaraní🇵🇾
-DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nacional Julio Martínez Prádanos Stadium
 END:VEVENT
@@ -136,7 +136,7 @@ UID:20250724T190000Z_Guarani_UniversidadDeChile
 DTSTART;TZID=America/Montevideo:20250724T190000
 DTEND;TZID=America/Montevideo:20250724T210000
 SUMMARY:Guaraní🇵🇾 vs. Universidad de Chile🇨🇱
-DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:ueno La Nueva Olla Stadium
 END:VEVENT
@@ -146,7 +146,7 @@ UID:20250813T190000Z_CerroPorteno_Estudiantes
 DTSTART;TZID=America/Montevideo:20250813T190000
 DTEND;TZID=America/Montevideo:20250813T210000
 SUMMARY:Cerro Porteño🇵🇾 vs. Estudiantes🇦🇷
-DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:ueno La Nueva Olla Stadium
 END:VEVENT
@@ -156,7 +156,7 @@ UID:20250813T213000Z_UniversidadDeChile_Independiente
 DTSTART;TZID=America/Montevideo:20250813T213000
 DTEND;TZID=America/Montevideo:20250813T233000
 SUMMARY:Universidad de Chile🇨🇱 vs. Independiente🇦🇷
-DESCRIPTION:Round of 16 - First leg - Sudamericana Cup
+DESCRIPTION:Round of 16 - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nacional Julio Martínez Prádanos Stadium
 END:VEVENT
@@ -166,7 +166,7 @@ UID:20250814T190000Z_Botafogo_LigaDeQuito
 DTSTART;TZID=America/Montevideo:20250814T190000
 DTEND;TZID=America/Montevideo:20250814T210000
 SUMMARY:Botafogo🇧🇷 vs. Liga de Quito🇪🇨
-DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Estádio Olímpico Nilton Santos
 END:VEVENT
@@ -176,7 +176,7 @@ UID:20250820T190000Z_Estudiantes_CerroPorteno
 DTSTART;TZID=America/Montevideo:20250820T190000
 DTEND;TZID=America/Montevideo:20250820T210000
 SUMMARY:Estudiantes🇦🇷 vs. Cerro Porteño🇵🇾
-DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Jorge Luis Hirschi
 END:VEVENT
@@ -186,7 +186,7 @@ UID:20250820T213000Z_Independiente_UniversidadDeChile
 DTSTART;TZID=America/Montevideo:20250820T213000
 DTEND;TZID=America/Montevideo:20250820T233000
 SUMMARY:Independiente🇦🇷 vs. Universidad de Chile🇨🇱
-DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup
+DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Libertadores de América Stadium
 END:VEVENT
@@ -196,7 +196,7 @@ UID:20250821T190000Z_LigaDeQuito_Botafogo
 DTSTART;TZID=America/Montevideo:20250821T190000
 DTEND;TZID=America/Montevideo:20250821T210000
 SUMMARY:Liga de Quito🇪🇨 vs. Botafogo🇧🇷
-DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Rodrigo Paz Delgado
 END:VEVENT
@@ -206,7 +206,7 @@ UID:20250918T213000Z_Flamengo_Estudiantes
 DTSTART;TZID=America/Montevideo:20250918T213000
 DTEND;TZID=America/Montevideo:20250918T233000
 SUMMARY:Flamengo🇧🇷 vs. Estudiantes🇦🇷
-DESCRIPTION:Quarter-finals - First leg - Libertadores Cup
+DESCRIPTION:Quarter-finals - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:do Maracana Stadium
 END:VEVENT
@@ -216,7 +216,7 @@ UID:20250918T213000Z_AlianzaLima_UniversidadDeChile
 DTSTART;TZID=America/Montevideo:20250918T213000
 DTEND;TZID=America/Montevideo:20250918T233000
 SUMMARY:Alianza Lima🇵🇪 vs. Universidad de Chile🇨🇱
-DESCRIPTION:Quarter-finals - First leg - Sudamericana Cup
+DESCRIPTION:Quarter-finals - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Alejandro Villanueva Stadium
 END:VEVENT
@@ -226,7 +226,7 @@ UID:20250925T213000Z_Estudiantes_Flamengo
 DTSTART;TZID=America/Montevideo:20250925T213000
 DTEND;TZID=America/Montevideo:20250925T233000
 SUMMARY:Estudiantes🇦🇷 vs. Flamengo🇧🇷
-DESCRIPTION:Quarter-finals - Second leg - Libertadores Cup
+DESCRIPTION:Quarter-finals - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Jorge Luis Hirschi
 END:VEVENT
@@ -236,7 +236,7 @@ UID:20250925T213000Z_UniversidadDeChile_AlianzaLima
 DTSTART;TZID=America/Montevideo:20250925T213000
 DTEND;TZID=America/Montevideo:20250925T233000
 SUMMARY:Universidad de Chile🇨🇱 vs. Alianza Lima🇵🇪
-DESCRIPTION:Quarter-finals - Second leg - Sudamericana Cup
+DESCRIPTION:Quarter-finals - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Francisco Sánchez Rumoroso
 END:VEVENT
@@ -246,7 +246,7 @@ UID:20251023T190000Z_UniversidadDeChile_Lanus
 DTSTART;TZID=America/Montevideo:20251023T190000
 DTEND;TZID=America/Montevideo:20251023T210000
 SUMMARY:Universidad de Chile🇨🇱 vs. Lanús🇦🇷
-DESCRIPTION:Semi-finals - First leg - Sudamericana Cup
+DESCRIPTION:Semi-finals - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nacional Julio Martínez Prádanos Stadium
 END:VEVENT
@@ -256,7 +256,7 @@ UID:20251030T190000Z_Lanus_UniversidadDeChile
 DTSTART;TZID=America/Montevideo:20251030T190000
 DTEND;TZID=America/Montevideo:20251030T210000
 SUMMARY:Lanús🇦🇷 vs. Universidad de Chile🇨🇱
-DESCRIPTION:Semi-finals - Second leg - Sudamericana Cup
+DESCRIPTION:Semi-finals - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Ciudad de Lanús
 END:VEVENT

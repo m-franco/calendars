@@ -6,7 +6,7 @@ UID:20260614T200000Z_IvoryCoast_Ecuador
 DTSTART;TZID=America/Montevideo:20260614T200000
 DTEND;TZID=America/Montevideo:20260614T220000
 SUMMARY:Ivory Coast vs. Ecuador
-DESCRIPTION:Group E - Matchday 1 - World Cup
+DESCRIPTION:Group E - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Lincoln Financial Field
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260620T210000Z_Ecuador_Curacao
 DTSTART;TZID=America/Montevideo:20260620T210000
 DTEND;TZID=America/Montevideo:20260620T230000
 SUMMARY:Ecuador vs. Curaçao
-DESCRIPTION:Group E - Matchday 2 - World Cup
+DESCRIPTION:Group E - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:GEHA Field at Arrowhead Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260625T170000Z_Ecuador_Germany
 DTSTART;TZID=America/Montevideo:20260625T170000
 DTEND;TZID=America/Montevideo:20260625T190000
 SUMMARY:Ecuador vs. Germany
-DESCRIPTION:Group E - Matchday 3 - World Cup
+DESCRIPTION:Group E - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
 END:VEVENT

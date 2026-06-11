@@ -6,7 +6,7 @@ UID:20240403T190000Z_Nacional_Libertad
 DTSTART;TZID=America/Montevideo:20240403T190000
 DTEND;TZID=America/Montevideo:20240403T210000
 SUMMARY:Nacional🇺🇾 vs. Libertad🇵🇾
-DESCRIPTION:Group H - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group H - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Gran Parque Central Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20240411T210000Z_River_Nacional
 DTSTART;TZID=America/Montevideo:20240411T210000
 DTEND;TZID=America/Montevideo:20240411T230000
 SUMMARY:River🇦🇷 vs. Nacional🇺🇾
-DESCRIPTION:Group H - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group H - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Monumental Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240424T190000Z_Nacional_DeportivoTachira
 DTSTART;TZID=America/Montevideo:20240424T190000
 DTEND;TZID=America/Montevideo:20240424T210000
 SUMMARY:Nacional🇺🇾 vs. Deportivo Táchira🇻🇪
-DESCRIPTION:Group H - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group H - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Gran Parque Central Stadium
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20240507T210000Z_Nacional_River
 DTSTART;TZID=America/Montevideo:20240507T210000
 DTEND;TZID=America/Montevideo:20240507T230000
 SUMMARY:Nacional🇺🇾 vs. River🇦🇷
-DESCRIPTION:Group H - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group H - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Gran Parque Central Stadium
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20240515T190000Z_DeportivoTachira_Nacional
 DTSTART;TZID=America/Montevideo:20240515T190000
 DTEND;TZID=America/Montevideo:20240515T210000
 SUMMARY:Deportivo Táchira🇻🇪  vs. Nacional🇺🇾
-DESCRIPTION:Group H - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group H - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Polideportivo de Pueblo Nuevo Stadium
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20240530T210000Z_Libertad_Nacional
 DTSTART;TZID=America/Montevideo:20240530T210000
 DTEND;TZID=America/Montevideo:20240530T230000
 SUMMARY:Libertad🇵🇾 vs. Nacional🇺🇾
-DESCRIPTION:Group H - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group H - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Defensores del Chaco Stadium
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20240815T190000Z_Nacional_SanPablo
 DTSTART;TZID=America/Montevideo:20240815T190000
 DTEND;TZID=America/Montevideo:20240815T210000
 SUMMARY:Nacional🇺🇾 vs. San Pablo🇧🇷
-DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Gran Parque Central Stadium
 CLASS:PUBLIC
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20240822T190000Z_SanPablo_Nacional
 DTSTART;TZID=America/Montevideo:20240822T190000
 DTEND;TZID=America/Montevideo:20240822T210000
 SUMMARY:San Pablo🇧🇷 vs. Nacional🇺🇾
-DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Morumbí Stadium
 CLASS:PUBLIC
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20250402T230000Z_AtleticoNacional_Nacional
 DTSTART;TZID=America/Montevideo:20250402T230000
 DTEND;TZID=America/Montevideo:20250403T010000
 SUMMARY:Atlético Nacional🇨🇴 vs. Nacional🇺🇾
-DESCRIPTION:Group F - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Atanasio Girardot
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20250409T190000Z_Nacional_Bahia
 DTSTART;TZID=America/Montevideo:20250409T190000
 DTEND;TZID=America/Montevideo:20250409T210000
 SUMMARY:Nacional🇺🇾 vs. Bahia🇧🇷
-DESCRIPTION:Group F - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Gran Parque Central
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20250422T213000Z_Internacional_Nacional
 DTSTART;TZID=America/Montevideo:20250422T213000
 DTEND;TZID=America/Montevideo:20250422T233000
 SUMMARY:Internacional🇧🇷 vs. Nacional🇺🇾
-DESCRIPTION:Group F - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Beira-Rio Stadium
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20250507T190000Z_Bahia_Nacional
 DTSTART;TZID=America/Montevideo:20250507T190000
 DTEND;TZID=America/Montevideo:20250507T210000
 SUMMARY:Bahia🇧🇷 vs. Nacional🇺🇾
-DESCRIPTION:Group F - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Casa de Apostas Arena Fonte Nova
 END:VEVENT
@@ -126,7 +126,7 @@ UID:20250515T190000Z_Nacional_Internacional
 DTSTART;TZID=America/Montevideo:20250515T190000
 DTEND;TZID=America/Montevideo:20250515T210000
 SUMMARY:Nacional🇺🇾 vs. Internacional🇧🇷
-DESCRIPTION:Group F - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Gran Parque Central
 END:VEVENT
@@ -136,7 +136,7 @@ UID:20250528T190000Z_Nacional_AtleticoNacional
 DTSTART;TZID=America/Montevideo:20250528T190000
 DTEND;TZID=America/Montevideo:20250528T210000
 SUMMARY:Nacional🇺🇾 vs. Atlético Nacional🇨🇴
-DESCRIPTION:Group F - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Gran Parque Central
 END:VEVENT
@@ -146,7 +146,7 @@ UID:20260408T190000Z_CoquimboUnido_Nacional
 DTSTART;TZID=America/Montevideo:20260408T190000
 DTEND;TZID=America/Montevideo:20260408T210000
 SUMMARY:Coquimbo Unido🇨🇱 vs. Nacional🇺🇾
-DESCRIPTION:Group B - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Francisco Sánchez Rumoroso Stadium
 END:VEVENT
@@ -156,7 +156,7 @@ UID:20260414T190000Z_Nacional_DeportesTolima
 DTSTART;TZID=America/Montevideo:20260414T190000
 DTEND;TZID=America/Montevideo:20260414T210000
 SUMMARY:Nacional🇺🇾 vs. Deportes Tolima🇨🇴
-DESCRIPTION:Group B - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Gran Parque Central
 END:VEVENT
@@ -166,7 +166,7 @@ UID:20260429T230000Z_Universitario_Nacional
 DTSTART;TZID=America/Montevideo:20260429T230000
 DTEND;TZID=America/Montevideo:20260430T010000
 SUMMARY:Universitario🇵🇪 vs. Nacional🇺🇾
-DESCRIPTION:Group B - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Monumental de Lima Stadium
 END:VEVENT
@@ -176,7 +176,7 @@ UID:20260506T230000Z_DeportesTolima_Nacional
 DTSTART;TZID=America/Montevideo:20260506T230000
 DTEND;TZID=America/Montevideo:20260507T010000
 SUMMARY:Deportes Tolima🇨🇴 vs. Nacional🇺🇾
-DESCRIPTION:Group B - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Manuel Murillo Toro Stadium
 END:VEVENT
@@ -186,7 +186,7 @@ UID:20260520T190000Z_Nacional_Universitario
 DTSTART;TZID=America/Montevideo:20260520T190000
 DTEND;TZID=America/Montevideo:20260520T210000
 SUMMARY:Nacional🇺🇾 vs. Universitario🇵🇪
-DESCRIPTION:Group B - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Gran Parque Central
 END:VEVENT
@@ -196,7 +196,7 @@ UID:20260526T213000Z_Nacional_CoquimboUnido
 DTSTART;TZID=America/Montevideo:20260526T213000
 DTEND;TZID=America/Montevideo:20260526T233000
 SUMMARY:Nacional🇺🇾 vs. Coquimbo Unido🇨🇱
-DESCRIPTION:Group B - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group B - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Gran Parque Central
 END:VEVENT
@@ -206,7 +206,7 @@ UID:20260721T190000Z_Nacional_Tigre
 DTSTART;TZID=America/Montevideo:20260721T190000
 DTEND;TZID=America/Montevideo:20260721T210000
 SUMMARY:Nacional🇺🇾 vs. Tigre🇦🇷
-DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Gran Parque Central
 END:VEVENT
@@ -216,7 +216,7 @@ UID:20260728T190000Z_Tigre_Nacional
 DTSTART;TZID=America/Montevideo:20260728T190000
 DTEND;TZID=America/Montevideo:20260728T210000
 SUMMARY:Tigre🇦🇷 vs. Nacional🇺🇾
-DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Monumental de Victoria (José Dellagiovanna)
 END:VEVENT

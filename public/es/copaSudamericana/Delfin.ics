@@ -6,7 +6,7 @@ UID:20240404T230000Z_Real_Tomayapo_Delfin
 DTSTART;TZID=America/Montevideo:20240404T230000
 DTEND;TZID=America/Montevideo:20240405T010000
 SUMMARY:Real Tomayapo🇧🇴 vs. Delfín🇪🇨
-DESCRIPTION:Grupo C - Fecha 1 - Copa Sudamericana
+DESCRIPTION:Grupo C - Fecha 1 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio IV Centenario
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20240411T230000Z_Delfin_Belgrano
 DTSTART;TZID=America/Montevideo:20240411T230000
 DTEND;TZID=America/Montevideo:20240412T010000
 SUMMARY:Delfín🇪🇨 vs. Belgrano🇦🇷
-DESCRIPTION:Grupo C - Fecha 2 - Copa Sudamericana
+DESCRIPTION:Grupo C - Fecha 2 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Jocay
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240425T230000Z_Delfin_Internacional
 DTSTART;TZID=America/Montevideo:20240425T230000
 DTEND;TZID=America/Montevideo:20240426T010000
 SUMMARY:Delfín🇪🇨 vs. Internacional🇧🇷
-DESCRIPTION:Grupo C - Fecha 3 - Copa Sudamericana
+DESCRIPTION:Grupo C - Fecha 3 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Jocay
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20240509T190000Z_Belgrano_Delfin
 DTSTART;TZID=America/Montevideo:20240509T190000
 DTEND;TZID=America/Montevideo:20240509T210000
 SUMMARY:Belgrano🇦🇷 vs. Delfín🇪🇨
-DESCRIPTION:Grupo C - Fecha 4 - Copa Sudamericana
+DESCRIPTION:Grupo C - Fecha 4 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Mario Alberto Kempes
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20240516T190000Z_Internacional_Delfin
 DTSTART;TZID=America/Montevideo:20240516T190000
 DTEND;TZID=America/Montevideo:20240516T210000
 SUMMARY:Internacional🇧🇷 vs. Delfín🇪🇨
-DESCRIPTION:Grupo C - Fecha 5 - Copa Sudamericana
+DESCRIPTION:Grupo C - Fecha 5 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Beira-Rio
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20240528T213000Z_Delfin_Real_Tomayapo
 DTSTART;TZID=America/Montevideo:20240528T213000
 DTEND;TZID=America/Montevideo:20240528T233000
 SUMMARY:Delfín🇪🇨 vs. Real Tomayapo🇧🇴
-DESCRIPTION:Grupo C - Fecha 6 - Copa Sudamericana
+DESCRIPTION:Grupo C - Fecha 6 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Jocay
 END:VEVENT

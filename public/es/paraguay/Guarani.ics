@@ -6,7 +6,7 @@ UID:20250401T190000Z_BostonRiver_Guarani
 DTSTART;TZID=America/Montevideo:20250401T190000
 DTEND;TZID=America/Montevideo:20250401T210000
 SUMMARY:Boston River🇺🇾 vs. Guaraní🇵🇾
-DESCRIPTION:Grupo A - Fecha 1 - Copa Sudamericana
+DESCRIPTION:Grupo A - Fecha 1 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Centenario
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20250410T213000Z_Guarani_NacionalPotosi
 DTSTART;TZID=America/Montevideo:20250410T213000
 DTEND;TZID=America/Montevideo:20250410T233000
 SUMMARY:Guaraní🇵🇾 vs. Nacional Potosí🇧🇴
-DESCRIPTION:Grupo A - Fecha 2 - Copa Sudamericana
+DESCRIPTION:Grupo A - Fecha 2 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio ueno Defensores del Chaco
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20250422T190000Z_Guarani_Independiente
 DTSTART;TZID=America/Montevideo:20250422T190000
 DTEND;TZID=America/Montevideo:20250422T210000
 SUMMARY:Guaraní🇵🇾 vs. Independiente🇦🇷
-DESCRIPTION:Grupo A - Fecha 3 - Copa Sudamericana
+DESCRIPTION:Grupo A - Fecha 3 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio ueno Defensores del Chaco
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20250506T190000Z_NacionalPotosi_Guarani
 DTSTART;TZID=America/Montevideo:20250506T190000
 DTEND;TZID=America/Montevideo:20250506T210000
 SUMMARY:Nacional Potosí🇧🇴 vs. Guaraní🇵🇾
-DESCRIPTION:Grupo A - Fecha 4 - Copa Sudamericana
+DESCRIPTION:Grupo A - Fecha 4 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Víctor Agustín Ugarte
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20250515T190000Z_Independiente_Guarani
 DTSTART;TZID=America/Montevideo:20250515T190000
 DTEND;TZID=America/Montevideo:20250515T210000
 SUMMARY:Independiente🇦🇷 vs. Guaraní🇵🇾
-DESCRIPTION:Grupo A - Fecha 5 - Copa Sudamericana
+DESCRIPTION:Grupo A - Fecha 5 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Libertadores de América
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20250528T190000Z_Guarani_BostonRiver
 DTSTART;TZID=America/Montevideo:20250528T190000
 DTEND;TZID=America/Montevideo:20250528T210000
 SUMMARY:Guaraní🇵🇾 vs. Boston River🇺🇾
-DESCRIPTION:Grupo A - Fecha 6 - Copa Sudamericana
+DESCRIPTION:Grupo A - Fecha 6 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio ueno Defensores del Chaco
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20250717T190000Z_UniversidadDeChile_Guarani
 DTSTART;TZID=America/Montevideo:20250717T190000
 DTEND;TZID=America/Montevideo:20250717T210000
 SUMMARY:Universidad de Chile🇨🇱 vs. Guaraní🇵🇾
-DESCRIPTION:Play-offs - Ida - Copa Sudamericana
+DESCRIPTION:Play-offs - Ida - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Nacional Julio Martínez Prádanos
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20250724T190000Z_Guarani_UniversidadDeChile
 DTSTART;TZID=America/Montevideo:20250724T190000
 DTEND;TZID=America/Montevideo:20250724T210000
 SUMMARY:Guaraní🇵🇾 vs. Universidad de Chile🇨🇱
-DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana
+DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio ueno La Nueva Olla
 END:VEVENT

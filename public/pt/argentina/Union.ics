@@ -6,7 +6,7 @@ UID:20250401T190000Z_Union_Cruzeiro
 DTSTART;TZID=America/Montevideo:20250401T190000
 DTEND;TZID=America/Montevideo:20250401T210000
 SUMMARY:Unión🇦🇷 vs. Cruzeiro🇧🇷
-DESCRIPTION:Grupo E - Rodada 1 - Copa Sul-Americana
+DESCRIPTION:Grupo E - Rodada 1 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:15 de Abril
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20250409T190000Z_Palestino_Union
 DTSTART;TZID=America/Montevideo:20250409T190000
 DTEND;TZID=America/Montevideo:20250409T210000
 SUMMARY:Palestino🇨🇱 vs. Unión🇦🇷
-DESCRIPTION:Grupo E - Rodada 2 - Copa Sul-Americana
+DESCRIPTION:Grupo E - Rodada 2 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Nacional Julio Martínez Prádanos
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20250423T230000Z_MushucRuna_Union
 DTSTART;TZID=America/Montevideo:20250423T230000
 DTEND;TZID=America/Montevideo:20250424T010000
 SUMMARY:Mushuc Runa🇪🇨 vs. Unión🇦🇷
-DESCRIPTION:Grupo E - Rodada 3 - Copa Sul-Americana
+DESCRIPTION:Grupo E - Rodada 3 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Banco Guayaquil
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20250507T190000Z_Union_Palestino
 DTSTART;TZID=America/Montevideo:20250507T190000
 DTEND;TZID=America/Montevideo:20250507T210000
 SUMMARY:Unión🇦🇷 vs. Palestino🇨🇱
-DESCRIPTION:Grupo E - Rodada 4 - Copa Sul-Americana
+DESCRIPTION:Grupo E - Rodada 4 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:15 de Abril
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20250513T213000Z_Union_MushucRuna
 DTSTART;TZID=America/Montevideo:20250513T213000
 DTEND;TZID=America/Montevideo:20250513T233000
 SUMMARY:Unión🇦🇷 vs. Mushuc Runa🇪🇨
-DESCRIPTION:Grupo E - Rodada 5 - Copa Sul-Americana
+DESCRIPTION:Grupo E - Rodada 5 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:15 de Abril
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20250528T213000Z_Cruzeiro_Union
 DTSTART;TZID=America/Montevideo:20250528T213000
 DTEND;TZID=America/Montevideo:20250528T233000
 SUMMARY:Cruzeiro🇧🇷 vs. Unión🇦🇷
-DESCRIPTION:Grupo E - Rodada 6 - Copa Sul-Americana
+DESCRIPTION:Grupo E - Rodada 6 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Mineirão
 END:VEVENT

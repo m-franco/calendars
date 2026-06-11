@@ -6,7 +6,7 @@ UID:20250403T190000Z_GVSanJose_UnionEspanola
 DTSTART;TZID=America/Montevideo:20250403T190000
 DTEND;TZID=America/Montevideo:20250403T210000
 SUMMARY:GV San José🇧🇴 vs. Unión Española🇨🇱
-DESCRIPTION:Grupo F - Rodada 1 - Copa Sul-Americana
+DESCRIPTION:Grupo F - Rodada 1 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Hernando Siles
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20250409T213000Z_UnionEspanola_OnceCaldas
 DTSTART;TZID=America/Montevideo:20250409T213000
 DTEND;TZID=America/Montevideo:20250409T233000
 SUMMARY:Unión Española🇨🇱 vs. Once Caldas🇨🇴
-DESCRIPTION:Grupo F - Rodada 2 - Copa Sul-Americana
+DESCRIPTION:Grupo F - Rodada 2 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Sausalito
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20250423T190000Z_UnionEspanola_Fluminense
 DTSTART;TZID=America/Montevideo:20250423T190000
 DTEND;TZID=America/Montevideo:20250423T210000
 SUMMARY:Unión Española🇨🇱 vs. Fluminense🇧🇷
-DESCRIPTION:Grupo F - Rodada 3 - Copa Sul-Americana
+DESCRIPTION:Grupo F - Rodada 3 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Municipal de La Florida
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20250507T230000Z_OnceCaldas_UnionEspanola
 DTSTART;TZID=America/Montevideo:20250507T230000
 DTEND;TZID=America/Montevideo:20250508T010000
 SUMMARY:Once Caldas🇨🇴 vs. Unión Española🇨🇱
-DESCRIPTION:Grupo F - Rodada 4 - Copa Sul-Americana
+DESCRIPTION:Grupo F - Rodada 4 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Palogrande
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20250514T190000Z_Fluminense_UnionEspanola
 DTSTART;TZID=America/Montevideo:20250514T190000
 DTEND;TZID=America/Montevideo:20250514T210000
 SUMMARY:Fluminense🇧🇷 vs. Unión Española🇨🇱
-DESCRIPTION:Grupo F - Rodada 5 - Copa Sul-Americana
+DESCRIPTION:Grupo F - Rodada 5 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio do Maracana
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20250529T213000Z_UnionEspanola_GVSanJose
 DTSTART;TZID=America/Montevideo:20250529T213000
 DTEND;TZID=America/Montevideo:20250529T233000
 SUMMARY:Unión Española🇨🇱 vs. GV San José🇧🇴
-DESCRIPTION:Grupo F - Rodada 6 - Copa Sul-Americana
+DESCRIPTION:Grupo F - Rodada 6 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Municipal de La Florida
 END:VEVENT

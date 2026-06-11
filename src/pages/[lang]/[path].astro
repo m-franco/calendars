@@ -4,7 +4,7 @@ import { detailPaths } from "../../i18n/paths";
 import { alternatesFor, urlFor, localizedSlug, type Lang } from "../../i18n/ui";
 
 export function getStaticPaths() {
-    return (["en", "pt"] as Lang[]).flatMap((l) =>
+    return (["es", "en", "pt"] as Lang[]).flatMap((l) =>
         detailPaths(l).map((e) => ({ params: { lang: l, ...e.params }, props: e.props }))
     );
 }

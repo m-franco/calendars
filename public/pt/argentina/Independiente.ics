@@ -6,7 +6,7 @@ UID:20250401T190000Z_NacionalPotosi_Independiente
 DTSTART;TZID=America/Montevideo:20250401T190000
 DTEND;TZID=America/Montevideo:20250401T210000
 SUMMARY:Nacional Potosí🇧🇴 vs. Independiente🇦🇷
-DESCRIPTION:Grupo A - Rodada 1 - Copa Sul-Americana
+DESCRIPTION:Grupo A - Rodada 1 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Víctor Agustín Ugarte
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20250408T190000Z_Independiente_BostonRiver
 DTSTART;TZID=America/Montevideo:20250408T190000
 DTEND;TZID=America/Montevideo:20250408T210000
 SUMMARY:Independiente🇦🇷 vs. Boston River🇺🇾
-DESCRIPTION:Grupo A - Rodada 2 - Copa Sul-Americana
+DESCRIPTION:Grupo A - Rodada 2 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Libertadores de América
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20250422T190000Z_Guarani_Independiente
 DTSTART;TZID=America/Montevideo:20250422T190000
 DTEND;TZID=America/Montevideo:20250422T210000
 SUMMARY:Guaraní🇵🇾 vs. Independiente🇦🇷
-DESCRIPTION:Grupo A - Rodada 3 - Copa Sul-Americana
+DESCRIPTION:Grupo A - Rodada 3 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio ueno Defensores del Chaco
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20250506T213000Z_BostonRiver_Independiente
 DTSTART;TZID=America/Montevideo:20250506T213000
 DTEND;TZID=America/Montevideo:20250506T233000
 SUMMARY:Boston River🇺🇾 vs. Independiente🇦🇷
-DESCRIPTION:Grupo A - Rodada 4 - Copa Sul-Americana
+DESCRIPTION:Grupo A - Rodada 4 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Centenario
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20250515T190000Z_Independiente_Guarani
 DTSTART;TZID=America/Montevideo:20250515T190000
 DTEND;TZID=America/Montevideo:20250515T210000
 SUMMARY:Independiente🇦🇷 vs. Guaraní🇵🇾
-DESCRIPTION:Grupo A - Rodada 5 - Copa Sul-Americana
+DESCRIPTION:Grupo A - Rodada 5 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Libertadores de América
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20250528T190000Z_Independiente_NacionalPotosi
 DTSTART;TZID=America/Montevideo:20250528T190000
 DTEND;TZID=America/Montevideo:20250528T210000
 SUMMARY:Independiente🇦🇷 vs. Nacional Potosí🇧🇴
-DESCRIPTION:Grupo A - Rodada 6 - Copa Sul-Americana
+DESCRIPTION:Grupo A - Rodada 6 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Libertadores de América
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20250813T213000Z_UniversidadDeChile_Independiente
 DTSTART;TZID=America/Montevideo:20250813T213000
 DTEND;TZID=America/Montevideo:20250813T233000
 SUMMARY:Universidad de Chile🇨🇱 vs. Independiente🇦🇷
-DESCRIPTION:Oitavas de final - Ida - Copa Sul-Americana
+DESCRIPTION:Oitavas de final - Ida - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Nacional Julio Martínez Prádanos
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20250820T213000Z_Independiente_UniversidadDeChile
 DTSTART;TZID=America/Montevideo:20250820T213000
 DTEND;TZID=America/Montevideo:20250820T233000
 SUMMARY:Independiente🇦🇷 vs. Universidad de Chile🇨🇱
-DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana
+DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Libertadores de América
 END:VEVENT

@@ -6,7 +6,7 @@ UID:20250402T190000Z_Melgar_VascoDaGama
 DTSTART;TZID=America/Montevideo:20250402T190000
 DTEND;TZID=America/Montevideo:20250402T210000
 SUMMARY:Melgar🇵🇪 vs. Vasco da Gama🇧🇷
-DESCRIPTION:Grupo G - Fecha 1 - Copa Sudamericana
+DESCRIPTION:Grupo G - Fecha 1 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Monumental de la UNSA
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20250408T213000Z_VascoDaGama_AcademiaPuertoCabello
 DTSTART;TZID=America/Montevideo:20250408T213000
 DTEND;TZID=America/Montevideo:20250408T233000
 SUMMARY:Vasco da Gama🇧🇷 vs. Academia Puerto Cabello🇻🇪
-DESCRIPTION:Grupo G - Fecha 2 - Copa Sudamericana
+DESCRIPTION:Grupo G - Fecha 2 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estádio São Januário
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20250422T213000Z_VascoDaGama_Lanus
 DTSTART;TZID=America/Montevideo:20250422T213000
 DTEND;TZID=America/Montevideo:20250422T233000
 SUMMARY:Vasco da Gama🇧🇷 vs. Lanús🇦🇷
-DESCRIPTION:Grupo G - Fecha 3 - Copa Sudamericana
+DESCRIPTION:Grupo G - Fecha 3 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estádio São Januário
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20250507T190000Z_AcademiaPuertoCabello_VascoDaGama
 DTSTART;TZID=America/Montevideo:20250507T190000
 DTEND;TZID=America/Montevideo:20250507T210000
 SUMMARY:Academia Puerto Cabello🇻🇪 vs. Vasco da Gama🇧🇷
-DESCRIPTION:Grupo G - Fecha 4 - Copa Sudamericana
+DESCRIPTION:Grupo G - Fecha 4 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Misael Delgado
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20250513T213000Z_Lanus_VascoDaGama
 DTSTART;TZID=America/Montevideo:20250513T213000
 DTEND;TZID=America/Montevideo:20250513T233000
 SUMMARY:Lanús🇦🇷 vs. Vasco da Gama🇧🇷
-DESCRIPTION:Grupo G - Fecha 5 - Copa Sudamericana
+DESCRIPTION:Grupo G - Fecha 5 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Ciudad de Lanús
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20250527T190000Z_VascoDaGama_Melgar
 DTSTART;TZID=America/Montevideo:20250527T190000
 DTEND;TZID=America/Montevideo:20250527T210000
 SUMMARY:Vasco da Gama🇧🇷 vs. Melgar🇵🇪
-DESCRIPTION:Grupo G - Fecha 6 - Copa Sudamericana
+DESCRIPTION:Grupo G - Fecha 6 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estádio São Januário
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20250715T213000Z_IndependienteDelValle_VascoDaGama
 DTSTART;TZID=America/Montevideo:20250715T213000
 DTEND;TZID=America/Montevideo:20250715T233000
 SUMMARY:Independiente del Valle🇪🇨 vs. Vasco da Gama🇧🇷
-DESCRIPTION:Play-offs - Ida - Copa Sudamericana
+DESCRIPTION:Play-offs - Ida - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Olímpico Atahualpa
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20250722T213000Z_VascoDaGama_IndependienteDelValle
 DTSTART;TZID=America/Montevideo:20250722T213000
 DTEND;TZID=America/Montevideo:20250722T233000
 SUMMARY:Vasco da Gama🇧🇷 vs. Independiente del Valle🇪🇨
-DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana
+DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estádio São Januário
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20260407T190000Z_BarracasCentral_VascoDaGama
 DTSTART;TZID=America/Montevideo:20260407T190000
 DTEND;TZID=America/Montevideo:20260407T210000
 SUMMARY:Barracas Central🇦🇷 vs. Vasco da Gama🇧🇷
-DESCRIPTION:Grupo G - Fecha 1 - Copa Sudamericana
+DESCRIPTION:Grupo G - Fecha 1 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Florencio Solá
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20260414T210000Z_VascoDaGama_AudaxItaliano
 DTSTART;TZID=America/Montevideo:20260414T210000
 DTEND;TZID=America/Montevideo:20260414T230000
 SUMMARY:Vasco da Gama🇧🇷 vs. Audax Italiano🇨🇱
-DESCRIPTION:Grupo G - Fecha 2 - Copa Sudamericana
+DESCRIPTION:Grupo G - Fecha 2 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estádio São Januário
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20260430T190000Z_VascoDaGama_Olimpia
 DTSTART;TZID=America/Montevideo:20260430T190000
 DTEND;TZID=America/Montevideo:20260430T210000
 SUMMARY:Vasco da Gama🇧🇷 vs. Olimpia🇵🇾
-DESCRIPTION:Grupo G - Fecha 3 - Copa Sudamericana
+DESCRIPTION:Grupo G - Fecha 3 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estádio São Januário
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20260506T190000Z_AudaxItaliano_VascoDaGama
 DTSTART;TZID=America/Montevideo:20260506T190000
 DTEND;TZID=America/Montevideo:20260506T210000
 SUMMARY:Audax Italiano🇨🇱 vs. Vasco da Gama🇧🇷
-DESCRIPTION:Grupo G - Fecha 4 - Copa Sudamericana
+DESCRIPTION:Grupo G - Fecha 4 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Municipal de La Florida
 END:VEVENT
@@ -126,7 +126,7 @@ UID:20260520T190000Z_Olimpia_VascoDaGama
 DTSTART;TZID=America/Montevideo:20260520T190000
 DTEND;TZID=America/Montevideo:20260520T210000
 SUMMARY:Olimpia🇵🇾 vs. Vasco da Gama🇧🇷
-DESCRIPTION:Grupo G - Fecha 5 - Copa Sudamericana
+DESCRIPTION:Grupo G - Fecha 5 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Defensores del Chaco
 END:VEVENT
@@ -136,7 +136,7 @@ UID:20260527T190000Z_VascoDaGama_BarracasCentral
 DTSTART;TZID=America/Montevideo:20260527T190000
 DTEND;TZID=America/Montevideo:20260527T210000
 SUMMARY:Vasco da Gama🇧🇷 vs. Barracas Central🇦🇷
-DESCRIPTION:Grupo G - Fecha 6 - Copa Sudamericana
+DESCRIPTION:Grupo G - Fecha 6 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estádio São Januário
 END:VEVENT
@@ -146,7 +146,7 @@ UID:20260722T190000Z_IndependienteDeMedellin_VascoDaGama
 DTSTART;TZID=America/Montevideo:20260722T190000
 DTEND;TZID=America/Montevideo:20260722T210000
 SUMMARY:Independiente de Medellín🇨🇴 vs. Vasco da Gama🇧🇷
-DESCRIPTION:Play-offs - Ida - Copa Sudamericana
+DESCRIPTION:Play-offs - Ida - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Atanasio Girardot
 END:VEVENT
@@ -156,7 +156,7 @@ UID:20260729T190000Z_VascoDaGama_IndependienteDeMedellin
 DTSTART;TZID=America/Montevideo:20260729T190000
 DTEND;TZID=America/Montevideo:20260729T210000
 SUMMARY:Vasco da Gama🇧🇷 vs. Independiente de Medellín🇨🇴
-DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana
+DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estádio São Januário
 END:VEVENT

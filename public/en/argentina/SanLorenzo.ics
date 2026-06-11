@@ -6,7 +6,7 @@ UID:20240403T213000Z_SanLorenzo_Palmeiras
 DTSTART;TZID=America/Montevideo:20240403T213000
 DTEND;TZID=America/Montevideo:20240403T233000
 SUMMARY:San Lorenzo🇦🇷 vs. Palmeiras🇧🇷
-DESCRIPTION:Group F - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nuevo Gasómetro Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20240410T190000Z_IndependienteDelValle_SanLorenzo
 DTSTART;TZID=America/Montevideo:20240410T190000
 DTEND;TZID=America/Montevideo:20240410T210000
 SUMMARY:Independiente del Valle🇪🇨 vs. San Lorenzo🇦🇷
-DESCRIPTION:Group F - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Guayaquil Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240423T210000Z_Liverpool_SanLorenzo
 DTSTART;TZID=America/Montevideo:20240423T210000
 DTEND;TZID=America/Montevideo:20240423T230000
 SUMMARY:Liverpool🇺🇾 vs. San Lorenzo🇦🇷
-DESCRIPTION:Group F - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Centenario Stadium
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20240509T190000Z_SanLorenzo_IndependienteDelValle
 DTSTART;TZID=America/Montevideo:20240509T190000
 DTEND;TZID=America/Montevideo:20240509T210000
 SUMMARY:San Lorenzo🇦🇷 vs. Independiente del Valle🇪🇨
-DESCRIPTION:Group F - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nuevo Gasómetro Stadium
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20240516T210000Z_SanLorenzo_Liverpool
 DTSTART;TZID=America/Montevideo:20240516T210000
 DTEND;TZID=America/Montevideo:20240516T230000
 SUMMARY:San Lorenzo🇦🇷 vs. Liverpool🇺🇾
-DESCRIPTION:Group F - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nuevo Gasómtro Stadium
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20240530T190000Z_Palmeiras_SanLorenzo
 DTSTART;TZID=America/Montevideo:20240530T190000
 DTEND;TZID=America/Montevideo:20240530T210000
 SUMMARY:Palmeiras🇧🇷 vs. San Lorenzo🇦🇷
-DESCRIPTION:Group F - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group F - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Allianz Parque Stadium
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20240813T213000Z_SanLorenzo_AtleticoMineiro
 DTSTART;TZID=America/Montevideo:20240813T213000
 DTEND;TZID=America/Montevideo:20240813T233000
 SUMMARY:San Lorenzo🇦🇷 vs. Atlético Mineiro🇧🇷
-DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Nuevo Gasómetro Stadium
 CLASS:PUBLIC
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20240820T213000Z_AtleticoMineiro_SanLorenzo
 DTSTART;TZID=America/Montevideo:20240820T213000
 DTEND;TZID=America/Montevideo:20240820T233000
 SUMMARY:Atlético Mineiro🇧🇷 vs. San Lorenzo🇦🇷
-DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Arena MRV Stadium
 CLASS:PUBLIC
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20260408T190000Z_Recoleta_SanLorenzo
 DTSTART;TZID=America/Montevideo:20260408T190000
 DTEND;TZID=America/Montevideo:20260408T210000
 SUMMARY:Recoleta🇵🇾 vs. San Lorenzo🇦🇷
-DESCRIPTION:Group D - Matchday 1 - Sudamericana Cup
+DESCRIPTION:Group D - Matchday 1 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Defensores del Chaco
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20260416T213000Z_SanLorenzo_DeportivoCuenca
 DTSTART;TZID=America/Montevideo:20260416T213000
 DTEND;TZID=America/Montevideo:20260416T233000
 SUMMARY:San Lorenzo🇦🇷 vs. Deportivo Cuenca🇪🇨
-DESCRIPTION:Group D - Matchday 2 - Sudamericana Cup
+DESCRIPTION:Group D - Matchday 2 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Pedro Bidegain Stadium
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20260428T190000Z_SanLorenzo_Santos
 DTSTART;TZID=America/Montevideo:20260428T190000
 DTEND;TZID=America/Montevideo:20260428T210000
 SUMMARY:San Lorenzo🇦🇷 vs. Santos🇧🇷
-DESCRIPTION:Group D - Matchday 3 - Sudamericana Cup
+DESCRIPTION:Group D - Matchday 3 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Pedro Bidegain Stadium
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20260505T230000Z_DeportivoCuenca_SanLorenzo
 DTSTART;TZID=America/Montevideo:20260505T230000
 DTEND;TZID=America/Montevideo:20260506T010000
 SUMMARY:Deportivo Cuenca🇪🇨 vs. San Lorenzo🇦🇷
-DESCRIPTION:Group D - Matchday 4 - Sudamericana Cup
+DESCRIPTION:Group D - Matchday 4 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Banco del Austro Alejandro Serrano Aguil
 END:VEVENT
@@ -126,7 +126,7 @@ UID:20260520T190000Z_Santos_SanLorenzo
 DTSTART;TZID=America/Montevideo:20260520T190000
 DTEND;TZID=America/Montevideo:20260520T210000
 SUMMARY:Santos🇧🇷 vs. San Lorenzo🇦🇷
-DESCRIPTION:Group D - Matchday 5 - Sudamericana Cup
+DESCRIPTION:Group D - Matchday 5 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Estádio Vila Belmiro (Urbano Caldeira)
 END:VEVENT
@@ -136,7 +136,7 @@ UID:20260526T213000Z_SanLorenzo_Recoleta
 DTSTART;TZID=America/Montevideo:20260526T213000
 DTEND;TZID=America/Montevideo:20260526T233000
 SUMMARY:San Lorenzo🇦🇷 vs. Recoleta🇵🇾
-DESCRIPTION:Group D - Matchday 6 - Sudamericana Cup
+DESCRIPTION:Group D - Matchday 6 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Pedro Bidegain Stadium
 END:VEVENT

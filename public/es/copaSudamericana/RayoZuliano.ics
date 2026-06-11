@@ -6,7 +6,7 @@ UID:20240403T190000Z_Rayo_Zuliano_Danubio
 DTSTART;TZID=America/Montevideo:20240403T190000
 DTEND;TZID=America/Montevideo:20240403T210000
 SUMMARY:Rayo Zuliano🇻🇪 vs. Danubio🇺🇾
-DESCRIPTION:Grupo E - Fecha 1 - Copa Sudamericana
+DESCRIPTION:Grupo E - Fecha 1 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Brígido Iriarte
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20240409T213000Z_Atletico_Paranaense_Rayo_Zuliano
 DTSTART;TZID=America/Montevideo:20240409T213000
 DTEND;TZID=America/Montevideo:20240409T233000
 SUMMARY:Atlético Paranaense🇧🇷 vs. Rayo Zuliano🇻🇪
-DESCRIPTION:Grupo E - Fecha 2 - Copa Sudamericana
+DESCRIPTION:Grupo E - Fecha 2 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Ligga Arena
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240424T230000Z_Rayo_Zuliano_Sportivo_Ameliano
 DTSTART;TZID=America/Montevideo:20240424T230000
 DTEND;TZID=America/Montevideo:20240425T010000
 SUMMARY:Rayo Zuliano🇻🇪 vs. Sportivo Ameliano🇵🇾
-DESCRIPTION:Grupo E - Fecha 3 - Copa Sudamericana
+DESCRIPTION:Grupo E - Fecha 3 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Brígido Iriarte
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20240508T190000Z_Rayo_Zuliano_Atletico_Paranaense
 DTSTART;TZID=America/Montevideo:20240508T190000
 DTEND;TZID=America/Montevideo:20240508T210000
 SUMMARY:Rayo Zuliano🇻🇪 vs. Atlético Paranaense🇧🇷
-DESCRIPTION:Grupo E - Fecha 4 - Copa Sudamericana
+DESCRIPTION:Grupo E - Fecha 4 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Brígido Iriarte
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20240514T210000Z_Sportivo_Ameliano_Rayo_Zuliano
 DTSTART;TZID=America/Montevideo:20240514T210000
 DTEND;TZID=America/Montevideo:20240514T230000
 SUMMARY:Sportivo Ameliano🇵🇾 vs. Rayo Zuliano🇻🇪
-DESCRIPTION:Grupo E - Fecha 5 - Copa Sudamericana
+DESCRIPTION:Grupo E - Fecha 5 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Defensores del Chaco
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20240530T220000Z_Danubio_Rayo_Zuliano
 DTSTART;TZID=America/Montevideo:20240530T220000
 DTEND;TZID=America/Montevideo:20240531T000000
 SUMMARY:Danubio🇺🇾 vs. Rayo Zuliano🇻🇪
-DESCRIPTION:Grupo E - Fecha 6 - Copa Sudamericana
+DESCRIPTION:Grupo E - Fecha 6 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Centenario
 END:VEVENT

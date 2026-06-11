@@ -6,7 +6,7 @@ UID:20260407T190000Z_IndependientePetrolero_Racing
 DTSTART;TZID=America/Montevideo:20260407T190000
 DTEND;TZID=America/Montevideo:20260407T210000
 SUMMARY:Independiente Petrolero🇧🇴 vs. Racing🇦🇷
-DESCRIPTION:Group E - Matchday 1 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 1 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Olímpico Patria Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260415T190000Z_Caracas_IndependientePetrolero
 DTSTART;TZID=America/Montevideo:20260415T190000
 DTEND;TZID=America/Montevideo:20260415T210000
 SUMMARY:Caracas🇻🇪 vs. Independiente Petrolero🇧🇴
-DESCRIPTION:Group E - Matchday 2 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 2 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Olímpico de la UCV Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260428T190000Z_Botafogo_IndependientePetrolero
 DTSTART;TZID=America/Montevideo:20260428T190000
 DTEND;TZID=America/Montevideo:20260428T210000
 SUMMARY:Botafogo🇧🇷 vs. Independiente Petrolero🇧🇴
-DESCRIPTION:Group E - Matchday 3 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 3 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Joao Havelange Stadium
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20260505T190000Z_IndependientePetrolero_Caracas
 DTSTART;TZID=America/Montevideo:20260505T190000
 DTEND;TZID=America/Montevideo:20260505T210000
 SUMMARY:Independiente Petrolero🇧🇴 vs. Caracas🇻🇪
-DESCRIPTION:Group E - Matchday 4 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 4 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Olímpico Patria Stadium
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20260520T210000Z_IndependientePetrolero_Botafogo
 DTSTART;TZID=America/Montevideo:20260520T210000
 DTEND;TZID=America/Montevideo:20260520T230000
 SUMMARY:Independiente Petrolero🇧🇴 vs. Botafogo🇧🇷
-DESCRIPTION:Group E - Matchday 5 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 5 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Tigo La Huerta Stadium
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20260527T190000Z_Racing_IndependientePetrolero
 DTSTART;TZID=America/Montevideo:20260527T190000
 DTEND;TZID=America/Montevideo:20260527T210000
 SUMMARY:Racing🇦🇷 vs. Independiente Petrolero🇧🇴
-DESCRIPTION:Group E - Matchday 6 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 6 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Presidente Perón (Cilindro de Avellaneda)
 END:VEVENT

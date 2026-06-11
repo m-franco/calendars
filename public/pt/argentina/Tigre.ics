@@ -6,7 +6,7 @@ UID:20260407T230000Z_AlianzaAtletico_Tigre
 DTSTART;TZID=America/Montevideo:20260407T230000
 DTEND;TZID=America/Montevideo:20260408T010000
 SUMMARY:Alianza Atlético🇵🇪 vs. Tigre🇦🇷
-DESCRIPTION:Grupo A - Rodada 1 - Copa Sul-Americana
+DESCRIPTION:Grupo A - Rodada 1 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Miguel Grau del Callao
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260416T190000Z_Tigre_Macara
 DTSTART;TZID=America/Montevideo:20260416T190000
 DTEND;TZID=America/Montevideo:20260416T210000
 SUMMARY:Tigre🇦🇷 vs. Macará🇪🇨
-DESCRIPTION:Grupo A - Rodada 2 - Copa Sul-Americana
+DESCRIPTION:Grupo A - Rodada 2 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Monumental de Victoria (José Dellagiovanna)
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260430T210000Z_Tigre_AmericaDeCali
 DTSTART;TZID=America/Montevideo:20260430T210000
 DTEND;TZID=America/Montevideo:20260430T230000
 SUMMARY:Tigre🇦🇷 vs. América de Cali🇨🇴
-DESCRIPTION:Grupo A - Rodada 3 - Copa Sul-Americana
+DESCRIPTION:Grupo A - Rodada 3 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Monumental de Victoria (José Dellagiovanna)
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20260506T210000Z_Macara_Tigre
 DTSTART;TZID=America/Montevideo:20260506T210000
 DTEND;TZID=America/Montevideo:20260506T230000
 SUMMARY:Macará🇪🇨 vs. Tigre🇦🇷
-DESCRIPTION:Grupo A - Rodada 4 - Copa Sul-Americana
+DESCRIPTION:Grupo A - Rodada 4 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Bellavista
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20260519T230000Z_AmericaDeCali_Tigre
 DTSTART;TZID=America/Montevideo:20260519T230000
 DTEND;TZID=America/Montevideo:20260520T010000
 SUMMARY:América de Cali🇨🇴 vs. Tigre🇦🇷
-DESCRIPTION:Grupo A - Rodada 5 - Copa Sul-Americana
+DESCRIPTION:Grupo A - Rodada 5 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Pascual Guerrero
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20260528T213000Z_Tigre_AlianzaAtletico
 DTSTART;TZID=America/Montevideo:20260528T213000
 DTEND;TZID=America/Montevideo:20260528T233000
 SUMMARY:Tigre🇦🇷 vs. Alianza Atlético🇵🇪
-DESCRIPTION:Grupo A - Rodada 6 - Copa Sul-Americana
+DESCRIPTION:Grupo A - Rodada 6 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Monumental de Victoria (José Dellagiovanna)
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20260721T190000Z_Nacional_Tigre
 DTSTART;TZID=America/Montevideo:20260721T190000
 DTEND;TZID=America/Montevideo:20260721T210000
 SUMMARY:Nacional🇺🇾 vs. Tigre🇦🇷
-DESCRIPTION:Play-offs - Ida - Copa Sul-Americana
+DESCRIPTION:Play-offs - Ida - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Gran Parque Central
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20260728T190000Z_Tigre_Nacional
 DTSTART;TZID=America/Montevideo:20260728T190000
 DTEND;TZID=America/Montevideo:20260728T210000
 SUMMARY:Tigre🇦🇷 vs. Nacional🇺🇾
-DESCRIPTION:Play-offs - Volta - Copa Sul-Americana
+DESCRIPTION:Play-offs - Volta - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Monumental de Victoria (José Dellagiovanna)
 END:VEVENT

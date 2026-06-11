@@ -6,7 +6,7 @@ UID:20250402T190000Z_Melgar_VascoDaGama
 DTSTART;TZID=America/Montevideo:20250402T190000
 DTEND;TZID=America/Montevideo:20250402T210000
 SUMMARY:Melgar🇵🇪 vs. Vasco da Gama🇧🇷
-DESCRIPTION:Group G - Matchday 1 - Sudamericana Cup
+DESCRIPTION:Group G - Matchday 1 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Monumental de la UNSA Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20250409T213000Z_Lanus_Melgar
 DTSTART;TZID=America/Montevideo:20250409T213000
 DTEND;TZID=America/Montevideo:20250409T233000
 SUMMARY:Lanús🇦🇷 vs. Melgar🇵🇪
-DESCRIPTION:Group G - Matchday 2 - Sudamericana Cup
+DESCRIPTION:Group G - Matchday 2 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Ciudad de Lanús
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20250422T230000Z_Melgar_AcademiaPuertoCabello
 DTSTART;TZID=America/Montevideo:20250422T230000
 DTEND;TZID=America/Montevideo:20250423T010000
 SUMMARY:Melgar🇵🇪 vs. Academia Puerto Cabello🇻🇪
-DESCRIPTION:Group G - Matchday 3 - Sudamericana Cup
+DESCRIPTION:Group G - Matchday 3 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Monumental de la UNSA Stadium
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20250506T230000Z_Melgar_Lanus
 DTSTART;TZID=America/Montevideo:20250506T230000
 DTEND;TZID=America/Montevideo:20250507T010000
 SUMMARY:Melgar🇵🇪 vs. Lanús🇦🇷
-DESCRIPTION:Group G - Matchday 4 - Sudamericana Cup
+DESCRIPTION:Group G - Matchday 4 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Monumental de la UNSA Stadium
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20250513T213000Z_AcademiaPuertoCabello_Melgar
 DTSTART;TZID=America/Montevideo:20250513T213000
 DTEND;TZID=America/Montevideo:20250513T233000
 SUMMARY:Academia Puerto Cabello🇻🇪 vs. Melgar🇵🇪
-DESCRIPTION:Group G - Matchday 5 - Sudamericana Cup
+DESCRIPTION:Group G - Matchday 5 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Misael Delgado Stadium
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20250527T190000Z_VascoDaGama_Melgar
 DTSTART;TZID=America/Montevideo:20250527T190000
 DTEND;TZID=America/Montevideo:20250527T210000
 SUMMARY:Vasco da Gama🇧🇷 vs. Melgar🇵🇪
-DESCRIPTION:Group G - Matchday 6 - Sudamericana Cup
+DESCRIPTION:Group G - Matchday 6 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Estádio São Januário
 END:VEVENT

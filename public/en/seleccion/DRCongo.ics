@@ -6,7 +6,7 @@ UID:20260617T140000Z_Portugal_DRCongo
 DTSTART;TZID=America/Montevideo:20260617T140000
 DTEND;TZID=America/Montevideo:20260617T160000
 SUMMARY:Portugal vs. DR Congo
-DESCRIPTION:Group K - Matchday 1 - World Cup
+DESCRIPTION:Group K - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:NRG Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260623T230000Z_Colombia_DRCongo
 DTSTART;TZID=America/Montevideo:20260623T230000
 DTEND;TZID=America/Montevideo:20260624T010000
 SUMMARY:Colombia vs. DR Congo
-DESCRIPTION:Group K - Matchday 2 - World Cup
+DESCRIPTION:Group K - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Akron Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260627T203000Z_DRCongo_Uzbekistan
 DTSTART;TZID=America/Montevideo:20260627T203000
 DTEND;TZID=America/Montevideo:20260627T223000
 SUMMARY:DR Congo vs. Uzbekistan
-DESCRIPTION:Group K - Matchday 3 - World Cup
+DESCRIPTION:Group K - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
 END:VEVENT

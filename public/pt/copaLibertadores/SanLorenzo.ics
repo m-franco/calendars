@@ -6,7 +6,7 @@ UID:20240403T213000Z_SanLorenzo_Palmeiras
 DTSTART;TZID=America/Montevideo:20240403T213000
 DTEND;TZID=America/Montevideo:20240403T233000
 SUMMARY:San Lorenzo🇦🇷 vs. Palmeiras🇧🇷
-DESCRIPTION:Grupo F - Rodada 1 - Copa Libertadores
+DESCRIPTION:Grupo F - Rodada 1 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Nuevo Gasómetro
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20240410T190000Z_IndependienteDelValle_SanLorenzo
 DTSTART;TZID=America/Montevideo:20240410T190000
 DTEND;TZID=America/Montevideo:20240410T210000
 SUMMARY:Independiente del Valle🇪🇨 vs. San Lorenzo🇦🇷
-DESCRIPTION:Grupo F - Rodada 2 - Copa Libertadores
+DESCRIPTION:Grupo F - Rodada 2 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Guayaquil
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240423T210000Z_Liverpool_SanLorenzo
 DTSTART;TZID=America/Montevideo:20240423T210000
 DTEND;TZID=America/Montevideo:20240423T230000
 SUMMARY:Liverpool🇺🇾 vs. San Lorenzo🇦🇷
-DESCRIPTION:Grupo F - Rodada 3 - Copa Libertadores
+DESCRIPTION:Grupo F - Rodada 3 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Centenario
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20240509T190000Z_SanLorenzo_IndependienteDelValle
 DTSTART;TZID=America/Montevideo:20240509T190000
 DTEND;TZID=America/Montevideo:20240509T210000
 SUMMARY:San Lorenzo🇦🇷 vs. Independiente del Valle🇪🇨
-DESCRIPTION:Grupo F - Rodada 4 - Copa Libertadores
+DESCRIPTION:Grupo F - Rodada 4 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Nuevo Gasómetro
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20240516T210000Z_SanLorenzo_Liverpool
 DTSTART;TZID=America/Montevideo:20240516T210000
 DTEND;TZID=America/Montevideo:20240516T230000
 SUMMARY:San Lorenzo🇦🇷 vs. Liverpool🇺🇾
-DESCRIPTION:Grupo F - Rodada 5 - Copa Libertadores
+DESCRIPTION:Grupo F - Rodada 5 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Nuevo Gasómtro
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20240530T190000Z_Palmeiras_SanLorenzo
 DTSTART;TZID=America/Montevideo:20240530T190000
 DTEND;TZID=America/Montevideo:20240530T210000
 SUMMARY:Palmeiras🇧🇷 vs. San Lorenzo🇦🇷
-DESCRIPTION:Grupo F - Rodada 6 - Copa Libertadores
+DESCRIPTION:Grupo F - Rodada 6 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Allianz Parque
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20240813T213000Z_SanLorenzo_AtleticoMineiro
 DTSTART;TZID=America/Montevideo:20240813T213000
 DTEND;TZID=America/Montevideo:20240813T233000
 SUMMARY:San Lorenzo🇦🇷 vs. Atlético Mineiro🇧🇷
-DESCRIPTION:Oitavas de final - Ida - Copa Libertadores
+DESCRIPTION:Oitavas de final - Ida - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 LOCATION:Estádio Nuevo Gasómetro
 CLASS:PUBLIC
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20240820T213000Z_AtleticoMineiro_SanLorenzo
 DTSTART;TZID=America/Montevideo:20240820T213000
 DTEND;TZID=America/Montevideo:20240820T233000
 SUMMARY:Atlético Mineiro🇧🇷 vs. San Lorenzo🇦🇷
-DESCRIPTION:Oitavas de final - Volta - Copa Libertadores
+DESCRIPTION:Oitavas de final - Volta - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 LOCATION:Estádio Arena MRV
 CLASS:PUBLIC
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20260408T190000Z_Recoleta_SanLorenzo
 DTSTART;TZID=America/Montevideo:20260408T190000
 DTEND;TZID=America/Montevideo:20260408T210000
 SUMMARY:Recoleta🇵🇾 vs. San Lorenzo🇦🇷
-DESCRIPTION:Grupo D - Rodada 1 - Copa Sul-Americana
+DESCRIPTION:Grupo D - Rodada 1 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Defensores del Chaco
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20260416T213000Z_SanLorenzo_DeportivoCuenca
 DTSTART;TZID=America/Montevideo:20260416T213000
 DTEND;TZID=America/Montevideo:20260416T233000
 SUMMARY:San Lorenzo🇦🇷 vs. Deportivo Cuenca🇪🇨
-DESCRIPTION:Grupo D - Rodada 2 - Copa Sul-Americana
+DESCRIPTION:Grupo D - Rodada 2 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Pedro Bidegain
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20260428T190000Z_SanLorenzo_Santos
 DTSTART;TZID=America/Montevideo:20260428T190000
 DTEND;TZID=America/Montevideo:20260428T210000
 SUMMARY:San Lorenzo🇦🇷 vs. Santos🇧🇷
-DESCRIPTION:Grupo D - Rodada 3 - Copa Sul-Americana
+DESCRIPTION:Grupo D - Rodada 3 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Pedro Bidegain
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20260505T230000Z_DeportivoCuenca_SanLorenzo
 DTSTART;TZID=America/Montevideo:20260505T230000
 DTEND;TZID=America/Montevideo:20260506T010000
 SUMMARY:Deportivo Cuenca🇪🇨 vs. San Lorenzo🇦🇷
-DESCRIPTION:Grupo D - Rodada 4 - Copa Sul-Americana
+DESCRIPTION:Grupo D - Rodada 4 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Banco del Austro Alejandro Serrano Aguil
 END:VEVENT
@@ -126,7 +126,7 @@ UID:20260520T190000Z_Santos_SanLorenzo
 DTSTART;TZID=America/Montevideo:20260520T190000
 DTEND;TZID=America/Montevideo:20260520T210000
 SUMMARY:Santos🇧🇷 vs. San Lorenzo🇦🇷
-DESCRIPTION:Grupo D - Rodada 5 - Copa Sul-Americana
+DESCRIPTION:Grupo D - Rodada 5 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Vila Belmiro (Urbano Caldeira)
 END:VEVENT
@@ -136,7 +136,7 @@ UID:20260526T213000Z_SanLorenzo_Recoleta
 DTSTART;TZID=America/Montevideo:20260526T213000
 DTEND;TZID=America/Montevideo:20260526T233000
 SUMMARY:San Lorenzo🇦🇷 vs. Recoleta🇵🇾
-DESCRIPTION:Grupo D - Rodada 6 - Copa Sul-Americana
+DESCRIPTION:Grupo D - Rodada 6 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Pedro Bidegain
 END:VEVENT

@@ -6,7 +6,7 @@ UID:20250403T230000Z_MushucRuna_Palestino
 DTSTART;TZID=America/Montevideo:20250403T230000
 DTEND;TZID=America/Montevideo:20250404T010000
 SUMMARY:Mushuc Runa🇪🇨 vs. Palestino🇨🇱
-DESCRIPTION:Grupo E - Rodada 1 - Copa Sul-Americana
+DESCRIPTION:Grupo E - Rodada 1 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Fernando Guerrero Guerrero
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20250409T213000Z_Cruzeiro_MushucRuna
 DTSTART;TZID=America/Montevideo:20250409T213000
 DTEND;TZID=America/Montevideo:20250409T233000
 SUMMARY:Cruzeiro🇧🇷 vs. Mushuc Runa🇪🇨
-DESCRIPTION:Grupo E - Rodada 2 - Copa Sul-Americana
+DESCRIPTION:Grupo E - Rodada 2 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Mineirão
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20250423T230000Z_MushucRuna_Union
 DTSTART;TZID=America/Montevideo:20250423T230000
 DTEND;TZID=America/Montevideo:20250424T010000
 SUMMARY:Mushuc Runa🇪🇨 vs. Unión🇦🇷
-DESCRIPTION:Grupo E - Rodada 3 - Copa Sul-Americana
+DESCRIPTION:Grupo E - Rodada 3 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Banco Guayaquil
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20250507T213000Z_MushucRuna_Cruzeiro
 DTSTART;TZID=America/Montevideo:20250507T213000
 DTEND;TZID=America/Montevideo:20250507T233000
 SUMMARY:Mushuc Runa🇪🇨 vs. Cruzeiro🇧🇷
-DESCRIPTION:Grupo E - Rodada 4 - Copa Sul-Americana
+DESCRIPTION:Grupo E - Rodada 4 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Fernando Guerrero Guerrero
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20250513T213000Z_Union_MushucRuna
 DTSTART;TZID=America/Montevideo:20250513T213000
 DTEND;TZID=America/Montevideo:20250513T233000
 SUMMARY:Unión🇦🇷 vs. Mushuc Runa🇪🇨
-DESCRIPTION:Grupo E - Rodada 5 - Copa Sul-Americana
+DESCRIPTION:Grupo E - Rodada 5 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:15 de Abril
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20250528T213000Z_Palestino_MushucRuna
 DTSTART;TZID=America/Montevideo:20250528T213000
 DTEND;TZID=America/Montevideo:20250528T233000
 SUMMARY:Palestino🇨🇱 vs. Mushuc Runa🇪🇨
-DESCRIPTION:Grupo E - Rodada 6 - Copa Sul-Americana
+DESCRIPTION:Grupo E - Rodada 6 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Municipal de La Florida
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20250812T213000Z_IndependienteDelValle_MushucRuna
 DTSTART;TZID=America/Montevideo:20250812T213000
 DTEND;TZID=America/Montevideo:20250812T233000
 SUMMARY:Independiente del Valle🇪🇨 vs. Mushuc Runa🇪🇨
-DESCRIPTION:Oitavas de final - Ida - Copa Sul-Americana
+DESCRIPTION:Oitavas de final - Ida - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Banco Guayaquil
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20250819T213000Z_MushucRuna_IndependienteDelValle
 DTSTART;TZID=America/Montevideo:20250819T213000
 DTEND;TZID=America/Montevideo:20250819T233000
 SUMMARY:Mushuc Runa🇪🇨 vs. Independiente del Valle🇪🇨
-DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana
+DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Olímpico Atahualpa
 END:VEVENT

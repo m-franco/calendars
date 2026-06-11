@@ -6,7 +6,7 @@ UID:20250402T213000Z_Vitoria_UniversidadCatolica
 DTSTART;TZID=America/Montevideo:20250402T213000
 DTEND;TZID=America/Montevideo:20250402T233000
 SUMMARY:Vitória🇧🇷 vs. Universidad Católica🇪🇨
-DESCRIPTION:Grupo B - Fecha 1 - Copa Sudamericana
+DESCRIPTION:Grupo B - Fecha 1 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Manoel Barradas
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20250410T190000Z_DefensaYJusticia_Vitoria
 DTSTART;TZID=America/Montevideo:20250410T190000
 DTEND;TZID=America/Montevideo:20250410T210000
 SUMMARY:Defensa Y Justicia🇦🇷 vs. Vitória🇧🇷
-DESCRIPTION:Grupo B - Fecha 2 - Copa Sudamericana
+DESCRIPTION:Grupo B - Fecha 2 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Norberto Tomaghello
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20250423T213000Z_Vitoria_CerroLargo
 DTSTART;TZID=America/Montevideo:20250423T213000
 DTEND;TZID=America/Montevideo:20250423T233000
 SUMMARY:Vitória🇧🇷 vs. Cerro Largo🇺🇾
-DESCRIPTION:Grupo B - Fecha 3 - Copa Sudamericana
+DESCRIPTION:Grupo B - Fecha 3 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Manoel Barradas
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20250506T190000Z_Vitoria_DefensaYJusticia
 DTSTART;TZID=America/Montevideo:20250506T190000
 DTEND;TZID=America/Montevideo:20250506T210000
 SUMMARY:Vitória🇧🇷 vs. Defensa Y Justicia🇦🇷
-DESCRIPTION:Grupo B - Fecha 4 - Copa Sudamericana
+DESCRIPTION:Grupo B - Fecha 4 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Manoel Barradas
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20250514T213000Z_CerroLargo_Vitoria
 DTSTART;TZID=America/Montevideo:20250514T213000
 DTEND;TZID=America/Montevideo:20250514T233000
 SUMMARY:Cerro Largo🇺🇾 vs. Vitória🇧🇷
-DESCRIPTION:Grupo B - Fecha 5 - Copa Sudamericana
+DESCRIPTION:Grupo B - Fecha 5 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Centenario
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20250528T213000Z_UniversidadCatolica_Vitoria
 DTSTART;TZID=America/Montevideo:20250528T213000
 DTEND;TZID=America/Montevideo:20250528T233000
 SUMMARY:Universidad Católica🇪🇨 vs. Vitória🇧🇷
-DESCRIPTION:Grupo B - Fecha 6 - Copa Sudamericana
+DESCRIPTION:Grupo B - Fecha 6 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Olímpico Atahualpa
 END:VEVENT

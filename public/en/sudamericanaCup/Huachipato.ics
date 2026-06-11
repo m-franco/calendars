@@ -6,7 +6,7 @@ UID:20240716T190000Z_Huachipato_Racing_Uru
 DTSTART;TZID=America/Montevideo:20240716T190000
 DTEND;TZID=America/Montevideo:20240716T210000
 SUMMARY:Huachipato🇨🇱 vs. Racing(Uru)🇺🇾
-DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Ester Roa Stadium, Concepción
 CLASS:PUBLIC
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20240723T190000Z_Racing_Uru_Huachipato
 DTSTART;TZID=America/Montevideo:20240723T190000
 DTEND;TZID=America/Montevideo:20240723T210000
 SUMMARY:Racing(Uru)🇺🇾 vs. Huachipato🇨🇱
-DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Centenario Stadium, Montevideo
 CLASS:PUBLIC
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240813T190000Z_Huachipato_Racing_Arg
 DTSTART;TZID=America/Montevideo:20240813T190000
 DTEND;TZID=America/Montevideo:20240813T210000
 SUMMARY:Huachipato🇨🇱 vs. Racing(Arg)🇦🇷
-DESCRIPTION:Round of 16 - First leg - Sudamericana Cup
+DESCRIPTION:Round of 16 - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Sausalito Stadium, Viña del Mar
 CLASS:PUBLIC
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20240820T190000Z_Racing_Arg_Huachipato
 DTSTART;TZID=America/Montevideo:20240820T190000
 DTEND;TZID=America/Montevideo:20240820T210000
 SUMMARY:Racing(Arg)🇦🇷 vs. Huachipato🇨🇱
-DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup
+DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Presidente Perón Stadium, Avellaneda
 CLASS:PUBLIC
 END:VEVENT

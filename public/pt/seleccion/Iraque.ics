@@ -6,7 +6,7 @@ UID:20260616T190000Z_Iraque_Noruega
 DTSTART;TZID=America/Montevideo:20260616T190000
 DTEND;TZID=America/Montevideo:20260616T210000
 SUMMARY:Iraque vs. Noruega
-DESCRIPTION:Grupo I - Rodada 1 - Copa do Mundo
+DESCRIPTION:Grupo I - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Gillette Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260622T180000Z_Franca_Iraque
 DTSTART;TZID=America/Montevideo:20260622T180000
 DTEND;TZID=America/Montevideo:20260622T200000
 SUMMARY:França vs. Iraque
-DESCRIPTION:Grupo I - Rodada 2 - Copa do Mundo
+DESCRIPTION:Grupo I - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Lincoln Financial Field
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260626T160000Z_Senegal_Iraque
 DTSTART;TZID=America/Montevideo:20260626T160000
 DTEND;TZID=America/Montevideo:20260626T180000
 SUMMARY:Senegal vs. Iraque
-DESCRIPTION:Grupo I - Rodada 3 - Copa do Mundo
+DESCRIPTION:Grupo I - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:BMO Field
 END:VEVENT

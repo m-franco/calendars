@@ -1,0 +1,71 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import { supportCopy, supportSlug, PAYPAL_URL, alternatesFor, urlFor, type Lang } from "../../i18n/ui";
+
+interface Props {
+    lang: Lang;
+}
+
+const { lang } = Astro.props;
+const c = supportCopy[lang];
+const alternates = alternatesFor((l) => urlFor(l, [supportSlug[l]]));
+---
+
+<Layout title={c.title} description={c.intro} image="img/cup1.jpg" lang={lang} alternates={alternates}>
+    <main>
+        <h1 class="text-4xl sm:text-5xl md:text-6xl text-center font-bold p-0.5 mb-8">
+            <span class="text-gradient">{c.title}</span>
+        </h1>
+
+        <div class="support-card">
+            <p>{c.intro}</p>
+            <a class="support-button" href={PAYPAL_URL} target="_blank" rel="noopener">
+                {c.button}
+            </a>
+        </div>
+    </main>
+</Layout>
+
+<style>
+    main {
+        margin: auto;
+        padding: 1rem;
+        width: 800px;
+        max-width: calc(100% - 2rem);
+        color: white;
+        font-size: 20px;
+        line-height: 1.6;
+    }
+    .text-gradient {
+        background-image: var(--accent-gradient);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-size: 400%;
+        background-position: 0%;
+    }
+    .support-card {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 1.5rem;
+        text-align: center;
+        border: 1px solid rgba(var(--accent-light), 25%);
+        background: linear-gradient(rgba(var(--accent-dark), 66%), rgba(var(--accent-dark), 33%));
+        padding: 2rem 1.5rem;
+        border-radius: 12px;
+    }
+    .support-button {
+        display: inline-block;
+        background: var(--accent-gradient);
+        background-size: 200%;
+        color: #13151a;
+        font-weight: 700;
+        text-decoration: none;
+        padding: 0.85rem 2rem;
+        border-radius: 9999px;
+        transition: background-position 0.4s ease;
+    }
+    .support-button:hover {
+        background-position: 100%;
+    }
+</style>

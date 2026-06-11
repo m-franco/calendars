@@ -6,7 +6,7 @@ UID:20260615T220000Z_Iran_NuevaZelanda
 DTSTART;TZID=America/Montevideo:20260615T220000
 DTEND;TZID=America/Montevideo:20260616T000000
 SUMMARY:Irán vs. Nueva Zelanda
-DESCRIPTION:Grupo G - Fecha 1 - Copa del Mundo
+DESCRIPTION:Grupo G - Fecha 1 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260621T160000Z_Belgica_Iran
 DTSTART;TZID=America/Montevideo:20260621T160000
 DTEND;TZID=America/Montevideo:20260621T180000
 SUMMARY:Bélgica vs. Irán
-DESCRIPTION:Grupo G - Fecha 2 - Copa del Mundo
+DESCRIPTION:Grupo G - Fecha 2 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260627T000000Z_Egipto_Iran
 DTSTART;TZID=America/Montevideo:20260627T000000
 DTEND;TZID=America/Montevideo:20260627T020000
 SUMMARY:Egipto vs. Irán
-DESCRIPTION:Grupo G - Fecha 3 - Copa del Mundo
+DESCRIPTION:Grupo G - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Lumen Field
 END:VEVENT

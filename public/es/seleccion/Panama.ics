@@ -6,7 +6,7 @@ UID:20260617T200000Z_Ghana_Panama
 DTSTART;TZID=America/Montevideo:20260617T200000
 DTEND;TZID=America/Montevideo:20260617T220000
 SUMMARY:Ghana vs. Panamá
-DESCRIPTION:Grupo L - Fecha 1 - Copa del Mundo
+DESCRIPTION:Grupo L - Fecha 1 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:BMO Field
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260623T200000Z_Panama_Croacia
 DTSTART;TZID=America/Montevideo:20260623T200000
 DTEND;TZID=America/Montevideo:20260623T220000
 SUMMARY:Panamá vs. Croacia
-DESCRIPTION:Grupo L - Fecha 2 - Copa del Mundo
+DESCRIPTION:Grupo L - Fecha 2 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:BMO Field
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260627T180000Z_Panama_Inglaterra
 DTSTART;TZID=America/Montevideo:20260627T180000
 DTEND;TZID=America/Montevideo:20260627T200000
 SUMMARY:Panamá vs. Inglaterra
-DESCRIPTION:Grupo L - Fecha 3 - Copa del Mundo
+DESCRIPTION:Grupo L - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
 END:VEVENT

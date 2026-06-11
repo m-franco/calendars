@@ -6,7 +6,7 @@ UID:20260613T160000Z_Catar_Suica
 DTSTART;TZID=America/Montevideo:20260613T160000
 DTEND;TZID=America/Montevideo:20260613T180000
 SUMMARY:Catar vs. Suíça
-DESCRIPTION:Grupo B - Rodada 1 - Copa do Mundo
+DESCRIPTION:Grupo B - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260618T190000Z_Canada_Catar
 DTSTART;TZID=America/Montevideo:20260618T190000
 DTEND;TZID=America/Montevideo:20260618T210000
 SUMMARY:Canadá vs. Catar
-DESCRIPTION:Grupo B - Rodada 2 - Copa do Mundo
+DESCRIPTION:Grupo B - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:BC Place
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260624T160000Z_BosniaEHerzegovina_Catar
 DTSTART;TZID=America/Montevideo:20260624T160000
 DTEND;TZID=America/Montevideo:20260624T180000
 SUMMARY:Bósnia e Herzegovina vs. Catar
-DESCRIPTION:Grupo B - Rodada 3 - Copa do Mundo
+DESCRIPTION:Grupo B - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Lumen Field
 END:VEVENT

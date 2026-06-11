@@ -6,7 +6,7 @@ UID:20240403T190000Z_Rayo_Zuliano_Danubio
 DTSTART;TZID=America/Montevideo:20240403T190000
 DTEND;TZID=America/Montevideo:20240403T210000
 SUMMARY:Rayo Zuliano🇻🇪 vs. Danubio🇺🇾
-DESCRIPTION:Grupo E - Rodada 1 - Copa Sul-Americana
+DESCRIPTION:Grupo E - Rodada 1 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Brígido Iriarte
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20240409T210000Z_Danubio_Sportivo_Ameliano
 DTSTART;TZID=America/Montevideo:20240409T210000
 DTEND;TZID=America/Montevideo:20240409T230000
 SUMMARY:Danubio🇺🇾 vs. Sportivo Ameliano🇵🇾
-DESCRIPTION:Grupo E - Rodada 2 - Copa Sul-Americana
+DESCRIPTION:Grupo E - Rodada 2 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Centenario
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240424T190000Z_Danubio_Atletico_Paranaense
 DTSTART;TZID=America/Montevideo:20240424T190000
 DTEND;TZID=America/Montevideo:20240424T210000
 SUMMARY:Danubio🇺🇾 vs. Atlético Paranaense🇧🇷
-DESCRIPTION:Grupo E - Rodada 3 - Copa Sul-Americana
+DESCRIPTION:Grupo E - Rodada 3 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Centenario
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20240507T213000Z_Sportivo_Ameliano_Danubio
 DTSTART;TZID=America/Montevideo:20240507T213000
 DTEND;TZID=America/Montevideo:20240507T233000
 SUMMARY:Sportivo Ameliano🇵🇾 vs. Danubio🇺🇾
-DESCRIPTION:Grupo E - Rodada 4 - Copa Sul-Americana
+DESCRIPTION:Grupo E - Rodada 4 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Tigo La Huerta
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20240515T190000Z_Atletico_Paranaense_Danubio
 DTSTART;TZID=America/Montevideo:20240515T190000
 DTEND;TZID=America/Montevideo:20240515T210000
 SUMMARY:Atlético Paranaense🇧🇷 vs. Danubio🇺🇾
-DESCRIPTION:Grupo E - Rodada 5 - Copa Sul-Americana
+DESCRIPTION:Grupo E - Rodada 5 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Ligga Arena
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20240530T220000Z_Danubio_Rayo_Zuliano
 DTSTART;TZID=America/Montevideo:20240530T220000
 DTEND;TZID=America/Montevideo:20240531T000000
 SUMMARY:Danubio🇺🇾 vs. Rayo Zuliano🇻🇪
-DESCRIPTION:Grupo E - Rodada 6 - Copa Sul-Americana
+DESCRIPTION:Grupo E - Rodada 6 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Centenario
 END:VEVENT

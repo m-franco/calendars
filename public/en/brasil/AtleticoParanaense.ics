@@ -6,7 +6,7 @@ UID:20240402T190000Z_Sportivo_Ameliano_Atletico_Paranaense
 DTSTART;TZID=America/Montevideo:20240402T190000
 DTEND;TZID=America/Montevideo:20240402T210000
 SUMMARY:Sportivo Ameliano🇵🇾 vs. Atlético Paranaense🇧🇷
-DESCRIPTION:Group E - Matchday 1 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 1 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:La Nueva Olla Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20240409T213000Z_Atletico_Paranaense_Rayo_Zuliano
 DTSTART;TZID=America/Montevideo:20240409T213000
 DTEND;TZID=America/Montevideo:20240409T233000
 SUMMARY:Atlético Paranaense🇧🇷 vs. Rayo Zuliano🇻🇪
-DESCRIPTION:Group E - Matchday 2 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 2 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Ligga Arena
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240424T190000Z_Danubio_Atletico_Paranaense
 DTSTART;TZID=America/Montevideo:20240424T190000
 DTEND;TZID=America/Montevideo:20240424T210000
 SUMMARY:Danubio🇺🇾 vs. Atlético Paranaense🇧🇷
-DESCRIPTION:Group E - Matchday 3 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 3 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Centenario Stadium
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20240508T190000Z_Rayo_Zuliano_Atletico_Paranaense
 DTSTART;TZID=America/Montevideo:20240508T190000
 DTEND;TZID=America/Montevideo:20240508T210000
 SUMMARY:Rayo Zuliano🇻🇪 vs. Atlético Paranaense🇧🇷
-DESCRIPTION:Group E - Matchday 4 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 4 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Brígido Iriarte Stadium
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20240515T190000Z_Atletico_Paranaense_Danubio
 DTSTART;TZID=America/Montevideo:20240515T190000
 DTEND;TZID=America/Montevideo:20240515T210000
 SUMMARY:Atlético Paranaense🇧🇷 vs. Danubio🇺🇾
-DESCRIPTION:Group E - Matchday 5 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 5 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Ligga Arena
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20240530T220000Z_Atletico_Paranaense_Sportivo_Ameliano
 DTSTART;TZID=America/Montevideo:20240530T220000
 DTEND;TZID=America/Montevideo:20240530T000000
 SUMMARY:Atlético Paranaense🇧🇷 vs. Sportivo Ameliano🇵🇾
-DESCRIPTION:Group E - Matchday 6 - Sudamericana Cup
+DESCRIPTION:Group E - Matchday 6 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Ligga Arena
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20240718T213000Z_Cerro_Porteno_Atletico_Paranaense
 DTSTART;TZID=America/Montevideo:20240718T213000
 DTEND;TZID=America/Montevideo:20240718T233000
 SUMMARY:Cerro Porteño🇵🇾 vs. Atlético Paranaense🇧🇷
-DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:General Pablo Rojas Stadium, Asunción
 CLASS:PUBLIC
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20240725T213000Z_Atletico_Paranaense_Cerro_Porteno
 DTSTART;TZID=America/Montevideo:20240725T213000
 DTEND;TZID=America/Montevideo:20240725T233000
 SUMMARY:Atlético Paranaense🇧🇷 vs. Cerro Porteño🇵🇾
-DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Arena da Baixada, Curitiba
 CLASS:PUBLIC
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20240815T190000Z_Atletico_Paranaense_Belgrano
 DTSTART;TZID=America/Montevideo:20240815T190000
 DTEND;TZID=America/Montevideo:20240815T210000
 SUMMARY:Atlético Paranaense🇧🇷 vs. Belgrano🇦🇷
-DESCRIPTION:Round of 16 - First leg - Sudamericana Cup
+DESCRIPTION:Round of 16 - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Arena da Baixada, Curitiba
 CLASS:PUBLIC
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20240822T190000Z_Belgrano_Atletico_Paranaense
 DTSTART;TZID=America/Montevideo:20240822T190000
 DTEND;TZID=America/Montevideo:20240822T210000
 SUMMARY:Belgrano🇦🇷 vs. Atlético Paranaense🇧🇷
-DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup
+DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Mario Alberto Kempes Stadium, Córdoba
 CLASS:PUBLIC
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20240919T213000Z_Atletico_Paranaense_Racing_Arg
 DTSTART;TZID=America/Montevideo:20240919T213000
 DTEND;TZID=America/Montevideo:20240919T233000
 SUMMARY:Atlético Paranaense🇧🇷 vs. Racing(Arg)🇦🇷
-DESCRIPTION:Quarter-finals - First leg - Sudamericana Cup
+DESCRIPTION:Quarter-finals - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Arena da Baixada, Curitiba
 CLASS:PUBLIC
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20240926T213000Z_Racing_Arg_Atletico_Paranaense
 DTSTART;TZID=America/Montevideo:20240926T213000
 DTEND;TZID=America/Montevideo:20240926T233000
 SUMMARY:Racing(Arg)🇦🇷 vs. Atlético Paranaense🇧🇷
-DESCRIPTION:Quarter-finals - Second leg - Sudamericana Cup
+DESCRIPTION:Quarter-finals - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Presidente Perón Stadium, Avellaneda
 CLASS:PUBLIC
 END:VEVENT

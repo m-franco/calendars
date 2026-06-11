@@ -6,7 +6,7 @@ UID:20260614T140000Z_Germany_Curacao
 DTSTART;TZID=America/Montevideo:20260614T140000
 DTEND;TZID=America/Montevideo:20260614T160000
 SUMMARY:Germany vs. Curaçao
-DESCRIPTION:Group E - Matchday 1 - World Cup
+DESCRIPTION:Group E - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:NRG Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260620T170000Z_Germany_IvoryCoast
 DTSTART;TZID=America/Montevideo:20260620T170000
 DTEND;TZID=America/Montevideo:20260620T190000
 SUMMARY:Germany vs. Ivory Coast
-DESCRIPTION:Group E - Matchday 2 - World Cup
+DESCRIPTION:Group E - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:BMO Field
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260625T170000Z_Ecuador_Germany
 DTSTART;TZID=America/Montevideo:20260625T170000
 DTEND;TZID=America/Montevideo:20260625T190000
 SUMMARY:Ecuador vs. Germany
-DESCRIPTION:Group E - Matchday 3 - World Cup
+DESCRIPTION:Group E - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
 END:VEVENT

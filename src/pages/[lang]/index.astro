@@ -3,7 +3,7 @@ import Home from "../../components/pages/Home.astro";
 import { alternatesFor, urlFor, type Lang } from "../../i18n/ui";
 
 export function getStaticPaths() {
-    return (["en", "pt"] as Lang[]).map((lang) => ({ params: { lang }, props: { lang } }));
+    return (["es", "en", "pt"] as Lang[]).map((lang) => ({ params: { lang }, props: { lang } }));
 }
 
 const { lang } = Astro.props as { lang: Lang };

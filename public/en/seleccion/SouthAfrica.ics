@@ -6,7 +6,7 @@ UID:20260611T160000Z_Mexico_SouthAfrica
 DTSTART;TZID=America/Montevideo:20260611T160000
 DTEND;TZID=America/Montevideo:20260611T180000
 SUMMARY:Mexico vs. South Africa
-DESCRIPTION:Group A - Matchday 1 - World Cup
+DESCRIPTION:Group A - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Banorte Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260618T130000Z_CzechRepublic_SouthAfrica
 DTSTART;TZID=America/Montevideo:20260618T130000
 DTEND;TZID=America/Montevideo:20260618T150000
 SUMMARY:Czech Republic vs. South Africa
-DESCRIPTION:Group A - Matchday 2 - World Cup
+DESCRIPTION:Group A - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260624T220000Z_SouthAfrica_SouthKorea
 DTSTART;TZID=America/Montevideo:20260624T220000
 DTEND;TZID=America/Montevideo:20260625T000000
 SUMMARY:South Africa vs. South Korea
-DESCRIPTION:Group A - Matchday 3 - World Cup
+DESCRIPTION:Group A - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:BBVA Stadium
 END:VEVENT

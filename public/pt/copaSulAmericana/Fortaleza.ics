@@ -6,7 +6,7 @@ UID:20240403T210000Z_Sportivo_Trinidense_Fortaleza
 DTSTART;TZID=America/Montevideo:20240403T210000
 DTEND;TZID=America/Montevideo:20240403T230000
 SUMMARY:Sportivo Trinidense🇵🇾 vs. Fortaleza🇧🇷
-DESCRIPTION:Grupo D - Rodada 1 - Copa Sul-Americana
+DESCRIPTION:Grupo D - Rodada 1 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Defensores del Chaco
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20240410T190000Z_Fortaleza_Nacional_Potosi
 DTSTART;TZID=America/Fortaleza:20240410T190000
 DTEND;TZID=America/Fortaleza:20240410T210000
 SUMMARY:Fortaleza🇧🇷 vs. Nacional Potosí🇧🇴
-DESCRIPTION:Grupo D - Rodada 2 - Copa Sul-Americana
+DESCRIPTION:Grupo D - Rodada 2 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Arena Castelão
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240425T210000Z_Fortaleza_Boca_Juniors
 DTSTART;TZID=America/Fortaleza:20240425T210000
 DTEND;TZID=America/Fortaleza:20240425T230000
 SUMMARY:Fortaleza🇧🇷 vs. Boca Juniors🇦🇷
-DESCRIPTION:Grupo D - Rodada 3 - Copa Sul-Americana
+DESCRIPTION:Grupo D - Rodada 3 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Arena Castelão
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20240507T213000Z_Sportivo_Trinidense_Fortaleza
 DTSTART;TZID=America/Montevideo:20240507T213000
 DTEND;TZID=America/Montevideo:20240507T233000
 SUMMARY:Sportivo Trinidense🇵🇾 vs. Fortaleza🇧🇷
-DESCRIPTION:Grupo D - Rodada 4 - Copa Sul-Americana
+DESCRIPTION:Grupo D - Rodada 4 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Defensores del Chaco
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20240515T210000Z_Nacional_Potosi_Fortaleza
 DTSTART;TZID=America/Montevideo:20240515T210000
 DTEND;TZID=America/Montevideo:20240515T230000
 SUMMARY:Nacional Potosí🇧🇴 vs. Fortaleza🇧🇷
-DESCRIPTION:Grupo D - Rodada 5 - Copa Sul-Americana
+DESCRIPTION:Grupo D - Rodada 5 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Víctor Agustín Ugarte
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20240530T190000Z_Fortaleza_Boca_Juniors
 DTSTART;TZID=America/Fortaleza:20240530T190000
 DTEND;TZID=America/Fortaleza:20240530T210000
 SUMMARY:Fortaleza🇧🇷 vs. Boca Juniors🇦🇷
-DESCRIPTION:Grupo D - Rodada 6 - Copa Sul-Americana
+DESCRIPTION:Grupo D - Rodada 6 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Arena Castelão
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20240814T190000Z_RosarioCentral_Fortaleza
 DTSTART;TZID=America/Montevideo:20240814T190000
 DTEND;TZID=America/Montevideo:20240814T210000
 SUMMARY:Rosario Central🇦🇷 vs. Fortaleza🇧🇷
-DESCRIPTION:Oitavas de final - Ida - Copa Sul-Americana
+DESCRIPTION:Oitavas de final - Ida - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 LOCATION:Estádio Gigante de Arroyito, Rosario
 CLASS:PUBLIC
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20240821T190000Z_Fortaleza_RosarioCentral
 DTSTART;TZID=America/Montevideo:20240821T190000
 DTEND;TZID=America/Montevideo:20240821T210000
 SUMMARY:Fortaleza🇧🇷 vs. Rosario Central🇦🇷
-DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana
+DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 LOCATION:Castelão, Fortaleza
 CLASS:PUBLIC
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20240917T213000Z_Fortaleza_Corinthians
 DTSTART;TZID=America/Montevideo:20240917T213000
 DTEND;TZID=America/Montevideo:20240917T233000
 SUMMARY:Fortaleza🇧🇷 vs. Corinthians🇧🇷
-DESCRIPTION:Quartas de final - Ida - Copa Sul-Americana
+DESCRIPTION:Quartas de final - Ida - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 LOCATION:Castelão, Fortaleza
 CLASS:PUBLIC
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20240924T213000Z_Corinthians_Fortaleza
 DTSTART;TZID=America/Montevideo:20240924T213000
 DTEND;TZID=America/Montevideo:20240924T233000
 SUMMARY:Corinthians🇧🇷 vs. Fortaleza🇧🇷
-DESCRIPTION:Quartas de final - Volta - Copa Sul-Americana
+DESCRIPTION:Quartas de final - Volta - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 LOCATION:Neo Química Arena, São Paulo
 CLASS:PUBLIC
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20250401T213000Z_Fortaleza_Racing
 DTSTART;TZID=America/Montevideo:20250401T213000
 DTEND;TZID=America/Montevideo:20250401T233000
 SUMMARY:Fortaleza🇧🇷 vs. Racing🇦🇷
-DESCRIPTION:Grupo E - Rodada 1 - Copa Libertadores
+DESCRIPTION:Grupo E - Rodada 1 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Castelão
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20250410T210000Z_ColoColo_Fortaleza
 DTSTART;TZID=America/Montevideo:20250410T210000
 DTEND;TZID=America/Montevideo:20250410T230000
 SUMMARY:Colo-Colo🇨🇱 vs. Fortaleza🇧🇷
-DESCRIPTION:Grupo E - Rodada 2 - Copa Libertadores
+DESCRIPTION:Grupo E - Rodada 2 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Monumental David Arellano
 END:VEVENT
@@ -126,7 +126,7 @@ UID:20250423T230000Z_AtleticoBucaramanga_Fortaleza
 DTSTART;TZID=America/Montevideo:20250423T230000
 DTEND;TZID=America/Montevideo:20250424T010000
 SUMMARY:Atlético Bucaramanga🇨🇴 vs. Fortaleza🇧🇷
-DESCRIPTION:Grupo E - Rodada 3 - Copa Libertadores
+DESCRIPTION:Grupo E - Rodada 3 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Américo Montanini
 END:VEVENT
@@ -136,7 +136,7 @@ UID:20250506T213000Z_Fortaleza_ColoColo
 DTSTART;TZID=America/Montevideo:20250506T213000
 DTEND;TZID=America/Montevideo:20250506T233000
 SUMMARY:Fortaleza🇧🇷 vs. Colo-Colo🇨🇱
-DESCRIPTION:Grupo E - Rodada 4 - Copa Libertadores
+DESCRIPTION:Grupo E - Rodada 4 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Castelão
 END:VEVENT
@@ -146,7 +146,7 @@ UID:20250513T213000Z_Fortaleza_AtleticoBucaramanga
 DTSTART;TZID=America/Montevideo:20250513T213000
 DTEND;TZID=America/Montevideo:20250513T233000
 SUMMARY:Fortaleza🇧🇷 vs. Atlético Bucaramanga🇨🇴
-DESCRIPTION:Grupo E - Rodada 5 - Copa Libertadores
+DESCRIPTION:Grupo E - Rodada 5 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Castelão
 END:VEVENT
@@ -156,7 +156,7 @@ UID:20250529T213000Z_Racing_Fortaleza
 DTSTART;TZID=America/Montevideo:20250529T213000
 DTEND;TZID=America/Montevideo:20250529T233000
 SUMMARY:Racing🇦🇷 vs. Fortaleza🇧🇷
-DESCRIPTION:Grupo E - Rodada 6 - Copa Libertadores
+DESCRIPTION:Grupo E - Rodada 6 - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Presidente Perón (Cilindro de Avellaneda)
 END:VEVENT
@@ -166,7 +166,7 @@ UID:20250812T190000Z_Fortaleza_VelezSarsfield
 DTSTART;TZID=America/Montevideo:20250812T190000
 DTEND;TZID=America/Montevideo:20250812T210000
 SUMMARY:Fortaleza🇧🇷 vs. Vélez Sarsfield🇦🇷
-DESCRIPTION:Oitavas de final - Ida - Copa Libertadores
+DESCRIPTION:Oitavas de final - Ida - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Castelão
 END:VEVENT
@@ -176,7 +176,7 @@ UID:20250819T190000Z_VelezSarsfield_Fortaleza
 DTSTART;TZID=America/Montevideo:20250819T190000
 DTEND;TZID=America/Montevideo:20250819T210000
 SUMMARY:Vélez Sarsfield🇦🇷 vs. Fortaleza🇧🇷
-DESCRIPTION:Oitavas de final - Volta - Copa Libertadores
+DESCRIPTION:Oitavas de final - Volta - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:José Amalfitani
 END:VEVENT

@@ -6,7 +6,7 @@ UID:20260408T210000Z_AudaxItaliano_Olimpia
 DTSTART;TZID=America/Montevideo:20260408T210000
 DTEND;TZID=America/Montevideo:20260408T230000
 SUMMARY:Audax Italiano🇨🇱 vs. Olimpia🇵🇾
-DESCRIPTION:Grupo G - Fecha 1 - Copa Sudamericana
+DESCRIPTION:Grupo G - Fecha 1 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Municipal de La Florida
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260414T210000Z_VascoDaGama_AudaxItaliano
 DTSTART;TZID=America/Montevideo:20260414T210000
 DTEND;TZID=America/Montevideo:20260414T230000
 SUMMARY:Vasco da Gama🇧🇷 vs. Audax Italiano🇨🇱
-DESCRIPTION:Grupo G - Fecha 2 - Copa Sudamericana
+DESCRIPTION:Grupo G - Fecha 2 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estádio São Januário
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260428T210000Z_BarracasCentral_AudaxItaliano
 DTSTART;TZID=America/Montevideo:20260428T210000
 DTEND;TZID=America/Montevideo:20260428T230000
 SUMMARY:Barracas Central🇦🇷 vs. Audax Italiano🇨🇱
-DESCRIPTION:Grupo G - Fecha 3 - Copa Sudamericana
+DESCRIPTION:Grupo G - Fecha 3 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Florencio Solá
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20260506T190000Z_AudaxItaliano_VascoDaGama
 DTSTART;TZID=America/Montevideo:20260506T190000
 DTEND;TZID=America/Montevideo:20260506T210000
 SUMMARY:Audax Italiano🇨🇱 vs. Vasco da Gama🇧🇷
-DESCRIPTION:Grupo G - Fecha 4 - Copa Sudamericana
+DESCRIPTION:Grupo G - Fecha 4 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Municipal de La Florida
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20260519T190000Z_AudaxItaliano_BarracasCentral
 DTSTART;TZID=America/Montevideo:20260519T190000
 DTEND;TZID=America/Montevideo:20260519T210000
 SUMMARY:Audax Italiano🇨🇱 vs. Barracas Central🇦🇷
-DESCRIPTION:Grupo G - Fecha 5 - Copa Sudamericana
+DESCRIPTION:Grupo G - Fecha 5 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Municipal de La Florida
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20260527T190000Z_Olimpia_AudaxItaliano
 DTSTART;TZID=America/Montevideo:20260527T190000
 DTEND;TZID=America/Montevideo:20260527T210000
 SUMMARY:Olimpia🇵🇾 vs. Audax Italiano🇨🇱
-DESCRIPTION:Grupo G - Fecha 6 - Copa Sudamericana
+DESCRIPTION:Grupo G - Fecha 6 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Defensores del Chaco
 END:VEVENT

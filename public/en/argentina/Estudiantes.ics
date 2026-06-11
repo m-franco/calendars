@@ -6,7 +6,7 @@ UID:20240402T210000Z_Huachipato_Estudiantes
 DTSTART;TZID=America/Montevideo:20240402T210000
 DTEND;TZID=America/Montevideo:20240402T230000
 SUMMARY:Huachipato🇨🇱 vs. Estudiantes🇦🇷
-DESCRIPTION:Group C - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group C - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Huachipato Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20240409T190000Z_Estudiantes_TheStrongest
 DTSTART;TZID=America/Montevideo:20240409T190000
 DTEND;TZID=America/Montevideo:20240409T210000
 SUMMARY:Estudiantes🇦🇷 vs. The Strongest🇧🇴
-DESCRIPTION:Group C - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group C - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:UNO Jorge Luis Hirschi Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240423T190000Z_Estudiantes_Gremio
 DTSTART;TZID=America/Montevideo:20240423T190000
 DTEND;TZID=America/Montevideo:20240423T210000
 SUMMARY:Estudiantes🇦🇷 vs. Gremio🇧🇷
-DESCRIPTION:Group C - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group C - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:UNO Jorge Luis Hirschi Stadium
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20240509T210000Z_TheStrongest_Estudiantes
 DTSTART;TZID=America/Montevideo:20240509T210000
 DTEND;TZID=America/Montevideo:20240509T230000
 SUMMARY:The Strongest🇧🇴 vs. Estudiantes🇦🇷
-DESCRIPTION:Group C - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group C - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Hernando Siles
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20240529T190000Z_Estudiantes_Huachipato
 DTSTART;TZID=America/Montevideo:20240529T190000
 DTEND;TZID=America/Montevideo:20240529T210000
 SUMMARY:Estudiantes🇦🇷 vs. Huachipato🇨🇱
-DESCRIPTION:Group C - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group C - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:UNO Jorge Luis Hirschi Stadium
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20240608T190000Z_Gremio_Estudiantes
 DTSTART;TZID=America/Montevideo:20240608T190000
 DTEND;TZID=America/Montevideo:20240608T210000
 SUMMARY:Gremio🇧🇷 vs. Estudiantes🇦🇷
-DESCRIPTION:Group C - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group C - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Couto Pereira Stadium
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20250401T190000Z_Carabobo_Estudiantes
 DTSTART;TZID=America/Montevideo:20250401T190000
 DTEND;TZID=America/Montevideo:20250401T210000
 SUMMARY:Carabobo🇻🇪 vs. Estudiantes🇦🇷
-DESCRIPTION:Group A - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Misael Delgado Stadium
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20250408T213000Z_Estudiantes_UniversidadDeChile
 DTSTART;TZID=America/Montevideo:20250408T213000
 DTEND;TZID=America/Montevideo:20250408T233000
 SUMMARY:Estudiantes🇦🇷 vs. Universidad de Chile🇨🇱
-DESCRIPTION:Group A - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Jorge Luis Hirschi
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20250423T213000Z_Estudiantes_Botafogo
 DTSTART;TZID=America/Montevideo:20250423T213000
 DTEND;TZID=America/Montevideo:20250423T233000
 SUMMARY:Estudiantes🇦🇷 vs. Botafogo🇧🇷
-DESCRIPTION:Group A - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Jorge Luis Hirschi
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20250507T210000Z_UniversidadDeChile_Estudiantes
 DTSTART;TZID=America/Montevideo:20250507T210000
 DTEND;TZID=America/Montevideo:20250507T230000
 SUMMARY:Universidad de Chile🇨🇱 vs. Estudiantes🇦🇷
-DESCRIPTION:Group A - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nacional Julio Martínez Prádanos Stadium
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20250514T213000Z_Botafogo_Estudiantes
 DTSTART;TZID=America/Montevideo:20250514T213000
 DTEND;TZID=America/Montevideo:20250514T233000
 SUMMARY:Botafogo🇧🇷 vs. Estudiantes🇦🇷
-DESCRIPTION:Group A - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Estádio Olímpico Nilton Santos
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20250527T213000Z_Estudiantes_Carabobo
 DTSTART;TZID=America/Montevideo:20250527T213000
 DTEND;TZID=America/Montevideo:20250527T233000
 SUMMARY:Estudiantes🇦🇷 vs. Carabobo🇻🇪
-DESCRIPTION:Group A - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Jorge Luis Hirschi
 END:VEVENT
@@ -126,7 +126,7 @@ UID:20250813T190000Z_CerroPorteno_Estudiantes
 DTSTART;TZID=America/Montevideo:20250813T190000
 DTEND;TZID=America/Montevideo:20250813T210000
 SUMMARY:Cerro Porteño🇵🇾 vs. Estudiantes🇦🇷
-DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:ueno La Nueva Olla Stadium
 END:VEVENT
@@ -136,7 +136,7 @@ UID:20250820T190000Z_Estudiantes_CerroPorteno
 DTSTART;TZID=America/Montevideo:20250820T190000
 DTEND;TZID=America/Montevideo:20250820T210000
 SUMMARY:Estudiantes🇦🇷 vs. Cerro Porteño🇵🇾
-DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Jorge Luis Hirschi
 END:VEVENT
@@ -146,7 +146,7 @@ UID:20250918T213000Z_Flamengo_Estudiantes
 DTSTART;TZID=America/Montevideo:20250918T213000
 DTEND;TZID=America/Montevideo:20250918T233000
 SUMMARY:Flamengo🇧🇷 vs. Estudiantes🇦🇷
-DESCRIPTION:Quarter-finals - First leg - Libertadores Cup
+DESCRIPTION:Quarter-finals - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:do Maracana Stadium
 END:VEVENT
@@ -156,7 +156,7 @@ UID:20250925T213000Z_Estudiantes_Flamengo
 DTSTART;TZID=America/Montevideo:20250925T213000
 DTEND;TZID=America/Montevideo:20250925T233000
 SUMMARY:Estudiantes🇦🇷 vs. Flamengo🇧🇷
-DESCRIPTION:Quarter-finals - Second leg - Libertadores Cup
+DESCRIPTION:Quarter-finals - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Jorge Luis Hirschi
 END:VEVENT
@@ -166,7 +166,7 @@ UID:20260408T210000Z_IndependienteDeMedellin_Estudiantes
 DTSTART;TZID=America/Montevideo:20260408T210000
 DTEND;TZID=America/Montevideo:20260408T230000
 SUMMARY:Independiente de Medellín🇨🇴 vs. Estudiantes🇦🇷
-DESCRIPTION:Group A - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Atanasio Girardot
 END:VEVENT
@@ -176,7 +176,7 @@ UID:20260414T190000Z_Estudiantes_Cusco
 DTSTART;TZID=America/Montevideo:20260414T190000
 DTEND;TZID=America/Montevideo:20260414T210000
 SUMMARY:Estudiantes🇦🇷 vs. Cusco🇵🇪
-DESCRIPTION:Group A - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Jorge Luis Hirschi Stadium
 END:VEVENT
@@ -186,7 +186,7 @@ UID:20260429T213000Z_Estudiantes_Flamengo
 DTSTART;TZID=America/Montevideo:20260429T213000
 DTEND;TZID=America/Montevideo:20260429T233000
 SUMMARY:Estudiantes🇦🇷 vs. Flamengo🇧🇷
-DESCRIPTION:Group A - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Jorge Luis Hirschi Stadium
 END:VEVENT
@@ -196,7 +196,7 @@ UID:20260506T190000Z_Cusco_Estudiantes
 DTSTART;TZID=America/Montevideo:20260506T190000
 DTEND;TZID=America/Montevideo:20260506T210000
 SUMMARY:Cusco🇵🇪 vs. Estudiantes🇦🇷
-DESCRIPTION:Group A - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Inca Garcilaso de la Vega Stadium
 END:VEVENT
@@ -206,7 +206,7 @@ UID:20260520T213000Z_Flamengo_Estudiantes
 DTSTART;TZID=America/Montevideo:20260520T213000
 DTEND;TZID=America/Montevideo:20260520T233000
 SUMMARY:Flamengo🇧🇷 vs. Estudiantes🇦🇷
-DESCRIPTION:Group A - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:do Maracana Stadium
 END:VEVENT
@@ -216,7 +216,7 @@ UID:20260526T213000Z_Estudiantes_IndependienteDeMedellin
 DTSTART;TZID=America/Montevideo:20260526T213000
 DTEND;TZID=America/Montevideo:20260526T233000
 SUMMARY:Estudiantes🇦🇷 vs. Independiente de Medellín🇨🇴
-DESCRIPTION:Group A - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group A - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Jorge Luis Hirschi Stadium
 END:VEVENT
@@ -226,7 +226,7 @@ UID:20260811T213000Z_Estudiantes_UniversidadCatolica
 DTSTART;TZID=America/Montevideo:20260811T213000
 DTEND;TZID=America/Montevideo:20260811T233000
 SUMMARY:Estudiantes🇦🇷 vs. Universidad Católica🇪🇨
-DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Jorge Luis Hirschi Stadium
 END:VEVENT
@@ -236,7 +236,7 @@ UID:20260818T213000Z_UniversidadCatolica_Estudiantes
 DTSTART;TZID=America/Montevideo:20260818T213000
 DTEND;TZID=America/Montevideo:20260818T233000
 SUMMARY:Universidad Católica🇪🇨 vs. Estudiantes🇦🇷
-DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:San Carlos de Apoquindo Stadium
 END:VEVENT

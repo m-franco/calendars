@@ -6,7 +6,7 @@ UID:20240404T190000Z_Caracas_AtléticoMineiro
 DTSTART;TZID=America/Montevideo:20240404T190000
 DTEND;TZID=America/Montevideo:20240404T021000
 SUMMARY:Caracas🇻🇪 vs. Atlético Mineiro🇧🇷
-DESCRIPTION:Group G - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group G - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Olímpico U.C.V. Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20240410T190000Z_AtléticoMineiro_RosarioCentral
 DTSTART;TZID=America/Montevideo:20240410T190000
 DTEND;TZID=America/Montevideo:20240410T210000
 SUMMARY:Atlético Mineiro🇧🇷 vs. Rosario Central🇦🇷
-DESCRIPTION:Group G - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group G - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Arena MRV Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240423T210000Z_AtléticoMineiro_Peñarol
 DTSTART;TZID=America/Montevideo:20240423T210000
 DTEND;TZID=America/Montevideo:20240423T230000
 SUMMARY:Atlético Mineiro🇧🇷 vs. Peñarol🇺🇾
-DESCRIPTION:Group G - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group G - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Arena MRV Stadium
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20240507T190000Z_RosarioCentral_AtleticoMineiro
 DTSTART;TZID=America/Montevideo:20240507T190000
 DTEND;TZID=America/Montevideo:20240507T210000
 SUMMARY:Rosario Central🇦🇷 vs. Atlético Mineiro🇧🇷
-DESCRIPTION:Group G - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group G - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Gigante de Arroyito Stadium
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20240514T190000Z_Peñarol_AtléticoMineiro
 DTSTART;TZID=America/Montevideo:20240514T190000
 DTEND;TZID=America/Montevideo:20240514T210000
 SUMMARY:Peñarol🇺🇾 vs. Atlético Mineiro🇧🇷
-DESCRIPTION:Group G - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group G - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Campeón del Siglo Stadium
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20240528T190000Z_AtléticoMineiro_Caracas
 DTSTART;TZID=America/Montevideo:20240528T190000
 DTEND;TZID=America/Montevideo:20240528T210000
 SUMMARY:Atlético Mineiro🇧🇷 vs. Caracas🇻🇪
-DESCRIPTION:Group G - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group G - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Arena MRV Stadium
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20240813T213000Z_SanLorenzo_AtleticoMineiro
 DTSTART;TZID=America/Montevideo:20240813T213000
 DTEND;TZID=America/Montevideo:20240813T233000
 SUMMARY:San Lorenzo🇦🇷 vs. Atlético Mineiro🇧🇷
-DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Nuevo Gasómetro Stadium
 CLASS:PUBLIC
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20240820T213000Z_AtleticoMineiro_SanLorenzo
 DTSTART;TZID=America/Montevideo:20240820T213000
 DTEND;TZID=America/Montevideo:20240820T233000
 SUMMARY:Atlético Mineiro🇧🇷 vs. San Lorenzo🇦🇷
-DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Arena MRV Stadium
 CLASS:PUBLIC
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20240918T190000Z_Fluminense_AtleticoMineiro
 DTSTART;TZID=America/Montevideo:20240918T190000
 DTEND;TZID=America/Montevideo:20240918T210000
 SUMMARY:Fluminense🇧🇷 vs. Atlético Mineiro🇧🇷
-DESCRIPTION:Quarter-finals - First leg - Libertadores Cup
+DESCRIPTION:Quarter-finals - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Maracaná Stadium, Río de Janeiro
 CLASS:PUBLIC
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20240925T190000Z_AtleticoMineiro_Fluminense
 DTSTART;TZID=America/Montevideo:20240925T190000
 DTEND;TZID=America/Montevideo:20240925T210000
 SUMMARY:Atlético Mineiro🇧🇷 vs. Fluminense🇧🇷
-DESCRIPTION:Quarter-finals - Second leg - Libertadores Cup
+DESCRIPTION:Quarter-finals - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Arena MRV, Belo Horizonte
 CLASS:PUBLIC
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20241022T213000Z_AtleticoMineiro_River
 DTSTART;TZID=America/Montevideo:20241022T213000
 DTEND;TZID=America/Montevideo:20241022T233000
 SUMMARY:Atlético Mineiro🇧🇷 vs. River🇦🇷
-DESCRIPTION:Semi-finals - First leg - Libertadores Cup
+DESCRIPTION:Semi-finals - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Arena MRV, Belo Horizonte
 CLASS:PUBLIC
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20241029T213000Z_River_AtleticoMineiro
 DTSTART;TZID=America/Montevideo:20241029T213000
 DTEND;TZID=America/Montevideo:20241029T233000
 SUMMARY:River🇦🇷 vs. Atlético Mineiro🇧🇷
-DESCRIPTION:Semi-finals - Second leg - Libertadores Cup
+DESCRIPTION:Semi-finals - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Monumental Stadium, Buenos Aires
 CLASS:PUBLIC
 END:VEVENT
@@ -126,7 +126,7 @@ UID:20241130T170000Z_AtleticoMineiro_Botafogo
 DTSTART;TZID=America/Montevideo:20241130T170000
 DTEND;TZID=America/Montevideo:20241130T190000
 SUMMARY:Atlético Mineiro🇧🇷 vs. Botafogo🇧🇷
-DESCRIPTION:Final - Libertadores Cup
+DESCRIPTION:Final - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 LOCATION:Monumental Stadium, Buenos Aires
 CLASS:PUBLIC
 END:VEVENT
@@ -136,7 +136,7 @@ UID:20250401T213000Z_Cienciano_AtleticoMineiro
 DTSTART;TZID=America/Montevideo:20250401T213000
 DTEND;TZID=America/Montevideo:20250401T233000
 SUMMARY:Cienciano🇵🇪 vs. Atlético Mineiro🇧🇷
-DESCRIPTION:Group H - Matchday 1 - Sudamericana Cup
+DESCRIPTION:Group H - Matchday 1 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Inca Garcilaso de la Vega Stadium
 END:VEVENT
@@ -146,7 +146,7 @@ UID:20250410T213000Z_AtleticoMineiro_DeportesIquique
 DTSTART;TZID=America/Montevideo:20250410T213000
 DTEND;TZID=America/Montevideo:20250410T233000
 SUMMARY:Atlético Mineiro🇧🇷 vs. Deportes Iquique🇨🇱
-DESCRIPTION:Group H - Matchday 2 - Sudamericana Cup
+DESCRIPTION:Group H - Matchday 2 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Mineirão Stadium
 END:VEVENT
@@ -156,7 +156,7 @@ UID:20250423T213000Z_Caracas_AtleticoMineiro
 DTSTART;TZID=America/Montevideo:20250423T213000
 DTEND;TZID=America/Montevideo:20250423T233000
 SUMMARY:Caracas🇻🇪 vs. Atlético Mineiro🇧🇷
-DESCRIPTION:Group H - Matchday 3 - Sudamericana Cup
+DESCRIPTION:Group H - Matchday 3 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Olímpico de la UCV Stadium
 END:VEVENT
@@ -166,7 +166,7 @@ UID:20250508T190000Z_DeportesIquique_AtleticoMineiro
 DTSTART;TZID=America/Montevideo:20250508T190000
 DTEND;TZID=America/Montevideo:20250508T210000
 SUMMARY:Deportes Iquique🇨🇱 vs. Atlético Mineiro🇧🇷
-DESCRIPTION:Group H - Matchday 4 - Sudamericana Cup
+DESCRIPTION:Group H - Matchday 4 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Tierra de Campeones Stadium (old)
 END:VEVENT
@@ -176,7 +176,7 @@ UID:20250515T213000Z_AtleticoMineiro_Caracas
 DTSTART;TZID=America/Montevideo:20250515T213000
 DTEND;TZID=America/Montevideo:20250515T233000
 SUMMARY:Atlético Mineiro🇧🇷 vs. Caracas🇻🇪
-DESCRIPTION:Group H - Matchday 5 - Sudamericana Cup
+DESCRIPTION:Group H - Matchday 5 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Arena MRV
 END:VEVENT
@@ -186,7 +186,7 @@ UID:20250529T213000Z_AtleticoMineiro_Cienciano
 DTSTART;TZID=America/Montevideo:20250529T213000
 DTEND;TZID=America/Montevideo:20250529T233000
 SUMMARY:Atlético Mineiro🇧🇷 vs. Cienciano🇵🇪
-DESCRIPTION:Group H - Matchday 6 - Sudamericana Cup
+DESCRIPTION:Group H - Matchday 6 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Arena MRV
 END:VEVENT
@@ -196,7 +196,7 @@ UID:20250717T213000Z_AtleticoBucaramanga_AtleticoMineiro
 DTSTART;TZID=America/Montevideo:20250717T213000
 DTEND;TZID=America/Montevideo:20250717T233000
 SUMMARY:Atlético Bucaramanga🇨🇴 vs. Atlético Mineiro🇧🇷
-DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Américo Montanini Stadium
 END:VEVENT
@@ -206,7 +206,7 @@ UID:20250724T213000Z_AtleticoMineiro_AtleticoBucaramanga
 DTSTART;TZID=America/Montevideo:20250724T213000
 DTEND;TZID=America/Montevideo:20250724T233000
 SUMMARY:Atlético Mineiro🇧🇷 vs. Atlético Bucaramanga🇨🇴
-DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Arena MRV
 END:VEVENT
@@ -216,7 +216,7 @@ UID:20250814T190000Z_AtleticoMineiro_GodoyCruz
 DTSTART;TZID=America/Montevideo:20250814T190000
 DTEND;TZID=America/Montevideo:20250814T210000
 SUMMARY:Atlético Mineiro🇧🇷 vs. Godoy Cruz🇦🇷
-DESCRIPTION:Round of 16 - First leg - Sudamericana Cup
+DESCRIPTION:Round of 16 - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Arena MRV
 END:VEVENT
@@ -226,7 +226,7 @@ UID:20250821T190000Z_GodoyCruz_AtleticoMineiro
 DTSTART;TZID=America/Montevideo:20250821T190000
 DTEND;TZID=America/Montevideo:20250821T210000
 SUMMARY:Godoy Cruz🇦🇷 vs. Atlético Mineiro🇧🇷
-DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup
+DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Feliciano Gambarte Stadium
 END:VEVENT
@@ -236,7 +236,7 @@ UID:20250917T190000Z_Bolivar_AtleticoMineiro
 DTSTART;TZID=America/Montevideo:20250917T190000
 DTEND;TZID=America/Montevideo:20250917T210000
 SUMMARY:Bolívar🇧🇴 vs. Atlético Mineiro🇧🇷
-DESCRIPTION:Quarter-finals - First leg - Sudamericana Cup
+DESCRIPTION:Quarter-finals - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Hernando Siles Stadium
 END:VEVENT
@@ -246,7 +246,7 @@ UID:20250924T190000Z_AtleticoMineiro_Bolivar
 DTSTART;TZID=America/Montevideo:20250924T190000
 DTEND;TZID=America/Montevideo:20250924T210000
 SUMMARY:Atlético Mineiro🇧🇷 vs. Bolívar🇧🇴
-DESCRIPTION:Quarter-finals - Second leg - Sudamericana Cup
+DESCRIPTION:Quarter-finals - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Arena MRV
 END:VEVENT
@@ -256,7 +256,7 @@ UID:20251021T213000Z_IndependienteDelValle_AtleticoMineiro
 DTSTART;TZID=America/Montevideo:20251021T213000
 DTEND;TZID=America/Montevideo:20251021T233000
 SUMMARY:Independiente del Valle🇪🇨 vs. Atlético Mineiro🇧🇷
-DESCRIPTION:Semi-finals - First leg - Sudamericana Cup
+DESCRIPTION:Semi-finals - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Banco Guayaquil Stadium
 END:VEVENT
@@ -266,7 +266,7 @@ UID:20251028T213000Z_AtleticoMineiro_IndependienteDelValle
 DTSTART;TZID=America/Montevideo:20251028T213000
 DTEND;TZID=America/Montevideo:20251028T233000
 SUMMARY:Atlético Mineiro🇧🇷 vs. Independiente del Valle🇪🇨
-DESCRIPTION:Semi-finals - Second leg - Sudamericana Cup
+DESCRIPTION:Semi-finals - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Arena MRV
 END:VEVENT
@@ -276,7 +276,7 @@ UID:20251122T170000Z_Lanus_AtleticoMineiro
 DTSTART;TZID=America/Montevideo:20251122T170000
 DTEND;TZID=America/Montevideo:20251122T190000
 SUMMARY:Lanús🇦🇷 vs. Atlético Mineiro🇧🇷
-DESCRIPTION:Final - Sudamericana Cup
+DESCRIPTION:Final - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Defensores del Chaco
 END:VEVENT
@@ -286,7 +286,7 @@ UID:20260408T230000Z_AcademiaPuertoCabello_AtleticoMineiro
 DTSTART;TZID=America/Montevideo:20260408T230000
 DTEND;TZID=America/Montevideo:20260409T010000
 SUMMARY:Academia Puerto Cabello🇻🇪 vs. Atlético Mineiro🇧🇷
-DESCRIPTION:Group B - Matchday 1 - Sudamericana Cup
+DESCRIPTION:Group B - Matchday 1 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Misael Delgado Stadium
 END:VEVENT
@@ -296,7 +296,7 @@ UID:20260416T190000Z_AtleticoMineiro_Juventud
 DTSTART;TZID=America/Montevideo:20260416T190000
 DTEND;TZID=America/Montevideo:20260416T210000
 SUMMARY:Atlético Mineiro🇧🇷 vs. Juventud🇺🇾
-DESCRIPTION:Group B - Matchday 2 - Sudamericana Cup
+DESCRIPTION:Group B - Matchday 2 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Arena MRV
 END:VEVENT
@@ -306,7 +306,7 @@ UID:20260429T213000Z_Cienciano_AtleticoMineiro
 DTSTART;TZID=America/Montevideo:20260429T213000
 DTEND;TZID=America/Montevideo:20260429T233000
 SUMMARY:Cienciano🇵🇪 vs. Atlético Mineiro🇧🇷
-DESCRIPTION:Group B - Matchday 3 - Sudamericana Cup
+DESCRIPTION:Group B - Matchday 3 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Inca Garcilaso de la Vega Stadium
 END:VEVENT
@@ -316,7 +316,7 @@ UID:20260505T190000Z_Juventud_AtleticoMineiro
 DTSTART;TZID=America/Montevideo:20260505T190000
 DTEND;TZID=America/Montevideo:20260505T210000
 SUMMARY:Juventud🇺🇾 vs. Atlético Mineiro🇧🇷
-DESCRIPTION:Group B - Matchday 4 - Sudamericana Cup
+DESCRIPTION:Group B - Matchday 4 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Centenario Stadium
 END:VEVENT
@@ -326,7 +326,7 @@ UID:20260521T190000Z_AtleticoMineiro_Cienciano
 DTSTART;TZID=America/Montevideo:20260521T190000
 DTEND;TZID=America/Montevideo:20260521T210000
 SUMMARY:Atlético Mineiro🇧🇷 vs. Cienciano🇵🇪
-DESCRIPTION:Group B - Matchday 5 - Sudamericana Cup
+DESCRIPTION:Group B - Matchday 5 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Arena MRV
 END:VEVENT
@@ -336,7 +336,7 @@ UID:20260527T190000Z_AtleticoMineiro_AcademiaPuertoCabello
 DTSTART;TZID=America/Montevideo:20260527T190000
 DTEND;TZID=America/Montevideo:20260527T210000
 SUMMARY:Atlético Mineiro🇧🇷 vs. Academia Puerto Cabello🇻🇪
-DESCRIPTION:Group B - Matchday 6 - Sudamericana Cup
+DESCRIPTION:Group B - Matchday 6 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Arena MRV
 END:VEVENT

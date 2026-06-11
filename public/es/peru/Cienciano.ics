@@ -6,7 +6,7 @@ UID:20250401T213000Z_Cienciano_AtleticoMineiro
 DTSTART;TZID=America/Montevideo:20250401T213000
 DTEND;TZID=America/Montevideo:20250401T233000
 SUMMARY:Cienciano🇵🇪 vs. Atlético Mineiro🇧🇷
-DESCRIPTION:Grupo H - Fecha 1 - Copa Sudamericana
+DESCRIPTION:Grupo H - Fecha 1 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Inca Garcilaso de la Vega
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20250408T190000Z_Caracas_Cienciano
 DTSTART;TZID=America/Montevideo:20250408T190000
 DTEND;TZID=America/Montevideo:20250408T210000
 SUMMARY:Caracas🇻🇪 vs. Cienciano🇵🇪
-DESCRIPTION:Grupo H - Fecha 2 - Copa Sudamericana
+DESCRIPTION:Grupo H - Fecha 2 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Olímpico de la UCV
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20250424T213000Z_DeportesIquique_Cienciano
 DTSTART;TZID=America/Montevideo:20250424T213000
 DTEND;TZID=America/Montevideo:20250424T233000
 SUMMARY:Deportes Iquique🇨🇱 vs. Cienciano🇵🇪
-DESCRIPTION:Grupo H - Fecha 3 - Copa Sudamericana
+DESCRIPTION:Grupo H - Fecha 3 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Tierra de Campeones (old)
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20250508T230000Z_Cienciano_Caracas
 DTSTART;TZID=America/Montevideo:20250508T230000
 DTEND;TZID=America/Montevideo:20250509T010000
 SUMMARY:Cienciano🇵🇪 vs. Caracas🇻🇪
-DESCRIPTION:Grupo H - Fecha 4 - Copa Sudamericana
+DESCRIPTION:Grupo H - Fecha 4 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Inca Garcilaso de la Vega
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20250515T230000Z_Cienciano_DeportesIquique
 DTSTART;TZID=America/Montevideo:20250515T230000
 DTEND;TZID=America/Montevideo:20250516T010000
 SUMMARY:Cienciano🇵🇪 vs. Deportes Iquique🇨🇱
-DESCRIPTION:Grupo H - Fecha 5 - Copa Sudamericana
+DESCRIPTION:Grupo H - Fecha 5 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Inca Garcilaso de la Vega
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20250529T213000Z_AtleticoMineiro_Cienciano
 DTSTART;TZID=America/Montevideo:20250529T213000
 DTEND;TZID=America/Montevideo:20250529T233000
 SUMMARY:Atlético Mineiro🇧🇷 vs. Cienciano🇵🇪
-DESCRIPTION:Grupo H - Fecha 6 - Copa Sudamericana
+DESCRIPTION:Grupo H - Fecha 6 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Arena MRV
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20250813T190000Z_Bolivar_Cienciano
 DTSTART;TZID=America/Montevideo:20250813T190000
 DTEND;TZID=America/Montevideo:20250813T210000
 SUMMARY:Bolívar🇧🇴 vs. Cienciano🇵🇪
-DESCRIPTION:Octavos de final - Ida - Copa Sudamericana
+DESCRIPTION:Octavos de final - Ida - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Hernando Siles
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20250820T190000Z_Cienciano_Bolivar
 DTSTART;TZID=America/Montevideo:20250820T190000
 DTEND;TZID=America/Montevideo:20250820T210000
 SUMMARY:Cienciano🇵🇪 vs. Bolívar🇧🇴
-DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana
+DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Inca Garcilaso de la Vega
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20260409T190000Z_Juventud_Cienciano
 DTSTART;TZID=America/Montevideo:20260409T190000
 DTEND;TZID=America/Montevideo:20260409T210000
 SUMMARY:Juventud🇺🇾 vs. Cienciano🇵🇪
-DESCRIPTION:Grupo B - Fecha 1 - Copa Sudamericana
+DESCRIPTION:Grupo B - Fecha 1 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Centenario
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20260416T230000Z_Cienciano_AcademiaPuertoCabello
 DTSTART;TZID=America/Montevideo:20260416T230000
 DTEND;TZID=America/Montevideo:20260417T010000
 SUMMARY:Cienciano🇵🇪 vs. Academia Puerto Cabello🇻🇪
-DESCRIPTION:Grupo B - Fecha 2 - Copa Sudamericana
+DESCRIPTION:Grupo B - Fecha 2 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Inca Garcilaso de la Vega
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20260429T213000Z_Cienciano_AtleticoMineiro
 DTSTART;TZID=America/Montevideo:20260429T213000
 DTEND;TZID=America/Montevideo:20260429T233000
 SUMMARY:Cienciano🇵🇪 vs. Atlético Mineiro🇧🇷
-DESCRIPTION:Grupo B - Fecha 3 - Copa Sudamericana
+DESCRIPTION:Grupo B - Fecha 3 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Inca Garcilaso de la Vega
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20260505T213000Z_AcademiaPuertoCabello_Cienciano
 DTSTART;TZID=America/Montevideo:20260505T213000
 DTEND;TZID=America/Montevideo:20260505T233000
 SUMMARY:Academia Puerto Cabello🇻🇪 vs. Cienciano🇵🇪
-DESCRIPTION:Grupo B - Fecha 4 - Copa Sudamericana
+DESCRIPTION:Grupo B - Fecha 4 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Misael Delgado
 END:VEVENT
@@ -126,7 +126,7 @@ UID:20260521T190000Z_AtleticoMineiro_Cienciano
 DTSTART;TZID=America/Montevideo:20260521T190000
 DTEND;TZID=America/Montevideo:20260521T210000
 SUMMARY:Atlético Mineiro🇧🇷 vs. Cienciano🇵🇪
-DESCRIPTION:Grupo B - Fecha 5 - Copa Sudamericana
+DESCRIPTION:Grupo B - Fecha 5 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Arena MRV
 END:VEVENT
@@ -136,7 +136,7 @@ UID:20260527T190000Z_Cienciano_Juventud
 DTSTART;TZID=America/Montevideo:20260527T190000
 DTEND;TZID=America/Montevideo:20260527T210000
 SUMMARY:Cienciano🇵🇪 vs. Juventud🇺🇾
-DESCRIPTION:Grupo B - Fecha 6 - Copa Sudamericana
+DESCRIPTION:Grupo B - Fecha 6 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Inca Garcilaso de la Vega
 END:VEVENT
@@ -146,7 +146,7 @@ UID:20260722T213000Z_Lanus_Cienciano
 DTSTART;TZID=America/Montevideo:20260722T213000
 DTEND;TZID=America/Montevideo:20260722T233000
 SUMMARY:Lanús🇦🇷 vs. Cienciano🇵🇪
-DESCRIPTION:Play-offs - Ida - Copa Sudamericana
+DESCRIPTION:Play-offs - Ida - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Ciudad de Lanús
 END:VEVENT
@@ -156,7 +156,7 @@ UID:20260729T213000Z_Cienciano_Lanus
 DTSTART;TZID=America/Montevideo:20260729T213000
 DTEND;TZID=America/Montevideo:20260729T233000
 SUMMARY:Cienciano🇵🇪 vs. Lanús🇦🇷
-DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana
+DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Inca Garcilaso de la Vega
 END:VEVENT

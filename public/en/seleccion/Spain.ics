@@ -6,7 +6,7 @@ UID:20260615T130000Z_Spain_CapeVerde
 DTSTART;TZID=America/Montevideo:20260615T130000
 DTEND;TZID=America/Montevideo:20260615T150000
 SUMMARY:Spain vs. Cape Verde
-DESCRIPTION:Group H - Matchday 1 - World Cup
+DESCRIPTION:Group H - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260621T130000Z_Spain_SaudiArabia
 DTSTART;TZID=America/Montevideo:20260621T130000
 DTEND;TZID=America/Montevideo:20260621T150000
 SUMMARY:Spain vs. Saudi Arabia
-DESCRIPTION:Group H - Matchday 2 - World Cup
+DESCRIPTION:Group H - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260626T210000Z_Uruguay_Spain
 DTSTART;TZID=America/Montevideo:20260626T210000
 DTEND;TZID=America/Montevideo:20260626T230000
 SUMMARY:Uruguay vs. Spain
-DESCRIPTION:Group H - Matchday 3 - World Cup
+DESCRIPTION:Group H - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Akron Stadium
 END:VEVENT

@@ -6,7 +6,7 @@ UID:20260616T160000Z_France_Senegal
 DTSTART;TZID=America/Montevideo:20260616T160000
 DTEND;TZID=America/Montevideo:20260616T180000
 SUMMARY:France vs. Senegal
-DESCRIPTION:Group I - Matchday 1 - World Cup
+DESCRIPTION:Group I - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260616T190000Z_Iraq_Norway
 DTSTART;TZID=America/Montevideo:20260616T190000
 DTEND;TZID=America/Montevideo:20260616T210000
 SUMMARY:Iraq vs. Norway
-DESCRIPTION:Group I - Matchday 1 - World Cup
+DESCRIPTION:Group I - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Gillette Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260622T180000Z_France_Iraq
 DTSTART;TZID=America/Montevideo:20260622T180000
 DTEND;TZID=America/Montevideo:20260622T200000
 SUMMARY:France vs. Iraq
-DESCRIPTION:Group I - Matchday 2 - World Cup
+DESCRIPTION:Group I - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Lincoln Financial Field
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20260622T210000Z_Norway_Senegal
 DTSTART;TZID=America/Montevideo:20260622T210000
 DTEND;TZID=America/Montevideo:20260622T230000
 SUMMARY:Norway vs. Senegal
-DESCRIPTION:Group I - Matchday 2 - World Cup
+DESCRIPTION:Group I - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20260626T160000Z_Norway_France
 DTSTART;TZID=America/Montevideo:20260626T160000
 DTEND;TZID=America/Montevideo:20260626T180000
 SUMMARY:Norway vs. France
-DESCRIPTION:Group I - Matchday 3 - World Cup
+DESCRIPTION:Group I - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Gillette Stadium
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20260626T160000Z_Senegal_Iraq
 DTSTART;TZID=America/Montevideo:20260626T160000
 DTEND;TZID=America/Montevideo:20260626T180000
 SUMMARY:Senegal vs. Iraq
-DESCRIPTION:Group I - Matchday 3 - World Cup
+DESCRIPTION:Group I - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:BMO Field
 END:VEVENT

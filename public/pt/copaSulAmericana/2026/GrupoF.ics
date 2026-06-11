@@ -6,7 +6,7 @@ UID:20260408T190000Z_DeportivoRiestra_Palestino
 DTSTART;TZID=America/Montevideo:20260408T190000
 DTEND;TZID=America/Montevideo:20260408T210000
 SUMMARY:Deportivo Riestra🇦🇷 vs. Palestino🇨🇱
-DESCRIPTION:Grupo F - Rodada 1 - Copa Sul-Americana
+DESCRIPTION:Grupo F - Rodada 1 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Pedro Bidegain
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260408T213000Z_MontevideoCityTorque_Gremio
 DTSTART;TZID=America/Montevideo:20260408T213000
 DTEND;TZID=America/Montevideo:20260408T233000
 SUMMARY:Montevideo City Torque🇺🇾 vs. Gremio🇧🇷
-DESCRIPTION:Grupo F - Rodada 1 - Copa Sul-Americana
+DESCRIPTION:Grupo F - Rodada 1 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Centenario
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260414T190000Z_Gremio_DeportivoRiestra
 DTSTART;TZID=America/Montevideo:20260414T190000
 DTEND;TZID=America/Montevideo:20260414T210000
 SUMMARY:Gremio🇧🇷 vs. Deportivo Riestra🇦🇷
-DESCRIPTION:Grupo F - Rodada 2 - Copa Sul-Americana
+DESCRIPTION:Grupo F - Rodada 2 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Arena do Grêmio
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20260414T213000Z_Palestino_MontevideoCityTorque
 DTSTART;TZID=America/Montevideo:20260414T213000
 DTEND;TZID=America/Montevideo:20260414T233000
 SUMMARY:Palestino🇨🇱 vs. Montevideo City Torque🇺🇾
-DESCRIPTION:Grupo F - Rodada 2 - Copa Sul-Americana
+DESCRIPTION:Grupo F - Rodada 2 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Municipal de La Cisterna
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20260429T190000Z_DeportivoRiestra_MontevideoCityTorque
 DTSTART;TZID=America/Montevideo:20260429T190000
 DTEND;TZID=America/Montevideo:20260429T210000
 SUMMARY:Deportivo Riestra🇦🇷 vs. Montevideo City Torque🇺🇾
-DESCRIPTION:Grupo F - Rodada 3 - Copa Sul-Americana
+DESCRIPTION:Grupo F - Rodada 3 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Pedro Bidegain
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20260429T213000Z_Palestino_Gremio
 DTSTART;TZID=America/Montevideo:20260429T213000
 DTEND;TZID=America/Montevideo:20260429T233000
 SUMMARY:Palestino🇨🇱 vs. Gremio🇧🇷
-DESCRIPTION:Grupo F - Rodada 3 - Copa Sul-Americana
+DESCRIPTION:Grupo F - Rodada 3 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Municipal de La Cisterna
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20260505T190000Z_DeportivoRiestra_Gremio
 DTSTART;TZID=America/Montevideo:20260505T190000
 DTEND;TZID=America/Montevideo:20260505T210000
 SUMMARY:Deportivo Riestra🇦🇷 vs. Gremio🇧🇷
-DESCRIPTION:Grupo F - Rodada 4 - Copa Sul-Americana
+DESCRIPTION:Grupo F - Rodada 4 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Pedro Bidegain
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20260506T190000Z_MontevideoCityTorque_Palestino
 DTSTART;TZID=America/Montevideo:20260506T190000
 DTEND;TZID=America/Montevideo:20260506T210000
 SUMMARY:Montevideo City Torque🇺🇾 vs. Palestino🇨🇱
-DESCRIPTION:Grupo F - Rodada 4 - Copa Sul-Americana
+DESCRIPTION:Grupo F - Rodada 4 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Centenario
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20260519T190000Z_MontevideoCityTorque_DeportivoRiestra
 DTSTART;TZID=America/Montevideo:20260519T190000
 DTEND;TZID=America/Montevideo:20260519T210000
 SUMMARY:Montevideo City Torque🇺🇾 vs. Deportivo Riestra🇦🇷
-DESCRIPTION:Grupo F - Rodada 5 - Copa Sul-Americana
+DESCRIPTION:Grupo F - Rodada 5 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Centenario
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20260520T210000Z_Gremio_Palestino
 DTSTART;TZID=America/Montevideo:20260520T210000
 DTEND;TZID=America/Montevideo:20260520T230000
 SUMMARY:Gremio🇧🇷 vs. Palestino🇨🇱
-DESCRIPTION:Grupo F - Rodada 5 - Copa Sul-Americana
+DESCRIPTION:Grupo F - Rodada 5 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Arena do Grêmio
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20260526T190000Z_Gremio_MontevideoCityTorque
 DTSTART;TZID=America/Montevideo:20260526T190000
 DTEND;TZID=America/Montevideo:20260526T210000
 SUMMARY:Gremio🇧🇷 vs. Montevideo City Torque🇺🇾
-DESCRIPTION:Grupo F - Rodada 6 - Copa Sul-Americana
+DESCRIPTION:Grupo F - Rodada 6 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Arena do Grêmio
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20260526T190000Z_Palestino_DeportivoRiestra
 DTSTART;TZID=America/Montevideo:20260526T190000
 DTEND;TZID=America/Montevideo:20260526T210000
 SUMMARY:Palestino🇨🇱 vs. Deportivo Riestra🇦🇷
-DESCRIPTION:Grupo F - Rodada 6 - Copa Sul-Americana
+DESCRIPTION:Grupo F - Rodada 6 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Municipal de La Cisterna
 END:VEVENT
@@ -126,7 +126,7 @@ UID:20260723T190000Z_Bolivar_Gremio
 DTSTART;TZID=America/Montevideo:20260723T190000
 DTEND;TZID=America/Montevideo:20260723T210000
 SUMMARY:Bolívar🇧🇴 vs. Gremio🇧🇷
-DESCRIPTION:Play-offs - Ida - Copa Sul-Americana
+DESCRIPTION:Play-offs - Ida - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Hernando Siles
 END:VEVENT
@@ -136,7 +136,7 @@ UID:20260730T190000Z_Gremio_Bolivar
 DTSTART;TZID=America/Montevideo:20260730T190000
 DTEND;TZID=America/Montevideo:20260730T210000
 SUMMARY:Gremio🇧🇷 vs. Bolívar🇧🇴
-DESCRIPTION:Play-offs - Volta - Copa Sul-Americana
+DESCRIPTION:Play-offs - Volta - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Arena do Grêmio
 END:VEVENT

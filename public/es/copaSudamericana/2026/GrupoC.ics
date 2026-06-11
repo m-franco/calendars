@@ -6,7 +6,7 @@ UID:20260407T210000Z_OHiggins_Millonarios
 DTSTART;TZID=America/Montevideo:20260407T210000
 DTEND;TZID=America/Montevideo:20260407T230000
 SUMMARY:O'Higgins🇨🇱 vs. Millonarios🇨🇴
-DESCRIPTION:Grupo C - Fecha 1 - Copa Sudamericana
+DESCRIPTION:Grupo C - Fecha 1 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio El Teniente
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260407T213000Z_BostonRiver_SanPablo
 DTSTART;TZID=America/Montevideo:20260407T213000
 DTEND;TZID=America/Montevideo:20260407T233000
 SUMMARY:Boston River🇺🇾 vs. San Pablo🇧🇷
-DESCRIPTION:Grupo C - Fecha 1 - Copa Sudamericana
+DESCRIPTION:Grupo C - Fecha 1 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Centenario
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260414T190000Z_SanPablo_OHiggins
 DTSTART;TZID=America/Montevideo:20260414T190000
 DTEND;TZID=America/Montevideo:20260414T210000
 SUMMARY:San Pablo🇧🇷 vs. O'Higgins🇨🇱
-DESCRIPTION:Grupo C - Fecha 2 - Copa Sudamericana
+DESCRIPTION:Grupo C - Fecha 2 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estádio Cícero Pompeu de Toledo
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20260415T230000Z_Millonarios_BostonRiver
 DTSTART;TZID=America/Montevideo:20260415T230000
 DTEND;TZID=America/Montevideo:20260416T010000
 SUMMARY:Millonarios🇨🇴 vs. Boston River🇺🇾
-DESCRIPTION:Grupo C - Fecha 2 - Copa Sudamericana
+DESCRIPTION:Grupo C - Fecha 2 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Nemesio Camacho El Campín
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20260428T213000Z_Millonarios_SanPablo
 DTSTART;TZID=America/Montevideo:20260428T213000
 DTEND;TZID=America/Montevideo:20260428T233000
 SUMMARY:Millonarios🇨🇴 vs. San Pablo🇧🇷
-DESCRIPTION:Grupo C - Fecha 3 - Copa Sudamericana
+DESCRIPTION:Grupo C - Fecha 3 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Nemesio Camacho El Campín
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20260428T230000Z_OHiggins_BostonRiver
 DTSTART;TZID=America/Montevideo:20260428T230000
 DTEND;TZID=America/Montevideo:20260429T010000
 SUMMARY:O'Higgins🇨🇱 vs. Boston River🇺🇾
-DESCRIPTION:Grupo C - Fecha 3 - Copa Sudamericana
+DESCRIPTION:Grupo C - Fecha 3 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio El Teniente
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20260507T190000Z_BostonRiver_Millonarios
 DTSTART;TZID=America/Montevideo:20260507T190000
 DTEND;TZID=America/Montevideo:20260507T210000
 SUMMARY:Boston River🇺🇾 vs. Millonarios🇨🇴
-DESCRIPTION:Grupo C - Fecha 4 - Copa Sudamericana
+DESCRIPTION:Grupo C - Fecha 4 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Centenario
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20260507T190000Z_OHiggins_SanPablo
 DTSTART;TZID=America/Montevideo:20260507T190000
 DTEND;TZID=America/Montevideo:20260507T210000
 SUMMARY:O'Higgins🇨🇱 vs. San Pablo🇧🇷
-DESCRIPTION:Grupo C - Fecha 4 - Copa Sudamericana
+DESCRIPTION:Grupo C - Fecha 4 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio El Teniente
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20260519T213000Z_SanPablo_Millonarios
 DTSTART;TZID=America/Montevideo:20260519T213000
 DTEND;TZID=America/Montevideo:20260519T233000
 SUMMARY:San Pablo🇧🇷 vs. Millonarios🇨🇴
-DESCRIPTION:Grupo C - Fecha 5 - Copa Sudamericana
+DESCRIPTION:Grupo C - Fecha 5 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estádio Cícero Pompeu de Toledo
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20260520T190000Z_BostonRiver_OHiggins
 DTSTART;TZID=America/Montevideo:20260520T190000
 DTEND;TZID=America/Montevideo:20260520T210000
 SUMMARY:Boston River🇺🇾 vs. O'Higgins🇨🇱
-DESCRIPTION:Grupo C - Fecha 5 - Copa Sudamericana
+DESCRIPTION:Grupo C - Fecha 5 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Centenario
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20260526T190000Z_Millonarios_OHiggins
 DTSTART;TZID=America/Montevideo:20260526T190000
 DTEND;TZID=America/Montevideo:20260526T210000
 SUMMARY:Millonarios🇨🇴 vs. O'Higgins🇨🇱
-DESCRIPTION:Grupo C - Fecha 6 - Copa Sudamericana
+DESCRIPTION:Grupo C - Fecha 6 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Nemesio Camacho El Campín
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20260526T190000Z_SanPablo_BostonRiver
 DTSTART;TZID=America/Montevideo:20260526T190000
 DTEND;TZID=America/Montevideo:20260526T210000
 SUMMARY:San Pablo🇧🇷 vs. Boston River🇺🇾
-DESCRIPTION:Grupo C - Fecha 6 - Copa Sudamericana
+DESCRIPTION:Grupo C - Fecha 6 - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estádio Cícero Pompeu de Toledo
 END:VEVENT
@@ -126,7 +126,7 @@ UID:20260723T213000Z_BocaJuniors_OHiggins
 DTSTART;TZID=America/Montevideo:20260723T213000
 DTEND;TZID=America/Montevideo:20260723T233000
 SUMMARY:Boca Juniors🇦🇷 vs. O'Higgins🇨🇱
-DESCRIPTION:Play-offs - Ida - Copa Sudamericana
+DESCRIPTION:Play-offs - Ida - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Alberto José Armando (La Bombonera)
 END:VEVENT
@@ -136,7 +136,7 @@ UID:20260730T213000Z_OHiggins_BocaJuniors
 DTSTART;TZID=America/Montevideo:20260730T213000
 DTEND;TZID=America/Montevideo:20260730T233000
 SUMMARY:O'Higgins🇨🇱 vs. Boca Juniors🇦🇷
-DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana
+DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio a definir
 END:VEVENT

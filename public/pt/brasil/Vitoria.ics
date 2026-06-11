@@ -6,7 +6,7 @@ UID:20250402T213000Z_Vitoria_UniversidadCatolica
 DTSTART;TZID=America/Montevideo:20250402T213000
 DTEND;TZID=America/Montevideo:20250402T233000
 SUMMARY:Vitória🇧🇷 vs. Universidad Católica🇪🇨
-DESCRIPTION:Grupo B - Rodada 1 - Copa Sul-Americana
+DESCRIPTION:Grupo B - Rodada 1 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Manoel Barradas
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20250410T190000Z_DefensaYJusticia_Vitoria
 DTSTART;TZID=America/Montevideo:20250410T190000
 DTEND;TZID=America/Montevideo:20250410T210000
 SUMMARY:Defensa Y Justicia🇦🇷 vs. Vitória🇧🇷
-DESCRIPTION:Grupo B - Rodada 2 - Copa Sul-Americana
+DESCRIPTION:Grupo B - Rodada 2 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Norberto Tomaghello
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20250423T213000Z_Vitoria_CerroLargo
 DTSTART;TZID=America/Montevideo:20250423T213000
 DTEND;TZID=America/Montevideo:20250423T233000
 SUMMARY:Vitória🇧🇷 vs. Cerro Largo🇺🇾
-DESCRIPTION:Grupo B - Rodada 3 - Copa Sul-Americana
+DESCRIPTION:Grupo B - Rodada 3 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Manoel Barradas
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20250506T190000Z_Vitoria_DefensaYJusticia
 DTSTART;TZID=America/Montevideo:20250506T190000
 DTEND;TZID=America/Montevideo:20250506T210000
 SUMMARY:Vitória🇧🇷 vs. Defensa Y Justicia🇦🇷
-DESCRIPTION:Grupo B - Rodada 4 - Copa Sul-Americana
+DESCRIPTION:Grupo B - Rodada 4 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Manoel Barradas
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20250514T213000Z_CerroLargo_Vitoria
 DTSTART;TZID=America/Montevideo:20250514T213000
 DTEND;TZID=America/Montevideo:20250514T233000
 SUMMARY:Cerro Largo🇺🇾 vs. Vitória🇧🇷
-DESCRIPTION:Grupo B - Rodada 5 - Copa Sul-Americana
+DESCRIPTION:Grupo B - Rodada 5 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Centenario
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20250528T213000Z_UniversidadCatolica_Vitoria
 DTSTART;TZID=America/Montevideo:20250528T213000
 DTEND;TZID=America/Montevideo:20250528T233000
 SUMMARY:Universidad Católica🇪🇨 vs. Vitória🇧🇷
-DESCRIPTION:Grupo B - Rodada 6 - Copa Sul-Americana
+DESCRIPTION:Grupo B - Rodada 6 - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Olímpico Atahualpa
 END:VEVENT

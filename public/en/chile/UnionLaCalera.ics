@@ -6,7 +6,7 @@ UID:20240403T230000Z_Alianza_Union_La_Calera
 DTSTART;TZID=America/Montevideo:20240403T230000
 DTEND;TZID=America/Montevideo:20240404T010000
 SUMMARY:Alianza🇨🇴 vs. Unión La Calera🇨🇱
-DESCRIPTION:Group B - Matchday 1 - Sudamericana Cup
+DESCRIPTION:Group B - Matchday 1 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Armando Maestre Pavajeau Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20240410T210000Z_Union_La_Calera_Universidad_Catolica
 DTSTART;TZID=America/Montevideo:20240410T210000
 DTEND;TZID=America/Montevideo:20240410T230000
 SUMMARY:Unión La Calera🇨🇱 vs. Universidad Católica🇪🇨
-DESCRIPTION:Group B - Matchday 2 - Sudamericana Cup
+DESCRIPTION:Group B - Matchday 2 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Elías Figueroa Brander Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20240423T190000Z_Union_La_Calera_Cruzeiro
 DTSTART;TZID=America/Montevideo:20240423T190000
 DTEND;TZID=America/Montevideo:20240423T210000
 SUMMARY:Unión La Calera🇨🇱 vs. Cruzeiro🇧🇷
-DESCRIPTION:Group B - Matchday 3 - Sudamericana Cup
+DESCRIPTION:Group B - Matchday 3 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Municipal Alcaldesa Ester Roa Rebolledo Stadium
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20240509T230000Z_Universidad_Catolica_Union_La_Calera
 DTSTART;TZID=America/Montevideo:20240509T230000
 DTEND;TZID=America/Montevideo:20240510T010000
 SUMMARY:Universidad Católica🇪🇨 vs. Unión La Calera🇨🇱
-DESCRIPTION:Group B - Matchday 4 - Sudamericana Cup
+DESCRIPTION:Group B - Matchday 4 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Olímpico Atahualpa Stadium
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20240516T210000Z_Cruzeiro_Union_La_Calera
 DTSTART;TZID=America/Montevideo:20240516T210000
 DTEND;TZID=America/Montevideo:20240516T230000
 SUMMARY:Cruzeiro🇧🇷 vs. Unión La Calera🇨🇱
-DESCRIPTION:Group B - Matchday 5 - Sudamericana Cup
+DESCRIPTION:Group B - Matchday 5 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Mineirão Stadium
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20240530T210000Z_Union_La_Calera_Alianza
 DTSTART;TZID=America/Montevideo:20240530T210000
 DTEND;TZID=America/Montevideo:20240530T230000
 SUMMARY:Unión La Calera🇨🇱 vs. Alianza🇨🇴
-DESCRIPTION:Group B - Matchday 6 - Sudamericana Cup
+DESCRIPTION:Group B - Matchday 6 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Municipal Alcaldesa Ester Roa Rebolledo Stadium
 END:VEVENT

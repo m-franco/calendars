@@ -6,7 +6,7 @@ UID:20260407T230000Z_AlianzaAtletico_Tigre
 DTSTART;TZID=America/Montevideo:20260407T230000
 DTEND;TZID=America/Montevideo:20260408T010000
 SUMMARY:Alianza Atlético🇵🇪 vs. Tigre🇦🇷
-DESCRIPTION:Group A - Matchday 1 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 1 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Miguel Grau del Callao Stadium
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260416T190000Z_Tigre_Macara
 DTSTART;TZID=America/Montevideo:20260416T190000
 DTEND;TZID=America/Montevideo:20260416T210000
 SUMMARY:Tigre🇦🇷 vs. Macará🇪🇨
-DESCRIPTION:Group A - Matchday 2 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 2 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Monumental de Victoria (José Dellagiovanna)
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260430T210000Z_Tigre_AmericaDeCali
 DTSTART;TZID=America/Montevideo:20260430T210000
 DTEND;TZID=America/Montevideo:20260430T230000
 SUMMARY:Tigre🇦🇷 vs. América de Cali🇨🇴
-DESCRIPTION:Group A - Matchday 3 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 3 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Monumental de Victoria (José Dellagiovanna)
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20260506T210000Z_Macara_Tigre
 DTSTART;TZID=America/Montevideo:20260506T210000
 DTEND;TZID=America/Montevideo:20260506T230000
 SUMMARY:Macará🇪🇨 vs. Tigre🇦🇷
-DESCRIPTION:Group A - Matchday 4 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 4 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Bellavista Stadium
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20260519T230000Z_AmericaDeCali_Tigre
 DTSTART;TZID=America/Montevideo:20260519T230000
 DTEND;TZID=America/Montevideo:20260520T010000
 SUMMARY:América de Cali🇨🇴 vs. Tigre🇦🇷
-DESCRIPTION:Group A - Matchday 5 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 5 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Pascual Guerrero
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20260528T213000Z_Tigre_AlianzaAtletico
 DTSTART;TZID=America/Montevideo:20260528T213000
 DTEND;TZID=America/Montevideo:20260528T233000
 SUMMARY:Tigre🇦🇷 vs. Alianza Atlético🇵🇪
-DESCRIPTION:Group A - Matchday 6 - Sudamericana Cup
+DESCRIPTION:Group A - Matchday 6 - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Monumental de Victoria (José Dellagiovanna)
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20260721T190000Z_Nacional_Tigre
 DTSTART;TZID=America/Montevideo:20260721T190000
 DTEND;TZID=America/Montevideo:20260721T210000
 SUMMARY:Nacional🇺🇾 vs. Tigre🇦🇷
-DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Gran Parque Central
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20260728T190000Z_Tigre_Nacional
 DTSTART;TZID=America/Montevideo:20260728T190000
 DTEND;TZID=America/Montevideo:20260728T210000
 SUMMARY:Tigre🇦🇷 vs. Nacional🇺🇾
-DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Monumental de Victoria (José Dellagiovanna)
 END:VEVENT

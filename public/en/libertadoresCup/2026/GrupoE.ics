@@ -6,7 +6,7 @@ UID:20260409T210000Z_Platense_Corinthians
 DTSTART;TZID=America/Montevideo:20260409T210000
 DTEND;TZID=America/Montevideo:20260409T230000
 SUMMARY:Platense🇦🇷 vs. Corinthians🇧🇷
-DESCRIPTION:Group E - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Ciudad de Vicente López
 END:VEVENT
@@ -16,7 +16,7 @@ UID:20260409T230000Z_SantaFe_Penarol
 DTSTART;TZID=America/Montevideo:20260409T230000
 DTEND;TZID=America/Montevideo:20260410T010000
 SUMMARY:Santa Fe🇨🇴 vs. Peñarol🇺🇾
-DESCRIPTION:Group E - Matchday 1 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 1 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nemesio Camacho El Campín Stadium
 END:VEVENT
@@ -26,7 +26,7 @@ UID:20260415T213000Z_Corinthians_SantaFe
 DTSTART;TZID=America/Montevideo:20260415T213000
 DTEND;TZID=America/Montevideo:20260415T233000
 SUMMARY:Corinthians🇧🇷 vs. Santa Fe🇨🇴
-DESCRIPTION:Group E - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Neo Química Arena
 END:VEVENT
@@ -36,7 +36,7 @@ UID:20260416T213000Z_Penarol_Platense
 DTSTART;TZID=America/Montevideo:20260416T213000
 DTEND;TZID=America/Montevideo:20260416T233000
 SUMMARY:Peñarol🇺🇾 vs. Platense🇦🇷
-DESCRIPTION:Group E - Matchday 2 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 2 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Campeón del Siglo Stadium
 END:VEVENT
@@ -46,7 +46,7 @@ UID:20260429T190000Z_Platense_SantaFe
 DTSTART;TZID=America/Montevideo:20260429T190000
 DTEND;TZID=America/Montevideo:20260429T210000
 SUMMARY:Platense🇦🇷 vs. Santa Fe🇨🇴
-DESCRIPTION:Group E - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Ciudad de Vicente López
 END:VEVENT
@@ -56,7 +56,7 @@ UID:20260430T210000Z_Corinthians_Penarol
 DTSTART;TZID=America/Montevideo:20260430T210000
 DTEND;TZID=America/Montevideo:20260430T230000
 SUMMARY:Corinthians🇧🇷 vs. Peñarol🇺🇾
-DESCRIPTION:Group E - Matchday 3 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 3 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Neo Química Arena
 END:VEVENT
@@ -66,7 +66,7 @@ UID:20260506T213000Z_SantaFe_Corinthians
 DTSTART;TZID=America/Montevideo:20260506T213000
 DTEND;TZID=America/Montevideo:20260506T233000
 SUMMARY:Santa Fe🇨🇴 vs. Corinthians🇧🇷
-DESCRIPTION:Group E - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nemesio Camacho El Campín Stadium
 END:VEVENT
@@ -76,7 +76,7 @@ UID:20260507T190000Z_Platense_Penarol
 DTSTART;TZID=America/Montevideo:20260507T190000
 DTEND;TZID=America/Montevideo:20260507T210000
 SUMMARY:Platense🇦🇷 vs. Peñarol🇺🇾
-DESCRIPTION:Group E - Matchday 4 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 4 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Ciudad de Vicente López
 END:VEVENT
@@ -86,7 +86,7 @@ UID:20260519T210000Z_SantaFe_Platense
 DTSTART;TZID=America/Montevideo:20260519T210000
 DTEND;TZID=America/Montevideo:20260519T230000
 SUMMARY:Santa Fe🇨🇴 vs. Platense🇦🇷
-DESCRIPTION:Group E - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nemesio Camacho El Campín Stadium
 END:VEVENT
@@ -96,7 +96,7 @@ UID:20260521T213000Z_Penarol_Corinthians
 DTSTART;TZID=America/Montevideo:20260521T213000
 DTEND;TZID=America/Montevideo:20260521T233000
 SUMMARY:Peñarol🇺🇾 vs. Corinthians🇧🇷
-DESCRIPTION:Group E - Matchday 5 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 5 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Campeón del Siglo Stadium
 END:VEVENT
@@ -106,7 +106,7 @@ UID:20260527T213000Z_Corinthians_Platense
 DTSTART;TZID=America/Montevideo:20260527T213000
 DTEND;TZID=America/Montevideo:20260527T233000
 SUMMARY:Corinthians🇧🇷 vs. Platense🇦🇷
-DESCRIPTION:Group E - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Neo Química Arena
 END:VEVENT
@@ -116,7 +116,7 @@ UID:20260527T213000Z_Penarol_SantaFe
 DTSTART;TZID=America/Montevideo:20260527T213000
 DTEND;TZID=America/Montevideo:20260527T233000
 SUMMARY:Peñarol🇺🇾 vs. Santa Fe🇨🇴
-DESCRIPTION:Group E - Matchday 6 - Libertadores Cup
+DESCRIPTION:Group E - Matchday 6 - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Campeón del Siglo Stadium
 END:VEVENT
@@ -126,7 +126,7 @@ UID:20260723T213000Z_SantaFe_Caracas
 DTSTART;TZID=America/Montevideo:20260723T213000
 DTEND;TZID=America/Montevideo:20260723T233000
 SUMMARY:Santa Fe🇨🇴 vs. Caracas🇻🇪
-DESCRIPTION:Play-offs - First leg - Sudamericana Cup
+DESCRIPTION:Play-offs - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Nemesio Camacho El Campín Stadium
 END:VEVENT
@@ -136,7 +136,7 @@ UID:20260730T213000Z_Caracas_SantaFe
 DTSTART;TZID=America/Montevideo:20260730T213000
 DTEND;TZID=America/Montevideo:20260730T233000
 SUMMARY:Caracas🇻🇪 vs. Santa Fe🇨🇴
-DESCRIPTION:Play-offs - Second leg - Sudamericana Cup
+DESCRIPTION:Play-offs - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Olímpico de la UCV Stadium
 END:VEVENT
@@ -146,7 +146,7 @@ UID:20260812T190000Z_Platense_CoquimboUnido
 DTSTART;TZID=America/Montevideo:20260812T190000
 DTEND;TZID=America/Montevideo:20260812T210000
 SUMMARY:Platense🇦🇷 vs. Coquimbo Unido🇨🇱
-DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Ciudad de Vicente López
 END:VEVENT
@@ -156,7 +156,7 @@ UID:20260813T213000Z_RosarioCentral_Corinthians
 DTSTART;TZID=America/Montevideo:20260813T213000
 DTEND;TZID=America/Montevideo:20260813T233000
 SUMMARY:Rosario Central🇦🇷 vs. Corinthians🇧🇷
-DESCRIPTION:Round of 16 - First leg - Libertadores Cup
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Gigante de Arroyito
 END:VEVENT
@@ -166,7 +166,7 @@ UID:20260819T190000Z_CoquimboUnido_Platense
 DTSTART;TZID=America/Montevideo:20260819T190000
 DTEND;TZID=America/Montevideo:20260819T210000
 SUMMARY:Coquimbo Unido🇨🇱 vs. Platense🇦🇷
-DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:a definir Stadium
 END:VEVENT
@@ -176,7 +176,7 @@ UID:20260820T213000Z_Corinthians_RosarioCentral
 DTSTART;TZID=America/Montevideo:20260820T213000
 DTEND;TZID=America/Montevideo:20260820T233000
 SUMMARY:Corinthians🇧🇷 vs. Rosario Central🇦🇷
-DESCRIPTION:Round of 16 - Second leg - Libertadores Cup
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Neo Química Arena
 END:VEVENT
