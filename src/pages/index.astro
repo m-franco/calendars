@@ -1,23 +1,50 @@
 ---
-// La raíz redirige al idioma por defecto (/es/). Cada idioma vive bajo su
-// segmento: /es, /en, /pt.
-import { urlFor } from "../i18n/ui";
+// La raíz redirige al idioma por defecto (/es/). Incluye metatags para que al
+// compartir el dominio pelado (myfixtu.re) se vea una buena vista previa.
+import { urlFor, t } from "../i18n/ui";
 
 const target = urlFor("es");
+const site = Astro.site ?? new URL("https://myfixtu.re");
+const canonical = new URL(target, site).href;
+const d = t("es");
+const image = new URL("img/icons/mundial/mundial.png", site).href;
 ---
 
 <!doctype html>
 <html lang="es">
     <head>
         <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width" />
         <meta http-equiv="refresh" content={`0; url=${target}`} />
-        <link rel="canonical" href={target} />
-        <title>Calendarios Deportivos</title>
+        <title>{d.homeTitle}</title>
+        <meta name="description" content={d.homeMetaDescription} />
+        <link rel="canonical" href={canonical} />
+        <link rel="icon" type="image/svg+xml" href="/calendar.svg" />
+
+        <!-- Open Graph -->
+        <meta property="og:type" content="website" />
+        <meta property="og:site_name" content="myFixtu.re" />
+        <meta property="og:locale" content="es_ES" />
+        <meta property="og:locale:alternate" content="en_US" />
+        <meta property="og:locale:alternate" content="pt_BR" />
+        <meta property="og:url" content={canonical} />
+        <meta property="og:title" content={d.homeTitle} />
+        <meta property="og:description" content={d.homeMetaDescription} />
+        <meta property="og:image" content={image} />
+        <meta property="og:image:secure_url" content={image} />
+        <meta property="og:image:alt" content={d.homeTitle} />
+
+        <!-- Twitter -->
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={d.homeTitle} />
+        <meta name="twitter:description" content={d.homeMetaDescription} />
+        <meta name="twitter:image" content={image} />
+
         <script is:inline define:vars={{ target }}>
             window.location.replace(target);
         </script>
     </head>
     <body>
-        <a href={target}>Calendarios Deportivos</a>
+        <a href={target}>{d.homeTitle}</a>
     </body>
 </html>

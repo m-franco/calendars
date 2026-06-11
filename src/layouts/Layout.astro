@@ -1,5 +1,5 @@
 ---
-import { LANGS, LANG_NAMES, LANG_FLAGS, urlFor, supportUrl, supportCopy, type Lang } from "../i18n/ui";
+import { LANGS, LANG_NAMES, LANG_FLAGS, urlFor, supportUrl, supportCopy, t, tournamentTitle, localizedTournamentSlug, type Lang } from "../i18n/ui";
 
 interface Props {
 	title: string;
@@ -35,6 +35,15 @@ const socialImage = /^https?:\/\//.test(imagePath)
 
 const ogLocale: Record<Lang, string> = { es: "es_ES", en: "en_US", pt: "pt_BR" };
 const localeAlternates = (Object.keys(ogLocale) as Lang[]).filter((l) => l !== lang);
+
+// Footer
+const footerTournaments = ["libertadores", "sudamericana", "mundial"];
+const footerTagline: Record<Lang, string> = {
+    es: "Suscribite a los calendarios de tus copas favoritas.",
+    en: "Subscribe to the calendars of your favorite cups.",
+    pt: "Inscreva-se nos calendários das suas copas favoritas.",
+};
+const homeLabel: Record<Lang, string> = { es: "Inicio", en: "Home", pt: "Início" };
 ---
 
 <!doctype html>
@@ -53,7 +62,7 @@ const localeAlternates = (Object.keys(ogLocale) as Lang[]).filter((l) => l !== l
 
         <!-- Open Graph (WhatsApp, Facebook, etc.) -->
         <meta property="og:type" content="website">
-        <meta property="og:site_name" content="Calendarios Deportivos">
+        <meta property="og:site_name" content="myFixtu.re">
         <meta property="og:locale" content={ogLocale[lang]}>
         {localeAlternates.map((l) => (
             <meta property="og:locale:alternate" content={ogLocale[l]}>
@@ -86,7 +95,9 @@ const localeAlternates = (Object.keys(ogLocale) as Lang[]).filter((l) => l !== l
         <div class="fixed inset-0 -z-10 h-full w-full items-center px-5 py-24
         [background:radial-gradient(125%_125%_at_50%_10%,#000_40%,#63e_100%)]">
         </div>
-        <details class="lang-switcher" id="lang-switcher">
+        <header class="site-header">
+            <a class="site-logo" href={urlFor(lang)}>myFixtu.re</a>
+            <details class="lang-switcher" id="lang-switcher">
             <summary aria-label="Idioma / Language">
                 <span class="lang-flag">{LANG_FLAGS[lang]}</span>
                 <span class="lang-name">{LANG_NAMES[lang]}</span>
@@ -103,7 +114,8 @@ const localeAlternates = (Object.keys(ogLocale) as Lang[]).filter((l) => l !== l
                     </li>
                 ))}
             </ul>
-        </details>
+            </details>
+        </header>
         <script is:inline>
             (function () {
                 const d = document.getElementById("lang-switcher");
@@ -118,7 +130,26 @@ const localeAlternates = (Object.keys(ogLocale) as Lang[]).filter((l) => l !== l
         </script>
         <slot />
         <footer class="site-footer">
-            <a href={supportUrl(lang)}>♥ {supportCopy[lang].nav}</a>
+            <div class="footer-inner">
+                <div class="footer-brand">{t(lang).homeTitle}</div>
+                <p class="footer-tagline">{footerTagline[lang]}</p>
+                <nav class="footer-nav">
+                    {footerTournaments.map((href, i) => (
+                        <>
+                            {i > 0 && <span aria-hidden="true">·</span>}
+                            <a href={urlFor(lang, [localizedTournamentSlug(href, lang)])}>
+                                {tournamentTitle(href, lang)}
+                            </a>
+                        </>
+                    ))}
+                </nav>
+                <nav class="footer-nav footer-nav-secondary">
+                    <a href={urlFor(lang)}>{homeLabel[lang]}</a>
+                    <span aria-hidden="true">·</span>
+                    <a href={supportUrl(lang)}>♥ {supportCopy[lang].nav}</a>
+                </nav>
+                <div class="footer-copy">© {new Date().getFullYear()} myfixtu.re</div>
+            </div>
         </footer>
 	</body>
 </html>
@@ -139,18 +170,33 @@ const localeAlternates = (Object.keys(ogLocale) as Lang[]).filter((l) => l !== l
 		background: #13151a;
 		background-size: 224px;
 	}
-	.lang-switcher {
-		position: fixed;
-		top: 0.75rem;
-		right: 0.75rem;
-		z-index: 50;
+	.site-header {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		gap: 1rem;
+		max-width: 960px;
+		margin: 0 auto;
+		padding: 1rem 1.25rem;
 	}
-	/* En mobile el título arranca arriba de todo; reservamos espacio para que
-	   el selector (fijo) no se superponga. */
-	@media (max-width: 640px) {
-		body {
-			padding-top: 4rem;
-		}
+	.site-logo {
+		font-weight: 800;
+		font-size: 1.5rem;
+		letter-spacing: -0.01em;
+		text-decoration: none;
+		background-image: var(--accent-gradient);
+		background-size: 200%;
+		-webkit-background-clip: text;
+		background-clip: text;
+		-webkit-text-fill-color: transparent;
+		color: transparent;
+		transition: background-position 0.4s ease;
+	}
+	.site-logo:hover { background-position: 100%; }
+	.lang-switcher {
+		position: relative;
+		z-index: 50;
+		flex-shrink: 0;
 	}
 	.lang-switcher > summary {
 		display: flex;
@@ -209,21 +255,50 @@ const localeAlternates = (Object.keys(ogLocale) as Lang[]).filter((l) => l !== l
 	.lang-menu a.current { font-weight: 600; }
 	.lang-check { margin-left: auto; color: rgb(var(--accent-light)); }
 	.site-footer {
-		margin-top: 3rem;
-		padding: 2rem 1rem;
+		margin-top: 4rem;
+		background: rgba(4, 20, 38, 0.6);
+		border-top: 1px solid rgba(var(--accent-light), 15%);
+		backdrop-filter: blur(4px);
+	}
+	.footer-inner {
+		max-width: 800px;
+		margin: 0 auto;
+		padding: 2.5rem 1rem;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		gap: 0.7rem;
 		text-align: center;
 	}
-	.site-footer a {
+	.footer-brand {
+		color: #fff;
+		font-weight: 700;
+		font-size: 1rem;
+	}
+	.footer-tagline {
+		color: rgba(255, 255, 255, 0.55);
+		font-size: 0.9rem;
+		margin: 0 0 0.3rem;
+		max-width: 32rem;
+	}
+	.footer-nav {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		align-items: center;
+		gap: 0.5rem 0.7rem;
+		font-size: 0.9rem;
+		color: rgba(255, 255, 255, 0.45);
+	}
+	.footer-nav-secondary { font-size: 0.85rem; opacity: 0.9; }
+	.footer-nav a {
 		color: rgba(var(--accent-light), 90%);
 		text-decoration: none;
-		font-size: 0.95rem;
-		border: 1px solid rgba(var(--accent-light), 30%);
-		border-radius: 9999px;
-		padding: 0.5rem 1.3rem;
-		transition: background-color 0.2s ease;
 	}
-	.site-footer a:hover {
-		background-color: rgba(var(--accent-light), 12%);
+	.footer-nav a:hover { text-decoration: underline; }
+	.footer-copy {
+		color: rgba(255, 255, 255, 0.4);
+		font-size: 0.8rem;
 	}
 	code {
 		font-family:

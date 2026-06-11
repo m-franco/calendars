@@ -64,7 +64,7 @@ type Dict = {
 
 export const strings: Record<Lang, Dict> = {
   es: {
-    homeTitle: "Calendarios Deportivos",
+    homeTitle: "myFixtu.re",
     homeMetaDescription:
       "Suscribite al calendario de tu equipo y tendrás todos los partidos incluidos en el calendario de tu teléfono o tu computadora.",
     homeHeadingA: "Calendarios",
@@ -84,7 +84,7 @@ export const strings: Record<Lang, Dict> = {
     sectionByCountry: "Calendarios de todos los equipos de un país",
   },
   en: {
-    homeTitle: "Sports Calendars",
+    homeTitle: "myFixtu.re",
     homeMetaDescription:
       "Subscribe to your team's calendar and you'll have all the matches included in your phone or computer calendar.",
     homeHeadingA: "Sports",
@@ -104,7 +104,7 @@ export const strings: Record<Lang, Dict> = {
     sectionByCountry: "Calendars of all the teams from a country",
   },
   pt: {
-    homeTitle: "Calendários Esportivos",
+    homeTitle: "myFixtu.re",
     homeMetaDescription:
       "Inscreva-se no calendário do seu time e você terá todas as partidas incluídas no calendário do seu telefone ou computador.",
     homeHeadingA: "Calendários",
