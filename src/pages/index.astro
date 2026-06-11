@@ -8,7 +8,7 @@ const site = Astro.site ?? new URL("https://myfixtu.re");
 const canonical = new URL(target, site).href;
 const d = t("es");
 const desc = subscribeCupText("mundial", "es");
-const image = new URL("img/icons/mundial/mundial.png", site).href;
+const image = new URL("img/mundial2026.png", site).href;
 ---
 
 <!doctype html>
@@ -33,6 +33,8 @@ const image = new URL("img/icons/mundial/mundial.png", site).href;
         <meta property="og:description" content={desc} />
         <meta property="og:image" content={image} />
         <meta property="og:image:secure_url" content={image} />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
         <meta property="og:image:alt" content={d.homeTitle} />
 
         <!-- Twitter -->
