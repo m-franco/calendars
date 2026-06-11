@@ -5,7 +5,7 @@ import Countries from "../Countries.astro";
 import AllTournament from "../AllTournament.astro";
 import PreviousEditions from "../PreviousEditions.astro";
 import { data } from "../../i18n/paths";
-import { t, tournamentTitle, tournamentCaptionSubject, type Lang } from "../../i18n/ui";
+import { t, tournamentTitle, tournamentCaptionSubject, subscribeCupText, type Lang } from "../../i18n/ui";
 
 interface Props {
     lang: Lang;
@@ -40,7 +40,7 @@ const teamHrefBase = isCurrent ? (isWorldCup ? "seleccion" : undefined) : href;
 const basePath = `${import.meta.env.BASE_URL.replace(/\/$/, "")}/`;
 const heading = `${tournamentTitle(href, lang)}${year ? ` ${year}` : ""}`;
 const allTournamentTitle = d.calendarOf(tournamentCaptionSubject(href, lang, year));
-const description = `${year ? d.yearArchivePrefix(year) : ""}${d.tournamentInstructions}`;
+const description = `${year ? d.yearArchivePrefix(year) : ""}${subscribeCupText(href, lang)}`;
 const pageTitle = heading;
 const image = `${basePath}${imgSrc}`;
 

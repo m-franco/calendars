@@ -1,7 +1,7 @@
 ---
 import Layout from "../../layouts/Layout.astro";
 import Tournaments from "../Tournaments.astro";
-import { t, type Lang } from "../../i18n/ui";
+import { t, subscribeCupText, type Lang } from "../../i18n/ui";
 
 interface Props {
     lang: Lang;
@@ -10,11 +10,13 @@ interface Props {
 
 const { lang, alternates } = Astro.props;
 const d = t(lang);
+// Por ahora el inicio usa el texto del Mundial.
+const intro = subscribeCupText("mundial", lang);
 ---
 
 <Layout
     title={d.homeTitle}
-    description={d.homeMetaDescription}
+    description={intro}
     image="img/icons/mundial/mundial.png"
     lang={lang}
     alternates={alternates}
@@ -25,7 +27,7 @@ const d = t(lang);
         </h1>
 
         <p class="instructions flex justify-center text-sm sm:text-base md:text-lg lg:text-xl">
-            {d.homeInstructions}
+            {intro}
         </p>
         <Tournaments lang={lang} />
     </main>

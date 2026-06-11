@@ -132,7 +132,7 @@ export function t(lang: Lang): Dict {
 // ---------------------------------------------------------------------------
 // Apoyo económico
 // ---------------------------------------------------------------------------
-export const PAYPAL_URL = "https://paypal.me/matiasfranco86";
+export const PAYPAL_URL = "https://paypal.me/mftams";
 
 export const supportSlug: Record<Lang, string> = {
   es: "apoyar",
@@ -181,6 +181,30 @@ export function tournamentTitle(href: string, lang: Lang): string {
     return { es: "Copa Sudamericana", en: "Sudamericana Cup", pt: "Copa Sul-Americana" }[lang];
   // mundial
   return { es: "Copa del Mundo", en: "World Cup", pt: "Copa do Mundo" }[lang];
+}
+
+// Texto de suscripción de una copa (orden: primero la copa entera, luego las
+// variantes), pensado para que lo más importante quede antes del recorte en
+// los metatags. Mundial agrupa por confederación; clubes por país.
+export function subscribeCupText(tournament: string, lang: Lang): string {
+  const isWC = tournament === "mundial";
+  const wholeMap: Record<Lang, Record<string, string>> = {
+    es: { mundial: "del Mundial", libertadores: "de la Copa Libertadores", sudamericana: "de la Copa Sudamericana" },
+    en: { mundial: "World Cup", libertadores: "Libertadores Cup", sudamericana: "Sudamericana Cup" },
+    pt: { mundial: "da Copa do Mundo", libertadores: "da Copa Libertadores", sudamericana: "da Copa Sul-Americana" },
+  };
+  const whole = wholeMap[lang][tournament] ?? tournamentTitle(tournament, lang);
+
+  if (lang === "es") {
+    const grouping = isWC ? "todos los equipos de una confederación" : "todos los equipos de tu país";
+    return `Suscribite al calendario ${whole} y tendrás todos los partidos incluidos en el calendario de tu teléfono o tu computadora. También podés suscribirte sólo al calendario de tu equipo, de todo el grupo o de ${grouping}.`;
+  }
+  if (lang === "pt") {
+    const grouping = isWC ? "todos os times de uma confederação" : "todos os times do seu país";
+    return `Inscreva-se no calendário ${whole} e você terá todas as partidas incluídas no calendário do seu telefone ou computador. Você também pode se inscrever apenas no calendário do seu time, de todo o grupo ou de ${grouping}.`;
+  }
+  const grouping = isWC ? "a confederation" : "your country";
+  return `Subscribe to the ${whole} calendar and you'll have all the matches included in your phone or computer calendar. You can also subscribe to just your team's calendar, your whole group's, or all the teams from ${grouping}.`;
 }
 
 // Slug del torneo (camelCase del nombre localizado). Se usa igual en las rutas

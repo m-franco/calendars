@@ -1,12 +1,13 @@
 ---
 // La raíz redirige al idioma por defecto (/es/). Incluye metatags para que al
 // compartir el dominio pelado (myfixtu.re) se vea una buena vista previa.
-import { urlFor, t } from "../i18n/ui";
+import { urlFor, t, subscribeCupText } from "../i18n/ui";
 
 const target = urlFor("es");
 const site = Astro.site ?? new URL("https://myfixtu.re");
 const canonical = new URL(target, site).href;
 const d = t("es");
+const desc = subscribeCupText("mundial", "es");
 const image = new URL("img/icons/mundial/mundial.png", site).href;
 ---
 
@@ -17,7 +18,7 @@ const image = new URL("img/icons/mundial/mundial.png", site).href;
         <meta name="viewport" content="width=device-width" />
         <meta http-equiv="refresh" content={`0; url=${target}`} />
         <title>{d.homeTitle}</title>
-        <meta name="description" content={d.homeMetaDescription} />
+        <meta name="description" content={desc} />
         <link rel="canonical" href={canonical} />
         <link rel="icon" type="image/svg+xml" href="/calendar.svg" />
 
@@ -29,7 +30,7 @@ const image = new URL("img/icons/mundial/mundial.png", site).href;
         <meta property="og:locale:alternate" content="pt_BR" />
         <meta property="og:url" content={canonical} />
         <meta property="og:title" content={d.homeTitle} />
-        <meta property="og:description" content={d.homeMetaDescription} />
+        <meta property="og:description" content={desc} />
         <meta property="og:image" content={image} />
         <meta property="og:image:secure_url" content={image} />
         <meta property="og:image:alt" content={d.homeTitle} />
@@ -37,7 +38,7 @@ const image = new URL("img/icons/mundial/mundial.png", site).href;
         <!-- Twitter -->
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={d.homeTitle} />
-        <meta name="twitter:description" content={d.homeMetaDescription} />
+        <meta name="twitter:description" content={desc} />
         <meta name="twitter:image" content={image} />
 
         <script is:inline define:vars={{ target }}>
