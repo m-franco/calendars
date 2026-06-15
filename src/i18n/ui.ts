@@ -77,11 +77,11 @@ export const strings: Record<Lang, Dict> = {
     es: {
         homeTitle: "myFixtu.re",
         homeMetaDescription:
-            "Sincroniza tu calendario con los partidos del Mundial y tené el fixture siempre a mano en tu teléfono o computadora.",
+            "Sincroniza tu calendario con los partidos del Mundial y tendrás el fixture siempre a mano en tu teléfono o computadora.",
         homeHeadingA: "Calendarios",
         homeHeadingB: "deportivos",
         homeInstructions:
-            "Sincroniza tu calendario con los partidos del Mundial y tené el fixture siempre a mano en tu teléfono o computadora.",
+            "Sincroniza tu calendario con los partidos del Mundial y tendrás el fixture siempre a mano en tu teléfono o computadora.",
         tournamentInstructions:
             "Sincroniza tu calendario con los partidos de tu equipo, de todo el grupo o de toda la copa.",
         yearArchivePrefix: (year) => `Archivo ${year}: `,
@@ -160,7 +160,7 @@ export const supportCopy: Record<
     es: {
         nav: "Apoyar",
         title: "Apoyar el proyecto",
-        intro: "Si querés ayudar a que este proyecto siga creciendo, podés hacer un aporte. ¡Gracias!",
+        intro: "Si quieres ayudar a que este proyecto siga creciendo, puedes hacer un aporte. ¡Gracias!",
         button: "Apoyar a través de PayPal",
     },
     en: {
@@ -179,6 +179,22 @@ export const supportCopy: Record<
 
 export function supportUrl(lang: Lang): string {
     return urlFor(lang, [supportSlug[lang]]);
+}
+
+// Páginas informativas (privacidad, ayuda) — slug + label de footer por idioma.
+export const extraPages = {
+  faq: {
+    slug: { es: "faq", en: "faq", pt: "faq" } as Record<Lang, string>,
+    nav: { es: "FAQ", en: "FAQ", pt: "FAQ" } as Record<Lang, string>,
+  },
+  privacy: {
+    slug: { es: "privacidad", en: "privacy", pt: "privacidade" } as Record<Lang, string>,
+    nav: { es: "Privacidad", en: "Privacy", pt: "Privacidade" } as Record<Lang, string>,
+  },
+};
+
+export function extraPageUrl(key: keyof typeof extraPages, lang: Lang): string {
+  return urlFor(lang, [extraPages[key].slug[lang]]);
 }
 
 // ---------------------------------------------------------------------------
@@ -227,7 +243,7 @@ export function subscribeCupText(tournament: string, lang: Lang): string {
             ? "todos los equipos de una confederación"
             : "todos los equipos de tu país";
         const favorite = isWC ? "tu selección" : "tu equipo";
-        return `Sincroniza tu calendario con los partidos ${whole} y tené el fixture siempre a mano en tu teléfono o computadora. También podés sincronizar solo el calendario de ${favorite}, de todo el grupo o de ${grouping}.`;
+        return `Sincroniza tu calendario con los partidos ${whole} y tendrás el fixture siempre a mano en tu teléfono o computadora. También puedes sincronizar solo el calendario de ${favorite}, de todo el grupo o de ${grouping}.`;
     }
     if (lang === "pt") {
         const grouping = isWC

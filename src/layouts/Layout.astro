@@ -9,6 +9,8 @@ import {
     t,
     tournamentTitle,
     localizedTournamentSlug,
+    extraPages,
+    extraPageUrl,
     type Lang,
 } from "../i18n/ui";
 
@@ -244,6 +246,10 @@ const footerTagline: Record<Lang, string> = {
                     }
                 </nav>
                 <nav class="footer-nav footer-nav-secondary">
+                    <a href={extraPageUrl("faq", lang)}>{extraPages.faq.nav[lang]}</a>
+                    <span aria-hidden="true">·</span>
+                    <a href={extraPageUrl("privacy", lang)}>{extraPages.privacy.nav[lang]}</a>
+                    <span aria-hidden="true">·</span>
                     <a href={supportUrl(lang)}>♥ {supportCopy[lang].nav}</a>
                 </nav>
                 <div class="footer-copy">

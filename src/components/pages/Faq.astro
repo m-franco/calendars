@@ -1,0 +1,116 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import { extraPages, alternatesFor, urlFor, type Lang } from "../../i18n/ui";
+
+interface Props {
+    lang: Lang;
+}
+const { lang } = Astro.props;
+const alternates = alternatesFor((l) => urlFor(l, [extraPages.faq.slug[l]]));
+
+type Faq = { q: string; a: string; steps?: { h: string; p: string }[] };
+const copy: Record<Lang, { title: string; intro: string; faqs: Faq[] }> = {
+    es: {
+        title: "FAQ",
+        intro: "Preguntas frecuentes sobre myFixtu.re.",
+        faqs: [
+            {
+                q: "¿Cómo sincronizo un calendario?",
+                a: "Elige el calendario que quieras y toca el botón de tu app de calendario:",
+                steps: [
+                    { h: "iPhone, iPad o Mac (Apple)", p: "Toca el botón «Apple iCal». Tu calendario te preguntará si quieres suscribirte; confirma. Los partidos aparecen y se actualizan automáticamente." },
+                    { h: "Google Calendar", p: "Toca el botón «Google Calendar» (te lleva a Google) y confirma «Agregar». Lo verás en «Otros calendarios»." },
+                    { h: "Outlook", p: "Toca el botón de «Outlook» y confirma la suscripción al calendario." },
+                ],
+            },
+            { q: "¿Los partidos se actualizan solos?", a: "Los calendarios se actualizan solos cada cierto tiempo (esto se configura en los detalles de la suscripción al archivo del calendario), así que si se agregan nuevos partidos, cambian horarios o sedes, se reflejan sin que hagas nada." },
+            { q: "¿Es gratis?", a: "Sí, sincronizar los calendarios es totalmente gratis." },
+            { q: "¿Puedo sincronizar sólo los partidos de mi equipo?", a: "Sí. Puedes elegir un equipo puntual, los equipos de un grupo, los equipos de un país, los países de una confederación o toda una copa." },
+        ],
+    },
+    en: {
+        title: "FAQ",
+        intro: "Frequently asked questions about myFixtu.re.",
+        faqs: [
+            {
+                q: "How do I sync a calendar?",
+                a: "Pick the calendar you want and tap your calendar app's button:",
+                steps: [
+                    { h: "iPhone, iPad or Mac (Apple)", p: "Tap the “Apple iCal” button. Your calendar will ask if you want to subscribe; confirm. The matches appear and update automatically." },
+                    { h: "Google Calendar", p: "Tap the “Google Calendar” button (it takes you to Google) and confirm “Add”. You'll find it under “Other calendars”." },
+                    { h: "Outlook", p: "Tap the “Outlook” button and confirm the calendar subscription." },
+                ],
+            },
+            { q: "Do the matches update automatically?", a: "Calendars refresh on their own every so often (this is set in the calendar subscription's settings), so if new matches are added or times or venues change, they update without you doing anything." },
+            { q: "Is it free?", a: "Yes, syncing the calendars is completely free." },
+            { q: "Can I sync just my team's matches?", a: "Yes. You can pick a single team, the teams of a group, the teams of a country, the countries of a confederation, or a whole cup." },
+        ],
+    },
+    pt: {
+        title: "FAQ",
+        intro: "Perguntas frequentes sobre o myFixtu.re.",
+        faqs: [
+            {
+                q: "Como sincronizo um calendário?",
+                a: "Escolha o calendário que quiser e toque no botão do seu app de calendário:",
+                steps: [
+                    { h: "iPhone, iPad ou Mac (Apple)", p: "Toque no botão “Apple iCal”. Seu calendário vai perguntar se você quer assinar; confirme. Os jogos aparecem e se atualizam automaticamente." },
+                    { h: "Google Calendar", p: "Toque no botão “Google Calendar” (ele leva você ao Google) e confirme “Adicionar”. Vai aparecer em “Outros calendários”." },
+                    { h: "Outlook", p: "Toque no botão “Outlook” e confirme a assinatura do calendário." },
+                ],
+            },
+            { q: "Os jogos se atualizam sozinhos?", a: "Os calendários se atualizam sozinhos de tempos em tempos (isso é configurado nos detalhes da assinatura do calendário), então se forem adicionados novos jogos ou mudarem horários ou sedes, isso se reflete sem você fazer nada." },
+            { q: "É grátis?", a: "Sim, sincronizar os calendários é totalmente grátis." },
+            { q: "Posso sincronizar só os jogos do meu time?", a: "Sim. Você pode escolher um time específico, os times de um grupo, os times de um país, os países de uma confederação ou uma copa inteira." },
+        ],
+    },
+};
+const c = copy[lang];
+---
+
+<Layout title={c.title} description={c.intro} image="img/og-mundial.jpg" lang={lang} alternates={alternates}>
+    <main>
+        <h1 class="text-3xl sm:text-4xl md:text-5xl text-center font-bold mb-2">
+            <span class="text-gradient">{c.title}</span>
+        </h1>
+        <p class="subtitle">{c.intro}</p>
+
+        <div class="faq-list">
+            {c.faqs.map((f) => (
+                <section class="faq-item">
+                    <h2>{f.q}</h2>
+                    <p>{f.a}</p>
+                    {f.steps && (
+                        <ul>
+                            {f.steps.map((s) => (
+                                <li><strong>{s.h}:</strong> {s.p}</li>
+                            ))}
+                        </ul>
+                    )}
+                </section>
+            ))}
+        </div>
+    </main>
+</Layout>
+
+<style>
+    main { margin: auto; padding: 1rem; width: 800px; max-width: calc(100% - 2rem); color: white; }
+    .text-gradient {
+        background-image: var(--accent-gradient);
+        -webkit-background-clip: text; background-clip: text;
+        -webkit-text-fill-color: transparent; color: transparent;
+        background-size: 400%;
+    }
+    .subtitle { text-align: center; color: rgba(255,255,255,0.6); margin-bottom: 2rem; }
+    .faq-list { display: flex; flex-direction: column; gap: 1rem; }
+    .faq-item {
+        border: 1px solid rgba(var(--accent-light), 25%);
+        background: linear-gradient(rgba(var(--accent-dark), 50%), rgba(var(--accent-dark), 25%));
+        padding: 1.25rem 1.5rem; border-radius: 12px; line-height: 1.6;
+    }
+    .faq-item h2 { font-size: 1.2rem; font-weight: 700; margin-bottom: 0.5rem; color: rgb(var(--accent-light)); }
+    .faq-item p { color: rgba(255,255,255,0.85); }
+    .faq-item ul { margin: 0.75rem 0 0; padding-left: 1.1rem; display: flex; flex-direction: column; gap: 0.5rem; }
+    .faq-item li { color: rgba(255,255,255,0.85); }
+    .faq-item strong { color: #fff; }
+</style>

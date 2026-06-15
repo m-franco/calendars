@@ -1,0 +1,84 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import { extraPages, alternatesFor, urlFor, type Lang } from "../../i18n/ui";
+
+interface Props {
+    lang: Lang;
+}
+const { lang } = Astro.props;
+const alternates = alternatesFor((l) => urlFor(l, [extraPages.privacy.slug[l]]));
+
+const copy: Record<Lang, { title: string; intro: string; items: { h: string; p: string }[]; updated: string }> = {
+    es: {
+        title: "Política de privacidad",
+        intro: "myFixtu.re ofrece calendarios deportivos para sincronizar con tu teléfono o computadora. No necesitas registrarte ni darnos datos personales para usar el sitio.",
+        items: [
+            { h: "Calendarios", p: "Los archivos de calendario (.ics) son públicos; al sincronizarlos, tu app de calendario los descarga y actualiza periódicamente. No registramos quién se suscribe." },
+            { h: "Cookies", p: "Las cookies utilizadas son de terceros (Google, para analítica y anuncios). Podés bloquearlas o borrarlas desde la configuración de tu navegador." },
+            { h: "Analítica", p: "Usamos Google Analytics para entender de forma anónima y agregada cómo se usa el sitio (páginas vistas, país, tipo de dispositivo). No identificamos personas." },
+            { h: "Publicidad", p: "Mostramos anuncios de Google AdSense. Google y sus socios pueden usar cookies para mostrar anuncios en base a tus visitas a este y otros sitios. Podés gestionar tus preferencias en google.com/settings/ads." },
+        ],
+        updated: "Última actualización",
+    },
+    en: {
+        title: "Privacy Policy",
+        intro: "myFixtu.re offers sports calendars to sync with your phone or computer. You don't need to sign up or give us any personal data to use the site.",
+        items: [
+            { h: "Calendars", p: "Calendar files (.ics) are public; when you sync them, your calendar app downloads and refreshes them periodically. We don't record who subscribes." },
+            { h: "Cookies", p: "The cookies used are third-party (Google, for analytics and ads). You can block or delete them from your browser settings." },
+            { h: "Analytics", p: "We use Google Analytics to understand, anonymously and in aggregate, how the site is used (page views, country, device type). We don't identify individuals." },
+            { h: "Advertising", p: "We show Google AdSense ads. Google and its partners may use cookies to serve ads based on your visits to this and other sites. You can manage your preferences at google.com/settings/ads." },
+        ],
+        updated: "Last updated",
+    },
+    pt: {
+        title: "Política de Privacidade",
+        intro: "O myFixtu.re oferece calendários esportivos para sincronizar com seu celular ou computador. Você não precisa se cadastrar nem nos dar dados pessoais para usar o site.",
+        items: [
+            { h: "Calendários", p: "Os arquivos de calendário (.ics) são públicos; ao sincronizá-los, seu app de calendário os baixa e atualiza periodicamente. Não registramos quem se inscreve." },
+            { h: "Cookies", p: "Os cookies utilizados são de terceiros (Google, para análise e anúncios). Você pode bloqueá-los ou apagá-los nas configurações do seu navegador." },
+            { h: "Análise", p: "Usamos o Google Analytics para entender de forma anônima e agregada como o site é usado (páginas vistas, país, tipo de dispositivo). Não identificamos pessoas." },
+            { h: "Publicidade", p: "Exibimos anúncios do Google AdSense. O Google e seus parceiros podem usar cookies para exibir anúncios com base nas suas visitas a este e a outros sites. Você pode gerenciar suas preferências em google.com/settings/ads." },
+        ],
+        updated: "Última atualização",
+    },
+};
+const c = copy[lang];
+const date = new Date().toISOString().slice(0, 10);
+---
+
+<Layout title={c.title} description={c.intro} image="img/og-mundial.jpg" lang={lang} alternates={alternates}>
+    <main>
+        <h1 class="text-3xl sm:text-4xl md:text-5xl text-center font-bold mb-8">
+            <span class="text-gradient">{c.title}</span>
+        </h1>
+        <article class="prose-card">
+            <p>{c.intro}</p>
+            {c.items.map((it) => (
+                <section>
+                    <h2>{it.h}</h2>
+                    <p>{it.p}</p>
+                </section>
+            ))}
+            <p class="updated">{c.updated}: {date}</p>
+        </article>
+    </main>
+</Layout>
+
+<style>
+    main { margin: auto; padding: 1rem; width: 800px; max-width: calc(100% - 2rem); color: white; }
+    .text-gradient {
+        background-image: var(--accent-gradient);
+        -webkit-background-clip: text; background-clip: text;
+        -webkit-text-fill-color: transparent; color: transparent;
+        background-size: 400%;
+    }
+    .prose-card {
+        border: 1px solid rgba(var(--accent-light), 25%);
+        background: linear-gradient(rgba(var(--accent-dark), 50%), rgba(var(--accent-dark), 25%));
+        padding: 1.75rem; border-radius: 12px; line-height: 1.65;
+    }
+    .prose-card h2 { font-size: 1.15rem; font-weight: 700; margin: 1.5rem 0 0.35rem; color: rgb(var(--accent-light)); }
+    .prose-card p { color: rgba(255,255,255,0.85); }
+    .prose-card .updated { margin-top: 1.75rem; font-size: 0.85rem; color: rgba(255,255,255,0.45); }
+</style>
