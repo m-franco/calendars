@@ -30,4 +30,14 @@ DESCRIPTION:Grupo B - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoi
 CLASS:PUBLIC
 LOCATION:Lumen Field
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260701T210000Z_EstadosUnidos_BosniaEHerzegovina
+DTSTART;TZID=America/Montevideo:20260701T210000
+DTEND;TZID=America/Montevideo:20260701T230000
+SUMMARY:Estados Unidos vs. Bósnia e Herzegovina
+DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Levi's Stadium
+END:VEVENT
 END:VCALENDAR

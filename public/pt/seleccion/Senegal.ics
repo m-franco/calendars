@@ -30,4 +30,14 @@ DESCRIPTION:Grupo I - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoi
 CLASS:PUBLIC
 LOCATION:BMO Field
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260701T170000Z_Belgica_Senegal
+DTSTART;TZID=America/Montevideo:20260701T170000
+DTEND;TZID=America/Montevideo:20260701T190000
+SUMMARY:Bélgica vs. Senegal
+DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Lumen Field
+END:VEVENT
 END:VCALENDAR

@@ -30,4 +30,14 @@ DESCRIPTION:Grupo L - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoi
 CLASS:PUBLIC
 LOCATION:Lincoln Financial Field
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260703T223000Z_Colombia_Gana
+DTSTART;TZID=America/Montevideo:20260703T223000
+DTEND;TZID=America/Montevideo:20260704T003000
+SUMMARY:Colômbia vs. Gana
+DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:GEHA Field at Arrowhead Stadium
+END:VEVENT
 END:VCALENDAR

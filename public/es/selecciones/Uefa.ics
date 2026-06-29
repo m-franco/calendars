@@ -390,4 +390,94 @@ DESCRIPTION:Grupo J - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Pu
 CLASS:PUBLIC
 LOCATION:GEHA Field at Arrowhead Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260629T173000Z_Alemania_Paraguay
+DTSTART;TZID=America/Montevideo:20260629T173000
+DTEND;TZID=America/Montevideo:20260629T193000
+SUMMARY:Alemania vs. Paraguay
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Gillette Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260629T220000Z_PaisesBajos_Marruecos
+DTSTART;TZID=America/Montevideo:20260629T220000
+DTEND;TZID=America/Montevideo:20260630T000000
+SUMMARY:Países Bajos vs. Marruecos
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estadio BBVA
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260630T140000Z_CostaDeMarfil_Noruega
+DTSTART;TZID=America/Montevideo:20260630T140000
+DTEND;TZID=America/Montevideo:20260630T160000
+SUMMARY:Costa de Marfil vs. Noruega
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:AT&T Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260630T180000Z_Francia_Suecia
+DTSTART;TZID=America/Montevideo:20260630T180000
+DTEND;TZID=America/Montevideo:20260630T200000
+SUMMARY:Francia vs. Suecia
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:MetLife Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260701T130000Z_Inglaterra_RepublicaDemocraticaDelCongo
+DTSTART;TZID=America/Montevideo:20260701T130000
+DTEND;TZID=America/Montevideo:20260701T150000
+SUMMARY:Inglaterra vs. República Democrática del Congo
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Mercedes-Benz Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260701T170000Z_Belgica_Senegal
+DTSTART;TZID=America/Montevideo:20260701T170000
+DTEND;TZID=America/Montevideo:20260701T190000
+SUMMARY:Bélgica vs. Senegal
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Lumen Field
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260701T210000Z_EstadosUnidos_BosniaYHerzegovina
+DTSTART;TZID=America/Montevideo:20260701T210000
+DTEND;TZID=America/Montevideo:20260701T230000
+SUMMARY:Estados Unidos vs. Bosnia y Herzegovina
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Levi's Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260702T160000Z_Espana_Austria
+DTSTART;TZID=America/Montevideo:20260702T160000
+DTEND;TZID=America/Montevideo:20260702T180000
+SUMMARY:España vs. Austria
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:SoFi Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260702T200000Z_Portugal_Croacia
+DTSTART;TZID=America/Montevideo:20260702T200000
+DTEND;TZID=America/Montevideo:20260702T220000
+SUMMARY:Portugal vs. Croacia
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:BMO Field
+END:VEVENT
 END:VCALENDAR

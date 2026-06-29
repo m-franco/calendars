@@ -290,4 +290,24 @@ DESCRIPTION:Grupo J - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Pu
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260629T140000Z_Brasil_Japon
+DTSTART;TZID=America/Montevideo:20260629T140000
+DTEND;TZID=America/Montevideo:20260629T160000
+SUMMARY:Brasil vs. Japón
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:NRG Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260703T150000Z_Australia_Egipto
+DTSTART;TZID=America/Montevideo:20260703T150000
+DTEND;TZID=America/Montevideo:20260703T170000
+SUMMARY:Australia vs. Egipto
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:AT&T Stadium
+END:VEVENT
 END:VCALENDAR

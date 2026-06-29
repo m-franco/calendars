@@ -809,14 +809,17 @@ function renderCalendar(calendarEvents) {
     ].join("\n");
 }
 
-await mkdir(path.join(publicDir, "mundial/2026"), { recursive: true });
-await mkdir(path.join(publicDir, "seleccion"), { recursive: true });
-await mkdir(path.join(publicDir, "selecciones"), { recursive: true });
-await writeFile(path.join(publicDir, "Mundial.ics"), renderCalendar(events));
+// Estructura canónica reorganizada: el español vive en public/es y el Mundial
+// usa el slug camelCase "copaDelMundo" (ver translate-ics.mjs).
+const esDir = path.join(publicDir, "es");
+await mkdir(path.join(esDir, "copaDelMundo/2026"), { recursive: true });
+await mkdir(path.join(esDir, "seleccion"), { recursive: true });
+await mkdir(path.join(esDir, "selecciones"), { recursive: true });
+await writeFile(path.join(esDir, "copaDelMundo.ics"), renderCalendar(events));
 
 for (const team of teams) {
     await writeFile(
-        path.join(publicDir, `seleccion/${team.path}.ics`),
+        path.join(esDir, `seleccion/${team.path}.ics`),
         renderCalendar(events.filter(
             (event) => event.home.path === team.path || event.away.path === team.path
         ))
@@ -830,7 +833,7 @@ for (const confederation of confederations) {
             .map((team) => team.path)
     );
     await writeFile(
-        path.join(publicDir, `selecciones/${confederation.path}.ics`),
+        path.join(esDir, `selecciones/${confederation.path}.ics`),
         renderCalendar(events.filter(
             (event) => teamPaths.has(event.home.path) || teamPaths.has(event.away.path)
         ))
@@ -839,7 +842,7 @@ for (const confederation of confederations) {
 
 for (const group of groups) {
     await writeFile(
-        path.join(publicDir, `mundial/2026/${group.path}.ics`),
+        path.join(esDir, `copaDelMundo/2026/${group.path}.ics`),
         renderCalendar(events.filter(
             (event) => event.stage === "group-stage" && event.group?.path === group.path
         ))

@@ -30,4 +30,14 @@ DESCRIPTION:Grupo K - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Pu
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260702T200000Z_Portugal_Croacia
+DTSTART;TZID=America/Montevideo:20260702T200000
+DTEND;TZID=America/Montevideo:20260702T220000
+SUMMARY:Portugal vs. Croacia
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:BMO Field
+END:VEVENT
 END:VCALENDAR

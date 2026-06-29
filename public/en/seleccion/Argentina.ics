@@ -30,4 +30,14 @@ DESCRIPTION:Group J - Matchday 3 - World Cup\n\nEnjoying this calendar? Support 
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260703T190000Z_Argentina_CapeVerde
+DTSTART;TZID=America/Montevideo:20260703T190000
+DTEND;TZID=America/Montevideo:20260703T210000
+SUMMARY:Argentina vs. Cape Verde
+DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Hard Rock Stadium
+END:VEVENT
 END:VCALENDAR

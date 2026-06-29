@@ -30,4 +30,14 @@ DESCRIPTION:Group B - Matchday 3 - World Cup\n\nEnjoying this calendar? Support 
 CLASS:PUBLIC
 LOCATION:Lumen Field
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260701T210000Z_UnitedStates_BosniaAndHerzegovina
+DTSTART;TZID=America/Montevideo:20260701T210000
+DTEND;TZID=America/Montevideo:20260701T230000
+SUMMARY:United States vs. Bosnia and Herzegovina
+DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Levi's Stadium
+END:VEVENT
 END:VCALENDAR

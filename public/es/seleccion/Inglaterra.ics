@@ -30,4 +30,14 @@ DESCRIPTION:Grupo L - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Pu
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260701T130000Z_Inglaterra_RepublicaDemocraticaDelCongo
+DTSTART;TZID=America/Montevideo:20260701T130000
+DTEND;TZID=America/Montevideo:20260701T150000
+SUMMARY:Inglaterra vs. República Democrática del Congo
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Mercedes-Benz Stadium
+END:VEVENT
 END:VCALENDAR

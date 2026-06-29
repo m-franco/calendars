@@ -722,170 +722,170 @@ LOCATION:AT&T Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260628T160000Z_GroupA2ndPlace_GroupB2ndPlace
+UID:20260628T160000Z_AfricaDoSul_Canada
 DTSTART;TZID=America/Montevideo:20260628T160000
 DTEND;TZID=America/Montevideo:20260628T180000
-SUMMARY:2° Grupo A vs. 2° Grupo B
+SUMMARY:África do Sul vs. Canadá
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260629T140000Z_GroupCWinner_GroupF2ndPlace
+UID:20260629T140000Z_Brasil_Japao
 DTSTART;TZID=America/Montevideo:20260629T140000
 DTEND;TZID=America/Montevideo:20260629T160000
-SUMMARY:1° Grupo C vs. 2° Grupo F
+SUMMARY:Brasil vs. Japão
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:NRG Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260629T173000Z_GroupEWinner_ThirdPlaceGroupABCDF
+UID:20260629T173000Z_Alemanha_Paraguai
 DTSTART;TZID=America/Montevideo:20260629T173000
 DTEND;TZID=America/Montevideo:20260629T193000
-SUMMARY:1° Grupo E vs. Third Place Group A/B/C/D/F
+SUMMARY:Alemanha vs. Paraguai
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Gillette Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260629T220000Z_GroupFWinner_GroupC2ndPlace
+UID:20260629T220000Z_PaisesBaixos_Marrocos
 DTSTART;TZID=America/Montevideo:20260629T220000
 DTEND;TZID=America/Montevideo:20260630T000000
-SUMMARY:1° Grupo F vs. 2° Grupo C
+SUMMARY:Países Baixos vs. Marrocos
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio BBVA
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260630T140000Z_GroupE2ndPlace_GroupI2ndPlace
+UID:20260630T140000Z_CostaDoMarfim_Noruega
 DTSTART;TZID=America/Montevideo:20260630T140000
 DTEND;TZID=America/Montevideo:20260630T160000
-SUMMARY:2° Grupo E vs. 2° Grupo I
+SUMMARY:Costa do Marfim vs. Noruega
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260630T180000Z_GroupIWinner_ThirdPlaceGroupCDFGH
+UID:20260630T180000Z_Franca_Suecia
 DTSTART;TZID=America/Montevideo:20260630T180000
 DTEND;TZID=America/Montevideo:20260630T200000
-SUMMARY:1° Grupo I vs. Third Place Group C/D/F/G/H
+SUMMARY:França vs. Suécia
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260630T220000Z_GroupAWinner_ThirdPlaceGroupCEFHI
+UID:20260630T220000Z_Mexico_Equador
 DTSTART;TZID=America/Montevideo:20260630T220000
 DTEND;TZID=America/Montevideo:20260701T000000
-SUMMARY:1° Grupo A vs. Third Place Group C/E/F/H/I
+SUMMARY:México vs. Equador
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Banorte
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260701T130000Z_GroupLWinner_ThirdPlaceGroupEHIJK
+UID:20260701T130000Z_Inglaterra_CongoRD
 DTSTART;TZID=America/Montevideo:20260701T130000
 DTEND;TZID=America/Montevideo:20260701T150000
-SUMMARY:1° Grupo L vs. Third Place Group E/H/I/J/K
+SUMMARY:Inglaterra vs. Congo RD
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260701T170000Z_GroupGWinner_ThirdPlaceGroupAEHIJ
+UID:20260701T170000Z_Belgica_Senegal
 DTSTART;TZID=America/Montevideo:20260701T170000
 DTEND;TZID=America/Montevideo:20260701T190000
-SUMMARY:1° Grupo G vs. Third Place Group A/E/H/I/J
+SUMMARY:Bélgica vs. Senegal
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Lumen Field
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260701T210000Z_GroupDWinner_ThirdPlaceGroupBEFIJ
+UID:20260701T210000Z_EstadosUnidos_BosniaEHerzegovina
 DTSTART;TZID=America/Montevideo:20260701T210000
 DTEND;TZID=America/Montevideo:20260701T230000
-SUMMARY:1° Grupo D vs. Third Place Group B/E/F/I/J
+SUMMARY:Estados Unidos vs. Bósnia e Herzegovina
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260702T160000Z_GroupHWinner_GroupJ2ndPlace
+UID:20260702T160000Z_Espanha_Austria
 DTSTART;TZID=America/Montevideo:20260702T160000
 DTEND;TZID=America/Montevideo:20260702T180000
-SUMMARY:1° Grupo H vs. 2° Grupo J
+SUMMARY:Espanha vs. Áustria
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260702T200000Z_GroupK2ndPlace_GroupL2ndPlace
+UID:20260702T200000Z_Portugal_Croacia
 DTSTART;TZID=America/Montevideo:20260702T200000
 DTEND;TZID=America/Montevideo:20260702T220000
-SUMMARY:2° Grupo K vs. 2° Grupo L
+SUMMARY:Portugal vs. Croácia
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:BMO Field
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260703T000000Z_GroupBWinner_ThirdPlaceGroupEFGIJ
+UID:20260703T000000Z_Suica_Argelia
 DTSTART;TZID=America/Montevideo:20260703T000000
 DTEND;TZID=America/Montevideo:20260703T020000
-SUMMARY:1° Grupo B vs. Third Place Group E/F/G/I/J
+SUMMARY:Suíça vs. Argélia
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:BC Place
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260703T150000Z_GroupD2ndPlace_GroupG2ndPlace
+UID:20260703T150000Z_Australia_Egito
 DTSTART;TZID=America/Montevideo:20260703T150000
 DTEND;TZID=America/Montevideo:20260703T170000
-SUMMARY:2° Grupo D vs. 2° Grupo G
+SUMMARY:Austrália vs. Egito
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260703T190000Z_GroupJWinner_GroupH2ndPlace
+UID:20260703T190000Z_Argentina_CaboVerde
 DTSTART;TZID=America/Montevideo:20260703T190000
 DTEND;TZID=America/Montevideo:20260703T210000
-SUMMARY:1° Grupo J vs. 2° Grupo H
+SUMMARY:Argentina vs. Cabo Verde
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260703T223000Z_GroupKWinner_ThirdPlaceGroupDEIJL
+UID:20260703T223000Z_Colombia_Gana
 DTSTART;TZID=America/Montevideo:20260703T223000
 DTEND;TZID=America/Montevideo:20260704T003000
-SUMMARY:1° Grupo K vs. Third Place Group D/E/I/J/L
+SUMMARY:Colômbia vs. Gana
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:GEHA Field at Arrowhead Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260704T140000Z_RoundOf321Winner_RoundOf323Winner
+UID:20260704T140000Z_Canada_RoundOf323Winner
 DTSTART;TZID=America/Montevideo:20260704T140000
 DTEND;TZID=America/Montevideo:20260704T160000
-SUMMARY:Ganador 16avos 1 vs. Ganador 16avos 3
+SUMMARY:Canadá vs. Ganador 16avos 3
 DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:NRG Stadium
@@ -902,10 +902,10 @@ LOCATION:Lincoln Financial Field
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260705T170000Z_RoundOf324Winner_RoundOf326Winner
+UID:20260705T170000Z_Brasil_RoundOf326Winner
 DTSTART;TZID=America/Montevideo:20260705T170000
 DTEND;TZID=America/Montevideo:20260705T190000
-SUMMARY:Ganador 16avos 4 vs. Ganador 16avos 6
+SUMMARY:Brasil vs. Ganador 16avos 6
 DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium

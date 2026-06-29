@@ -722,170 +722,170 @@ LOCATION:AT&T Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260628T160000Z_GroupA2ndPlace_GroupB2ndPlace
+UID:20260628T160000Z_Sudafrica_Canada
 DTSTART;TZID=America/Montevideo:20260628T160000
 DTEND;TZID=America/Montevideo:20260628T180000
-SUMMARY:2° Grupo A vs. 2° Grupo B
+SUMMARY:Sudáfrica vs. Canadá
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260629T140000Z_GroupCWinner_GroupF2ndPlace
+UID:20260629T140000Z_Brasil_Japon
 DTSTART;TZID=America/Montevideo:20260629T140000
 DTEND;TZID=America/Montevideo:20260629T160000
-SUMMARY:1° Grupo C vs. 2° Grupo F
+SUMMARY:Brasil vs. Japón
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:NRG Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260629T173000Z_GroupEWinner_ThirdPlaceGroupABCDF
+UID:20260629T173000Z_Alemania_Paraguay
 DTSTART;TZID=America/Montevideo:20260629T173000
 DTEND;TZID=America/Montevideo:20260629T193000
-SUMMARY:1° Grupo E vs. Third Place Group A/B/C/D/F
+SUMMARY:Alemania vs. Paraguay
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Gillette Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260629T220000Z_GroupFWinner_GroupC2ndPlace
+UID:20260629T220000Z_PaisesBajos_Marruecos
 DTSTART;TZID=America/Montevideo:20260629T220000
 DTEND;TZID=America/Montevideo:20260630T000000
-SUMMARY:1° Grupo F vs. 2° Grupo C
+SUMMARY:Países Bajos vs. Marruecos
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio BBVA
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260630T140000Z_GroupE2ndPlace_GroupI2ndPlace
+UID:20260630T140000Z_CostaDeMarfil_Noruega
 DTSTART;TZID=America/Montevideo:20260630T140000
 DTEND;TZID=America/Montevideo:20260630T160000
-SUMMARY:2° Grupo E vs. 2° Grupo I
+SUMMARY:Costa de Marfil vs. Noruega
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260630T180000Z_GroupIWinner_ThirdPlaceGroupCDFGH
+UID:20260630T180000Z_Francia_Suecia
 DTSTART;TZID=America/Montevideo:20260630T180000
 DTEND;TZID=America/Montevideo:20260630T200000
-SUMMARY:1° Grupo I vs. Third Place Group C/D/F/G/H
+SUMMARY:Francia vs. Suecia
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260630T220000Z_GroupAWinner_ThirdPlaceGroupCEFHI
+UID:20260630T220000Z_Mexico_Ecuador
 DTSTART;TZID=America/Montevideo:20260630T220000
 DTEND;TZID=America/Montevideo:20260701T000000
-SUMMARY:1° Grupo A vs. Third Place Group C/E/F/H/I
+SUMMARY:México vs. Ecuador
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Banorte
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260701T130000Z_GroupLWinner_ThirdPlaceGroupEHIJK
+UID:20260701T130000Z_Inglaterra_RepublicaDemocraticaDelCongo
 DTSTART;TZID=America/Montevideo:20260701T130000
 DTEND;TZID=America/Montevideo:20260701T150000
-SUMMARY:1° Grupo L vs. Third Place Group E/H/I/J/K
+SUMMARY:Inglaterra vs. República Democrática del Congo
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260701T170000Z_GroupGWinner_ThirdPlaceGroupAEHIJ
+UID:20260701T170000Z_Belgica_Senegal
 DTSTART;TZID=America/Montevideo:20260701T170000
 DTEND;TZID=America/Montevideo:20260701T190000
-SUMMARY:1° Grupo G vs. Third Place Group A/E/H/I/J
+SUMMARY:Bélgica vs. Senegal
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Lumen Field
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260701T210000Z_GroupDWinner_ThirdPlaceGroupBEFIJ
+UID:20260701T210000Z_EstadosUnidos_BosniaYHerzegovina
 DTSTART;TZID=America/Montevideo:20260701T210000
 DTEND;TZID=America/Montevideo:20260701T230000
-SUMMARY:1° Grupo D vs. Third Place Group B/E/F/I/J
+SUMMARY:Estados Unidos vs. Bosnia y Herzegovina
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260702T160000Z_GroupHWinner_GroupJ2ndPlace
+UID:20260702T160000Z_Espana_Austria
 DTSTART;TZID=America/Montevideo:20260702T160000
 DTEND;TZID=America/Montevideo:20260702T180000
-SUMMARY:1° Grupo H vs. 2° Grupo J
+SUMMARY:España vs. Austria
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260702T200000Z_GroupK2ndPlace_GroupL2ndPlace
+UID:20260702T200000Z_Portugal_Croacia
 DTSTART;TZID=America/Montevideo:20260702T200000
 DTEND;TZID=America/Montevideo:20260702T220000
-SUMMARY:2° Grupo K vs. 2° Grupo L
+SUMMARY:Portugal vs. Croacia
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:BMO Field
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260703T000000Z_GroupBWinner_ThirdPlaceGroupEFGIJ
+UID:20260703T000000Z_Suiza_Argelia
 DTSTART;TZID=America/Montevideo:20260703T000000
 DTEND;TZID=America/Montevideo:20260703T020000
-SUMMARY:1° Grupo B vs. Third Place Group E/F/G/I/J
+SUMMARY:Suiza vs. Argelia
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:BC Place
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260703T150000Z_GroupD2ndPlace_GroupG2ndPlace
+UID:20260703T150000Z_Australia_Egipto
 DTSTART;TZID=America/Montevideo:20260703T150000
 DTEND;TZID=America/Montevideo:20260703T170000
-SUMMARY:2° Grupo D vs. 2° Grupo G
+SUMMARY:Australia vs. Egipto
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260703T190000Z_GroupJWinner_GroupH2ndPlace
+UID:20260703T190000Z_Argentina_CaboVerde
 DTSTART;TZID=America/Montevideo:20260703T190000
 DTEND;TZID=America/Montevideo:20260703T210000
-SUMMARY:1° Grupo J vs. 2° Grupo H
+SUMMARY:Argentina vs. Cabo Verde
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260703T223000Z_GroupKWinner_ThirdPlaceGroupDEIJL
+UID:20260703T223000Z_Colombia_Ghana
 DTSTART;TZID=America/Montevideo:20260703T223000
 DTEND;TZID=America/Montevideo:20260704T003000
-SUMMARY:1° Grupo K vs. Third Place Group D/E/I/J/L
+SUMMARY:Colombia vs. Ghana
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:GEHA Field at Arrowhead Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260704T140000Z_RoundOf321Winner_RoundOf323Winner
+UID:20260704T140000Z_Canada_RoundOf323Winner
 DTSTART;TZID=America/Montevideo:20260704T140000
 DTEND;TZID=America/Montevideo:20260704T160000
-SUMMARY:Ganador 16avos 1 vs. Ganador 16avos 3
+SUMMARY:Canadá vs. Ganador 16avos 3
 DESCRIPTION:Octavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:NRG Stadium
@@ -902,10 +902,10 @@ LOCATION:Lincoln Financial Field
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260705T170000Z_RoundOf324Winner_RoundOf326Winner
+UID:20260705T170000Z_Brasil_RoundOf326Winner
 DTSTART;TZID=America/Montevideo:20260705T170000
 DTEND;TZID=America/Montevideo:20260705T190000
-SUMMARY:Ganador 16avos 4 vs. Ganador 16avos 6
+SUMMARY:Brasil vs. Ganador 16avos 6
 DESCRIPTION:Octavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium

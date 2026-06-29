@@ -30,4 +30,14 @@ DESCRIPTION:Grupo A - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoi
 CLASS:PUBLIC
 LOCATION:Estádio BBVA
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260628T160000Z_AfricaDoSul_Canada
+DTSTART;TZID=America/Montevideo:20260628T160000
+DTEND;TZID=America/Montevideo:20260628T180000
+SUMMARY:África do Sul vs. Canadá
+DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:SoFi Stadium
+END:VEVENT
 END:VCALENDAR

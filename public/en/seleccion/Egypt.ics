@@ -30,4 +30,14 @@ DESCRIPTION:Group G - Matchday 3 - World Cup\n\nEnjoying this calendar? Support 
 CLASS:PUBLIC
 LOCATION:Lumen Field
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260703T150000Z_Australia_Egypt
+DTSTART;TZID=America/Montevideo:20260703T150000
+DTEND;TZID=America/Montevideo:20260703T170000
+SUMMARY:Australia vs. Egypt
+DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:AT&T Stadium
+END:VEVENT
 END:VCALENDAR

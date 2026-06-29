@@ -30,4 +30,14 @@ DESCRIPTION:Grupo D - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoi
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260629T173000Z_Alemanha_Paraguai
+DTSTART;TZID=America/Montevideo:20260629T173000
+DTEND;TZID=America/Montevideo:20260629T193000
+SUMMARY:Alemanha vs. Paraguai
+DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Gillette Stadium
+END:VEVENT
 END:VCALENDAR

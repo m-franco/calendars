@@ -300,4 +300,94 @@ DESCRIPTION:Grupo J - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Pu
 CLASS:PUBLIC
 LOCATION:GEHA Field at Arrowhead Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260628T160000Z_Sudafrica_Canada
+DTSTART;TZID=America/Montevideo:20260628T160000
+DTEND;TZID=America/Montevideo:20260628T180000
+SUMMARY:Sudáfrica vs. Canadá
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:SoFi Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260629T220000Z_PaisesBajos_Marruecos
+DTSTART;TZID=America/Montevideo:20260629T220000
+DTEND;TZID=America/Montevideo:20260630T000000
+SUMMARY:Países Bajos vs. Marruecos
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estadio BBVA
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260630T140000Z_CostaDeMarfil_Noruega
+DTSTART;TZID=America/Montevideo:20260630T140000
+DTEND;TZID=America/Montevideo:20260630T160000
+SUMMARY:Costa de Marfil vs. Noruega
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:AT&T Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260701T130000Z_Inglaterra_RepublicaDemocraticaDelCongo
+DTSTART;TZID=America/Montevideo:20260701T130000
+DTEND;TZID=America/Montevideo:20260701T150000
+SUMMARY:Inglaterra vs. República Democrática del Congo
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Mercedes-Benz Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260701T170000Z_Belgica_Senegal
+DTSTART;TZID=America/Montevideo:20260701T170000
+DTEND;TZID=America/Montevideo:20260701T190000
+SUMMARY:Bélgica vs. Senegal
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Lumen Field
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260703T000000Z_Suiza_Argelia
+DTSTART;TZID=America/Montevideo:20260703T000000
+DTEND;TZID=America/Montevideo:20260703T020000
+SUMMARY:Suiza vs. Argelia
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:BC Place
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260703T150000Z_Australia_Egipto
+DTSTART;TZID=America/Montevideo:20260703T150000
+DTEND;TZID=America/Montevideo:20260703T170000
+SUMMARY:Australia vs. Egipto
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:AT&T Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260703T190000Z_Argentina_CaboVerde
+DTSTART;TZID=America/Montevideo:20260703T190000
+DTEND;TZID=America/Montevideo:20260703T210000
+SUMMARY:Argentina vs. Cabo Verde
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Hard Rock Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260703T223000Z_Colombia_Ghana
+DTSTART;TZID=America/Montevideo:20260703T223000
+DTEND;TZID=America/Montevideo:20260704T003000
+SUMMARY:Colombia vs. Ghana
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:GEHA Field at Arrowhead Stadium
+END:VEVENT
 END:VCALENDAR

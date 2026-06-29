@@ -30,4 +30,14 @@ DESCRIPTION:Grupo B - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoi
 CLASS:PUBLIC
 LOCATION:BC Place
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260703T000000Z_Suica_Argelia
+DTSTART;TZID=America/Montevideo:20260703T000000
+DTEND;TZID=America/Montevideo:20260703T020000
+SUMMARY:Suíça vs. Argélia
+DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:BC Place
+END:VEVENT
 END:VCALENDAR

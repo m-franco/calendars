@@ -30,4 +30,14 @@ DESCRIPTION:Grupo E - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoi
 CLASS:PUBLIC
 LOCATION:Lincoln Financial Field
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260630T140000Z_CostaDoMarfim_Noruega
+DTSTART;TZID=America/Montevideo:20260630T140000
+DTEND;TZID=America/Montevideo:20260630T160000
+SUMMARY:Costa do Marfim vs. Noruega
+DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:AT&T Stadium
+END:VEVENT
 END:VCALENDAR

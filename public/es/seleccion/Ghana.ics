@@ -30,4 +30,14 @@ DESCRIPTION:Grupo L - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Pu
 CLASS:PUBLIC
 LOCATION:Lincoln Financial Field
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260703T223000Z_Colombia_Ghana
+DTSTART;TZID=America/Montevideo:20260703T223000
+DTEND;TZID=America/Montevideo:20260704T003000
+SUMMARY:Colombia vs. Ghana
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:GEHA Field at Arrowhead Stadium
+END:VEVENT
 END:VCALENDAR

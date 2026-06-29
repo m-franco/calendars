@@ -30,4 +30,14 @@ DESCRIPTION:Group I - Matchday 3 - World Cup\n\nEnjoying this calendar? Support 
 CLASS:PUBLIC
 LOCATION:Gillette Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260630T140000Z_IvoryCoast_Norway
+DTSTART;TZID=America/Montevideo:20260630T140000
+DTEND;TZID=America/Montevideo:20260630T160000
+SUMMARY:Ivory Coast vs. Norway
+DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:AT&T Stadium
+END:VEVENT
 END:VCALENDAR

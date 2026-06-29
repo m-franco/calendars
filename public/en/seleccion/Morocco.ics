@@ -30,4 +30,14 @@ DESCRIPTION:Group C - Matchday 3 - World Cup\n\nEnjoying this calendar? Support 
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260629T220000Z_Netherlands_Morocco
+DTSTART;TZID=America/Montevideo:20260629T220000
+DTEND;TZID=America/Montevideo:20260630T000000
+SUMMARY:Netherlands vs. Morocco
+DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:BBVA Stadium
+END:VEVENT
 END:VCALENDAR

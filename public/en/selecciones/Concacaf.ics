@@ -180,4 +180,44 @@ DESCRIPTION:Group L - Matchday 3 - World Cup\n\nEnjoying this calendar? Support 
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260628T160000Z_SouthAfrica_Canada
+DTSTART;TZID=America/Montevideo:20260628T160000
+DTEND;TZID=America/Montevideo:20260628T180000
+SUMMARY:South Africa vs. Canada
+DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:SoFi Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260630T220000Z_Mexico_Ecuador
+DTSTART;TZID=America/Montevideo:20260630T220000
+DTEND;TZID=America/Montevideo:20260701T000000
+SUMMARY:Mexico vs. Ecuador
+DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Banorte Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260701T210000Z_UnitedStates_BosniaAndHerzegovina
+DTSTART;TZID=America/Montevideo:20260701T210000
+DTEND;TZID=America/Montevideo:20260701T230000
+SUMMARY:United States vs. Bosnia and Herzegovina
+DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Levi's Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260704T140000Z_Canada_RoundOf323Winner
+DTSTART;TZID=America/Montevideo:20260704T140000
+DTEND;TZID=America/Montevideo:20260704T160000
+SUMMARY:Canada vs. Ganador 16avos 3
+DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:NRG Stadium
+END:VEVENT
 END:VCALENDAR

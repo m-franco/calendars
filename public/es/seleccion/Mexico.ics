@@ -30,4 +30,14 @@ DESCRIPTION:Grupo A - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Pu
 CLASS:PUBLIC
 LOCATION:Estadio Banorte
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260630T220000Z_Mexico_Ecuador
+DTSTART;TZID=America/Montevideo:20260630T220000
+DTEND;TZID=America/Montevideo:20260701T000000
+SUMMARY:México vs. Ecuador
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estadio Banorte
+END:VEVENT
 END:VCALENDAR

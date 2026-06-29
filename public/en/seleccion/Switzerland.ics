@@ -30,4 +30,14 @@ DESCRIPTION:Group B - Matchday 3 - World Cup\n\nEnjoying this calendar? Support 
 CLASS:PUBLIC
 LOCATION:BC Place
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260703T000000Z_Switzerland_Algeria
+DTSTART;TZID=America/Montevideo:20260703T000000
+DTEND;TZID=America/Montevideo:20260703T020000
+SUMMARY:Switzerland vs. Algeria
+DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:BC Place
+END:VEVENT
 END:VCALENDAR
