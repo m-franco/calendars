@@ -40,4 +40,14 @@ DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendari
 CLASS:PUBLIC
 LOCATION:GEHA Field at Arrowhead Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260707T170000Z_Suiza_Colombia
+DTSTART;TZID=America/Montevideo:20260707T170000
+DTEND;TZID=America/Montevideo:20260707T190000
+SUMMARY:Suiza vs. Colombia
+DESCRIPTION:Octavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:BC Place
+END:VEVENT
 END:VCALENDAR

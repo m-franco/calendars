@@ -40,4 +40,14 @@ DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie 
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260705T210000Z_Mexico_Inglaterra
+DTSTART;TZID=America/Montevideo:20260705T210000
+DTEND;TZID=America/Montevideo:20260705T230000
+SUMMARY:México vs. Inglaterra
+DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Estádio Banorte
+END:VEVENT
 END:VCALENDAR

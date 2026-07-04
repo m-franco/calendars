@@ -60,4 +60,44 @@ DESCRIPTION:Group J - Matchday 3 - World Cup\n\nEnjoying this calendar? Support 
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260702T160000Z_Spain_Austria
+DTSTART;TZID=America/Montevideo:20260702T160000
+DTEND;TZID=America/Montevideo:20260702T180000
+SUMMARY:Spain vs. Austria
+DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:SoFi Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260703T000000Z_Switzerland_Algeria
+DTSTART;TZID=America/Montevideo:20260703T000000
+DTEND;TZID=America/Montevideo:20260703T020000
+SUMMARY:Switzerland vs. Algeria
+DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:BC Place
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260703T190000Z_Argentina_CapeVerde
+DTSTART;TZID=America/Montevideo:20260703T190000
+DTEND;TZID=America/Montevideo:20260703T210000
+SUMMARY:Argentina vs. Cape Verde
+DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Hard Rock Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260707T130000Z_Argentina_Egypt
+DTSTART;TZID=America/Montevideo:20260707T130000
+DTEND;TZID=America/Montevideo:20260707T150000
+SUMMARY:Argentina vs. Egypt
+DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Mercedes-Benz Stadium
+END:VEVENT
 END:VCALENDAR

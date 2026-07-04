@@ -60,4 +60,54 @@ DESCRIPTION:Grupo D - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Pu
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260629T173000Z_Alemania_Paraguay
+DTSTART;TZID=America/Montevideo:20260629T173000
+DTEND;TZID=America/Montevideo:20260629T193000
+SUMMARY:Alemania vs. Paraguay
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Gillette Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260701T210000Z_EstadosUnidos_BosniaYHerzegovina
+DTSTART;TZID=America/Montevideo:20260701T210000
+DTEND;TZID=America/Montevideo:20260701T230000
+SUMMARY:Estados Unidos vs. Bosnia y Herzegovina
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Levi's Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260703T150000Z_Australia_Egipto
+DTSTART;TZID=America/Montevideo:20260703T150000
+DTEND;TZID=America/Montevideo:20260703T170000
+SUMMARY:Australia vs. Egipto
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:AT&T Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260704T180000Z_Paraguay_Francia
+DTSTART;TZID=America/Montevideo:20260704T180000
+DTEND;TZID=America/Montevideo:20260704T200000
+SUMMARY:Paraguay vs. Francia
+DESCRIPTION:Octavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Lincoln Financial Field
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260706T210000Z_EstadosUnidos_Belgica
+DTSTART;TZID=America/Montevideo:20260706T210000
+DTEND;TZID=America/Montevideo:20260706T230000
+SUMMARY:Estados Unidos vs. Bélgica
+DESCRIPTION:Octavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Lumen Field
+END:VEVENT
 END:VCALENDAR

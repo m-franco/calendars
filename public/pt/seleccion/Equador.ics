@@ -32,9 +32,9 @@ LOCATION:MetLife Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260630T220000Z_Mexico_Equador
-DTSTART;TZID=America/Montevideo:20260630T220000
-DTEND;TZID=America/Montevideo:20260701T000000
+UID:20260630T230000Z_Mexico_Equador
+DTSTART;TZID=America/Montevideo:20260630T230000
+DTEND;TZID=America/Montevideo:20260701T010000
 SUMMARY:México vs. Equador
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC

@@ -42,10 +42,10 @@ LOCATION:SoFi Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260704T140000Z_Canada_RoundOf323Winner
+UID:20260704T140000Z_Canada_Marrocos
 DTSTART;TZID=America/Montevideo:20260704T140000
 DTEND;TZID=America/Montevideo:20260704T160000
-SUMMARY:Canadá vs. Ganador 16avos 3
+SUMMARY:Canadá vs. Marrocos
 DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:NRG Stadium

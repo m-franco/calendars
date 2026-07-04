@@ -40,4 +40,14 @@ DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie 
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260705T170000Z_Brasil_Noruega
+DTSTART;TZID=America/Montevideo:20260705T170000
+DTEND;TZID=America/Montevideo:20260705T190000
+SUMMARY:Brasil vs. Noruega
+DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:MetLife Stadium
+END:VEVENT
 END:VCALENDAR

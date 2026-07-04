@@ -40,4 +40,14 @@ DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie 
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260704T180000Z_Paraguai_Franca
+DTSTART;TZID=America/Montevideo:20260704T180000
+DTEND;TZID=America/Montevideo:20260704T200000
+SUMMARY:Paraguai vs. França
+DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Lincoln Financial Field
+END:VEVENT
 END:VCALENDAR

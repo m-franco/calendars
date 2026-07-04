@@ -40,4 +40,14 @@ DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendari
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260707T130000Z_Argentina_Egipto
+DTSTART;TZID=America/Montevideo:20260707T130000
+DTEND;TZID=America/Montevideo:20260707T150000
+SUMMARY:Argentina vs. Egipto
+DESCRIPTION:Octavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Mercedes-Benz Stadium
+END:VEVENT
 END:VCALENDAR

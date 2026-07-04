@@ -480,4 +480,54 @@ DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the proje
 CLASS:PUBLIC
 LOCATION:BMO Field
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260704T180000Z_Paraguay_France
+DTSTART;TZID=America/Montevideo:20260704T180000
+DTEND;TZID=America/Montevideo:20260704T200000
+SUMMARY:Paraguay vs. France
+DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Lincoln Financial Field
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260705T170000Z_Brazil_Norway
+DTSTART;TZID=America/Montevideo:20260705T170000
+DTEND;TZID=America/Montevideo:20260705T190000
+SUMMARY:Brazil vs. Norway
+DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:MetLife Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260705T210000Z_Mexico_England
+DTSTART;TZID=America/Montevideo:20260705T210000
+DTEND;TZID=America/Montevideo:20260705T230000
+SUMMARY:Mexico vs. England
+DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Banorte Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260706T160000Z_Portugal_Spain
+DTSTART;TZID=America/Montevideo:20260706T160000
+DTEND;TZID=America/Montevideo:20260706T180000
+SUMMARY:Portugal vs. Spain
+DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:AT&T Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260706T210000Z_UnitedStates_Belgium
+DTSTART;TZID=America/Montevideo:20260706T210000
+DTEND;TZID=America/Montevideo:20260706T230000
+SUMMARY:United States vs. Belgium
+DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Lumen Field
+END:VEVENT
 END:VCALENDAR

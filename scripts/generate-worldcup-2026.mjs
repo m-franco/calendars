@@ -843,9 +843,15 @@ for (const confederation of confederations) {
 for (const group of groups) {
     await writeFile(
         path.join(esDir, `copaDelMundo/2026/${group.path}.ics`),
-        renderCalendar(events.filter(
-            (event) => event.stage === "group-stage" && event.group?.path === group.path
-        ))
+        renderCalendar(events.filter((event) => {
+            // Fase de grupos: partidos de este grupo.
+            if (event.stage === "group-stage") return event.group?.path === group.path;
+            // Eliminatorias: partidos de equipos que jugaron este grupo.
+            return (
+                groupByTeamPath.get(event.home.path)?.path === group.path ||
+                groupByTeamPath.get(event.away.path)?.path === group.path
+            );
+        }))
     );
 }
 

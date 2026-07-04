@@ -202,9 +202,9 @@ LOCATION:Gillette Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260630T220000Z_Mexico_Equador
-DTSTART;TZID=America/Montevideo:20260630T220000
-DTEND;TZID=America/Montevideo:20260701T000000
+UID:20260630T230000Z_Mexico_Equador
+DTSTART;TZID=America/Montevideo:20260630T230000
+DTEND;TZID=America/Montevideo:20260701T010000
 SUMMARY:México vs. Equador
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
@@ -232,12 +232,42 @@ LOCATION:GEHA Field at Arrowhead Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260705T170000Z_Brasil_RoundOf326Winner
+UID:20260704T180000Z_Paraguai_Franca
+DTSTART;TZID=America/Montevideo:20260704T180000
+DTEND;TZID=America/Montevideo:20260704T200000
+SUMMARY:Paraguai vs. França
+DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Lincoln Financial Field
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260705T170000Z_Brasil_Noruega
 DTSTART;TZID=America/Montevideo:20260705T170000
 DTEND;TZID=America/Montevideo:20260705T190000
-SUMMARY:Brasil vs. Ganador 16avos 6
+SUMMARY:Brasil vs. Noruega
 DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260707T130000Z_Argentina_Egito
+DTSTART;TZID=America/Montevideo:20260707T130000
+DTEND;TZID=America/Montevideo:20260707T150000
+SUMMARY:Argentina vs. Egito
+DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Mercedes-Benz Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260707T170000Z_Suica_Colombia
+DTSTART;TZID=America/Montevideo:20260707T170000
+DTEND;TZID=America/Montevideo:20260707T190000
+SUMMARY:Suíça vs. Colômbia
+DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:BC Place
 END:VEVENT
 END:VCALENDAR

@@ -60,4 +60,44 @@ DESCRIPTION:Group L - Matchday 3 - World Cup\n\nEnjoying this calendar? Support 
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260701T130000Z_England_DRCongo
+DTSTART;TZID=America/Montevideo:20260701T130000
+DTEND;TZID=America/Montevideo:20260701T150000
+SUMMARY:England vs. DR Congo
+DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Mercedes-Benz Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260702T200000Z_Portugal_Croatia
+DTSTART;TZID=America/Montevideo:20260702T200000
+DTEND;TZID=America/Montevideo:20260702T220000
+SUMMARY:Portugal vs. Croatia
+DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:BMO Field
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260703T223000Z_Colombia_Ghana
+DTSTART;TZID=America/Montevideo:20260703T223000
+DTEND;TZID=America/Montevideo:20260704T003000
+SUMMARY:Colombia vs. Ghana
+DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:GEHA Field at Arrowhead Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260705T210000Z_Mexico_England
+DTSTART;TZID=America/Montevideo:20260705T210000
+DTEND;TZID=America/Montevideo:20260705T230000
+SUMMARY:Mexico vs. England
+DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Banorte Stadium
+END:VEVENT
 END:VCALENDAR

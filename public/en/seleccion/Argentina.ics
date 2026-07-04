@@ -40,4 +40,14 @@ DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the proje
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260707T130000Z_Argentina_Egypt
+DTSTART;TZID=America/Montevideo:20260707T130000
+DTEND;TZID=America/Montevideo:20260707T150000
+SUMMARY:Argentina vs. Egypt
+DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Mercedes-Benz Stadium
+END:VEVENT
 END:VCALENDAR

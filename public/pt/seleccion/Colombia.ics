@@ -40,4 +40,14 @@ DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie 
 CLASS:PUBLIC
 LOCATION:GEHA Field at Arrowhead Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260707T170000Z_Suica_Colombia
+DTSTART;TZID=America/Montevideo:20260707T170000
+DTEND;TZID=America/Montevideo:20260707T190000
+SUMMARY:Suíça vs. Colômbia
+DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:BC Place
+END:VEVENT
 END:VCALENDAR

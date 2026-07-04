@@ -202,9 +202,9 @@ LOCATION:Gillette Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260630T220000Z_Mexico_Ecuador
-DTSTART;TZID=America/Montevideo:20260630T220000
-DTEND;TZID=America/Montevideo:20260701T000000
+UID:20260630T230000Z_Mexico_Ecuador
+DTSTART;TZID=America/Montevideo:20260630T230000
+DTEND;TZID=America/Montevideo:20260701T010000
 SUMMARY:Mexico vs. Ecuador
 DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
@@ -232,12 +232,42 @@ LOCATION:GEHA Field at Arrowhead Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260705T170000Z_Brazil_RoundOf326Winner
+UID:20260704T180000Z_Paraguay_France
+DTSTART;TZID=America/Montevideo:20260704T180000
+DTEND;TZID=America/Montevideo:20260704T200000
+SUMMARY:Paraguay vs. France
+DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Lincoln Financial Field
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260705T170000Z_Brazil_Norway
 DTSTART;TZID=America/Montevideo:20260705T170000
 DTEND;TZID=America/Montevideo:20260705T190000
-SUMMARY:Brazil vs. Ganador 16avos 6
+SUMMARY:Brazil vs. Norway
 DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260707T130000Z_Argentina_Egypt
+DTSTART;TZID=America/Montevideo:20260707T130000
+DTEND;TZID=America/Montevideo:20260707T150000
+SUMMARY:Argentina vs. Egypt
+DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Mercedes-Benz Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260707T170000Z_Switzerland_Colombia
+DTSTART;TZID=America/Montevideo:20260707T170000
+DTEND;TZID=America/Montevideo:20260707T190000
+SUMMARY:Switzerland vs. Colombia
+DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:BC Place
 END:VEVENT
 END:VCALENDAR

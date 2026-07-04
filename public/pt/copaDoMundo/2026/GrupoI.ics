@@ -60,4 +60,54 @@ DESCRIPTION:Grupo I - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoi
 CLASS:PUBLIC
 LOCATION:BMO Field
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260630T140000Z_CostaDoMarfim_Noruega
+DTSTART;TZID=America/Montevideo:20260630T140000
+DTEND;TZID=America/Montevideo:20260630T160000
+SUMMARY:Costa do Marfim vs. Noruega
+DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:AT&T Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260630T180000Z_Franca_Suecia
+DTSTART;TZID=America/Montevideo:20260630T180000
+DTEND;TZID=America/Montevideo:20260630T200000
+SUMMARY:França vs. Suécia
+DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:MetLife Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260701T170000Z_Belgica_Senegal
+DTSTART;TZID=America/Montevideo:20260701T170000
+DTEND;TZID=America/Montevideo:20260701T190000
+SUMMARY:Bélgica vs. Senegal
+DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Lumen Field
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260704T180000Z_Paraguai_Franca
+DTSTART;TZID=America/Montevideo:20260704T180000
+DTEND;TZID=America/Montevideo:20260704T200000
+SUMMARY:Paraguai vs. França
+DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Lincoln Financial Field
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260705T170000Z_Brasil_Noruega
+DTSTART;TZID=America/Montevideo:20260705T170000
+DTEND;TZID=America/Montevideo:20260705T190000
+SUMMARY:Brasil vs. Noruega
+DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:MetLife Stadium
+END:VEVENT
 END:VCALENDAR

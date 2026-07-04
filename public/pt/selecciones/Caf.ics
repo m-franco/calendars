@@ -390,4 +390,24 @@ DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie 
 CLASS:PUBLIC
 LOCATION:GEHA Field at Arrowhead Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260704T140000Z_Canada_Marrocos
+DTSTART;TZID=America/Montevideo:20260704T140000
+DTEND;TZID=America/Montevideo:20260704T160000
+SUMMARY:Canadá vs. Marrocos
+DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:NRG Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260707T130000Z_Argentina_Egito
+DTSTART;TZID=America/Montevideo:20260707T130000
+DTEND;TZID=America/Montevideo:20260707T150000
+SUMMARY:Argentina vs. Egito
+DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Mercedes-Benz Stadium
+END:VEVENT
 END:VCALENDAR

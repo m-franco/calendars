@@ -782,9 +782,9 @@ LOCATION:MetLife Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260630T220000Z_Mexico_Ecuador
-DTSTART;TZID=America/Montevideo:20260630T220000
-DTEND;TZID=America/Montevideo:20260701T000000
+UID:20260630T230000Z_Mexico_Ecuador
+DTSTART;TZID=America/Montevideo:20260630T230000
+DTEND;TZID=America/Montevideo:20260701T010000
 SUMMARY:Mexico vs. Ecuador
 DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
@@ -882,80 +882,80 @@ LOCATION:GEHA Field at Arrowhead Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260704T140000Z_Canada_RoundOf323Winner
+UID:20260704T140000Z_Canada_Morocco
 DTSTART;TZID=America/Montevideo:20260704T140000
 DTEND;TZID=America/Montevideo:20260704T160000
-SUMMARY:Canada vs. Ganador 16avos 3
+SUMMARY:Canada vs. Morocco
 DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:NRG Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260704T180000Z_RoundOf322Winner_RoundOf325Winner
+UID:20260704T180000Z_Paraguay_France
 DTSTART;TZID=America/Montevideo:20260704T180000
 DTEND;TZID=America/Montevideo:20260704T200000
-SUMMARY:Ganador 16avos 2 vs. Ganador 16avos 5
+SUMMARY:Paraguay vs. France
 DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Lincoln Financial Field
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260705T170000Z_Brazil_RoundOf326Winner
+UID:20260705T170000Z_Brazil_Norway
 DTSTART;TZID=America/Montevideo:20260705T170000
 DTEND;TZID=America/Montevideo:20260705T190000
-SUMMARY:Brazil vs. Ganador 16avos 6
+SUMMARY:Brazil vs. Norway
 DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260705T210000Z_RoundOf327Winner_RoundOf328Winner
+UID:20260705T210000Z_Mexico_England
 DTSTART;TZID=America/Montevideo:20260705T210000
 DTEND;TZID=America/Montevideo:20260705T230000
-SUMMARY:Ganador 16avos 7 vs. Ganador 16avos 8
+SUMMARY:Mexico vs. England
 DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Banorte Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260706T160000Z_RoundOf3211Winner_RoundOf3212Winner
+UID:20260706T160000Z_Portugal_Spain
 DTSTART;TZID=America/Montevideo:20260706T160000
 DTEND;TZID=America/Montevideo:20260706T180000
-SUMMARY:Ganador 16avos 11 vs. Ganador 16avos 12
+SUMMARY:Portugal vs. Spain
 DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260706T210000Z_RoundOf329Winner_RoundOf3210Winner
+UID:20260706T210000Z_UnitedStates_Belgium
 DTSTART;TZID=America/Montevideo:20260706T210000
 DTEND;TZID=America/Montevideo:20260706T230000
-SUMMARY:Ganador 16avos 9 vs. Ganador 16avos 10
+SUMMARY:United States vs. Belgium
 DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Lumen Field
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260707T130000Z_RoundOf3214Winner_RoundOf3216Winner
+UID:20260707T130000Z_Argentina_Egypt
 DTSTART;TZID=America/Montevideo:20260707T130000
 DTEND;TZID=America/Montevideo:20260707T150000
-SUMMARY:Ganador 16avos 14 vs. Ganador 16avos 16
+SUMMARY:Argentina vs. Egypt
 DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260707T170000Z_RoundOf3213Winner_RoundOf3215Winner
+UID:20260707T170000Z_Switzerland_Colombia
 DTSTART;TZID=America/Montevideo:20260707T170000
 DTEND;TZID=America/Montevideo:20260707T190000
-SUMMARY:Ganador 16avos 13 vs. Ganador 16avos 15
+SUMMARY:Switzerland vs. Colombia
 DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:BC Place

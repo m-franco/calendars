@@ -390,4 +390,24 @@ DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the proje
 CLASS:PUBLIC
 LOCATION:GEHA Field at Arrowhead Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260704T140000Z_Canada_Morocco
+DTSTART;TZID=America/Montevideo:20260704T140000
+DTEND;TZID=America/Montevideo:20260704T160000
+SUMMARY:Canada vs. Morocco
+DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:NRG Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260707T130000Z_Argentina_Egypt
+DTSTART;TZID=America/Montevideo:20260707T130000
+DTEND;TZID=America/Montevideo:20260707T150000
+SUMMARY:Argentina vs. Egypt
+DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Mercedes-Benz Stadium
+END:VEVENT
 END:VCALENDAR

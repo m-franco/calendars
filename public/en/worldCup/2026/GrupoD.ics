@@ -60,4 +60,54 @@ DESCRIPTION:Group D - Matchday 3 - World Cup\n\nEnjoying this calendar? Support 
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260629T173000Z_Germany_Paraguay
+DTSTART;TZID=America/Montevideo:20260629T173000
+DTEND;TZID=America/Montevideo:20260629T193000
+SUMMARY:Germany vs. Paraguay
+DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Gillette Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260701T210000Z_UnitedStates_BosniaAndHerzegovina
+DTSTART;TZID=America/Montevideo:20260701T210000
+DTEND;TZID=America/Montevideo:20260701T230000
+SUMMARY:United States vs. Bosnia and Herzegovina
+DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Levi's Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260703T150000Z_Australia_Egypt
+DTSTART;TZID=America/Montevideo:20260703T150000
+DTEND;TZID=America/Montevideo:20260703T170000
+SUMMARY:Australia vs. Egypt
+DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:AT&T Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260704T180000Z_Paraguay_France
+DTSTART;TZID=America/Montevideo:20260704T180000
+DTEND;TZID=America/Montevideo:20260704T200000
+SUMMARY:Paraguay vs. France
+DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Lincoln Financial Field
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260706T210000Z_UnitedStates_Belgium
+DTSTART;TZID=America/Montevideo:20260706T210000
+DTEND;TZID=America/Montevideo:20260706T230000
+SUMMARY:United States vs. Belgium
+DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Lumen Field
+END:VEVENT
 END:VCALENDAR

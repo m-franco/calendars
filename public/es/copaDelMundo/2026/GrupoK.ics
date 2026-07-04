@@ -60,4 +60,54 @@ DESCRIPTION:Grupo K - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Pu
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260701T130000Z_Inglaterra_RepublicaDemocraticaDelCongo
+DTSTART;TZID=America/Montevideo:20260701T130000
+DTEND;TZID=America/Montevideo:20260701T150000
+SUMMARY:Inglaterra vs. República Democrática del Congo
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Mercedes-Benz Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260702T200000Z_Portugal_Croacia
+DTSTART;TZID=America/Montevideo:20260702T200000
+DTEND;TZID=America/Montevideo:20260702T220000
+SUMMARY:Portugal vs. Croacia
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:BMO Field
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260703T223000Z_Colombia_Ghana
+DTSTART;TZID=America/Montevideo:20260703T223000
+DTEND;TZID=America/Montevideo:20260704T003000
+SUMMARY:Colombia vs. Ghana
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:GEHA Field at Arrowhead Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260706T160000Z_Portugal_Espana
+DTSTART;TZID=America/Montevideo:20260706T160000
+DTEND;TZID=America/Montevideo:20260706T180000
+SUMMARY:Portugal vs. España
+DESCRIPTION:Octavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:AT&T Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260707T170000Z_Suiza_Colombia
+DTSTART;TZID=America/Montevideo:20260707T170000
+DTEND;TZID=America/Montevideo:20260707T190000
+SUMMARY:Suiza vs. Colombia
+DESCRIPTION:Octavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:BC Place
+END:VEVENT
 END:VCALENDAR

@@ -60,4 +60,44 @@ DESCRIPTION:Grupo C - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Pu
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260629T140000Z_Brasil_Japon
+DTSTART;TZID=America/Montevideo:20260629T140000
+DTEND;TZID=America/Montevideo:20260629T160000
+SUMMARY:Brasil vs. Japón
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:NRG Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260629T220000Z_PaisesBajos_Marruecos
+DTSTART;TZID=America/Montevideo:20260629T220000
+DTEND;TZID=America/Montevideo:20260630T000000
+SUMMARY:Países Bajos vs. Marruecos
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estadio BBVA
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260704T140000Z_Canada_Marruecos
+DTSTART;TZID=America/Montevideo:20260704T140000
+DTEND;TZID=America/Montevideo:20260704T160000
+SUMMARY:Canadá vs. Marruecos
+DESCRIPTION:Octavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:NRG Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260705T170000Z_Brasil_Noruega
+DTSTART;TZID=America/Montevideo:20260705T170000
+DTEND;TZID=America/Montevideo:20260705T190000
+SUMMARY:Brasil vs. Noruega
+DESCRIPTION:Octavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:MetLife Stadium
+END:VEVENT
 END:VCALENDAR

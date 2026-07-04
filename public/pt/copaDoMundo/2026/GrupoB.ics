@@ -60,4 +60,54 @@ DESCRIPTION:Grupo B - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoi
 CLASS:PUBLIC
 LOCATION:BC Place
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260628T160000Z_AfricaDoSul_Canada
+DTSTART;TZID=America/Montevideo:20260628T160000
+DTEND;TZID=America/Montevideo:20260628T180000
+SUMMARY:África do Sul vs. Canadá
+DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:SoFi Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260701T210000Z_EstadosUnidos_BosniaEHerzegovina
+DTSTART;TZID=America/Montevideo:20260701T210000
+DTEND;TZID=America/Montevideo:20260701T230000
+SUMMARY:Estados Unidos vs. Bósnia e Herzegovina
+DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Levi's Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260703T000000Z_Suica_Argelia
+DTSTART;TZID=America/Montevideo:20260703T000000
+DTEND;TZID=America/Montevideo:20260703T020000
+SUMMARY:Suíça vs. Argélia
+DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:BC Place
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260704T140000Z_Canada_Marrocos
+DTSTART;TZID=America/Montevideo:20260704T140000
+DTEND;TZID=America/Montevideo:20260704T160000
+SUMMARY:Canadá vs. Marrocos
+DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:NRG Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260707T170000Z_Suica_Colombia
+DTSTART;TZID=America/Montevideo:20260707T170000
+DTEND;TZID=America/Montevideo:20260707T190000
+SUMMARY:Suíça vs. Colômbia
+DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:BC Place
+END:VEVENT
 END:VCALENDAR

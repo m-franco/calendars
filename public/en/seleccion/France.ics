@@ -40,4 +40,14 @@ DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the proje
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260704T180000Z_Paraguay_France
+DTSTART;TZID=America/Montevideo:20260704T180000
+DTEND;TZID=America/Montevideo:20260704T200000
+SUMMARY:Paraguay vs. France
+DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Lincoln Financial Field
+END:VEVENT
 END:VCALENDAR

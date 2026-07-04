@@ -60,4 +60,44 @@ DESCRIPTION:Grupo L - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoi
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260701T130000Z_Inglaterra_CongoRD
+DTSTART;TZID=America/Montevideo:20260701T130000
+DTEND;TZID=America/Montevideo:20260701T150000
+SUMMARY:Inglaterra vs. Congo RD
+DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Mercedes-Benz Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260702T200000Z_Portugal_Croacia
+DTSTART;TZID=America/Montevideo:20260702T200000
+DTEND;TZID=America/Montevideo:20260702T220000
+SUMMARY:Portugal vs. Croácia
+DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:BMO Field
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260703T223000Z_Colombia_Gana
+DTSTART;TZID=America/Montevideo:20260703T223000
+DTEND;TZID=America/Montevideo:20260704T003000
+SUMMARY:Colômbia vs. Gana
+DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:GEHA Field at Arrowhead Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260705T210000Z_Mexico_Inglaterra
+DTSTART;TZID=America/Montevideo:20260705T210000
+DTEND;TZID=America/Montevideo:20260705T230000
+SUMMARY:México vs. Inglaterra
+DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Estádio Banorte
+END:VEVENT
 END:VCALENDAR

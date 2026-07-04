@@ -40,4 +40,14 @@ DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendari
 CLASS:PUBLIC
 LOCATION:Estadio BBVA
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260704T140000Z_Canada_Marruecos
+DTSTART;TZID=America/Montevideo:20260704T140000
+DTEND;TZID=America/Montevideo:20260704T160000
+SUMMARY:Canadá vs. Marruecos
+DESCRIPTION:Octavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:NRG Stadium
+END:VEVENT
 END:VCALENDAR

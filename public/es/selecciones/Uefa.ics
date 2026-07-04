@@ -480,4 +480,54 @@ DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendari
 CLASS:PUBLIC
 LOCATION:BMO Field
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260704T180000Z_Paraguay_Francia
+DTSTART;TZID=America/Montevideo:20260704T180000
+DTEND;TZID=America/Montevideo:20260704T200000
+SUMMARY:Paraguay vs. Francia
+DESCRIPTION:Octavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Lincoln Financial Field
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260705T170000Z_Brasil_Noruega
+DTSTART;TZID=America/Montevideo:20260705T170000
+DTEND;TZID=America/Montevideo:20260705T190000
+SUMMARY:Brasil vs. Noruega
+DESCRIPTION:Octavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:MetLife Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260705T210000Z_Mexico_Inglaterra
+DTSTART;TZID=America/Montevideo:20260705T210000
+DTEND;TZID=America/Montevideo:20260705T230000
+SUMMARY:México vs. Inglaterra
+DESCRIPTION:Octavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estadio Banorte
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260706T160000Z_Portugal_Espana
+DTSTART;TZID=America/Montevideo:20260706T160000
+DTEND;TZID=America/Montevideo:20260706T180000
+SUMMARY:Portugal vs. España
+DESCRIPTION:Octavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:AT&T Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260706T210000Z_EstadosUnidos_Belgica
+DTSTART;TZID=America/Montevideo:20260706T210000
+DTEND;TZID=America/Montevideo:20260706T230000
+SUMMARY:Estados Unidos vs. Bélgica
+DESCRIPTION:Octavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Lumen Field
+END:VEVENT
 END:VCALENDAR

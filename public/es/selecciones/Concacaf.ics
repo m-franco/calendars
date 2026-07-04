@@ -192,9 +192,9 @@ LOCATION:SoFi Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260630T220000Z_Mexico_Ecuador
-DTSTART;TZID=America/Montevideo:20260630T220000
-DTEND;TZID=America/Montevideo:20260701T000000
+UID:20260630T230000Z_Mexico_Ecuador
+DTSTART;TZID=America/Montevideo:20260630T230000
+DTEND;TZID=America/Montevideo:20260701T010000
 SUMMARY:México vs. Ecuador
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
@@ -212,12 +212,32 @@ LOCATION:Levi's Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260704T140000Z_Canada_RoundOf323Winner
+UID:20260704T140000Z_Canada_Marruecos
 DTSTART;TZID=America/Montevideo:20260704T140000
 DTEND;TZID=America/Montevideo:20260704T160000
-SUMMARY:Canadá vs. Ganador 16avos 3
+SUMMARY:Canadá vs. Marruecos
 DESCRIPTION:Octavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:NRG Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260705T210000Z_Mexico_Inglaterra
+DTSTART;TZID=America/Montevideo:20260705T210000
+DTEND;TZID=America/Montevideo:20260705T230000
+SUMMARY:México vs. Inglaterra
+DESCRIPTION:Octavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estadio Banorte
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260706T210000Z_EstadosUnidos_Belgica
+DTSTART;TZID=America/Montevideo:20260706T210000
+DTEND;TZID=America/Montevideo:20260706T230000
+SUMMARY:Estados Unidos vs. Bélgica
+DESCRIPTION:Octavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Lumen Field
 END:VEVENT
 END:VCALENDAR

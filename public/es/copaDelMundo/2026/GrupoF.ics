@@ -60,4 +60,34 @@ DESCRIPTION:Grupo F - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Pu
 CLASS:PUBLIC
 LOCATION:GEHA Field at Arrowhead Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260629T140000Z_Brasil_Japon
+DTSTART;TZID=America/Montevideo:20260629T140000
+DTEND;TZID=America/Montevideo:20260629T160000
+SUMMARY:Brasil vs. Japón
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:NRG Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260629T220000Z_PaisesBajos_Marruecos
+DTSTART;TZID=America/Montevideo:20260629T220000
+DTEND;TZID=America/Montevideo:20260630T000000
+SUMMARY:Países Bajos vs. Marruecos
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estadio BBVA
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260630T180000Z_Francia_Suecia
+DTSTART;TZID=America/Montevideo:20260630T180000
+DTEND;TZID=America/Montevideo:20260630T200000
+SUMMARY:Francia vs. Suecia
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:MetLife Stadium
+END:VEVENT
 END:VCALENDAR

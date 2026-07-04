@@ -40,4 +40,14 @@ DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie 
 CLASS:PUBLIC
 LOCATION:BMO Field
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260706T160000Z_Portugal_Espanha
+DTSTART;TZID=America/Montevideo:20260706T160000
+DTEND;TZID=America/Montevideo:20260706T180000
+SUMMARY:Portugal vs. Espanha
+DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:AT&T Stadium
+END:VEVENT
 END:VCALENDAR

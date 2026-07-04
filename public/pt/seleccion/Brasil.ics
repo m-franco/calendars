@@ -42,10 +42,10 @@ LOCATION:NRG Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260705T170000Z_Brasil_RoundOf326Winner
+UID:20260705T170000Z_Brasil_Noruega
 DTSTART;TZID=America/Montevideo:20260705T170000
 DTEND;TZID=America/Montevideo:20260705T190000
-SUMMARY:Brasil vs. Ganador 16avos 6
+SUMMARY:Brasil vs. Noruega
 DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium

@@ -60,4 +60,44 @@ DESCRIPTION:Grupo J - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Pu
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260702T160000Z_Espana_Austria
+DTSTART;TZID=America/Montevideo:20260702T160000
+DTEND;TZID=America/Montevideo:20260702T180000
+SUMMARY:España vs. Austria
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:SoFi Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260703T000000Z_Suiza_Argelia
+DTSTART;TZID=America/Montevideo:20260703T000000
+DTEND;TZID=America/Montevideo:20260703T020000
+SUMMARY:Suiza vs. Argelia
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:BC Place
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260703T190000Z_Argentina_CaboVerde
+DTSTART;TZID=America/Montevideo:20260703T190000
+DTEND;TZID=America/Montevideo:20260703T210000
+SUMMARY:Argentina vs. Cabo Verde
+DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Hard Rock Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260707T130000Z_Argentina_Egipto
+DTSTART;TZID=America/Montevideo:20260707T130000
+DTEND;TZID=America/Montevideo:20260707T150000
+SUMMARY:Argentina vs. Egipto
+DESCRIPTION:Octavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Mercedes-Benz Stadium
+END:VEVENT
 END:VCALENDAR

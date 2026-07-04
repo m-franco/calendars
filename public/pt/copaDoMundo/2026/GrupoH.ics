@@ -60,4 +60,34 @@ DESCRIPTION:Grupo H - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoi
 CLASS:PUBLIC
 LOCATION:Estádio Akron
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260702T160000Z_Espanha_Austria
+DTSTART;TZID=America/Montevideo:20260702T160000
+DTEND;TZID=America/Montevideo:20260702T180000
+SUMMARY:Espanha vs. Áustria
+DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:SoFi Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260703T190000Z_Argentina_CaboVerde
+DTSTART;TZID=America/Montevideo:20260703T190000
+DTEND;TZID=America/Montevideo:20260703T210000
+SUMMARY:Argentina vs. Cabo Verde
+DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Hard Rock Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260706T160000Z_Portugal_Espanha
+DTSTART;TZID=America/Montevideo:20260706T160000
+DTEND;TZID=America/Montevideo:20260706T180000
+SUMMARY:Portugal vs. Espanha
+DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:AT&T Stadium
+END:VEVENT
 END:VCALENDAR

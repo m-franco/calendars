@@ -60,4 +60,54 @@ DESCRIPTION:Group I - Matchday 3 - World Cup\n\nEnjoying this calendar? Support 
 CLASS:PUBLIC
 LOCATION:BMO Field
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260630T140000Z_IvoryCoast_Norway
+DTSTART;TZID=America/Montevideo:20260630T140000
+DTEND;TZID=America/Montevideo:20260630T160000
+SUMMARY:Ivory Coast vs. Norway
+DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:AT&T Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260630T180000Z_France_Sweden
+DTSTART;TZID=America/Montevideo:20260630T180000
+DTEND;TZID=America/Montevideo:20260630T200000
+SUMMARY:France vs. Sweden
+DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:MetLife Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260701T170000Z_Belgium_Senegal
+DTSTART;TZID=America/Montevideo:20260701T170000
+DTEND;TZID=America/Montevideo:20260701T190000
+SUMMARY:Belgium vs. Senegal
+DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Lumen Field
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260704T180000Z_Paraguay_France
+DTSTART;TZID=America/Montevideo:20260704T180000
+DTEND;TZID=America/Montevideo:20260704T200000
+SUMMARY:Paraguay vs. France
+DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Lincoln Financial Field
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260705T170000Z_Brazil_Norway
+DTSTART;TZID=America/Montevideo:20260705T170000
+DTEND;TZID=America/Montevideo:20260705T190000
+SUMMARY:Brazil vs. Norway
+DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:MetLife Stadium
+END:VEVENT
 END:VCALENDAR

@@ -60,4 +60,54 @@ DESCRIPTION:Grupo D - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoi
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260629T173000Z_Alemanha_Paraguai
+DTSTART;TZID=America/Montevideo:20260629T173000
+DTEND;TZID=America/Montevideo:20260629T193000
+SUMMARY:Alemanha vs. Paraguai
+DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Gillette Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260701T210000Z_EstadosUnidos_BosniaEHerzegovina
+DTSTART;TZID=America/Montevideo:20260701T210000
+DTEND;TZID=America/Montevideo:20260701T230000
+SUMMARY:Estados Unidos vs. Bósnia e Herzegovina
+DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Levi's Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260703T150000Z_Australia_Egito
+DTSTART;TZID=America/Montevideo:20260703T150000
+DTEND;TZID=America/Montevideo:20260703T170000
+SUMMARY:Austrália vs. Egito
+DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:AT&T Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260704T180000Z_Paraguai_Franca
+DTSTART;TZID=America/Montevideo:20260704T180000
+DTEND;TZID=America/Montevideo:20260704T200000
+SUMMARY:Paraguai vs. França
+DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Lincoln Financial Field
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260706T210000Z_EstadosUnidos_Belgica
+DTSTART;TZID=America/Montevideo:20260706T210000
+DTEND;TZID=America/Montevideo:20260706T230000
+SUMMARY:Estados Unidos vs. Bélgica
+DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Lumen Field
+END:VEVENT
 END:VCALENDAR

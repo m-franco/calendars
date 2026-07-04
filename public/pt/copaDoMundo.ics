@@ -782,9 +782,9 @@ LOCATION:MetLife Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260630T220000Z_Mexico_Equador
-DTSTART;TZID=America/Montevideo:20260630T220000
-DTEND;TZID=America/Montevideo:20260701T000000
+UID:20260630T230000Z_Mexico_Equador
+DTSTART;TZID=America/Montevideo:20260630T230000
+DTEND;TZID=America/Montevideo:20260701T010000
 SUMMARY:México vs. Equador
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
@@ -882,80 +882,80 @@ LOCATION:GEHA Field at Arrowhead Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260704T140000Z_Canada_RoundOf323Winner
+UID:20260704T140000Z_Canada_Marrocos
 DTSTART;TZID=America/Montevideo:20260704T140000
 DTEND;TZID=America/Montevideo:20260704T160000
-SUMMARY:Canadá vs. Ganador 16avos 3
+SUMMARY:Canadá vs. Marrocos
 DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:NRG Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260704T180000Z_RoundOf322Winner_RoundOf325Winner
+UID:20260704T180000Z_Paraguai_Franca
 DTSTART;TZID=America/Montevideo:20260704T180000
 DTEND;TZID=America/Montevideo:20260704T200000
-SUMMARY:Ganador 16avos 2 vs. Ganador 16avos 5
+SUMMARY:Paraguai vs. França
 DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Lincoln Financial Field
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260705T170000Z_Brasil_RoundOf326Winner
+UID:20260705T170000Z_Brasil_Noruega
 DTSTART;TZID=America/Montevideo:20260705T170000
 DTEND;TZID=America/Montevideo:20260705T190000
-SUMMARY:Brasil vs. Ganador 16avos 6
+SUMMARY:Brasil vs. Noruega
 DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260705T210000Z_RoundOf327Winner_RoundOf328Winner
+UID:20260705T210000Z_Mexico_Inglaterra
 DTSTART;TZID=America/Montevideo:20260705T210000
 DTEND;TZID=America/Montevideo:20260705T230000
-SUMMARY:Ganador 16avos 7 vs. Ganador 16avos 8
+SUMMARY:México vs. Inglaterra
 DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Banorte
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260706T160000Z_RoundOf3211Winner_RoundOf3212Winner
+UID:20260706T160000Z_Portugal_Espanha
 DTSTART;TZID=America/Montevideo:20260706T160000
 DTEND;TZID=America/Montevideo:20260706T180000
-SUMMARY:Ganador 16avos 11 vs. Ganador 16avos 12
+SUMMARY:Portugal vs. Espanha
 DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260706T210000Z_RoundOf329Winner_RoundOf3210Winner
+UID:20260706T210000Z_EstadosUnidos_Belgica
 DTSTART;TZID=America/Montevideo:20260706T210000
 DTEND;TZID=America/Montevideo:20260706T230000
-SUMMARY:Ganador 16avos 9 vs. Ganador 16avos 10
+SUMMARY:Estados Unidos vs. Bélgica
 DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Lumen Field
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260707T130000Z_RoundOf3214Winner_RoundOf3216Winner
+UID:20260707T130000Z_Argentina_Egito
 DTSTART;TZID=America/Montevideo:20260707T130000
 DTEND;TZID=America/Montevideo:20260707T150000
-SUMMARY:Ganador 16avos 14 vs. Ganador 16avos 16
+SUMMARY:Argentina vs. Egito
 DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260707T170000Z_RoundOf3213Winner_RoundOf3215Winner
+UID:20260707T170000Z_Suica_Colombia
 DTSTART;TZID=America/Montevideo:20260707T170000
 DTEND;TZID=America/Montevideo:20260707T190000
-SUMMARY:Ganador 16avos 13 vs. Ganador 16avos 15
+SUMMARY:Suíça vs. Colômbia
 DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:BC Place

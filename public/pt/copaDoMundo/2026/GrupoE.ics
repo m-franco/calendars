@@ -60,4 +60,34 @@ DESCRIPTION:Grupo E - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoi
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260629T173000Z_Alemanha_Paraguai
+DTSTART;TZID=America/Montevideo:20260629T173000
+DTEND;TZID=America/Montevideo:20260629T193000
+SUMMARY:Alemanha vs. Paraguai
+DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Gillette Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260630T140000Z_CostaDoMarfim_Noruega
+DTSTART;TZID=America/Montevideo:20260630T140000
+DTEND;TZID=America/Montevideo:20260630T160000
+SUMMARY:Costa do Marfim vs. Noruega
+DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:AT&T Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260630T230000Z_Mexico_Equador
+DTSTART;TZID=America/Montevideo:20260630T230000
+DTEND;TZID=America/Montevideo:20260701T010000
+SUMMARY:México vs. Equador
+DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Estádio Banorte
+END:VEVENT
 END:VCALENDAR
