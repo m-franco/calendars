@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260612T160000Z_Canada_BosniaEHerzegovina
 DTSTART;TZID=America/Montevideo:20260612T160000
 DTEND;TZID=America/Montevideo:20260612T180000
-SUMMARY:Canadá vs. Bósnia e Herzegovina
+SUMMARY:Canadá🇨🇦 vs. Bósnia e Herzegovina🇧🇦
 DESCRIPTION:Grupo B - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:BMO Field
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260618T160000Z_Suica_BosniaEHerzegovina
 DTSTART;TZID=America/Montevideo:20260618T160000
 DTEND;TZID=America/Montevideo:20260618T180000
-SUMMARY:Suíça vs. Bósnia e Herzegovina
+SUMMARY:Suíça🇨🇭 vs. Bósnia e Herzegovina🇧🇦
 DESCRIPTION:Grupo B - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260624T160000Z_BosniaEHerzegovina_Catar
 DTSTART;TZID=America/Montevideo:20260624T160000
 DTEND;TZID=America/Montevideo:20260624T180000
-SUMMARY:Bósnia e Herzegovina vs. Catar
+SUMMARY:Bósnia e Herzegovina🇧🇦 vs. Catar🇶🇦
 DESCRIPTION:Grupo B - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Lumen Field
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260701T210000Z_EstadosUnidos_BosniaEHerzegovina
 DTSTART;TZID=America/Montevideo:20260701T210000
 DTEND;TZID=America/Montevideo:20260701T230000
-SUMMARY:Estados Unidos vs. Bósnia e Herzegovina
+SUMMARY:Estados Unidos🇺🇸 vs. Bósnia e Herzegovina🇧🇦
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Levi's Stadium

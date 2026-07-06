@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260611T160000Z_Mexico_AfricaDoSul
 DTSTART;TZID=America/Montevideo:20260611T160000
 DTEND;TZID=America/Montevideo:20260611T180000
-SUMMARY:México vs. África do Sul
+SUMMARY:México🇲🇽 vs. África do Sul🇿🇦
 DESCRIPTION:Grupo A - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Banorte
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260611T230000Z_CoreiaDoSul_RepublicaTcheca
 DTSTART;TZID=America/Montevideo:20260611T230000
 DTEND;TZID=America/Montevideo:20260612T010000
-SUMMARY:Coreia do Sul vs. República Tcheca
+SUMMARY:Coreia do Sul🇰🇷 vs. República Tcheca🇨🇿
 DESCRIPTION:Grupo A - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Akron
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260612T160000Z_Canada_BosniaEHerzegovina
 DTSTART;TZID=America/Montevideo:20260612T160000
 DTEND;TZID=America/Montevideo:20260612T180000
-SUMMARY:Canadá vs. Bósnia e Herzegovina
+SUMMARY:Canadá🇨🇦 vs. Bósnia e Herzegovina🇧🇦
 DESCRIPTION:Grupo B - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:BMO Field
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260612T220000Z_EstadosUnidos_Paraguai
 DTSTART;TZID=America/Montevideo:20260612T220000
 DTEND;TZID=America/Montevideo:20260613T000000
-SUMMARY:Estados Unidos vs. Paraguai
+SUMMARY:Estados Unidos🇺🇸 vs. Paraguai🇵🇾
 DESCRIPTION:Grupo D - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 UID:20260613T160000Z_Catar_Suica
 DTSTART;TZID=America/Montevideo:20260613T160000
 DTEND;TZID=America/Montevideo:20260613T180000
-SUMMARY:Catar vs. Suíça
+SUMMARY:Catar🇶🇦 vs. Suíça🇨🇭
 DESCRIPTION:Grupo B - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
@@ -55,7 +55,7 @@ BEGIN:VEVENT
 UID:20260613T190000Z_Brasil_Marrocos
 DTSTART;TZID=America/Montevideo:20260613T190000
 DTEND;TZID=America/Montevideo:20260613T210000
-SUMMARY:Brasil vs. Marrocos
+SUMMARY:Brasil🇧🇷 vs. Marrocos🇲🇦
 DESCRIPTION:Grupo C - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 UID:20260613T220000Z_Haiti_Escocia
 DTSTART;TZID=America/Montevideo:20260613T220000
 DTEND;TZID=America/Montevideo:20260614T000000
-SUMMARY:Haiti vs. Escócia
+SUMMARY:Haiti🇭🇹 vs. Escócia🏴󠁧󠁢󠁳󠁣󠁴󠁿
 DESCRIPTION:Grupo C - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Gillette Stadium
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 UID:20260614T010000Z_Australia_Turquia
 DTSTART;TZID=America/Montevideo:20260614T010000
 DTEND;TZID=America/Montevideo:20260614T030000
-SUMMARY:Austrália vs. Turquia
+SUMMARY:Austrália🇦🇺 vs. Turquia🇹🇷
 DESCRIPTION:Grupo D - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:BC Place
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 UID:20260614T140000Z_Alemanha_Curacao
 DTSTART;TZID=America/Montevideo:20260614T140000
 DTEND;TZID=America/Montevideo:20260614T160000
-SUMMARY:Alemanha vs. Curaçao
+SUMMARY:Alemanha🇩🇪 vs. Curaçao🇨🇼
 DESCRIPTION:Grupo E - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:NRG Stadium
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 UID:20260614T170000Z_PaisesBaixos_Japao
 DTSTART;TZID=America/Montevideo:20260614T170000
 DTEND;TZID=America/Montevideo:20260614T190000
-SUMMARY:Países Baixos vs. Japão
+SUMMARY:Países Baixos🇳🇱 vs. Japão🇯🇵
 DESCRIPTION:Grupo F - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 UID:20260614T200000Z_CostaDoMarfim_Equador
 DTSTART;TZID=America/Montevideo:20260614T200000
 DTEND;TZID=America/Montevideo:20260614T220000
-SUMMARY:Costa do Marfim vs. Equador
+SUMMARY:Costa do Marfim🇨🇮 vs. Equador🇪🇨
 DESCRIPTION:Grupo E - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Lincoln Financial Field
@@ -115,7 +115,7 @@ BEGIN:VEVENT
 UID:20260614T230000Z_Suecia_Tunisia
 DTSTART;TZID=America/Montevideo:20260614T230000
 DTEND;TZID=America/Montevideo:20260615T010000
-SUMMARY:Suécia vs. Tunísia
+SUMMARY:Suécia🇸🇪 vs. Tunísia🇹🇳
 DESCRIPTION:Grupo F - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio BBVA
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 UID:20260615T130000Z_Espanha_CaboVerde
 DTSTART;TZID=America/Montevideo:20260615T130000
 DTEND;TZID=America/Montevideo:20260615T150000
-SUMMARY:Espanha vs. Cabo Verde
+SUMMARY:Espanha🇪🇸 vs. Cabo Verde🇨🇻
 DESCRIPTION:Grupo H - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 UID:20260615T160000Z_Belgica_Egito
 DTSTART;TZID=America/Montevideo:20260615T160000
 DTEND;TZID=America/Montevideo:20260615T180000
-SUMMARY:Bélgica vs. Egito
+SUMMARY:Bélgica🇧🇪 vs. Egito🇪🇬
 DESCRIPTION:Grupo G - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Lumen Field
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 UID:20260615T190000Z_ArabiaSaudita_Uruguai
 DTSTART;TZID=America/Montevideo:20260615T190000
 DTEND;TZID=America/Montevideo:20260615T210000
-SUMMARY:Arábia Saudita vs. Uruguai
+SUMMARY:Arábia Saudita🇸🇦 vs. Uruguai🇺🇾
 DESCRIPTION:Grupo H - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium
@@ -155,7 +155,7 @@ BEGIN:VEVENT
 UID:20260615T220000Z_Ira_NovaZelandia
 DTSTART;TZID=America/Montevideo:20260615T220000
 DTEND;TZID=America/Montevideo:20260616T000000
-SUMMARY:Irã vs. Nova Zelândia
+SUMMARY:Irã🇮🇷 vs. Nova Zelândia🇳🇿
 DESCRIPTION:Grupo G - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
@@ -165,7 +165,7 @@ BEGIN:VEVENT
 UID:20260616T160000Z_Franca_Senegal
 DTSTART;TZID=America/Montevideo:20260616T160000
 DTEND;TZID=America/Montevideo:20260616T180000
-SUMMARY:França vs. Senegal
+SUMMARY:França🇫🇷 vs. Senegal🇸🇳
 DESCRIPTION:Grupo I - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
@@ -175,7 +175,7 @@ BEGIN:VEVENT
 UID:20260616T190000Z_Iraque_Noruega
 DTSTART;TZID=America/Montevideo:20260616T190000
 DTEND;TZID=America/Montevideo:20260616T210000
-SUMMARY:Iraque vs. Noruega
+SUMMARY:Iraque🇮🇶 vs. Noruega🇳🇴
 DESCRIPTION:Grupo I - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Gillette Stadium
@@ -185,7 +185,7 @@ BEGIN:VEVENT
 UID:20260616T220000Z_Argentina_Argelia
 DTSTART;TZID=America/Montevideo:20260616T220000
 DTEND;TZID=America/Montevideo:20260617T000000
-SUMMARY:Argentina vs. Argélia
+SUMMARY:Argentina🇦🇷 vs. Argélia🇩🇿
 DESCRIPTION:Grupo J - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:GEHA Field at Arrowhead Stadium
@@ -195,7 +195,7 @@ BEGIN:VEVENT
 UID:20260617T010000Z_Austria_Jordania
 DTSTART;TZID=America/Montevideo:20260617T010000
 DTEND;TZID=America/Montevideo:20260617T030000
-SUMMARY:Áustria vs. Jordânia
+SUMMARY:Áustria🇦🇹 vs. Jordânia🇯🇴
 DESCRIPTION:Grupo J - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
@@ -205,7 +205,7 @@ BEGIN:VEVENT
 UID:20260617T140000Z_Portugal_CongoRD
 DTSTART;TZID=America/Montevideo:20260617T140000
 DTEND;TZID=America/Montevideo:20260617T160000
-SUMMARY:Portugal vs. Congo RD
+SUMMARY:Portugal🇵🇹 vs. Congo RD🇨🇩
 DESCRIPTION:Grupo K - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:NRG Stadium
@@ -215,7 +215,7 @@ BEGIN:VEVENT
 UID:20260617T170000Z_Inglaterra_Croacia
 DTSTART;TZID=America/Montevideo:20260617T170000
 DTEND;TZID=America/Montevideo:20260617T190000
-SUMMARY:Inglaterra vs. Croácia
+SUMMARY:Inglaterra🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs. Croácia🇭🇷
 DESCRIPTION:Grupo L - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
@@ -225,7 +225,7 @@ BEGIN:VEVENT
 UID:20260617T200000Z_Gana_Panama
 DTSTART;TZID=America/Montevideo:20260617T200000
 DTEND;TZID=America/Montevideo:20260617T220000
-SUMMARY:Gana vs. Panamá
+SUMMARY:Gana🇬🇭 vs. Panamá🇵🇦
 DESCRIPTION:Grupo L - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:BMO Field
@@ -235,7 +235,7 @@ BEGIN:VEVENT
 UID:20260617T230000Z_Uzbequistao_Colombia
 DTSTART;TZID=America/Montevideo:20260617T230000
 DTEND;TZID=America/Montevideo:20260618T010000
-SUMMARY:Uzbequistão vs. Colômbia
+SUMMARY:Uzbequistão🇺🇿 vs. Colômbia🇨🇴
 DESCRIPTION:Grupo K - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Banorte
@@ -245,7 +245,7 @@ BEGIN:VEVENT
 UID:20260618T130000Z_RepublicaTcheca_AfricaDoSul
 DTSTART;TZID=America/Montevideo:20260618T130000
 DTEND;TZID=America/Montevideo:20260618T150000
-SUMMARY:República Tcheca vs. África do Sul
+SUMMARY:República Tcheca🇨🇿 vs. África do Sul🇿🇦
 DESCRIPTION:Grupo A - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
@@ -255,7 +255,7 @@ BEGIN:VEVENT
 UID:20260618T160000Z_Suica_BosniaEHerzegovina
 DTSTART;TZID=America/Montevideo:20260618T160000
 DTEND;TZID=America/Montevideo:20260618T180000
-SUMMARY:Suíça vs. Bósnia e Herzegovina
+SUMMARY:Suíça🇨🇭 vs. Bósnia e Herzegovina🇧🇦
 DESCRIPTION:Grupo B - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
@@ -265,7 +265,7 @@ BEGIN:VEVENT
 UID:20260618T190000Z_Canada_Catar
 DTSTART;TZID=America/Montevideo:20260618T190000
 DTEND;TZID=America/Montevideo:20260618T210000
-SUMMARY:Canadá vs. Catar
+SUMMARY:Canadá🇨🇦 vs. Catar🇶🇦
 DESCRIPTION:Grupo B - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:BC Place
@@ -275,7 +275,7 @@ BEGIN:VEVENT
 UID:20260618T220000Z_Mexico_CoreiaDoSul
 DTSTART;TZID=America/Montevideo:20260618T220000
 DTEND;TZID=America/Montevideo:20260619T000000
-SUMMARY:México vs. Coreia do Sul
+SUMMARY:México🇲🇽 vs. Coreia do Sul🇰🇷
 DESCRIPTION:Grupo A - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Akron
@@ -285,7 +285,7 @@ BEGIN:VEVENT
 UID:20260619T160000Z_EstadosUnidos_Australia
 DTSTART;TZID=America/Montevideo:20260619T160000
 DTEND;TZID=America/Montevideo:20260619T180000
-SUMMARY:Estados Unidos vs. Austrália
+SUMMARY:Estados Unidos🇺🇸 vs. Austrália🇦🇺
 DESCRIPTION:Grupo D - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Lumen Field
@@ -295,7 +295,7 @@ BEGIN:VEVENT
 UID:20260619T190000Z_Escocia_Marrocos
 DTSTART;TZID=America/Montevideo:20260619T190000
 DTEND;TZID=America/Montevideo:20260619T210000
-SUMMARY:Escócia vs. Marrocos
+SUMMARY:Escócia🏴󠁧󠁢󠁳󠁣󠁴󠁿 vs. Marrocos🇲🇦
 DESCRIPTION:Grupo C - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Gillette Stadium
@@ -305,7 +305,7 @@ BEGIN:VEVENT
 UID:20260619T213000Z_Brasil_Haiti
 DTSTART;TZID=America/Montevideo:20260619T213000
 DTEND;TZID=America/Montevideo:20260619T233000
-SUMMARY:Brasil vs. Haiti
+SUMMARY:Brasil🇧🇷 vs. Haiti🇭🇹
 DESCRIPTION:Grupo C - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Lincoln Financial Field
@@ -315,7 +315,7 @@ BEGIN:VEVENT
 UID:20260620T000000Z_Turquia_Paraguai
 DTSTART;TZID=America/Montevideo:20260620T000000
 DTEND;TZID=America/Montevideo:20260620T020000
-SUMMARY:Turquia vs. Paraguai
+SUMMARY:Turquia🇹🇷 vs. Paraguai🇵🇾
 DESCRIPTION:Grupo D - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
@@ -325,7 +325,7 @@ BEGIN:VEVENT
 UID:20260620T140000Z_PaisesBaixos_Suecia
 DTSTART;TZID=America/Montevideo:20260620T140000
 DTEND;TZID=America/Montevideo:20260620T160000
-SUMMARY:Países Baixos vs. Suécia
+SUMMARY:Países Baixos🇳🇱 vs. Suécia🇸🇪
 DESCRIPTION:Grupo F - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:NRG Stadium
@@ -335,7 +335,7 @@ BEGIN:VEVENT
 UID:20260620T170000Z_Alemanha_CostaDoMarfim
 DTSTART;TZID=America/Montevideo:20260620T170000
 DTEND;TZID=America/Montevideo:20260620T190000
-SUMMARY:Alemanha vs. Costa do Marfim
+SUMMARY:Alemanha🇩🇪 vs. Costa do Marfim🇨🇮
 DESCRIPTION:Grupo E - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:BMO Field
@@ -345,7 +345,7 @@ BEGIN:VEVENT
 UID:20260620T210000Z_Equador_Curacao
 DTSTART;TZID=America/Montevideo:20260620T210000
 DTEND;TZID=America/Montevideo:20260620T230000
-SUMMARY:Equador vs. Curaçao
+SUMMARY:Equador🇪🇨 vs. Curaçao🇨🇼
 DESCRIPTION:Grupo E - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:GEHA Field at Arrowhead Stadium
@@ -355,7 +355,7 @@ BEGIN:VEVENT
 UID:20260621T010000Z_Tunisia_Japao
 DTSTART;TZID=America/Montevideo:20260621T010000
 DTEND;TZID=America/Montevideo:20260621T030000
-SUMMARY:Tunísia vs. Japão
+SUMMARY:Tunísia🇹🇳 vs. Japão🇯🇵
 DESCRIPTION:Grupo F - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio BBVA
@@ -365,7 +365,7 @@ BEGIN:VEVENT
 UID:20260621T130000Z_Espanha_ArabiaSaudita
 DTSTART;TZID=America/Montevideo:20260621T130000
 DTEND;TZID=America/Montevideo:20260621T150000
-SUMMARY:Espanha vs. Arábia Saudita
+SUMMARY:Espanha🇪🇸 vs. Arábia Saudita🇸🇦
 DESCRIPTION:Grupo H - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
@@ -375,7 +375,7 @@ BEGIN:VEVENT
 UID:20260621T160000Z_Belgica_Ira
 DTSTART;TZID=America/Montevideo:20260621T160000
 DTEND;TZID=America/Montevideo:20260621T180000
-SUMMARY:Bélgica vs. Irã
+SUMMARY:Bélgica🇧🇪 vs. Irã🇮🇷
 DESCRIPTION:Grupo G - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
@@ -385,7 +385,7 @@ BEGIN:VEVENT
 UID:20260621T190000Z_Uruguai_CaboVerde
 DTSTART;TZID=America/Montevideo:20260621T190000
 DTEND;TZID=America/Montevideo:20260621T210000
-SUMMARY:Uruguai vs. Cabo Verde
+SUMMARY:Uruguai🇺🇾 vs. Cabo Verde🇨🇻
 DESCRIPTION:Grupo H - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium
@@ -395,7 +395,7 @@ BEGIN:VEVENT
 UID:20260621T220000Z_NovaZelandia_Egito
 DTSTART;TZID=America/Montevideo:20260621T220000
 DTEND;TZID=America/Montevideo:20260622T000000
-SUMMARY:Nova Zelândia vs. Egito
+SUMMARY:Nova Zelândia🇳🇿 vs. Egito🇪🇬
 DESCRIPTION:Grupo G - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:BC Place
@@ -405,7 +405,7 @@ BEGIN:VEVENT
 UID:20260622T140000Z_Argentina_Austria
 DTSTART;TZID=America/Montevideo:20260622T140000
 DTEND;TZID=America/Montevideo:20260622T160000
-SUMMARY:Argentina vs. Áustria
+SUMMARY:Argentina🇦🇷 vs. Áustria🇦🇹
 DESCRIPTION:Grupo J - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
@@ -415,7 +415,7 @@ BEGIN:VEVENT
 UID:20260622T180000Z_Franca_Iraque
 DTSTART;TZID=America/Montevideo:20260622T180000
 DTEND;TZID=America/Montevideo:20260622T200000
-SUMMARY:França vs. Iraque
+SUMMARY:França🇫🇷 vs. Iraque🇮🇶
 DESCRIPTION:Grupo I - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Lincoln Financial Field
@@ -425,7 +425,7 @@ BEGIN:VEVENT
 UID:20260622T210000Z_Noruega_Senegal
 DTSTART;TZID=America/Montevideo:20260622T210000
 DTEND;TZID=America/Montevideo:20260622T230000
-SUMMARY:Noruega vs. Senegal
+SUMMARY:Noruega🇳🇴 vs. Senegal🇸🇳
 DESCRIPTION:Grupo I - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
@@ -435,7 +435,7 @@ BEGIN:VEVENT
 UID:20260623T000000Z_Jordania_Argelia
 DTSTART;TZID=America/Montevideo:20260623T000000
 DTEND;TZID=America/Montevideo:20260623T020000
-SUMMARY:Jordânia vs. Argélia
+SUMMARY:Jordânia🇯🇴 vs. Argélia🇩🇿
 DESCRIPTION:Grupo J - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
@@ -445,7 +445,7 @@ BEGIN:VEVENT
 UID:20260623T140000Z_Portugal_Uzbequistao
 DTSTART;TZID=America/Montevideo:20260623T140000
 DTEND;TZID=America/Montevideo:20260623T160000
-SUMMARY:Portugal vs. Uzbequistão
+SUMMARY:Portugal🇵🇹 vs. Uzbequistão🇺🇿
 DESCRIPTION:Grupo K - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:NRG Stadium
@@ -455,7 +455,7 @@ BEGIN:VEVENT
 UID:20260623T170000Z_Inglaterra_Gana
 DTSTART;TZID=America/Montevideo:20260623T170000
 DTEND;TZID=America/Montevideo:20260623T190000
-SUMMARY:Inglaterra vs. Gana
+SUMMARY:Inglaterra🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs. Gana🇬🇭
 DESCRIPTION:Grupo L - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Gillette Stadium
@@ -465,7 +465,7 @@ BEGIN:VEVENT
 UID:20260623T200000Z_Panama_Croacia
 DTSTART;TZID=America/Montevideo:20260623T200000
 DTEND;TZID=America/Montevideo:20260623T220000
-SUMMARY:Panamá vs. Croácia
+SUMMARY:Panamá🇵🇦 vs. Croácia🇭🇷
 DESCRIPTION:Grupo L - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:BMO Field
@@ -475,7 +475,7 @@ BEGIN:VEVENT
 UID:20260623T230000Z_Colombia_CongoRD
 DTSTART;TZID=America/Montevideo:20260623T230000
 DTEND;TZID=America/Montevideo:20260624T010000
-SUMMARY:Colômbia vs. Congo RD
+SUMMARY:Colômbia🇨🇴 vs. Congo RD🇨🇩
 DESCRIPTION:Grupo K - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Akron
@@ -485,7 +485,7 @@ BEGIN:VEVENT
 UID:20260624T160000Z_BosniaEHerzegovina_Catar
 DTSTART;TZID=America/Montevideo:20260624T160000
 DTEND;TZID=America/Montevideo:20260624T180000
-SUMMARY:Bósnia e Herzegovina vs. Catar
+SUMMARY:Bósnia e Herzegovina🇧🇦 vs. Catar🇶🇦
 DESCRIPTION:Grupo B - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Lumen Field
@@ -495,7 +495,7 @@ BEGIN:VEVENT
 UID:20260624T160000Z_Suica_Canada
 DTSTART;TZID=America/Montevideo:20260624T160000
 DTEND;TZID=America/Montevideo:20260624T180000
-SUMMARY:Suíça vs. Canadá
+SUMMARY:Suíça🇨🇭 vs. Canadá🇨🇦
 DESCRIPTION:Grupo B - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:BC Place
@@ -505,7 +505,7 @@ BEGIN:VEVENT
 UID:20260624T190000Z_Marrocos_Haiti
 DTSTART;TZID=America/Montevideo:20260624T190000
 DTEND;TZID=America/Montevideo:20260624T210000
-SUMMARY:Marrocos vs. Haiti
+SUMMARY:Marrocos🇲🇦 vs. Haiti🇭🇹
 DESCRIPTION:Grupo C - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
@@ -515,7 +515,7 @@ BEGIN:VEVENT
 UID:20260624T190000Z_Escocia_Brasil
 DTSTART;TZID=America/Montevideo:20260624T190000
 DTEND;TZID=America/Montevideo:20260624T210000
-SUMMARY:Escócia vs. Brasil
+SUMMARY:Escócia🏴󠁧󠁢󠁳󠁣󠁴󠁿 vs. Brasil🇧🇷
 DESCRIPTION:Grupo C - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium
@@ -525,7 +525,7 @@ BEGIN:VEVENT
 UID:20260624T220000Z_RepublicaTcheca_Mexico
 DTSTART;TZID=America/Montevideo:20260624T220000
 DTEND;TZID=America/Montevideo:20260625T000000
-SUMMARY:República Tcheca vs. México
+SUMMARY:República Tcheca🇨🇿 vs. México🇲🇽
 DESCRIPTION:Grupo A - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Banorte
@@ -535,7 +535,7 @@ BEGIN:VEVENT
 UID:20260624T220000Z_AfricaDoSul_CoreiaDoSul
 DTSTART;TZID=America/Montevideo:20260624T220000
 DTEND;TZID=America/Montevideo:20260625T000000
-SUMMARY:África do Sul vs. Coreia do Sul
+SUMMARY:África do Sul🇿🇦 vs. Coreia do Sul🇰🇷
 DESCRIPTION:Grupo A - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio BBVA
@@ -545,7 +545,7 @@ BEGIN:VEVENT
 UID:20260625T170000Z_Curacao_CostaDoMarfim
 DTSTART;TZID=America/Montevideo:20260625T170000
 DTEND;TZID=America/Montevideo:20260625T190000
-SUMMARY:Curaçao vs. Costa do Marfim
+SUMMARY:Curaçao🇨🇼 vs. Costa do Marfim🇨🇮
 DESCRIPTION:Grupo E - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Lincoln Financial Field
@@ -555,7 +555,7 @@ BEGIN:VEVENT
 UID:20260625T170000Z_Equador_Alemanha
 DTSTART;TZID=America/Montevideo:20260625T170000
 DTEND;TZID=America/Montevideo:20260625T190000
-SUMMARY:Equador vs. Alemanha
+SUMMARY:Equador🇪🇨 vs. Alemanha🇩🇪
 DESCRIPTION:Grupo E - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
@@ -565,7 +565,7 @@ BEGIN:VEVENT
 UID:20260625T200000Z_Japao_Suecia
 DTSTART;TZID=America/Montevideo:20260625T200000
 DTEND;TZID=America/Montevideo:20260625T220000
-SUMMARY:Japão vs. Suécia
+SUMMARY:Japão🇯🇵 vs. Suécia🇸🇪
 DESCRIPTION:Grupo F - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
@@ -575,7 +575,7 @@ BEGIN:VEVENT
 UID:20260625T200000Z_Tunisia_PaisesBaixos
 DTSTART;TZID=America/Montevideo:20260625T200000
 DTEND;TZID=America/Montevideo:20260625T220000
-SUMMARY:Tunísia vs. Países Baixos
+SUMMARY:Tunísia🇹🇳 vs. Países Baixos🇳🇱
 DESCRIPTION:Grupo F - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:GEHA Field at Arrowhead Stadium
@@ -585,7 +585,7 @@ BEGIN:VEVENT
 UID:20260625T230000Z_Paraguai_Australia
 DTSTART;TZID=America/Montevideo:20260625T230000
 DTEND;TZID=America/Montevideo:20260626T010000
-SUMMARY:Paraguai vs. Austrália
+SUMMARY:Paraguai🇵🇾 vs. Austrália🇦🇺
 DESCRIPTION:Grupo D - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
@@ -595,7 +595,7 @@ BEGIN:VEVENT
 UID:20260625T230000Z_Turquia_EstadosUnidos
 DTSTART;TZID=America/Montevideo:20260625T230000
 DTEND;TZID=America/Montevideo:20260626T010000
-SUMMARY:Turquia vs. Estados Unidos
+SUMMARY:Turquia🇹🇷 vs. Estados Unidos🇺🇸
 DESCRIPTION:Grupo D - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
@@ -605,7 +605,7 @@ BEGIN:VEVENT
 UID:20260626T160000Z_Noruega_Franca
 DTSTART;TZID=America/Montevideo:20260626T160000
 DTEND;TZID=America/Montevideo:20260626T180000
-SUMMARY:Noruega vs. França
+SUMMARY:Noruega🇳🇴 vs. França🇫🇷
 DESCRIPTION:Grupo I - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Gillette Stadium
@@ -615,7 +615,7 @@ BEGIN:VEVENT
 UID:20260626T160000Z_Senegal_Iraque
 DTSTART;TZID=America/Montevideo:20260626T160000
 DTEND;TZID=America/Montevideo:20260626T180000
-SUMMARY:Senegal vs. Iraque
+SUMMARY:Senegal🇸🇳 vs. Iraque🇮🇶
 DESCRIPTION:Grupo I - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:BMO Field
@@ -625,7 +625,7 @@ BEGIN:VEVENT
 UID:20260626T210000Z_CaboVerde_ArabiaSaudita
 DTSTART;TZID=America/Montevideo:20260626T210000
 DTEND;TZID=America/Montevideo:20260626T230000
-SUMMARY:Cabo Verde vs. Arábia Saudita
+SUMMARY:Cabo Verde🇨🇻 vs. Arábia Saudita🇸🇦
 DESCRIPTION:Grupo H - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:NRG Stadium
@@ -635,7 +635,7 @@ BEGIN:VEVENT
 UID:20260626T210000Z_Uruguai_Espanha
 DTSTART;TZID=America/Montevideo:20260626T210000
 DTEND;TZID=America/Montevideo:20260626T230000
-SUMMARY:Uruguai vs. Espanha
+SUMMARY:Uruguai🇺🇾 vs. Espanha🇪🇸
 DESCRIPTION:Grupo H - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Akron
@@ -645,7 +645,7 @@ BEGIN:VEVENT
 UID:20260627T000000Z_Egito_Ira
 DTSTART;TZID=America/Montevideo:20260627T000000
 DTEND;TZID=America/Montevideo:20260627T020000
-SUMMARY:Egito vs. Irã
+SUMMARY:Egito🇪🇬 vs. Irã🇮🇷
 DESCRIPTION:Grupo G - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Lumen Field
@@ -655,7 +655,7 @@ BEGIN:VEVENT
 UID:20260627T000000Z_NovaZelandia_Belgica
 DTSTART;TZID=America/Montevideo:20260627T000000
 DTEND;TZID=America/Montevideo:20260627T020000
-SUMMARY:Nova Zelândia vs. Bélgica
+SUMMARY:Nova Zelândia🇳🇿 vs. Bélgica🇧🇪
 DESCRIPTION:Grupo G - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:BC Place
@@ -665,7 +665,7 @@ BEGIN:VEVENT
 UID:20260627T180000Z_Croacia_Gana
 DTSTART;TZID=America/Montevideo:20260627T180000
 DTEND;TZID=America/Montevideo:20260627T200000
-SUMMARY:Croácia vs. Gana
+SUMMARY:Croácia🇭🇷 vs. Gana🇬🇭
 DESCRIPTION:Grupo L - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Lincoln Financial Field
@@ -675,7 +675,7 @@ BEGIN:VEVENT
 UID:20260627T180000Z_Panama_Inglaterra
 DTSTART;TZID=America/Montevideo:20260627T180000
 DTEND;TZID=America/Montevideo:20260627T200000
-SUMMARY:Panamá vs. Inglaterra
+SUMMARY:Panamá🇵🇦 vs. Inglaterra🏴󠁧󠁢󠁥󠁮󠁧󠁿
 DESCRIPTION:Grupo L - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
@@ -685,7 +685,7 @@ BEGIN:VEVENT
 UID:20260627T203000Z_Colombia_Portugal
 DTSTART;TZID=America/Montevideo:20260627T203000
 DTEND;TZID=America/Montevideo:20260627T223000
-SUMMARY:Colômbia vs. Portugal
+SUMMARY:Colômbia🇨🇴 vs. Portugal🇵🇹
 DESCRIPTION:Grupo K - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium
@@ -695,7 +695,7 @@ BEGIN:VEVENT
 UID:20260627T203000Z_CongoRD_Uzbequistao
 DTSTART;TZID=America/Montevideo:20260627T203000
 DTEND;TZID=America/Montevideo:20260627T223000
-SUMMARY:Congo RD vs. Uzbequistão
+SUMMARY:Congo RD🇨🇩 vs. Uzbequistão🇺🇿
 DESCRIPTION:Grupo K - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
@@ -705,7 +705,7 @@ BEGIN:VEVENT
 UID:20260627T230000Z_Argelia_Austria
 DTSTART;TZID=America/Montevideo:20260627T230000
 DTEND;TZID=America/Montevideo:20260628T010000
-SUMMARY:Argélia vs. Áustria
+SUMMARY:Argélia🇩🇿 vs. Áustria🇦🇹
 DESCRIPTION:Grupo J - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:GEHA Field at Arrowhead Stadium
@@ -715,7 +715,7 @@ BEGIN:VEVENT
 UID:20260627T230000Z_Jordania_Argentina
 DTSTART;TZID=America/Montevideo:20260627T230000
 DTEND;TZID=America/Montevideo:20260628T010000
-SUMMARY:Jordânia vs. Argentina
+SUMMARY:Jordânia🇯🇴 vs. Argentina🇦🇷
 DESCRIPTION:Grupo J - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
@@ -725,7 +725,7 @@ BEGIN:VEVENT
 UID:20260628T160000Z_AfricaDoSul_Canada
 DTSTART;TZID=America/Montevideo:20260628T160000
 DTEND;TZID=America/Montevideo:20260628T180000
-SUMMARY:África do Sul vs. Canadá
+SUMMARY:África do Sul🇿🇦 vs. Canadá🇨🇦
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
@@ -735,7 +735,7 @@ BEGIN:VEVENT
 UID:20260629T140000Z_Brasil_Japao
 DTSTART;TZID=America/Montevideo:20260629T140000
 DTEND;TZID=America/Montevideo:20260629T160000
-SUMMARY:Brasil vs. Japão
+SUMMARY:Brasil🇧🇷 vs. Japão🇯🇵
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:NRG Stadium
@@ -745,7 +745,7 @@ BEGIN:VEVENT
 UID:20260629T173000Z_Alemanha_Paraguai
 DTSTART;TZID=America/Montevideo:20260629T173000
 DTEND;TZID=America/Montevideo:20260629T193000
-SUMMARY:Alemanha vs. Paraguai
+SUMMARY:Alemanha🇩🇪 vs. Paraguai🇵🇾
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Gillette Stadium
@@ -755,7 +755,7 @@ BEGIN:VEVENT
 UID:20260629T220000Z_PaisesBaixos_Marrocos
 DTSTART;TZID=America/Montevideo:20260629T220000
 DTEND;TZID=America/Montevideo:20260630T000000
-SUMMARY:Países Baixos vs. Marrocos
+SUMMARY:Países Baixos🇳🇱 vs. Marrocos🇲🇦
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio BBVA
@@ -765,7 +765,7 @@ BEGIN:VEVENT
 UID:20260630T140000Z_CostaDoMarfim_Noruega
 DTSTART;TZID=America/Montevideo:20260630T140000
 DTEND;TZID=America/Montevideo:20260630T160000
-SUMMARY:Costa do Marfim vs. Noruega
+SUMMARY:Costa do Marfim🇨🇮 vs. Noruega🇳🇴
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
@@ -775,7 +775,7 @@ BEGIN:VEVENT
 UID:20260630T180000Z_Franca_Suecia
 DTSTART;TZID=America/Montevideo:20260630T180000
 DTEND;TZID=America/Montevideo:20260630T200000
-SUMMARY:França vs. Suécia
+SUMMARY:França🇫🇷 vs. Suécia🇸🇪
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
@@ -785,7 +785,7 @@ BEGIN:VEVENT
 UID:20260630T230000Z_Mexico_Equador
 DTSTART;TZID=America/Montevideo:20260630T230000
 DTEND;TZID=America/Montevideo:20260701T010000
-SUMMARY:México vs. Equador
+SUMMARY:México🇲🇽 vs. Equador🇪🇨
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Banorte
@@ -795,7 +795,7 @@ BEGIN:VEVENT
 UID:20260701T130000Z_Inglaterra_CongoRD
 DTSTART;TZID=America/Montevideo:20260701T130000
 DTEND;TZID=America/Montevideo:20260701T150000
-SUMMARY:Inglaterra vs. Congo RD
+SUMMARY:Inglaterra🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs. Congo RD🇨🇩
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
@@ -805,7 +805,7 @@ BEGIN:VEVENT
 UID:20260701T170000Z_Belgica_Senegal
 DTSTART;TZID=America/Montevideo:20260701T170000
 DTEND;TZID=America/Montevideo:20260701T190000
-SUMMARY:Bélgica vs. Senegal
+SUMMARY:Bélgica🇧🇪 vs. Senegal🇸🇳
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Lumen Field
@@ -815,7 +815,7 @@ BEGIN:VEVENT
 UID:20260701T210000Z_EstadosUnidos_BosniaEHerzegovina
 DTSTART;TZID=America/Montevideo:20260701T210000
 DTEND;TZID=America/Montevideo:20260701T230000
-SUMMARY:Estados Unidos vs. Bósnia e Herzegovina
+SUMMARY:Estados Unidos🇺🇸 vs. Bósnia e Herzegovina🇧🇦
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
@@ -825,7 +825,7 @@ BEGIN:VEVENT
 UID:20260702T160000Z_Espanha_Austria
 DTSTART;TZID=America/Montevideo:20260702T160000
 DTEND;TZID=America/Montevideo:20260702T180000
-SUMMARY:Espanha vs. Áustria
+SUMMARY:Espanha🇪🇸 vs. Áustria🇦🇹
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
@@ -835,7 +835,7 @@ BEGIN:VEVENT
 UID:20260702T200000Z_Portugal_Croacia
 DTSTART;TZID=America/Montevideo:20260702T200000
 DTEND;TZID=America/Montevideo:20260702T220000
-SUMMARY:Portugal vs. Croácia
+SUMMARY:Portugal🇵🇹 vs. Croácia🇭🇷
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:BMO Field
@@ -845,7 +845,7 @@ BEGIN:VEVENT
 UID:20260703T000000Z_Suica_Argelia
 DTSTART;TZID=America/Montevideo:20260703T000000
 DTEND;TZID=America/Montevideo:20260703T020000
-SUMMARY:Suíça vs. Argélia
+SUMMARY:Suíça🇨🇭 vs. Argélia🇩🇿
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:BC Place
@@ -855,7 +855,7 @@ BEGIN:VEVENT
 UID:20260703T150000Z_Australia_Egito
 DTSTART;TZID=America/Montevideo:20260703T150000
 DTEND;TZID=America/Montevideo:20260703T170000
-SUMMARY:Austrália vs. Egito
+SUMMARY:Austrália🇦🇺 vs. Egito🇪🇬
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
@@ -865,7 +865,7 @@ BEGIN:VEVENT
 UID:20260703T190000Z_Argentina_CaboVerde
 DTSTART;TZID=America/Montevideo:20260703T190000
 DTEND;TZID=America/Montevideo:20260703T210000
-SUMMARY:Argentina vs. Cabo Verde
+SUMMARY:Argentina🇦🇷 vs. Cabo Verde🇨🇻
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium
@@ -875,7 +875,7 @@ BEGIN:VEVENT
 UID:20260703T223000Z_Colombia_Gana
 DTSTART;TZID=America/Montevideo:20260703T223000
 DTEND;TZID=America/Montevideo:20260704T003000
-SUMMARY:Colômbia vs. Gana
+SUMMARY:Colômbia🇨🇴 vs. Gana🇬🇭
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:GEHA Field at Arrowhead Stadium
@@ -885,7 +885,7 @@ BEGIN:VEVENT
 UID:20260704T140000Z_Canada_Marrocos
 DTSTART;TZID=America/Montevideo:20260704T140000
 DTEND;TZID=America/Montevideo:20260704T160000
-SUMMARY:Canadá vs. Marrocos
+SUMMARY:Canadá🇨🇦 vs. Marrocos🇲🇦
 DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:NRG Stadium
@@ -895,7 +895,7 @@ BEGIN:VEVENT
 UID:20260704T180000Z_Paraguai_Franca
 DTSTART;TZID=America/Montevideo:20260704T180000
 DTEND;TZID=America/Montevideo:20260704T200000
-SUMMARY:Paraguai vs. França
+SUMMARY:Paraguai🇵🇾 vs. França🇫🇷
 DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Lincoln Financial Field
@@ -905,17 +905,17 @@ BEGIN:VEVENT
 UID:20260705T170000Z_Brasil_Noruega
 DTSTART;TZID=America/Montevideo:20260705T170000
 DTEND;TZID=America/Montevideo:20260705T190000
-SUMMARY:Brasil vs. Noruega
+SUMMARY:Brasil🇧🇷 vs. Noruega🇳🇴
 DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260705T210000Z_Mexico_Inglaterra
-DTSTART;TZID=America/Montevideo:20260705T210000
-DTEND;TZID=America/Montevideo:20260705T230000
-SUMMARY:México vs. Inglaterra
+UID:20260705T220000Z_Mexico_Inglaterra
+DTSTART;TZID=America/Montevideo:20260705T220000
+DTEND;TZID=America/Montevideo:20260706T000000
+SUMMARY:México🇲🇽 vs. Inglaterra🏴󠁧󠁢󠁥󠁮󠁧󠁿
 DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Banorte
@@ -925,7 +925,7 @@ BEGIN:VEVENT
 UID:20260706T160000Z_Portugal_Espanha
 DTSTART;TZID=America/Montevideo:20260706T160000
 DTEND;TZID=America/Montevideo:20260706T180000
-SUMMARY:Portugal vs. Espanha
+SUMMARY:Portugal🇵🇹 vs. Espanha🇪🇸
 DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
@@ -935,7 +935,7 @@ BEGIN:VEVENT
 UID:20260706T210000Z_EstadosUnidos_Belgica
 DTSTART;TZID=America/Montevideo:20260706T210000
 DTEND;TZID=America/Montevideo:20260706T230000
-SUMMARY:Estados Unidos vs. Bélgica
+SUMMARY:Estados Unidos🇺🇸 vs. Bélgica🇧🇪
 DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Lumen Field
@@ -945,7 +945,7 @@ BEGIN:VEVENT
 UID:20260707T130000Z_Argentina_Egito
 DTSTART;TZID=America/Montevideo:20260707T130000
 DTEND;TZID=America/Montevideo:20260707T150000
-SUMMARY:Argentina vs. Egito
+SUMMARY:Argentina🇦🇷 vs. Egito🇪🇬
 DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
@@ -955,17 +955,17 @@ BEGIN:VEVENT
 UID:20260707T170000Z_Suica_Colombia
 DTSTART;TZID=America/Montevideo:20260707T170000
 DTEND;TZID=America/Montevideo:20260707T190000
-SUMMARY:Suíça vs. Colômbia
+SUMMARY:Suíça🇨🇭 vs. Colômbia🇨🇴
 DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:BC Place
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260709T170000Z_RoundOf161Winner_RoundOf162Winner
+UID:20260709T170000Z_Franca_Marrocos
 DTSTART;TZID=America/Montevideo:20260709T170000
 DTEND;TZID=America/Montevideo:20260709T190000
-SUMMARY:Ganador octavos 1 vs. Ganador octavos 2
+SUMMARY:França🇫🇷 vs. Marrocos🇲🇦
 DESCRIPTION:Quartas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Gillette Stadium
@@ -982,10 +982,10 @@ LOCATION:SoFi Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260711T180000Z_RoundOf163Winner_RoundOf164Winner
+UID:20260711T180000Z_Noruega_Inglaterra
 DTSTART;TZID=America/Montevideo:20260711T180000
 DTEND;TZID=America/Montevideo:20260711T200000
-SUMMARY:Ganador octavos 3 vs. Ganador octavos 4
+SUMMARY:Noruega🇳🇴 vs. Inglaterra🏴󠁧󠁢󠁥󠁮󠁧󠁿
 DESCRIPTION:Quartas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium

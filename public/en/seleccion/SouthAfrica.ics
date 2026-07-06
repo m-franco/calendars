@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260611T160000Z_Mexico_SouthAfrica
 DTSTART;TZID=America/Montevideo:20260611T160000
 DTEND;TZID=America/Montevideo:20260611T180000
-SUMMARY:Mexico vs. South Africa
+SUMMARY:Mexico🇲🇽 vs. South Africa🇿🇦
 DESCRIPTION:Group A - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Banorte Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260618T130000Z_CzechRepublic_SouthAfrica
 DTSTART;TZID=America/Montevideo:20260618T130000
 DTEND;TZID=America/Montevideo:20260618T150000
-SUMMARY:Czech Republic vs. South Africa
+SUMMARY:Czech Republic🇨🇿 vs. South Africa🇿🇦
 DESCRIPTION:Group A - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260624T220000Z_SouthAfrica_SouthKorea
 DTSTART;TZID=America/Montevideo:20260624T220000
 DTEND;TZID=America/Montevideo:20260625T000000
-SUMMARY:South Africa vs. South Korea
+SUMMARY:South Africa🇿🇦 vs. South Korea🇰🇷
 DESCRIPTION:Group A - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:BBVA Stadium
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260628T160000Z_SouthAfrica_Canada
 DTSTART;TZID=America/Montevideo:20260628T160000
 DTEND;TZID=America/Montevideo:20260628T180000
-SUMMARY:South Africa vs. Canada
+SUMMARY:South Africa🇿🇦 vs. Canada🇨🇦
 DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:SoFi Stadium

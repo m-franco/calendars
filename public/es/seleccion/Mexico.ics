@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260611T160000Z_Mexico_Sudafrica
 DTSTART;TZID=America/Montevideo:20260611T160000
 DTEND;TZID=America/Montevideo:20260611T180000
-SUMMARY:México vs. Sudáfrica
+SUMMARY:México🇲🇽 vs. Sudáfrica🇿🇦
 DESCRIPTION:Grupo A - Fecha 1 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Banorte
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260618T220000Z_Mexico_CoreaDelSur
 DTSTART;TZID=America/Montevideo:20260618T220000
 DTEND;TZID=America/Montevideo:20260619T000000
-SUMMARY:México vs. Corea del Sur
+SUMMARY:México🇲🇽 vs. Corea del Sur🇰🇷
 DESCRIPTION:Grupo A - Fecha 2 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Akron
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260624T220000Z_RepublicaCheca_Mexico
 DTSTART;TZID=America/Montevideo:20260624T220000
 DTEND;TZID=America/Montevideo:20260625T000000
-SUMMARY:República Checa vs. México
+SUMMARY:República Checa🇨🇿 vs. México🇲🇽
 DESCRIPTION:Grupo A - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Banorte
@@ -35,17 +35,17 @@ BEGIN:VEVENT
 UID:20260630T230000Z_Mexico_Ecuador
 DTSTART;TZID=America/Montevideo:20260630T230000
 DTEND;TZID=America/Montevideo:20260701T010000
-SUMMARY:México vs. Ecuador
+SUMMARY:México🇲🇽 vs. Ecuador🇪🇨
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Banorte
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260705T210000Z_Mexico_Inglaterra
-DTSTART;TZID=America/Montevideo:20260705T210000
-DTEND;TZID=America/Montevideo:20260705T230000
-SUMMARY:México vs. Inglaterra
+UID:20260705T220000Z_Mexico_Inglaterra
+DTSTART;TZID=America/Montevideo:20260705T220000
+DTEND;TZID=America/Montevideo:20260706T000000
+SUMMARY:México🇲🇽 vs. Inglaterra🏴󠁧󠁢󠁥󠁮󠁧󠁿
 DESCRIPTION:Octavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Banorte

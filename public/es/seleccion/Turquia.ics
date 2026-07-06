@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260614T010000Z_Australia_Turquia
 DTSTART;TZID=America/Montevideo:20260614T010000
 DTEND;TZID=America/Montevideo:20260614T030000
-SUMMARY:Australia vs. Turquía
+SUMMARY:Australia🇦🇺 vs. Turquía🇹🇷
 DESCRIPTION:Grupo D - Fecha 1 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:BC Place
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260620T000000Z_Turquia_Paraguay
 DTSTART;TZID=America/Montevideo:20260620T000000
 DTEND;TZID=America/Montevideo:20260620T020000
-SUMMARY:Turquía vs. Paraguay
+SUMMARY:Turquía🇹🇷 vs. Paraguay🇵🇾
 DESCRIPTION:Grupo D - Fecha 2 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260625T230000Z_Turquia_EstadosUnidos
 DTSTART;TZID=America/Montevideo:20260625T230000
 DTEND;TZID=America/Montevideo:20260626T010000
-SUMMARY:Turquía vs. Estados Unidos
+SUMMARY:Turquía🇹🇷 vs. Estados Unidos🇺🇸
 DESCRIPTION:Grupo D - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:SoFi Stadium

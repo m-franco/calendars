@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260615T130000Z_Espanha_CaboVerde
 DTSTART;TZID=America/Montevideo:20260615T130000
 DTEND;TZID=America/Montevideo:20260615T150000
-SUMMARY:Espanha vs. Cabo Verde
+SUMMARY:Espanha🇪🇸 vs. Cabo Verde🇨🇻
 DESCRIPTION:Grupo H - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260621T190000Z_Uruguai_CaboVerde
 DTSTART;TZID=America/Montevideo:20260621T190000
 DTEND;TZID=America/Montevideo:20260621T210000
-SUMMARY:Uruguai vs. Cabo Verde
+SUMMARY:Uruguai🇺🇾 vs. Cabo Verde🇨🇻
 DESCRIPTION:Grupo H - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260626T210000Z_CaboVerde_ArabiaSaudita
 DTSTART;TZID=America/Montevideo:20260626T210000
 DTEND;TZID=America/Montevideo:20260626T230000
-SUMMARY:Cabo Verde vs. Arábia Saudita
+SUMMARY:Cabo Verde🇨🇻 vs. Arábia Saudita🇸🇦
 DESCRIPTION:Grupo H - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:NRG Stadium
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260703T190000Z_Argentina_CaboVerde
 DTSTART;TZID=America/Montevideo:20260703T190000
 DTEND;TZID=America/Montevideo:20260703T210000
-SUMMARY:Argentina vs. Cabo Verde
+SUMMARY:Argentina🇦🇷 vs. Cabo Verde🇨🇻
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium

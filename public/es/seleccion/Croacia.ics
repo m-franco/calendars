@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260617T170000Z_Inglaterra_Croacia
 DTSTART;TZID=America/Montevideo:20260617T170000
 DTEND;TZID=America/Montevideo:20260617T190000
-SUMMARY:Inglaterra vs. Croacia
+SUMMARY:Inglaterra🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs. Croacia🇭🇷
 DESCRIPTION:Grupo L - Fecha 1 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260623T200000Z_Panama_Croacia
 DTSTART;TZID=America/Montevideo:20260623T200000
 DTEND;TZID=America/Montevideo:20260623T220000
-SUMMARY:Panamá vs. Croacia
+SUMMARY:Panamá🇵🇦 vs. Croacia🇭🇷
 DESCRIPTION:Grupo L - Fecha 2 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:BMO Field
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260627T180000Z_Croacia_Ghana
 DTSTART;TZID=America/Montevideo:20260627T180000
 DTEND;TZID=America/Montevideo:20260627T200000
-SUMMARY:Croacia vs. Ghana
+SUMMARY:Croacia🇭🇷 vs. Ghana🇬🇭
 DESCRIPTION:Grupo L - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Lincoln Financial Field
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260702T200000Z_Portugal_Croacia
 DTSTART;TZID=America/Montevideo:20260702T200000
 DTEND;TZID=America/Montevideo:20260702T220000
-SUMMARY:Portugal vs. Croacia
+SUMMARY:Portugal🇵🇹 vs. Croacia🇭🇷
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:BMO Field

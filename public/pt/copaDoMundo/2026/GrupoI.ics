@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260616T160000Z_Franca_Senegal
 DTSTART;TZID=America/Montevideo:20260616T160000
 DTEND;TZID=America/Montevideo:20260616T180000
-SUMMARY:França vs. Senegal
+SUMMARY:França🇫🇷 vs. Senegal🇸🇳
 DESCRIPTION:Grupo I - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260616T190000Z_Iraque_Noruega
 DTSTART;TZID=America/Montevideo:20260616T190000
 DTEND;TZID=America/Montevideo:20260616T210000
-SUMMARY:Iraque vs. Noruega
+SUMMARY:Iraque🇮🇶 vs. Noruega🇳🇴
 DESCRIPTION:Grupo I - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Gillette Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260622T180000Z_Franca_Iraque
 DTSTART;TZID=America/Montevideo:20260622T180000
 DTEND;TZID=America/Montevideo:20260622T200000
-SUMMARY:França vs. Iraque
+SUMMARY:França🇫🇷 vs. Iraque🇮🇶
 DESCRIPTION:Grupo I - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Lincoln Financial Field
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260622T210000Z_Noruega_Senegal
 DTSTART;TZID=America/Montevideo:20260622T210000
 DTEND;TZID=America/Montevideo:20260622T230000
-SUMMARY:Noruega vs. Senegal
+SUMMARY:Noruega🇳🇴 vs. Senegal🇸🇳
 DESCRIPTION:Grupo I - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 UID:20260626T160000Z_Noruega_Franca
 DTSTART;TZID=America/Montevideo:20260626T160000
 DTEND;TZID=America/Montevideo:20260626T180000
-SUMMARY:Noruega vs. França
+SUMMARY:Noruega🇳🇴 vs. França🇫🇷
 DESCRIPTION:Grupo I - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Gillette Stadium
@@ -55,7 +55,7 @@ BEGIN:VEVENT
 UID:20260626T160000Z_Senegal_Iraque
 DTSTART;TZID=America/Montevideo:20260626T160000
 DTEND;TZID=America/Montevideo:20260626T180000
-SUMMARY:Senegal vs. Iraque
+SUMMARY:Senegal🇸🇳 vs. Iraque🇮🇶
 DESCRIPTION:Grupo I - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:BMO Field
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 UID:20260630T140000Z_CostaDoMarfim_Noruega
 DTSTART;TZID=America/Montevideo:20260630T140000
 DTEND;TZID=America/Montevideo:20260630T160000
-SUMMARY:Costa do Marfim vs. Noruega
+SUMMARY:Costa do Marfim🇨🇮 vs. Noruega🇳🇴
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 UID:20260630T180000Z_Franca_Suecia
 DTSTART;TZID=America/Montevideo:20260630T180000
 DTEND;TZID=America/Montevideo:20260630T200000
-SUMMARY:França vs. Suécia
+SUMMARY:França🇫🇷 vs. Suécia🇸🇪
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 UID:20260701T170000Z_Belgica_Senegal
 DTSTART;TZID=America/Montevideo:20260701T170000
 DTEND;TZID=America/Montevideo:20260701T190000
-SUMMARY:Bélgica vs. Senegal
+SUMMARY:Bélgica🇧🇪 vs. Senegal🇸🇳
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Lumen Field
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 UID:20260704T180000Z_Paraguai_Franca
 DTSTART;TZID=America/Montevideo:20260704T180000
 DTEND;TZID=America/Montevideo:20260704T200000
-SUMMARY:Paraguai vs. França
+SUMMARY:Paraguai🇵🇾 vs. França🇫🇷
 DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Lincoln Financial Field
@@ -105,9 +105,29 @@ BEGIN:VEVENT
 UID:20260705T170000Z_Brasil_Noruega
 DTSTART;TZID=America/Montevideo:20260705T170000
 DTEND;TZID=America/Montevideo:20260705T190000
-SUMMARY:Brasil vs. Noruega
+SUMMARY:Brasil🇧🇷 vs. Noruega🇳🇴
 DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260709T170000Z_Franca_Marrocos
+DTSTART;TZID=America/Montevideo:20260709T170000
+DTEND;TZID=America/Montevideo:20260709T190000
+SUMMARY:França🇫🇷 vs. Marrocos🇲🇦
+DESCRIPTION:Quartas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Gillette Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260711T180000Z_Noruega_Inglaterra
+DTSTART;TZID=America/Montevideo:20260711T180000
+DTEND;TZID=America/Montevideo:20260711T200000
+SUMMARY:Noruega🇳🇴 vs. Inglaterra🏴󠁧󠁢󠁥󠁮󠁧󠁿
+DESCRIPTION:Quartas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Hard Rock Stadium
 END:VEVENT
 END:VCALENDAR

@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260616T190000Z_Irak_Noruega
 DTSTART;TZID=America/Montevideo:20260616T190000
 DTEND;TZID=America/Montevideo:20260616T210000
-SUMMARY:Irak vs. Noruega
+SUMMARY:Irak🇮🇶 vs. Noruega🇳🇴
 DESCRIPTION:Grupo I - Fecha 1 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Gillette Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260622T180000Z_Francia_Irak
 DTSTART;TZID=America/Montevideo:20260622T180000
 DTEND;TZID=America/Montevideo:20260622T200000
-SUMMARY:Francia vs. Irak
+SUMMARY:Francia🇫🇷 vs. Irak🇮🇶
 DESCRIPTION:Grupo I - Fecha 2 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Lincoln Financial Field
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260626T160000Z_Senegal_Irak
 DTSTART;TZID=America/Montevideo:20260626T160000
 DTEND;TZID=America/Montevideo:20260626T180000
-SUMMARY:Senegal vs. Irak
+SUMMARY:Senegal🇸🇳 vs. Irak🇮🇶
 DESCRIPTION:Grupo I - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:BMO Field

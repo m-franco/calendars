@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260614T140000Z_Germany_Curacao
 DTSTART;TZID=America/Montevideo:20260614T140000
 DTEND;TZID=America/Montevideo:20260614T160000
-SUMMARY:Germany vs. Curaçao
+SUMMARY:Germany🇩🇪 vs. Curaçao🇨🇼
 DESCRIPTION:Group E - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:NRG Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260620T170000Z_Germany_IvoryCoast
 DTSTART;TZID=America/Montevideo:20260620T170000
 DTEND;TZID=America/Montevideo:20260620T190000
-SUMMARY:Germany vs. Ivory Coast
+SUMMARY:Germany🇩🇪 vs. Ivory Coast🇨🇮
 DESCRIPTION:Group E - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:BMO Field
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260625T170000Z_Ecuador_Germany
 DTSTART;TZID=America/Montevideo:20260625T170000
 DTEND;TZID=America/Montevideo:20260625T190000
-SUMMARY:Ecuador vs. Germany
+SUMMARY:Ecuador🇪🇨 vs. Germany🇩🇪
 DESCRIPTION:Group E - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260629T173000Z_Germany_Paraguay
 DTSTART;TZID=America/Montevideo:20260629T173000
 DTEND;TZID=America/Montevideo:20260629T193000
-SUMMARY:Germany vs. Paraguay
+SUMMARY:Germany🇩🇪 vs. Paraguay🇵🇾
 DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Gillette Stadium

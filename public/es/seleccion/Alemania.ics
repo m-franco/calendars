@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260614T140000Z_Alemania_Curazao
 DTSTART;TZID=America/Montevideo:20260614T140000
 DTEND;TZID=America/Montevideo:20260614T160000
-SUMMARY:Alemania vs. Curazao
+SUMMARY:Alemania🇩🇪 vs. Curazao🇨🇼
 DESCRIPTION:Grupo E - Fecha 1 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:NRG Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260620T170000Z_Alemania_CostaDeMarfil
 DTSTART;TZID=America/Montevideo:20260620T170000
 DTEND;TZID=America/Montevideo:20260620T190000
-SUMMARY:Alemania vs. Costa de Marfil
+SUMMARY:Alemania🇩🇪 vs. Costa de Marfil🇨🇮
 DESCRIPTION:Grupo E - Fecha 2 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:BMO Field
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260625T170000Z_Ecuador_Alemania
 DTSTART;TZID=America/Montevideo:20260625T170000
 DTEND;TZID=America/Montevideo:20260625T190000
-SUMMARY:Ecuador vs. Alemania
+SUMMARY:Ecuador🇪🇨 vs. Alemania🇩🇪
 DESCRIPTION:Grupo E - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260629T173000Z_Alemania_Paraguay
 DTSTART;TZID=America/Montevideo:20260629T173000
 DTEND;TZID=America/Montevideo:20260629T193000
-SUMMARY:Alemania vs. Paraguay
+SUMMARY:Alemania🇩🇪 vs. Paraguay🇵🇾
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Gillette Stadium

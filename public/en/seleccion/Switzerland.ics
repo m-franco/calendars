@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260613T160000Z_Qatar_Switzerland
 DTSTART;TZID=America/Montevideo:20260613T160000
 DTEND;TZID=America/Montevideo:20260613T180000
-SUMMARY:Qatar vs. Switzerland
+SUMMARY:Qatar🇶🇦 vs. Switzerland🇨🇭
 DESCRIPTION:Group B - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260618T160000Z_Switzerland_BosniaAndHerzegovina
 DTSTART;TZID=America/Montevideo:20260618T160000
 DTEND;TZID=America/Montevideo:20260618T180000
-SUMMARY:Switzerland vs. Bosnia and Herzegovina
+SUMMARY:Switzerland🇨🇭 vs. Bosnia and Herzegovina🇧🇦
 DESCRIPTION:Group B - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260624T160000Z_Switzerland_Canada
 DTSTART;TZID=America/Montevideo:20260624T160000
 DTEND;TZID=America/Montevideo:20260624T180000
-SUMMARY:Switzerland vs. Canada
+SUMMARY:Switzerland🇨🇭 vs. Canada🇨🇦
 DESCRIPTION:Group B - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:BC Place
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260703T000000Z_Switzerland_Algeria
 DTSTART;TZID=America/Montevideo:20260703T000000
 DTEND;TZID=America/Montevideo:20260703T020000
-SUMMARY:Switzerland vs. Algeria
+SUMMARY:Switzerland🇨🇭 vs. Algeria🇩🇿
 DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:BC Place
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 UID:20260707T170000Z_Switzerland_Colombia
 DTSTART;TZID=America/Montevideo:20260707T170000
 DTEND;TZID=America/Montevideo:20260707T190000
-SUMMARY:Switzerland vs. Colombia
+SUMMARY:Switzerland🇨🇭 vs. Colombia🇨🇴
 DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:BC Place

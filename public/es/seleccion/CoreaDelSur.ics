@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260611T230000Z_CoreaDelSur_RepublicaCheca
 DTSTART;TZID=America/Montevideo:20260611T230000
 DTEND;TZID=America/Montevideo:20260612T010000
-SUMMARY:Corea del Sur vs. República Checa
+SUMMARY:Corea del Sur🇰🇷 vs. República Checa🇨🇿
 DESCRIPTION:Grupo A - Fecha 1 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Akron
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260618T220000Z_Mexico_CoreaDelSur
 DTSTART;TZID=America/Montevideo:20260618T220000
 DTEND;TZID=America/Montevideo:20260619T000000
-SUMMARY:México vs. Corea del Sur
+SUMMARY:México🇲🇽 vs. Corea del Sur🇰🇷
 DESCRIPTION:Grupo A - Fecha 2 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Akron
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260624T220000Z_Sudafrica_CoreaDelSur
 DTSTART;TZID=America/Montevideo:20260624T220000
 DTEND;TZID=America/Montevideo:20260625T000000
-SUMMARY:Sudáfrica vs. Corea del Sur
+SUMMARY:Sudáfrica🇿🇦 vs. Corea del Sur🇰🇷
 DESCRIPTION:Grupo A - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio BBVA

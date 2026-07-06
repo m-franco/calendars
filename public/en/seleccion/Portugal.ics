@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260617T140000Z_Portugal_DRCongo
 DTSTART;TZID=America/Montevideo:20260617T140000
 DTEND;TZID=America/Montevideo:20260617T160000
-SUMMARY:Portugal vs. DR Congo
+SUMMARY:Portugal🇵🇹 vs. DR Congo🇨🇩
 DESCRIPTION:Group K - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:NRG Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260623T140000Z_Portugal_Uzbekistan
 DTSTART;TZID=America/Montevideo:20260623T140000
 DTEND;TZID=America/Montevideo:20260623T160000
-SUMMARY:Portugal vs. Uzbekistan
+SUMMARY:Portugal🇵🇹 vs. Uzbekistan🇺🇿
 DESCRIPTION:Group K - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:NRG Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260627T203000Z_Colombia_Portugal
 DTSTART;TZID=America/Montevideo:20260627T203000
 DTEND;TZID=America/Montevideo:20260627T223000
-SUMMARY:Colombia vs. Portugal
+SUMMARY:Colombia🇨🇴 vs. Portugal🇵🇹
 DESCRIPTION:Group K - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260702T200000Z_Portugal_Croatia
 DTSTART;TZID=America/Montevideo:20260702T200000
 DTEND;TZID=America/Montevideo:20260702T220000
-SUMMARY:Portugal vs. Croatia
+SUMMARY:Portugal🇵🇹 vs. Croatia🇭🇷
 DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:BMO Field
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 UID:20260706T160000Z_Portugal_Spain
 DTSTART;TZID=America/Montevideo:20260706T160000
 DTEND;TZID=America/Montevideo:20260706T180000
-SUMMARY:Portugal vs. Spain
+SUMMARY:Portugal🇵🇹 vs. Spain🇪🇸
 DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:AT&T Stadium

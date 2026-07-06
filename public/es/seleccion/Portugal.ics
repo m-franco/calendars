@@ -2,10 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Calendarios Copa del Mundo//ES
 BEGIN:VEVENT
-UID:20260617T140000Z_Portugal_RepublicaDemocraticaDelCongo
+UID:20260617T140000Z_Portugal_RDCongo
 DTSTART;TZID=America/Montevideo:20260617T140000
 DTEND;TZID=America/Montevideo:20260617T160000
-SUMMARY:Portugal vs. República Democrática del Congo
+SUMMARY:Portugal🇵🇹 vs. RD Congo🇨🇩
 DESCRIPTION:Grupo K - Fecha 1 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:NRG Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260623T140000Z_Portugal_Uzbekistan
 DTSTART;TZID=America/Montevideo:20260623T140000
 DTEND;TZID=America/Montevideo:20260623T160000
-SUMMARY:Portugal vs. Uzbekistán
+SUMMARY:Portugal🇵🇹 vs. Uzbekistán🇺🇿
 DESCRIPTION:Grupo K - Fecha 2 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:NRG Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260627T203000Z_Colombia_Portugal
 DTSTART;TZID=America/Montevideo:20260627T203000
 DTEND;TZID=America/Montevideo:20260627T223000
-SUMMARY:Colombia vs. Portugal
+SUMMARY:Colombia🇨🇴 vs. Portugal🇵🇹
 DESCRIPTION:Grupo K - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260702T200000Z_Portugal_Croacia
 DTSTART;TZID=America/Montevideo:20260702T200000
 DTEND;TZID=America/Montevideo:20260702T220000
-SUMMARY:Portugal vs. Croacia
+SUMMARY:Portugal🇵🇹 vs. Croacia🇭🇷
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:BMO Field
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 UID:20260706T160000Z_Portugal_Espana
 DTSTART;TZID=America/Montevideo:20260706T160000
 DTEND;TZID=America/Montevideo:20260706T180000
-SUMMARY:Portugal vs. España
+SUMMARY:Portugal🇵🇹 vs. España🇪🇸
 DESCRIPTION:Octavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:AT&T Stadium

@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260616T160000Z_Francia_Senegal
 DTSTART;TZID=America/Montevideo:20260616T160000
 DTEND;TZID=America/Montevideo:20260616T180000
-SUMMARY:Francia vs. Senegal
+SUMMARY:Francia🇫🇷 vs. Senegal🇸🇳
 DESCRIPTION:Grupo I - Fecha 1 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260622T210000Z_Noruega_Senegal
 DTSTART;TZID=America/Montevideo:20260622T210000
 DTEND;TZID=America/Montevideo:20260622T230000
-SUMMARY:Noruega vs. Senegal
+SUMMARY:Noruega🇳🇴 vs. Senegal🇸🇳
 DESCRIPTION:Grupo I - Fecha 2 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260626T160000Z_Senegal_Irak
 DTSTART;TZID=America/Montevideo:20260626T160000
 DTEND;TZID=America/Montevideo:20260626T180000
-SUMMARY:Senegal vs. Irak
+SUMMARY:Senegal🇸🇳 vs. Irak🇮🇶
 DESCRIPTION:Grupo I - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:BMO Field
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260701T170000Z_Belgica_Senegal
 DTSTART;TZID=America/Montevideo:20260701T170000
 DTEND;TZID=America/Montevideo:20260701T190000
-SUMMARY:Bélgica vs. Senegal
+SUMMARY:Bélgica🇧🇪 vs. Senegal🇸🇳
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Lumen Field

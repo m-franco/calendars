@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260615T130000Z_Espanha_CaboVerde
 DTSTART;TZID=America/Montevideo:20260615T130000
 DTEND;TZID=America/Montevideo:20260615T150000
-SUMMARY:Espanha vs. Cabo Verde
+SUMMARY:Espanha🇪🇸 vs. Cabo Verde🇨🇻
 DESCRIPTION:Grupo H - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260615T190000Z_ArabiaSaudita_Uruguai
 DTSTART;TZID=America/Montevideo:20260615T190000
 DTEND;TZID=America/Montevideo:20260615T210000
-SUMMARY:Arábia Saudita vs. Uruguai
+SUMMARY:Arábia Saudita🇸🇦 vs. Uruguai🇺🇾
 DESCRIPTION:Grupo H - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260621T130000Z_Espanha_ArabiaSaudita
 DTSTART;TZID=America/Montevideo:20260621T130000
 DTEND;TZID=America/Montevideo:20260621T150000
-SUMMARY:Espanha vs. Arábia Saudita
+SUMMARY:Espanha🇪🇸 vs. Arábia Saudita🇸🇦
 DESCRIPTION:Grupo H - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260621T190000Z_Uruguai_CaboVerde
 DTSTART;TZID=America/Montevideo:20260621T190000
 DTEND;TZID=America/Montevideo:20260621T210000
-SUMMARY:Uruguai vs. Cabo Verde
+SUMMARY:Uruguai🇺🇾 vs. Cabo Verde🇨🇻
 DESCRIPTION:Grupo H - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 UID:20260626T210000Z_CaboVerde_ArabiaSaudita
 DTSTART;TZID=America/Montevideo:20260626T210000
 DTEND;TZID=America/Montevideo:20260626T230000
-SUMMARY:Cabo Verde vs. Arábia Saudita
+SUMMARY:Cabo Verde🇨🇻 vs. Arábia Saudita🇸🇦
 DESCRIPTION:Grupo H - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:NRG Stadium
@@ -55,7 +55,7 @@ BEGIN:VEVENT
 UID:20260626T210000Z_Uruguai_Espanha
 DTSTART;TZID=America/Montevideo:20260626T210000
 DTEND;TZID=America/Montevideo:20260626T230000
-SUMMARY:Uruguai vs. Espanha
+SUMMARY:Uruguai🇺🇾 vs. Espanha🇪🇸
 DESCRIPTION:Grupo H - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Akron
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 UID:20260702T160000Z_Espanha_Austria
 DTSTART;TZID=America/Montevideo:20260702T160000
 DTEND;TZID=America/Montevideo:20260702T180000
-SUMMARY:Espanha vs. Áustria
+SUMMARY:Espanha🇪🇸 vs. Áustria🇦🇹
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 UID:20260703T190000Z_Argentina_CaboVerde
 DTSTART;TZID=America/Montevideo:20260703T190000
 DTEND;TZID=America/Montevideo:20260703T210000
-SUMMARY:Argentina vs. Cabo Verde
+SUMMARY:Argentina🇦🇷 vs. Cabo Verde🇨🇻
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 UID:20260706T160000Z_Portugal_Espanha
 DTSTART;TZID=America/Montevideo:20260706T160000
 DTEND;TZID=America/Montevideo:20260706T180000
-SUMMARY:Portugal vs. Espanha
+SUMMARY:Portugal🇵🇹 vs. Espanha🇪🇸
 DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:AT&T Stadium

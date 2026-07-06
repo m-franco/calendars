@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260617T140000Z_Portugal_CongoRD
 DTSTART;TZID=America/Montevideo:20260617T140000
 DTEND;TZID=America/Montevideo:20260617T160000
-SUMMARY:Portugal vs. Congo RD
+SUMMARY:Portugal🇵🇹 vs. Congo RD🇨🇩
 DESCRIPTION:Grupo K - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:NRG Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260623T230000Z_Colombia_CongoRD
 DTSTART;TZID=America/Montevideo:20260623T230000
 DTEND;TZID=America/Montevideo:20260624T010000
-SUMMARY:Colômbia vs. Congo RD
+SUMMARY:Colômbia🇨🇴 vs. Congo RD🇨🇩
 DESCRIPTION:Grupo K - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Akron
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260627T203000Z_CongoRD_Uzbequistao
 DTSTART;TZID=America/Montevideo:20260627T203000
 DTEND;TZID=America/Montevideo:20260627T223000
-SUMMARY:Congo RD vs. Uzbequistão
+SUMMARY:Congo RD🇨🇩 vs. Uzbequistão🇺🇿
 DESCRIPTION:Grupo K - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260701T130000Z_Inglaterra_CongoRD
 DTSTART;TZID=America/Montevideo:20260701T130000
 DTEND;TZID=America/Montevideo:20260701T150000
-SUMMARY:Inglaterra vs. Congo RD
+SUMMARY:Inglaterra🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs. Congo RD🇨🇩
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium

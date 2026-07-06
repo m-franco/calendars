@@ -2,10 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Calendarios Copa del Mundo//ES
 BEGIN:VEVENT
-UID:20260617T140000Z_Portugal_RepublicaDemocraticaDelCongo
+UID:20260617T140000Z_Portugal_RDCongo
 DTSTART;TZID=America/Montevideo:20260617T140000
 DTEND;TZID=America/Montevideo:20260617T160000
-SUMMARY:Portugal vs. República Democrática del Congo
+SUMMARY:Portugal🇵🇹 vs. RD Congo🇨🇩
 DESCRIPTION:Grupo K - Fecha 1 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:NRG Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260617T230000Z_Uzbekistan_Colombia
 DTSTART;TZID=America/Montevideo:20260617T230000
 DTEND;TZID=America/Montevideo:20260618T010000
-SUMMARY:Uzbekistán vs. Colombia
+SUMMARY:Uzbekistán🇺🇿 vs. Colombia🇨🇴
 DESCRIPTION:Grupo K - Fecha 1 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Banorte
@@ -25,17 +25,17 @@ BEGIN:VEVENT
 UID:20260623T140000Z_Portugal_Uzbekistan
 DTSTART;TZID=America/Montevideo:20260623T140000
 DTEND;TZID=America/Montevideo:20260623T160000
-SUMMARY:Portugal vs. Uzbekistán
+SUMMARY:Portugal🇵🇹 vs. Uzbekistán🇺🇿
 DESCRIPTION:Grupo K - Fecha 2 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:NRG Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260623T230000Z_Colombia_RepublicaDemocraticaDelCongo
+UID:20260623T230000Z_Colombia_RDCongo
 DTSTART;TZID=America/Montevideo:20260623T230000
 DTEND;TZID=America/Montevideo:20260624T010000
-SUMMARY:Colombia vs. República Democrática del Congo
+SUMMARY:Colombia🇨🇴 vs. RD Congo🇨🇩
 DESCRIPTION:Grupo K - Fecha 2 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Akron
@@ -45,27 +45,27 @@ BEGIN:VEVENT
 UID:20260627T203000Z_Colombia_Portugal
 DTSTART;TZID=America/Montevideo:20260627T203000
 DTEND;TZID=America/Montevideo:20260627T223000
-SUMMARY:Colombia vs. Portugal
+SUMMARY:Colombia🇨🇴 vs. Portugal🇵🇹
 DESCRIPTION:Grupo K - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260627T203000Z_RepublicaDemocraticaDelCongo_Uzbekistan
+UID:20260627T203000Z_RDCongo_Uzbekistan
 DTSTART;TZID=America/Montevideo:20260627T203000
 DTEND;TZID=America/Montevideo:20260627T223000
-SUMMARY:República Democrática del Congo vs. Uzbekistán
+SUMMARY:RD Congo🇨🇩 vs. Uzbekistán🇺🇿
 DESCRIPTION:Grupo K - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260701T130000Z_Inglaterra_RepublicaDemocraticaDelCongo
+UID:20260701T130000Z_Inglaterra_RDCongo
 DTSTART;TZID=America/Montevideo:20260701T130000
 DTEND;TZID=America/Montevideo:20260701T150000
-SUMMARY:Inglaterra vs. República Democrática del Congo
+SUMMARY:Inglaterra🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs. RD Congo🇨🇩
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 UID:20260702T200000Z_Portugal_Croacia
 DTSTART;TZID=America/Montevideo:20260702T200000
 DTEND;TZID=America/Montevideo:20260702T220000
-SUMMARY:Portugal vs. Croacia
+SUMMARY:Portugal🇵🇹 vs. Croacia🇭🇷
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:BMO Field
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 UID:20260703T223000Z_Colombia_Ghana
 DTSTART;TZID=America/Montevideo:20260703T223000
 DTEND;TZID=America/Montevideo:20260704T003000
-SUMMARY:Colombia vs. Ghana
+SUMMARY:Colombia🇨🇴 vs. Ghana🇬🇭
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:GEHA Field at Arrowhead Stadium
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 UID:20260706T160000Z_Portugal_Espana
 DTSTART;TZID=America/Montevideo:20260706T160000
 DTEND;TZID=America/Montevideo:20260706T180000
-SUMMARY:Portugal vs. España
+SUMMARY:Portugal🇵🇹 vs. España🇪🇸
 DESCRIPTION:Octavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 UID:20260707T170000Z_Suiza_Colombia
 DTSTART;TZID=America/Montevideo:20260707T170000
 DTEND;TZID=America/Montevideo:20260707T190000
-SUMMARY:Suiza vs. Colombia
+SUMMARY:Suiza🇨🇭 vs. Colombia🇨🇴
 DESCRIPTION:Octavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:BC Place

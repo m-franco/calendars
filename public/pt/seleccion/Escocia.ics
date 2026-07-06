@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260613T220000Z_Haiti_Escocia
 DTSTART;TZID=America/Montevideo:20260613T220000
 DTEND;TZID=America/Montevideo:20260614T000000
-SUMMARY:Haiti vs. Escócia
+SUMMARY:Haiti🇭🇹 vs. Escócia🏴󠁧󠁢󠁳󠁣󠁴󠁿
 DESCRIPTION:Grupo C - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Gillette Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260619T190000Z_Escocia_Marrocos
 DTSTART;TZID=America/Montevideo:20260619T190000
 DTEND;TZID=America/Montevideo:20260619T210000
-SUMMARY:Escócia vs. Marrocos
+SUMMARY:Escócia🏴󠁧󠁢󠁳󠁣󠁴󠁿 vs. Marrocos🇲🇦
 DESCRIPTION:Grupo C - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Gillette Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260624T190000Z_Escocia_Brasil
 DTSTART;TZID=America/Montevideo:20260624T190000
 DTEND;TZID=America/Montevideo:20260624T210000
-SUMMARY:Escócia vs. Brasil
+SUMMARY:Escócia🏴󠁧󠁢󠁳󠁣󠁴󠁿 vs. Brasil🇧🇷
 DESCRIPTION:Grupo C - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium

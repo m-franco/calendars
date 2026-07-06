@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260611T230000Z_SouthKorea_CzechRepublic
 DTSTART;TZID=America/Montevideo:20260611T230000
 DTEND;TZID=America/Montevideo:20260612T010000
-SUMMARY:South Korea vs. Czech Republic
+SUMMARY:South Korea🇰🇷 vs. Czech Republic🇨🇿
 DESCRIPTION:Group A - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Akron Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260618T220000Z_Mexico_SouthKorea
 DTSTART;TZID=America/Montevideo:20260618T220000
 DTEND;TZID=America/Montevideo:20260619T000000
-SUMMARY:Mexico vs. South Korea
+SUMMARY:Mexico🇲🇽 vs. South Korea🇰🇷
 DESCRIPTION:Group A - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Akron Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260624T220000Z_SouthAfrica_SouthKorea
 DTSTART;TZID=America/Montevideo:20260624T220000
 DTEND;TZID=America/Montevideo:20260625T000000
-SUMMARY:South Africa vs. South Korea
+SUMMARY:South Africa🇿🇦 vs. South Korea🇰🇷
 DESCRIPTION:Group A - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:BBVA Stadium

@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260613T160000Z_Qatar_Suiza
 DTSTART;TZID=America/Montevideo:20260613T160000
 DTEND;TZID=America/Montevideo:20260613T180000
-SUMMARY:Qatar vs. Suiza
+SUMMARY:Qatar🇶🇦 vs. Suiza🇨🇭
 DESCRIPTION:Grupo B - Fecha 1 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260618T160000Z_Suiza_BosniaYHerzegovina
 DTSTART;TZID=America/Montevideo:20260618T160000
 DTEND;TZID=America/Montevideo:20260618T180000
-SUMMARY:Suiza vs. Bosnia y Herzegovina
+SUMMARY:Suiza🇨🇭 vs. Bosnia y Herzegovina🇧🇦
 DESCRIPTION:Grupo B - Fecha 2 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260624T160000Z_Suiza_Canada
 DTSTART;TZID=America/Montevideo:20260624T160000
 DTEND;TZID=America/Montevideo:20260624T180000
-SUMMARY:Suiza vs. Canadá
+SUMMARY:Suiza🇨🇭 vs. Canadá🇨🇦
 DESCRIPTION:Grupo B - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:BC Place
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260703T000000Z_Suiza_Argelia
 DTSTART;TZID=America/Montevideo:20260703T000000
 DTEND;TZID=America/Montevideo:20260703T020000
-SUMMARY:Suiza vs. Argelia
+SUMMARY:Suiza🇨🇭 vs. Argelia🇩🇿
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:BC Place
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 UID:20260707T170000Z_Suiza_Colombia
 DTSTART;TZID=America/Montevideo:20260707T170000
 DTEND;TZID=America/Montevideo:20260707T190000
-SUMMARY:Suiza vs. Colombia
+SUMMARY:Suiza🇨🇭 vs. Colombia🇨🇴
 DESCRIPTION:Octavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:BC Place

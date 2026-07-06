@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260614T230000Z_Suecia_Tunisia
 DTSTART;TZID=America/Montevideo:20260614T230000
 DTEND;TZID=America/Montevideo:20260615T010000
-SUMMARY:Suécia vs. Tunísia
+SUMMARY:Suécia🇸🇪 vs. Tunísia🇹🇳
 DESCRIPTION:Grupo F - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio BBVA
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260620T140000Z_PaisesBaixos_Suecia
 DTSTART;TZID=America/Montevideo:20260620T140000
 DTEND;TZID=America/Montevideo:20260620T160000
-SUMMARY:Países Baixos vs. Suécia
+SUMMARY:Países Baixos🇳🇱 vs. Suécia🇸🇪
 DESCRIPTION:Grupo F - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:NRG Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260625T200000Z_Japao_Suecia
 DTSTART;TZID=America/Montevideo:20260625T200000
 DTEND;TZID=America/Montevideo:20260625T220000
-SUMMARY:Japão vs. Suécia
+SUMMARY:Japão🇯🇵 vs. Suécia🇸🇪
 DESCRIPTION:Grupo F - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260630T180000Z_Franca_Suecia
 DTSTART;TZID=America/Montevideo:20260630T180000
 DTEND;TZID=America/Montevideo:20260630T200000
-SUMMARY:França vs. Suécia
+SUMMARY:França🇫🇷 vs. Suécia🇸🇪
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium

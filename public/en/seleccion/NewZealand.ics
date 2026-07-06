@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260615T220000Z_Iran_NewZealand
 DTSTART;TZID=America/Montevideo:20260615T220000
 DTEND;TZID=America/Montevideo:20260616T000000
-SUMMARY:Iran vs. New Zealand
+SUMMARY:Iran🇮🇷 vs. New Zealand🇳🇿
 DESCRIPTION:Group G - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260621T220000Z_NewZealand_Egypt
 DTSTART;TZID=America/Montevideo:20260621T220000
 DTEND;TZID=America/Montevideo:20260622T000000
-SUMMARY:New Zealand vs. Egypt
+SUMMARY:New Zealand🇳🇿 vs. Egypt🇪🇬
 DESCRIPTION:Group G - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:BC Place
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260627T000000Z_NewZealand_Belgium
 DTSTART;TZID=America/Montevideo:20260627T000000
 DTEND;TZID=America/Montevideo:20260627T020000
-SUMMARY:New Zealand vs. Belgium
+SUMMARY:New Zealand🇳🇿 vs. Belgium🇧🇪
 DESCRIPTION:Group G - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:BC Place

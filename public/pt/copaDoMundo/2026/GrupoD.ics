@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260612T220000Z_EstadosUnidos_Paraguai
 DTSTART;TZID=America/Montevideo:20260612T220000
 DTEND;TZID=America/Montevideo:20260613T000000
-SUMMARY:Estados Unidos vs. Paraguai
+SUMMARY:Estados Unidos🇺🇸 vs. Paraguai🇵🇾
 DESCRIPTION:Grupo D - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260614T010000Z_Australia_Turquia
 DTSTART;TZID=America/Montevideo:20260614T010000
 DTEND;TZID=America/Montevideo:20260614T030000
-SUMMARY:Austrália vs. Turquia
+SUMMARY:Austrália🇦🇺 vs. Turquia🇹🇷
 DESCRIPTION:Grupo D - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:BC Place
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260619T160000Z_EstadosUnidos_Australia
 DTSTART;TZID=America/Montevideo:20260619T160000
 DTEND;TZID=America/Montevideo:20260619T180000
-SUMMARY:Estados Unidos vs. Austrália
+SUMMARY:Estados Unidos🇺🇸 vs. Austrália🇦🇺
 DESCRIPTION:Grupo D - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Lumen Field
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260620T000000Z_Turquia_Paraguai
 DTSTART;TZID=America/Montevideo:20260620T000000
 DTEND;TZID=America/Montevideo:20260620T020000
-SUMMARY:Turquia vs. Paraguai
+SUMMARY:Turquia🇹🇷 vs. Paraguai🇵🇾
 DESCRIPTION:Grupo D - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 UID:20260625T230000Z_Paraguai_Australia
 DTSTART;TZID=America/Montevideo:20260625T230000
 DTEND;TZID=America/Montevideo:20260626T010000
-SUMMARY:Paraguai vs. Austrália
+SUMMARY:Paraguai🇵🇾 vs. Austrália🇦🇺
 DESCRIPTION:Grupo D - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
@@ -55,7 +55,7 @@ BEGIN:VEVENT
 UID:20260625T230000Z_Turquia_EstadosUnidos
 DTSTART;TZID=America/Montevideo:20260625T230000
 DTEND;TZID=America/Montevideo:20260626T010000
-SUMMARY:Turquia vs. Estados Unidos
+SUMMARY:Turquia🇹🇷 vs. Estados Unidos🇺🇸
 DESCRIPTION:Grupo D - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 UID:20260629T173000Z_Alemanha_Paraguai
 DTSTART;TZID=America/Montevideo:20260629T173000
 DTEND;TZID=America/Montevideo:20260629T193000
-SUMMARY:Alemanha vs. Paraguai
+SUMMARY:Alemanha🇩🇪 vs. Paraguai🇵🇾
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Gillette Stadium
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 UID:20260701T210000Z_EstadosUnidos_BosniaEHerzegovina
 DTSTART;TZID=America/Montevideo:20260701T210000
 DTEND;TZID=America/Montevideo:20260701T230000
-SUMMARY:Estados Unidos vs. Bósnia e Herzegovina
+SUMMARY:Estados Unidos🇺🇸 vs. Bósnia e Herzegovina🇧🇦
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 UID:20260703T150000Z_Australia_Egito
 DTSTART;TZID=America/Montevideo:20260703T150000
 DTEND;TZID=America/Montevideo:20260703T170000
-SUMMARY:Austrália vs. Egito
+SUMMARY:Austrália🇦🇺 vs. Egito🇪🇬
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 UID:20260704T180000Z_Paraguai_Franca
 DTSTART;TZID=America/Montevideo:20260704T180000
 DTEND;TZID=America/Montevideo:20260704T200000
-SUMMARY:Paraguai vs. França
+SUMMARY:Paraguai🇵🇾 vs. França🇫🇷
 DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Lincoln Financial Field
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 UID:20260706T210000Z_EstadosUnidos_Belgica
 DTSTART;TZID=America/Montevideo:20260706T210000
 DTEND;TZID=America/Montevideo:20260706T230000
-SUMMARY:Estados Unidos vs. Bélgica
+SUMMARY:Estados Unidos🇺🇸 vs. Bélgica🇧🇪
 DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Lumen Field

@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260617T170000Z_England_Croatia
 DTSTART;TZID=America/Montevideo:20260617T170000
 DTEND;TZID=America/Montevideo:20260617T190000
-SUMMARY:England vs. Croatia
+SUMMARY:England🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs. Croatia🇭🇷
 DESCRIPTION:Group L - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260623T200000Z_Panama_Croatia
 DTSTART;TZID=America/Montevideo:20260623T200000
 DTEND;TZID=America/Montevideo:20260623T220000
-SUMMARY:Panama vs. Croatia
+SUMMARY:Panama🇵🇦 vs. Croatia🇭🇷
 DESCRIPTION:Group L - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:BMO Field
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260627T180000Z_Croatia_Ghana
 DTSTART;TZID=America/Montevideo:20260627T180000
 DTEND;TZID=America/Montevideo:20260627T200000
-SUMMARY:Croatia vs. Ghana
+SUMMARY:Croatia🇭🇷 vs. Ghana🇬🇭
 DESCRIPTION:Group L - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Lincoln Financial Field
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260702T200000Z_Portugal_Croatia
 DTSTART;TZID=America/Montevideo:20260702T200000
 DTEND;TZID=America/Montevideo:20260702T220000
-SUMMARY:Portugal vs. Croatia
+SUMMARY:Portugal🇵🇹 vs. Croatia🇭🇷
 DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:BMO Field

@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260612T160000Z_Canada_BosniaEHerzegovina
 DTSTART;TZID=America/Montevideo:20260612T160000
 DTEND;TZID=America/Montevideo:20260612T180000
-SUMMARY:Canadá vs. Bósnia e Herzegovina
+SUMMARY:Canadá🇨🇦 vs. Bósnia e Herzegovina🇧🇦
 DESCRIPTION:Grupo B - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:BMO Field
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260613T160000Z_Catar_Suica
 DTSTART;TZID=America/Montevideo:20260613T160000
 DTEND;TZID=America/Montevideo:20260613T180000
-SUMMARY:Catar vs. Suíça
+SUMMARY:Catar🇶🇦 vs. Suíça🇨🇭
 DESCRIPTION:Grupo B - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260618T160000Z_Suica_BosniaEHerzegovina
 DTSTART;TZID=America/Montevideo:20260618T160000
 DTEND;TZID=America/Montevideo:20260618T180000
-SUMMARY:Suíça vs. Bósnia e Herzegovina
+SUMMARY:Suíça🇨🇭 vs. Bósnia e Herzegovina🇧🇦
 DESCRIPTION:Grupo B - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260618T190000Z_Canada_Catar
 DTSTART;TZID=America/Montevideo:20260618T190000
 DTEND;TZID=America/Montevideo:20260618T210000
-SUMMARY:Canadá vs. Catar
+SUMMARY:Canadá🇨🇦 vs. Catar🇶🇦
 DESCRIPTION:Grupo B - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:BC Place
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 UID:20260624T160000Z_BosniaEHerzegovina_Catar
 DTSTART;TZID=America/Montevideo:20260624T160000
 DTEND;TZID=America/Montevideo:20260624T180000
-SUMMARY:Bósnia e Herzegovina vs. Catar
+SUMMARY:Bósnia e Herzegovina🇧🇦 vs. Catar🇶🇦
 DESCRIPTION:Grupo B - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Lumen Field
@@ -55,7 +55,7 @@ BEGIN:VEVENT
 UID:20260624T160000Z_Suica_Canada
 DTSTART;TZID=America/Montevideo:20260624T160000
 DTEND;TZID=America/Montevideo:20260624T180000
-SUMMARY:Suíça vs. Canadá
+SUMMARY:Suíça🇨🇭 vs. Canadá🇨🇦
 DESCRIPTION:Grupo B - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:BC Place
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 UID:20260628T160000Z_AfricaDoSul_Canada
 DTSTART;TZID=America/Montevideo:20260628T160000
 DTEND;TZID=America/Montevideo:20260628T180000
-SUMMARY:África do Sul vs. Canadá
+SUMMARY:África do Sul🇿🇦 vs. Canadá🇨🇦
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 UID:20260701T210000Z_EstadosUnidos_BosniaEHerzegovina
 DTSTART;TZID=America/Montevideo:20260701T210000
 DTEND;TZID=America/Montevideo:20260701T230000
-SUMMARY:Estados Unidos vs. Bósnia e Herzegovina
+SUMMARY:Estados Unidos🇺🇸 vs. Bósnia e Herzegovina🇧🇦
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 UID:20260703T000000Z_Suica_Argelia
 DTSTART;TZID=America/Montevideo:20260703T000000
 DTEND;TZID=America/Montevideo:20260703T020000
-SUMMARY:Suíça vs. Argélia
+SUMMARY:Suíça🇨🇭 vs. Argélia🇩🇿
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:BC Place
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 UID:20260704T140000Z_Canada_Marrocos
 DTSTART;TZID=America/Montevideo:20260704T140000
 DTEND;TZID=America/Montevideo:20260704T160000
-SUMMARY:Canadá vs. Marrocos
+SUMMARY:Canadá🇨🇦 vs. Marrocos🇲🇦
 DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:NRG Stadium
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 UID:20260707T170000Z_Suica_Colombia
 DTSTART;TZID=America/Montevideo:20260707T170000
 DTEND;TZID=America/Montevideo:20260707T190000
-SUMMARY:Suíça vs. Colômbia
+SUMMARY:Suíça🇨🇭 vs. Colômbia🇨🇴
 DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:BC Place

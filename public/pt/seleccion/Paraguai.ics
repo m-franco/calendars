@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260612T220000Z_EstadosUnidos_Paraguai
 DTSTART;TZID=America/Montevideo:20260612T220000
 DTEND;TZID=America/Montevideo:20260613T000000
-SUMMARY:Estados Unidos vs. Paraguai
+SUMMARY:Estados Unidos🇺🇸 vs. Paraguai🇵🇾
 DESCRIPTION:Grupo D - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260620T000000Z_Turquia_Paraguai
 DTSTART;TZID=America/Montevideo:20260620T000000
 DTEND;TZID=America/Montevideo:20260620T020000
-SUMMARY:Turquia vs. Paraguai
+SUMMARY:Turquia🇹🇷 vs. Paraguai🇵🇾
 DESCRIPTION:Grupo D - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260625T230000Z_Paraguai_Australia
 DTSTART;TZID=America/Montevideo:20260625T230000
 DTEND;TZID=America/Montevideo:20260626T010000
-SUMMARY:Paraguai vs. Austrália
+SUMMARY:Paraguai🇵🇾 vs. Austrália🇦🇺
 DESCRIPTION:Grupo D - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260629T173000Z_Alemanha_Paraguai
 DTSTART;TZID=America/Montevideo:20260629T173000
 DTEND;TZID=America/Montevideo:20260629T193000
-SUMMARY:Alemanha vs. Paraguai
+SUMMARY:Alemanha🇩🇪 vs. Paraguai🇵🇾
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Gillette Stadium
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 UID:20260704T180000Z_Paraguai_Franca
 DTSTART;TZID=America/Montevideo:20260704T180000
 DTEND;TZID=America/Montevideo:20260704T200000
-SUMMARY:Paraguai vs. França
+SUMMARY:Paraguai🇵🇾 vs. França🇫🇷
 DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Lincoln Financial Field

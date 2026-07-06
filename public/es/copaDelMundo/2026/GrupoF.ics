@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260614T170000Z_PaisesBajos_Japon
 DTSTART;TZID=America/Montevideo:20260614T170000
 DTEND;TZID=America/Montevideo:20260614T190000
-SUMMARY:Países Bajos vs. Japón
+SUMMARY:Países Bajos🇳🇱 vs. Japón🇯🇵
 DESCRIPTION:Grupo F - Fecha 1 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260614T230000Z_Suecia_Tunez
 DTSTART;TZID=America/Montevideo:20260614T230000
 DTEND;TZID=America/Montevideo:20260615T010000
-SUMMARY:Suecia vs. Túnez
+SUMMARY:Suecia🇸🇪 vs. Túnez🇹🇳
 DESCRIPTION:Grupo F - Fecha 1 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio BBVA
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260620T140000Z_PaisesBajos_Suecia
 DTSTART;TZID=America/Montevideo:20260620T140000
 DTEND;TZID=America/Montevideo:20260620T160000
-SUMMARY:Países Bajos vs. Suecia
+SUMMARY:Países Bajos🇳🇱 vs. Suecia🇸🇪
 DESCRIPTION:Grupo F - Fecha 2 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:NRG Stadium
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260621T010000Z_Tunez_Japon
 DTSTART;TZID=America/Montevideo:20260621T010000
 DTEND;TZID=America/Montevideo:20260621T030000
-SUMMARY:Túnez vs. Japón
+SUMMARY:Túnez🇹🇳 vs. Japón🇯🇵
 DESCRIPTION:Grupo F - Fecha 2 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio BBVA
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 UID:20260625T200000Z_Japon_Suecia
 DTSTART;TZID=America/Montevideo:20260625T200000
 DTEND;TZID=America/Montevideo:20260625T220000
-SUMMARY:Japón vs. Suecia
+SUMMARY:Japón🇯🇵 vs. Suecia🇸🇪
 DESCRIPTION:Grupo F - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
@@ -55,7 +55,7 @@ BEGIN:VEVENT
 UID:20260625T200000Z_Tunez_PaisesBajos
 DTSTART;TZID=America/Montevideo:20260625T200000
 DTEND;TZID=America/Montevideo:20260625T220000
-SUMMARY:Túnez vs. Países Bajos
+SUMMARY:Túnez🇹🇳 vs. Países Bajos🇳🇱
 DESCRIPTION:Grupo F - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:GEHA Field at Arrowhead Stadium
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 UID:20260629T140000Z_Brasil_Japon
 DTSTART;TZID=America/Montevideo:20260629T140000
 DTEND;TZID=America/Montevideo:20260629T160000
-SUMMARY:Brasil vs. Japón
+SUMMARY:Brasil🇧🇷 vs. Japón🇯🇵
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:NRG Stadium
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 UID:20260629T220000Z_PaisesBajos_Marruecos
 DTSTART;TZID=America/Montevideo:20260629T220000
 DTEND;TZID=America/Montevideo:20260630T000000
-SUMMARY:Países Bajos vs. Marruecos
+SUMMARY:Países Bajos🇳🇱 vs. Marruecos🇲🇦
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio BBVA
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 UID:20260630T180000Z_Francia_Suecia
 DTSTART;TZID=America/Montevideo:20260630T180000
 DTEND;TZID=America/Montevideo:20260630T200000
-SUMMARY:Francia vs. Suecia
+SUMMARY:Francia🇫🇷 vs. Suecia🇸🇪
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium

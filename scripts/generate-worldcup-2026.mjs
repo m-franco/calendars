@@ -57,7 +57,7 @@ const countryNames = {
     Colombia: "Colombia",
     Portugal: "Portugal",
     Uzbekistan: "Uzbekistán",
-    "Congo DR": "República Democrática del Congo",
+    "Congo DR": "RD Congo",
     England: "Inglaterra",
     Croatia: "Croacia",
     Panama: "Panamá",

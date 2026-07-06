@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260611T230000Z_SouthKorea_CzechRepublic
 DTSTART;TZID=America/Montevideo:20260611T230000
 DTEND;TZID=America/Montevideo:20260612T010000
-SUMMARY:South Korea vs. Czech Republic
+SUMMARY:South Korea🇰🇷 vs. Czech Republic🇨🇿
 DESCRIPTION:Group A - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Akron Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260613T160000Z_Qatar_Switzerland
 DTSTART;TZID=America/Montevideo:20260613T160000
 DTEND;TZID=America/Montevideo:20260613T180000
-SUMMARY:Qatar vs. Switzerland
+SUMMARY:Qatar🇶🇦 vs. Switzerland🇨🇭
 DESCRIPTION:Group B - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260614T010000Z_Australia_Turkey
 DTSTART;TZID=America/Montevideo:20260614T010000
 DTEND;TZID=America/Montevideo:20260614T030000
-SUMMARY:Australia vs. Turkey
+SUMMARY:Australia🇦🇺 vs. Turkey🇹🇷
 DESCRIPTION:Group D - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:BC Place
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260614T170000Z_Netherlands_Japan
 DTSTART;TZID=America/Montevideo:20260614T170000
 DTEND;TZID=America/Montevideo:20260614T190000
-SUMMARY:Netherlands vs. Japan
+SUMMARY:Netherlands🇳🇱 vs. Japan🇯🇵
 DESCRIPTION:Group F - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 UID:20260615T190000Z_SaudiArabia_Uruguay
 DTSTART;TZID=America/Montevideo:20260615T190000
 DTEND;TZID=America/Montevideo:20260615T210000
-SUMMARY:Saudi Arabia vs. Uruguay
+SUMMARY:Saudi Arabia🇸🇦 vs. Uruguay🇺🇾
 DESCRIPTION:Group H - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium
@@ -55,7 +55,7 @@ BEGIN:VEVENT
 UID:20260615T220000Z_Iran_NewZealand
 DTSTART;TZID=America/Montevideo:20260615T220000
 DTEND;TZID=America/Montevideo:20260616T000000
-SUMMARY:Iran vs. New Zealand
+SUMMARY:Iran🇮🇷 vs. New Zealand🇳🇿
 DESCRIPTION:Group G - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 UID:20260616T190000Z_Iraq_Norway
 DTSTART;TZID=America/Montevideo:20260616T190000
 DTEND;TZID=America/Montevideo:20260616T210000
-SUMMARY:Iraq vs. Norway
+SUMMARY:Iraq🇮🇶 vs. Norway🇳🇴
 DESCRIPTION:Group I - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Gillette Stadium
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 UID:20260617T010000Z_Austria_Jordan
 DTSTART;TZID=America/Montevideo:20260617T010000
 DTEND;TZID=America/Montevideo:20260617T030000
-SUMMARY:Austria vs. Jordan
+SUMMARY:Austria🇦🇹 vs. Jordan🇯🇴
 DESCRIPTION:Group J - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 UID:20260617T230000Z_Uzbekistan_Colombia
 DTSTART;TZID=America/Montevideo:20260617T230000
 DTEND;TZID=America/Montevideo:20260618T010000
-SUMMARY:Uzbekistan vs. Colombia
+SUMMARY:Uzbekistan🇺🇿 vs. Colombia🇨🇴
 DESCRIPTION:Group K - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Banorte Stadium
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 UID:20260618T190000Z_Canada_Qatar
 DTSTART;TZID=America/Montevideo:20260618T190000
 DTEND;TZID=America/Montevideo:20260618T210000
-SUMMARY:Canada vs. Qatar
+SUMMARY:Canada🇨🇦 vs. Qatar🇶🇦
 DESCRIPTION:Group B - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:BC Place
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 UID:20260618T220000Z_Mexico_SouthKorea
 DTSTART;TZID=America/Montevideo:20260618T220000
 DTEND;TZID=America/Montevideo:20260619T000000
-SUMMARY:Mexico vs. South Korea
+SUMMARY:Mexico🇲🇽 vs. South Korea🇰🇷
 DESCRIPTION:Group A - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Akron Stadium
@@ -115,7 +115,7 @@ BEGIN:VEVENT
 UID:20260619T160000Z_UnitedStates_Australia
 DTSTART;TZID=America/Montevideo:20260619T160000
 DTEND;TZID=America/Montevideo:20260619T180000
-SUMMARY:United States vs. Australia
+SUMMARY:United States🇺🇸 vs. Australia🇦🇺
 DESCRIPTION:Group D - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Lumen Field
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 UID:20260620T000000Z_Turkey_Paraguay
 DTSTART;TZID=America/Montevideo:20260620T000000
 DTEND;TZID=America/Montevideo:20260620T020000
-SUMMARY:Turkey vs. Paraguay
+SUMMARY:Turkey🇹🇷 vs. Paraguay🇵🇾
 DESCRIPTION:Group D - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
@@ -135,7 +135,7 @@ BEGIN:VEVENT
 UID:20260621T010000Z_Tunisia_Japan
 DTSTART;TZID=America/Montevideo:20260621T010000
 DTEND;TZID=America/Montevideo:20260621T030000
-SUMMARY:Tunisia vs. Japan
+SUMMARY:Tunisia🇹🇳 vs. Japan🇯🇵
 DESCRIPTION:Group F - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:BBVA Stadium
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 UID:20260621T130000Z_Spain_SaudiArabia
 DTSTART;TZID=America/Montevideo:20260621T130000
 DTEND;TZID=America/Montevideo:20260621T150000
-SUMMARY:Spain vs. Saudi Arabia
+SUMMARY:Spain🇪🇸 vs. Saudi Arabia🇸🇦
 DESCRIPTION:Group H - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
@@ -155,7 +155,7 @@ BEGIN:VEVENT
 UID:20260621T160000Z_Belgium_Iran
 DTSTART;TZID=America/Montevideo:20260621T160000
 DTEND;TZID=America/Montevideo:20260621T180000
-SUMMARY:Belgium vs. Iran
+SUMMARY:Belgium🇧🇪 vs. Iran🇮🇷
 DESCRIPTION:Group G - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
@@ -165,7 +165,7 @@ BEGIN:VEVENT
 UID:20260622T180000Z_France_Iraq
 DTSTART;TZID=America/Montevideo:20260622T180000
 DTEND;TZID=America/Montevideo:20260622T200000
-SUMMARY:France vs. Iraq
+SUMMARY:France🇫🇷 vs. Iraq🇮🇶
 DESCRIPTION:Group I - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Lincoln Financial Field
@@ -175,7 +175,7 @@ BEGIN:VEVENT
 UID:20260623T000000Z_Jordan_Algeria
 DTSTART;TZID=America/Montevideo:20260623T000000
 DTEND;TZID=America/Montevideo:20260623T020000
-SUMMARY:Jordan vs. Algeria
+SUMMARY:Jordan🇯🇴 vs. Algeria🇩🇿
 DESCRIPTION:Group J - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
@@ -185,7 +185,7 @@ BEGIN:VEVENT
 UID:20260623T140000Z_Portugal_Uzbekistan
 DTSTART;TZID=America/Montevideo:20260623T140000
 DTEND;TZID=America/Montevideo:20260623T160000
-SUMMARY:Portugal vs. Uzbekistan
+SUMMARY:Portugal🇵🇹 vs. Uzbekistan🇺🇿
 DESCRIPTION:Group K - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:NRG Stadium
@@ -195,7 +195,7 @@ BEGIN:VEVENT
 UID:20260624T160000Z_BosniaAndHerzegovina_Qatar
 DTSTART;TZID=America/Montevideo:20260624T160000
 DTEND;TZID=America/Montevideo:20260624T180000
-SUMMARY:Bosnia and Herzegovina vs. Qatar
+SUMMARY:Bosnia and Herzegovina🇧🇦 vs. Qatar🇶🇦
 DESCRIPTION:Group B - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Lumen Field
@@ -205,7 +205,7 @@ BEGIN:VEVENT
 UID:20260624T220000Z_SouthAfrica_SouthKorea
 DTSTART;TZID=America/Montevideo:20260624T220000
 DTEND;TZID=America/Montevideo:20260625T000000
-SUMMARY:South Africa vs. South Korea
+SUMMARY:South Africa🇿🇦 vs. South Korea🇰🇷
 DESCRIPTION:Group A - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:BBVA Stadium
@@ -215,7 +215,7 @@ BEGIN:VEVENT
 UID:20260625T200000Z_Japan_Sweden
 DTSTART;TZID=America/Montevideo:20260625T200000
 DTEND;TZID=America/Montevideo:20260625T220000
-SUMMARY:Japan vs. Sweden
+SUMMARY:Japan🇯🇵 vs. Sweden🇸🇪
 DESCRIPTION:Group F - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
@@ -225,7 +225,7 @@ BEGIN:VEVENT
 UID:20260625T230000Z_Paraguay_Australia
 DTSTART;TZID=America/Montevideo:20260625T230000
 DTEND;TZID=America/Montevideo:20260626T010000
-SUMMARY:Paraguay vs. Australia
+SUMMARY:Paraguay🇵🇾 vs. Australia🇦🇺
 DESCRIPTION:Group D - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
@@ -235,7 +235,7 @@ BEGIN:VEVENT
 UID:20260625T230000Z_Turkey_UnitedStates
 DTSTART;TZID=America/Montevideo:20260625T230000
 DTEND;TZID=America/Montevideo:20260626T010000
-SUMMARY:Turkey vs. United States
+SUMMARY:Turkey🇹🇷 vs. United States🇺🇸
 DESCRIPTION:Group D - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
@@ -245,7 +245,7 @@ BEGIN:VEVENT
 UID:20260626T160000Z_Senegal_Iraq
 DTSTART;TZID=America/Montevideo:20260626T160000
 DTEND;TZID=America/Montevideo:20260626T180000
-SUMMARY:Senegal vs. Iraq
+SUMMARY:Senegal🇸🇳 vs. Iraq🇮🇶
 DESCRIPTION:Group I - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:BMO Field
@@ -255,7 +255,7 @@ BEGIN:VEVENT
 UID:20260626T210000Z_CapeVerde_SaudiArabia
 DTSTART;TZID=America/Montevideo:20260626T210000
 DTEND;TZID=America/Montevideo:20260626T230000
-SUMMARY:Cape Verde vs. Saudi Arabia
+SUMMARY:Cape Verde🇨🇻 vs. Saudi Arabia🇸🇦
 DESCRIPTION:Group H - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:NRG Stadium
@@ -265,7 +265,7 @@ BEGIN:VEVENT
 UID:20260627T000000Z_Egypt_Iran
 DTSTART;TZID=America/Montevideo:20260627T000000
 DTEND;TZID=America/Montevideo:20260627T020000
-SUMMARY:Egypt vs. Iran
+SUMMARY:Egypt🇪🇬 vs. Iran🇮🇷
 DESCRIPTION:Group G - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Lumen Field
@@ -275,7 +275,7 @@ BEGIN:VEVENT
 UID:20260627T203000Z_DRCongo_Uzbekistan
 DTSTART;TZID=America/Montevideo:20260627T203000
 DTEND;TZID=America/Montevideo:20260627T223000
-SUMMARY:DR Congo vs. Uzbekistan
+SUMMARY:DR Congo🇨🇩 vs. Uzbekistan🇺🇿
 DESCRIPTION:Group K - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
@@ -285,7 +285,7 @@ BEGIN:VEVENT
 UID:20260627T230000Z_Jordan_Argentina
 DTSTART;TZID=America/Montevideo:20260627T230000
 DTEND;TZID=America/Montevideo:20260628T010000
-SUMMARY:Jordan vs. Argentina
+SUMMARY:Jordan🇯🇴 vs. Argentina🇦🇷
 DESCRIPTION:Group J - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
@@ -295,7 +295,7 @@ BEGIN:VEVENT
 UID:20260629T140000Z_Brazil_Japan
 DTSTART;TZID=America/Montevideo:20260629T140000
 DTEND;TZID=America/Montevideo:20260629T160000
-SUMMARY:Brazil vs. Japan
+SUMMARY:Brazil🇧🇷 vs. Japan🇯🇵
 DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:NRG Stadium
@@ -305,7 +305,7 @@ BEGIN:VEVENT
 UID:20260703T150000Z_Australia_Egypt
 DTSTART;TZID=America/Montevideo:20260703T150000
 DTEND;TZID=America/Montevideo:20260703T170000
-SUMMARY:Australia vs. Egypt
+SUMMARY:Australia🇦🇺 vs. Egypt🇪🇬
 DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:AT&T Stadium

@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260614T010000Z_Australia_Turquia
 DTSTART;TZID=America/Montevideo:20260614T010000
 DTEND;TZID=America/Montevideo:20260614T030000
-SUMMARY:Australia vs. Turquía
+SUMMARY:Australia🇦🇺 vs. Turquía🇹🇷
 DESCRIPTION:Grupo D - Fecha 1 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:BC Place
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260619T160000Z_EstadosUnidos_Australia
 DTSTART;TZID=America/Montevideo:20260619T160000
 DTEND;TZID=America/Montevideo:20260619T180000
-SUMMARY:Estados Unidos vs. Australia
+SUMMARY:Estados Unidos🇺🇸 vs. Australia🇦🇺
 DESCRIPTION:Grupo D - Fecha 2 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Lumen Field
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260625T230000Z_Paraguay_Australia
 DTSTART;TZID=America/Montevideo:20260625T230000
 DTEND;TZID=America/Montevideo:20260626T010000
-SUMMARY:Paraguay vs. Australia
+SUMMARY:Paraguay🇵🇾 vs. Australia🇦🇺
 DESCRIPTION:Grupo D - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260703T150000Z_Australia_Egipto
 DTSTART;TZID=America/Montevideo:20260703T150000
 DTEND;TZID=America/Montevideo:20260703T170000
-SUMMARY:Australia vs. Egipto
+SUMMARY:Australia🇦🇺 vs. Egipto🇪🇬
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:AT&T Stadium

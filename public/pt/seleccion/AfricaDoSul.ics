@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260611T160000Z_Mexico_AfricaDoSul
 DTSTART;TZID=America/Montevideo:20260611T160000
 DTEND;TZID=America/Montevideo:20260611T180000
-SUMMARY:México vs. África do Sul
+SUMMARY:México🇲🇽 vs. África do Sul🇿🇦
 DESCRIPTION:Grupo A - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Banorte
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260618T130000Z_RepublicaTcheca_AfricaDoSul
 DTSTART;TZID=America/Montevideo:20260618T130000
 DTEND;TZID=America/Montevideo:20260618T150000
-SUMMARY:República Tcheca vs. África do Sul
+SUMMARY:República Tcheca🇨🇿 vs. África do Sul🇿🇦
 DESCRIPTION:Grupo A - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260624T220000Z_AfricaDoSul_CoreiaDoSul
 DTSTART;TZID=America/Montevideo:20260624T220000
 DTEND;TZID=America/Montevideo:20260625T000000
-SUMMARY:África do Sul vs. Coreia do Sul
+SUMMARY:África do Sul🇿🇦 vs. Coreia do Sul🇰🇷
 DESCRIPTION:Grupo A - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio BBVA
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260628T160000Z_AfricaDoSul_Canada
 DTSTART;TZID=America/Montevideo:20260628T160000
 DTEND;TZID=America/Montevideo:20260628T180000
-SUMMARY:África do Sul vs. Canadá
+SUMMARY:África do Sul🇿🇦 vs. Canadá🇨🇦
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:SoFi Stadium

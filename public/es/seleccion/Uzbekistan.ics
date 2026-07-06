@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260617T230000Z_Uzbekistan_Colombia
 DTSTART;TZID=America/Montevideo:20260617T230000
 DTEND;TZID=America/Montevideo:20260618T010000
-SUMMARY:Uzbekistán vs. Colombia
+SUMMARY:Uzbekistán🇺🇿 vs. Colombia🇨🇴
 DESCRIPTION:Grupo K - Fecha 1 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Banorte
@@ -15,17 +15,17 @@ BEGIN:VEVENT
 UID:20260623T140000Z_Portugal_Uzbekistan
 DTSTART;TZID=America/Montevideo:20260623T140000
 DTEND;TZID=America/Montevideo:20260623T160000
-SUMMARY:Portugal vs. Uzbekistán
+SUMMARY:Portugal🇵🇹 vs. Uzbekistán🇺🇿
 DESCRIPTION:Grupo K - Fecha 2 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:NRG Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260627T203000Z_RepublicaDemocraticaDelCongo_Uzbekistan
+UID:20260627T203000Z_RDCongo_Uzbekistan
 DTSTART;TZID=America/Montevideo:20260627T203000
 DTEND;TZID=America/Montevideo:20260627T223000
-SUMMARY:República Democrática del Congo vs. Uzbekistán
+SUMMARY:RD Congo🇨🇩 vs. Uzbekistán🇺🇿
 DESCRIPTION:Grupo K - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium

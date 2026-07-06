@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260613T190000Z_Brazil_Morocco
 DTSTART;TZID=America/Montevideo:20260613T190000
 DTEND;TZID=America/Montevideo:20260613T210000
-SUMMARY:Brazil vs. Morocco
+SUMMARY:Brazil🇧🇷 vs. Morocco🇲🇦
 DESCRIPTION:Group C - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260619T213000Z_Brazil_Haiti
 DTSTART;TZID=America/Montevideo:20260619T213000
 DTEND;TZID=America/Montevideo:20260619T233000
-SUMMARY:Brazil vs. Haiti
+SUMMARY:Brazil🇧🇷 vs. Haiti🇭🇹
 DESCRIPTION:Group C - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Lincoln Financial Field
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260624T190000Z_Scotland_Brazil
 DTSTART;TZID=America/Montevideo:20260624T190000
 DTEND;TZID=America/Montevideo:20260624T210000
-SUMMARY:Scotland vs. Brazil
+SUMMARY:Scotland🏴󠁧󠁢󠁳󠁣󠁴󠁿 vs. Brazil🇧🇷
 DESCRIPTION:Group C - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260629T140000Z_Brazil_Japan
 DTSTART;TZID=America/Montevideo:20260629T140000
 DTEND;TZID=America/Montevideo:20260629T160000
-SUMMARY:Brazil vs. Japan
+SUMMARY:Brazil🇧🇷 vs. Japan🇯🇵
 DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:NRG Stadium
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 UID:20260705T170000Z_Brazil_Norway
 DTSTART;TZID=America/Montevideo:20260705T170000
 DTEND;TZID=America/Montevideo:20260705T190000
-SUMMARY:Brazil vs. Norway
+SUMMARY:Brazil🇧🇷 vs. Norway🇳🇴
 DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:MetLife Stadium

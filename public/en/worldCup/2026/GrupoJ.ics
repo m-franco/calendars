@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260616T220000Z_Argentina_Algeria
 DTSTART;TZID=America/Montevideo:20260616T220000
 DTEND;TZID=America/Montevideo:20260617T000000
-SUMMARY:Argentina vs. Algeria
+SUMMARY:Argentina🇦🇷 vs. Algeria🇩🇿
 DESCRIPTION:Group J - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:GEHA Field at Arrowhead Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260617T010000Z_Austria_Jordan
 DTSTART;TZID=America/Montevideo:20260617T010000
 DTEND;TZID=America/Montevideo:20260617T030000
-SUMMARY:Austria vs. Jordan
+SUMMARY:Austria🇦🇹 vs. Jordan🇯🇴
 DESCRIPTION:Group J - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260622T140000Z_Argentina_Austria
 DTSTART;TZID=America/Montevideo:20260622T140000
 DTEND;TZID=America/Montevideo:20260622T160000
-SUMMARY:Argentina vs. Austria
+SUMMARY:Argentina🇦🇷 vs. Austria🇦🇹
 DESCRIPTION:Group J - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260623T000000Z_Jordan_Algeria
 DTSTART;TZID=America/Montevideo:20260623T000000
 DTEND;TZID=America/Montevideo:20260623T020000
-SUMMARY:Jordan vs. Algeria
+SUMMARY:Jordan🇯🇴 vs. Algeria🇩🇿
 DESCRIPTION:Group J - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 UID:20260627T230000Z_Algeria_Austria
 DTSTART;TZID=America/Montevideo:20260627T230000
 DTEND;TZID=America/Montevideo:20260628T010000
-SUMMARY:Algeria vs. Austria
+SUMMARY:Algeria🇩🇿 vs. Austria🇦🇹
 DESCRIPTION:Group J - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:GEHA Field at Arrowhead Stadium
@@ -55,7 +55,7 @@ BEGIN:VEVENT
 UID:20260627T230000Z_Jordan_Argentina
 DTSTART;TZID=America/Montevideo:20260627T230000
 DTEND;TZID=America/Montevideo:20260628T010000
-SUMMARY:Jordan vs. Argentina
+SUMMARY:Jordan🇯🇴 vs. Argentina🇦🇷
 DESCRIPTION:Group J - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 UID:20260702T160000Z_Spain_Austria
 DTSTART;TZID=America/Montevideo:20260702T160000
 DTEND;TZID=America/Montevideo:20260702T180000
-SUMMARY:Spain vs. Austria
+SUMMARY:Spain🇪🇸 vs. Austria🇦🇹
 DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 UID:20260703T000000Z_Switzerland_Algeria
 DTSTART;TZID=America/Montevideo:20260703T000000
 DTEND;TZID=America/Montevideo:20260703T020000
-SUMMARY:Switzerland vs. Algeria
+SUMMARY:Switzerland🇨🇭 vs. Algeria🇩🇿
 DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:BC Place
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 UID:20260703T190000Z_Argentina_CapeVerde
 DTSTART;TZID=America/Montevideo:20260703T190000
 DTEND;TZID=America/Montevideo:20260703T210000
-SUMMARY:Argentina vs. Cape Verde
+SUMMARY:Argentina🇦🇷 vs. Cape Verde🇨🇻
 DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 UID:20260707T130000Z_Argentina_Egypt
 DTSTART;TZID=America/Montevideo:20260707T130000
 DTEND;TZID=America/Montevideo:20260707T150000
-SUMMARY:Argentina vs. Egypt
+SUMMARY:Argentina🇦🇷 vs. Egypt🇪🇬
 DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium

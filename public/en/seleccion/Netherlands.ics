@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260614T170000Z_Netherlands_Japan
 DTSTART;TZID=America/Montevideo:20260614T170000
 DTEND;TZID=America/Montevideo:20260614T190000
-SUMMARY:Netherlands vs. Japan
+SUMMARY:Netherlands🇳🇱 vs. Japan🇯🇵
 DESCRIPTION:Group F - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260620T140000Z_Netherlands_Sweden
 DTSTART;TZID=America/Montevideo:20260620T140000
 DTEND;TZID=America/Montevideo:20260620T160000
-SUMMARY:Netherlands vs. Sweden
+SUMMARY:Netherlands🇳🇱 vs. Sweden🇸🇪
 DESCRIPTION:Group F - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:NRG Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260625T200000Z_Tunisia_Netherlands
 DTSTART;TZID=America/Montevideo:20260625T200000
 DTEND;TZID=America/Montevideo:20260625T220000
-SUMMARY:Tunisia vs. Netherlands
+SUMMARY:Tunisia🇹🇳 vs. Netherlands🇳🇱
 DESCRIPTION:Group F - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:GEHA Field at Arrowhead Stadium
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260629T220000Z_Netherlands_Morocco
 DTSTART;TZID=America/Montevideo:20260629T220000
 DTEND;TZID=America/Montevideo:20260630T000000
-SUMMARY:Netherlands vs. Morocco
+SUMMARY:Netherlands🇳🇱 vs. Morocco🇲🇦
 DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:BBVA Stadium

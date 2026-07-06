@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260614T230000Z_Suecia_Tunez
 DTSTART;TZID=America/Montevideo:20260614T230000
 DTEND;TZID=America/Montevideo:20260615T010000
-SUMMARY:Suecia vs. Túnez
+SUMMARY:Suecia🇸🇪 vs. Túnez🇹🇳
 DESCRIPTION:Grupo F - Fecha 1 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio BBVA
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260621T010000Z_Tunez_Japon
 DTSTART;TZID=America/Montevideo:20260621T010000
 DTEND;TZID=America/Montevideo:20260621T030000
-SUMMARY:Túnez vs. Japón
+SUMMARY:Túnez🇹🇳 vs. Japón🇯🇵
 DESCRIPTION:Grupo F - Fecha 2 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio BBVA
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260625T200000Z_Tunez_PaisesBajos
 DTSTART;TZID=America/Montevideo:20260625T200000
 DTEND;TZID=America/Montevideo:20260625T220000
-SUMMARY:Túnez vs. Países Bajos
+SUMMARY:Túnez🇹🇳 vs. Países Bajos🇳🇱
 DESCRIPTION:Grupo F - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:GEHA Field at Arrowhead Stadium

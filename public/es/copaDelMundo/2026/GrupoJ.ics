@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260616T220000Z_Argentina_Argelia
 DTSTART;TZID=America/Montevideo:20260616T220000
 DTEND;TZID=America/Montevideo:20260617T000000
-SUMMARY:Argentina vs. Argelia
+SUMMARY:Argentina🇦🇷 vs. Argelia🇩🇿
 DESCRIPTION:Grupo J - Fecha 1 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:GEHA Field at Arrowhead Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260617T010000Z_Austria_Jordania
 DTSTART;TZID=America/Montevideo:20260617T010000
 DTEND;TZID=America/Montevideo:20260617T030000
-SUMMARY:Austria vs. Jordania
+SUMMARY:Austria🇦🇹 vs. Jordania🇯🇴
 DESCRIPTION:Grupo J - Fecha 1 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260622T140000Z_Argentina_Austria
 DTSTART;TZID=America/Montevideo:20260622T140000
 DTEND;TZID=America/Montevideo:20260622T160000
-SUMMARY:Argentina vs. Austria
+SUMMARY:Argentina🇦🇷 vs. Austria🇦🇹
 DESCRIPTION:Grupo J - Fecha 2 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260623T000000Z_Jordania_Argelia
 DTSTART;TZID=America/Montevideo:20260623T000000
 DTEND;TZID=America/Montevideo:20260623T020000
-SUMMARY:Jordania vs. Argelia
+SUMMARY:Jordania🇯🇴 vs. Argelia🇩🇿
 DESCRIPTION:Grupo J - Fecha 2 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 UID:20260627T230000Z_Argelia_Austria
 DTSTART;TZID=America/Montevideo:20260627T230000
 DTEND;TZID=America/Montevideo:20260628T010000
-SUMMARY:Argelia vs. Austria
+SUMMARY:Argelia🇩🇿 vs. Austria🇦🇹
 DESCRIPTION:Grupo J - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:GEHA Field at Arrowhead Stadium
@@ -55,7 +55,7 @@ BEGIN:VEVENT
 UID:20260627T230000Z_Jordania_Argentina
 DTSTART;TZID=America/Montevideo:20260627T230000
 DTEND;TZID=America/Montevideo:20260628T010000
-SUMMARY:Jordania vs. Argentina
+SUMMARY:Jordania🇯🇴 vs. Argentina🇦🇷
 DESCRIPTION:Grupo J - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 UID:20260702T160000Z_Espana_Austria
 DTSTART;TZID=America/Montevideo:20260702T160000
 DTEND;TZID=America/Montevideo:20260702T180000
-SUMMARY:España vs. Austria
+SUMMARY:España🇪🇸 vs. Austria🇦🇹
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 UID:20260703T000000Z_Suiza_Argelia
 DTSTART;TZID=America/Montevideo:20260703T000000
 DTEND;TZID=America/Montevideo:20260703T020000
-SUMMARY:Suiza vs. Argelia
+SUMMARY:Suiza🇨🇭 vs. Argelia🇩🇿
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:BC Place
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 UID:20260703T190000Z_Argentina_CaboVerde
 DTSTART;TZID=America/Montevideo:20260703T190000
 DTEND;TZID=America/Montevideo:20260703T210000
-SUMMARY:Argentina vs. Cabo Verde
+SUMMARY:Argentina🇦🇷 vs. Cabo Verde🇨🇻
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 UID:20260707T130000Z_Argentina_Egipto
 DTSTART;TZID=America/Montevideo:20260707T130000
 DTEND;TZID=America/Montevideo:20260707T150000
-SUMMARY:Argentina vs. Egipto
+SUMMARY:Argentina🇦🇷 vs. Egipto🇪🇬
 DESCRIPTION:Octavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium

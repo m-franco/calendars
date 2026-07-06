@@ -55,7 +55,7 @@ export const selecciones = {
   Colombia: { es: { name: "Colombia", slug: "Colombia" }, en: { name: "Colombia", slug: "Colombia" }, pt: { name: "Colômbia", slug: "Colombia" } },
   Portugal: { es: { name: "Portugal", slug: "Portugal" }, en: { name: "Portugal", slug: "Portugal" }, pt: { name: "Portugal", slug: "Portugal" } },
   Uzbekistan: { es: { name: "Uzbekistán", slug: "Uzbekistan" }, en: { name: "Uzbekistan", slug: "Uzbekistan" }, pt: { name: "Uzbequistão", slug: "Uzbequistao" } },
-  RepublicaDemocraticaDelCongo: { es: { name: "República Democrática del Congo", slug: "RepublicaDemocraticaDelCongo" }, en: { name: "DR Congo", slug: "DRCongo" }, pt: { name: "Congo RD", slug: "CongoRD" } },
+  RDCongo: { es: { name: "RD Congo", slug: "RDCongo" }, en: { name: "DR Congo", slug: "DRCongo" }, pt: { name: "Congo RD", slug: "CongoRD" } },
   Inglaterra: { es: { name: "Inglaterra", slug: "Inglaterra" }, en: { name: "England", slug: "England" }, pt: { name: "Inglaterra", slug: "Inglaterra" } },
   Croacia: { es: { name: "Croacia", slug: "Croacia" }, en: { name: "Croatia", slug: "Croatia" }, pt: { name: "Croácia", slug: "Croacia" } },
   Panama: { es: { name: "Panamá", slug: "Panama" }, en: { name: "Panama", slug: "Panama" }, pt: { name: "Panamá", slug: "Panama" } },

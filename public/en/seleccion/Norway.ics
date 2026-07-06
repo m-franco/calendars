@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260616T190000Z_Iraq_Norway
 DTSTART;TZID=America/Montevideo:20260616T190000
 DTEND;TZID=America/Montevideo:20260616T210000
-SUMMARY:Iraq vs. Norway
+SUMMARY:Iraq🇮🇶 vs. Norway🇳🇴
 DESCRIPTION:Group I - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Gillette Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260622T210000Z_Norway_Senegal
 DTSTART;TZID=America/Montevideo:20260622T210000
 DTEND;TZID=America/Montevideo:20260622T230000
-SUMMARY:Norway vs. Senegal
+SUMMARY:Norway🇳🇴 vs. Senegal🇸🇳
 DESCRIPTION:Group I - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260626T160000Z_Norway_France
 DTSTART;TZID=America/Montevideo:20260626T160000
 DTEND;TZID=America/Montevideo:20260626T180000
-SUMMARY:Norway vs. France
+SUMMARY:Norway🇳🇴 vs. France🇫🇷
 DESCRIPTION:Group I - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Gillette Stadium
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260630T140000Z_IvoryCoast_Norway
 DTSTART;TZID=America/Montevideo:20260630T140000
 DTEND;TZID=America/Montevideo:20260630T160000
-SUMMARY:Ivory Coast vs. Norway
+SUMMARY:Ivory Coast🇨🇮 vs. Norway🇳🇴
 DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
@@ -45,9 +45,19 @@ BEGIN:VEVENT
 UID:20260705T170000Z_Brazil_Norway
 DTSTART;TZID=America/Montevideo:20260705T170000
 DTEND;TZID=America/Montevideo:20260705T190000
-SUMMARY:Brazil vs. Norway
+SUMMARY:Brazil🇧🇷 vs. Norway🇳🇴
 DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260711T180000Z_Norway_England
+DTSTART;TZID=America/Montevideo:20260711T180000
+DTEND;TZID=America/Montevideo:20260711T200000
+SUMMARY:Norway🇳🇴 vs. England🏴󠁧󠁢󠁥󠁮󠁧󠁿
+DESCRIPTION:Quarter-finals - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Hard Rock Stadium
 END:VEVENT
 END:VCALENDAR

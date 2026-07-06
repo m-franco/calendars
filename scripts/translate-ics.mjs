@@ -45,6 +45,32 @@ for (const [esSlug, loc] of Object.entries(selecciones)) {
   seleccionSlug[esSlug] = { es: loc.es.slug, en: loc.en.slug, pt: loc.pt.slug };
   seleccionName[loc.es.name] = { es: loc.es.name, en: loc.en.name, pt: loc.pt.name };
 }
+
+// Bandera por selección (clave = slug es). Escocia e Inglaterra usan sus
+// banderas de nación (secuencia con "tag characters").
+const flagBySlug = {
+  Mexico: "🇲🇽", RepublicaCheca: "🇨🇿", CoreaDelSur: "🇰🇷", Sudafrica: "🇿🇦",
+  Canada: "🇨🇦", BosniaYHerzegovina: "🇧🇦", Suiza: "🇨🇭", Qatar: "🇶🇦",
+  Brasil: "🇧🇷", Escocia: "🏴󠁧󠁢󠁳󠁣󠁴󠁿", Haiti: "🇭🇹", Marruecos: "🇲🇦",
+  Paraguay: "🇵🇾", Turquia: "🇹🇷", Australia: "🇦🇺", EstadosUnidos: "🇺🇸",
+  Ecuador: "🇪🇨", Alemania: "🇩🇪", CostaDeMarfil: "🇨🇮", Curazao: "🇨🇼",
+  PaisesBajos: "🇳🇱", Suecia: "🇸🇪", Japon: "🇯🇵", Tunez: "🇹🇳",
+  Belgica: "🇧🇪", Iran: "🇮🇷", Egipto: "🇪🇬", NuevaZelanda: "🇳🇿",
+  Espana: "🇪🇸", Uruguay: "🇺🇾", ArabiaSaudita: "🇸🇦", CaboVerde: "🇨🇻",
+  Noruega: "🇳🇴", Francia: "🇫🇷", Senegal: "🇸🇳", Irak: "🇮🇶",
+  Argentina: "🇦🇷", Austria: "🇦🇹", Argelia: "🇩🇿", Jordania: "🇯🇴",
+  Colombia: "🇨🇴", Portugal: "🇵🇹", Uzbekistan: "🇺🇿",
+  RDCongo: "🇨🇩", Inglaterra: "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+  Croacia: "🇭🇷", Panama: "🇵🇦", Ghana: "🇬🇭",
+};
+// nombre visible es -> bandera
+const flagByName = {};
+for (const [esSlug, loc] of Object.entries(selecciones)) {
+  if (flagBySlug[esSlug]) flagByName[loc.es.name] = flagBySlug[esSlug];
+}
+// Quita cualquier bandera (indicadores regionales o banderas de nación con tags).
+const stripFlags = (s) =>
+  s.replace(/[\u{1F1E6}-\u{1F1FF}\u{1F3F4}\u{E0020}-\u{E007F}]/gu, "").trim();
 // Indexado por el slug en español (el nombre real del archivo en public/es).
 const gentilicioSlug = {};
 for (const loc of Object.values(gentilicios)) {
@@ -195,10 +221,13 @@ function translateDescription(value, lang) {
 }
 
 function translateSummary(value, lang) {
-  // "A vs. B" -> nombres de selección traducidos
+  // "A vs. B" -> nombre de selección (traducido) + bandera del país.
   return value.split(" vs. ").map((side) => {
-    const t = seleccionName[side.trim()];
-    return t ? t[lang] : side;
+    const base = stripFlags(side); // nombre sin banderas (idempotente)
+    const t = seleccionName[base];
+    const name = t ? t[lang] : base;
+    const flag = flagByName[base] || "";
+    return name + flag;
   }).join(" vs. ");
 }
 
@@ -236,16 +265,18 @@ function translateContent(text, rel, lang) {
       if (lang !== "es") v = translateDescription(v, lang);
       return "DESCRIPTION:" + v + "\\n\\n" + supportMessage[lang];
     }
-    // En español sólo agregamos el apoyo; el resto del contenido queda igual.
+    // SUMMARY del Mundial: bandera del país (y nombre traducido en en/pt).
+    // Se hace también en español, por eso va antes del corte de "es".
+    if (wc && line.startsWith("SUMMARY:")) {
+      return "SUMMARY:" + translateSummary(line.slice("SUMMARY:".length), lang);
+    }
+    // En español, el resto del contenido queda igual (sólo se agregó el apoyo).
     if (lang === "es") return line;
     if (line.startsWith("PRODID:")) {
       return line.replace(/\/\/ES\s*$/, `//${lang.toUpperCase()}`);
     }
     if (line.startsWith("LOCATION:")) {
       return "LOCATION:" + translateLocation(line.slice("LOCATION:".length), lang);
-    }
-    if (wc && line.startsWith("SUMMARY:")) {
-      return "SUMMARY:" + translateSummary(line.slice("SUMMARY:".length), lang);
     }
     if (wc && line.startsWith("UID:")) {
       return "UID:" + translateUid(line.slice("UID:".length), lang);

@@ -1,0 +1,115 @@
+---
+import type { Lang } from "../i18n/ui";
+import type { Match } from "../utils/fixtures";
+
+interface Props {
+    matches: Match[];
+    lang: Lang;
+}
+const { matches, lang } = Astro.props;
+
+const locale: Record<Lang, string> = { es: "es-UY", en: "en-GB", pt: "pt-BR" };
+const heading: Record<Lang, string> = {
+    es: "Los partidos que incluye este calendario:",
+    en: "Matches included in this calendar:",
+    pt: "As partidas que este calendário inclui:",
+};
+const tzNote: Record<Lang, string> = {
+    es: "Horarios de Uruguay",
+    en: "Times shown in Uruguay time",
+    pt: "Horários do Uruguai",
+};
+
+// Se listan del último al primero (los más nuevos arriba).
+const list = [...matches].reverse();
+
+// Render por defecto en hora de Uruguay (respaldo si no corre el JS).
+const TZ = "America/Montevideo";
+const dateFmt = new Intl.DateTimeFormat(locale[lang], { weekday: "short", day: "numeric", month: "short", timeZone: TZ });
+const timeFmt = new Intl.DateTimeFormat(locale[lang], { hour: "2-digit", minute: "2-digit", hour12: false, timeZone: TZ });
+---
+
+{matches.length > 0 && (
+    <section class="fixtures">
+        <div class="fixtures-head">
+            <h2>{heading[lang]}</h2>
+            <span class="tz" data-tz-default={tzNote[lang]}>{tzNote[lang]}</span>
+        </div>
+        <ul>
+            {list.map((m) => (
+                <li class="fixture" data-utc={m.iso}>
+                    <div class="when">
+                        <span class="date">{dateFmt.format(new Date(m.iso))}</span>
+                        <span class="time">{timeFmt.format(new Date(m.iso))}</span>
+                    </div>
+                    <div class="body">
+                        <span class="match">{m.summary}</span>
+                        <span class="meta">{m.stage}{m.venue ? ` · ${m.venue}` : ""}</span>
+                    </div>
+                </li>
+            ))}
+        </ul>
+    </section>
+)}
+
+<script is:inline>
+    // Reconvierte los horarios a la zona del visitante (respaldo: hora de Uruguay).
+    (function () {
+        var rows = document.querySelectorAll(".fixture[data-utc]");
+        if (!rows.length) return;
+        var lang = document.documentElement.lang || "es";
+        var loc = { es: "es-UY", en: "en-GB", pt: "pt-BR" }[lang] || "es-UY";
+        var noteText = { es: "En tu hora local", en: "In your local time", pt: "No seu horário local" }[lang];
+        var df, tf;
+        try {
+            df = new Intl.DateTimeFormat(loc, { weekday: "short", day: "numeric", month: "short" });
+            tf = new Intl.DateTimeFormat(loc, { hour: "2-digit", minute: "2-digit", hour12: false });
+        } catch (e) { return; }
+        rows.forEach(function (el) {
+            var d = new Date(el.getAttribute("data-utc"));
+            if (isNaN(d.getTime())) return;
+            var dateEl = el.querySelector(".date");
+            var timeEl = el.querySelector(".time");
+            if (dateEl) dateEl.textContent = df.format(d);
+            if (timeEl) timeEl.textContent = tf.format(d);
+        });
+        var note = document.querySelector(".fixtures .tz");
+        if (note && noteText) note.textContent = noteText;
+    })();
+</script>
+
+<style>
+    .fixtures { margin-top: 2.5rem; }
+    .fixtures-head {
+        display: flex; align-items: baseline; justify-content: space-between;
+        gap: 1rem; margin-bottom: 0.75rem; flex-wrap: wrap;
+    }
+    .fixtures-head h2 { font-size: 1.4rem; font-weight: 700; color: #fff; }
+    .tz { font-size: 0.8rem; color: rgba(255,255,255,0.5); }
+    .fixtures ul { list-style: none; display: flex; flex-direction: column; gap: 0.4rem; }
+    .fixture {
+        display: flex; align-items: center; gap: 0.9rem;
+        background: rgba(8, 47, 73, 0.4);
+        border: 1px solid rgba(var(--accent-light), 15%);
+        border-radius: 10px; padding: 0.6rem 0.9rem;
+    }
+    .when {
+        flex: 0 0 auto;
+        display: flex; flex-direction: column; align-items: center;
+        min-width: 3.4rem; text-align: center;
+    }
+    .when .date { font-size: 0.78rem; color: rgba(255,255,255,0.6); text-transform: capitalize; white-space: nowrap; }
+    .when .time { font-size: 1rem; font-weight: 700; color: rgb(var(--accent-light)); }
+    .body { flex: 1 1 auto; min-width: 0; display: flex; flex-direction: column; }
+    .match { font-weight: 600; color: #fff; line-height: 1.25; overflow-wrap: anywhere; }
+    .meta { font-size: 0.8rem; color: rgba(255,255,255,0.55); overflow-wrap: anywhere; }
+
+    @media (max-width: 480px) {
+        .fixture { gap: 0.65rem; padding: 0.55rem 0.7rem; }
+        .when { min-width: 3rem; }
+        .when .date { font-size: 0.72rem; }
+        .when .time { font-size: 0.95rem; }
+        .match { font-size: 0.92rem; }
+        .meta { font-size: 0.72rem; }
+    }
+</style>

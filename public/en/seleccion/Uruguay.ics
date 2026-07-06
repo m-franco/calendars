@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260615T190000Z_SaudiArabia_Uruguay
 DTSTART;TZID=America/Montevideo:20260615T190000
 DTEND;TZID=America/Montevideo:20260615T210000
-SUMMARY:Saudi Arabia vs. Uruguay
+SUMMARY:Saudi Arabia🇸🇦 vs. Uruguay🇺🇾
 DESCRIPTION:Group H - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260621T190000Z_Uruguay_CapeVerde
 DTSTART;TZID=America/Montevideo:20260621T190000
 DTEND;TZID=America/Montevideo:20260621T210000
-SUMMARY:Uruguay vs. Cape Verde
+SUMMARY:Uruguay🇺🇾 vs. Cape Verde🇨🇻
 DESCRIPTION:Group H - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260626T210000Z_Uruguay_Spain
 DTSTART;TZID=America/Montevideo:20260626T210000
 DTEND;TZID=America/Montevideo:20260626T230000
-SUMMARY:Uruguay vs. Spain
+SUMMARY:Uruguay🇺🇾 vs. Spain🇪🇸
 DESCRIPTION:Group H - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Akron Stadium

@@ -3,8 +3,10 @@ import Layout from "../../layouts/Layout.astro";
 import CalendarCard from "../CalendarCard.astro";
 import GroupCalendarSubject from "../GroupCalendarSubject.astro";
 import TournamentCalendarSubject from "../TournamentCalendarSubject.astro";
+import Fixtures from "../Fixtures.astro";
 import { withCalendarSubscriptionName } from "../../utils/calendarLinks";
 import { getTeamImagePath } from "../../utils/teamImages";
+import { readFixtures } from "../../utils/fixtures";
 import {
     t,
     subject,
@@ -61,6 +63,8 @@ const image = imagePath
 const calendarFilePath = type === "tournament"
     ? localizedTournamentFile(tournament, lang)
     : localizedCalendarFilePath(type, esPath, tournament, imageName, lang, year);
+
+const fixtures = readFixtures(calendarFilePath);
 
 const groupTeams = type === "group"
     ? (tournamentsForYear as any[])
@@ -133,6 +137,8 @@ const showSecondHeading = type !== "tournament" && type !== "country" && type !=
                 </ul>
             </div>
         </div>
+
+        <Fixtures matches={fixtures} lang={lang} />
     </main>
 </Layout>
 

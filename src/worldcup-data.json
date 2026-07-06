@@ -324,9 +324,9 @@
                             "imageName": "seleccion/Uzbekistan.png"
                         },
                         {
-                            "name": "República Democrática del Congo",
-                            "path": "RepublicaDemocraticaDelCongo",
-                            "imageName": "seleccion/RepublicaDemocraticaDelCongo.png"
+                            "name": "RD Congo",
+                            "path": "RDCongo",
+                            "imageName": "seleccion/RDCongo.png"
                         }
                     ]
                 },
@@ -670,9 +670,9 @@
         },
         {
             "type": "team",
-            "name": "República Democrática del Congo",
-            "path": "RepublicaDemocraticaDelCongo",
-            "imageName": "seleccion/RepublicaDemocraticaDelCongo.png",
+            "name": "RD Congo",
+            "path": "RDCongo",
+            "imageName": "seleccion/RDCongo.png",
             "tournament": "mundial"
         },
         {

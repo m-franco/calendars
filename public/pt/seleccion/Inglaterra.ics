@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260617T170000Z_Inglaterra_Croacia
 DTSTART;TZID=America/Montevideo:20260617T170000
 DTEND;TZID=America/Montevideo:20260617T190000
-SUMMARY:Inglaterra vs. Croácia
+SUMMARY:Inglaterra🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs. Croácia🇭🇷
 DESCRIPTION:Grupo L - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260623T170000Z_Inglaterra_Gana
 DTSTART;TZID=America/Montevideo:20260623T170000
 DTEND;TZID=America/Montevideo:20260623T190000
-SUMMARY:Inglaterra vs. Gana
+SUMMARY:Inglaterra🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs. Gana🇬🇭
 DESCRIPTION:Grupo L - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Gillette Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260627T180000Z_Panama_Inglaterra
 DTSTART;TZID=America/Montevideo:20260627T180000
 DTEND;TZID=America/Montevideo:20260627T200000
-SUMMARY:Panamá vs. Inglaterra
+SUMMARY:Panamá🇵🇦 vs. Inglaterra🏴󠁧󠁢󠁥󠁮󠁧󠁿
 DESCRIPTION:Grupo L - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
@@ -35,19 +35,29 @@ BEGIN:VEVENT
 UID:20260701T130000Z_Inglaterra_CongoRD
 DTSTART;TZID=America/Montevideo:20260701T130000
 DTEND;TZID=America/Montevideo:20260701T150000
-SUMMARY:Inglaterra vs. Congo RD
+SUMMARY:Inglaterra🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs. Congo RD🇨🇩
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260705T210000Z_Mexico_Inglaterra
-DTSTART;TZID=America/Montevideo:20260705T210000
-DTEND;TZID=America/Montevideo:20260705T230000
-SUMMARY:México vs. Inglaterra
+UID:20260705T220000Z_Mexico_Inglaterra
+DTSTART;TZID=America/Montevideo:20260705T220000
+DTEND;TZID=America/Montevideo:20260706T000000
+SUMMARY:México🇲🇽 vs. Inglaterra🏴󠁧󠁢󠁥󠁮󠁧󠁿
 DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Banorte
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260711T180000Z_Noruega_Inglaterra
+DTSTART;TZID=America/Montevideo:20260711T180000
+DTEND;TZID=America/Montevideo:20260711T200000
+SUMMARY:Noruega🇳🇴 vs. Inglaterra🏴󠁧󠁢󠁥󠁮󠁧󠁿
+DESCRIPTION:Quartas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Hard Rock Stadium
 END:VEVENT
 END:VCALENDAR

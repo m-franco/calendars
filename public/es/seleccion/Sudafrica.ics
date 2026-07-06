@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260611T160000Z_Mexico_Sudafrica
 DTSTART;TZID=America/Montevideo:20260611T160000
 DTEND;TZID=America/Montevideo:20260611T180000
-SUMMARY:México vs. Sudáfrica
+SUMMARY:México🇲🇽 vs. Sudáfrica🇿🇦
 DESCRIPTION:Grupo A - Fecha 1 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Banorte
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260618T130000Z_RepublicaCheca_Sudafrica
 DTSTART;TZID=America/Montevideo:20260618T130000
 DTEND;TZID=America/Montevideo:20260618T150000
-SUMMARY:República Checa vs. Sudáfrica
+SUMMARY:República Checa🇨🇿 vs. Sudáfrica🇿🇦
 DESCRIPTION:Grupo A - Fecha 2 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260624T220000Z_Sudafrica_CoreaDelSur
 DTSTART;TZID=America/Montevideo:20260624T220000
 DTEND;TZID=America/Montevideo:20260625T000000
-SUMMARY:Sudáfrica vs. Corea del Sur
+SUMMARY:Sudáfrica🇿🇦 vs. Corea del Sur🇰🇷
 DESCRIPTION:Grupo A - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio BBVA
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260628T160000Z_Sudafrica_Canada
 DTSTART;TZID=America/Montevideo:20260628T160000
 DTEND;TZID=America/Montevideo:20260628T180000
-SUMMARY:Sudáfrica vs. Canadá
+SUMMARY:Sudáfrica🇿🇦 vs. Canadá🇨🇦
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:SoFi Stadium

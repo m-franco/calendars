@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260613T160000Z_Qatar_Suiza
 DTSTART;TZID=America/Montevideo:20260613T160000
 DTEND;TZID=America/Montevideo:20260613T180000
-SUMMARY:Qatar vs. Suiza
+SUMMARY:Qatar🇶🇦 vs. Suiza🇨🇭
 DESCRIPTION:Grupo B - Fecha 1 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260618T190000Z_Canada_Qatar
 DTSTART;TZID=America/Montevideo:20260618T190000
 DTEND;TZID=America/Montevideo:20260618T210000
-SUMMARY:Canadá vs. Qatar
+SUMMARY:Canadá🇨🇦 vs. Qatar🇶🇦
 DESCRIPTION:Grupo B - Fecha 2 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:BC Place
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260624T160000Z_BosniaYHerzegovina_Qatar
 DTSTART;TZID=America/Montevideo:20260624T160000
 DTEND;TZID=America/Montevideo:20260624T180000
-SUMMARY:Bosnia y Herzegovina vs. Qatar
+SUMMARY:Bosnia y Herzegovina🇧🇦 vs. Qatar🇶🇦
 DESCRIPTION:Grupo B - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Lumen Field

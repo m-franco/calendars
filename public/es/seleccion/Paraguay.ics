@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260612T220000Z_EstadosUnidos_Paraguay
 DTSTART;TZID=America/Montevideo:20260612T220000
 DTEND;TZID=America/Montevideo:20260613T000000
-SUMMARY:Estados Unidos vs. Paraguay
+SUMMARY:Estados Unidos🇺🇸 vs. Paraguay🇵🇾
 DESCRIPTION:Grupo D - Fecha 1 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260620T000000Z_Turquia_Paraguay
 DTSTART;TZID=America/Montevideo:20260620T000000
 DTEND;TZID=America/Montevideo:20260620T020000
-SUMMARY:Turquía vs. Paraguay
+SUMMARY:Turquía🇹🇷 vs. Paraguay🇵🇾
 DESCRIPTION:Grupo D - Fecha 2 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260625T230000Z_Paraguay_Australia
 DTSTART;TZID=America/Montevideo:20260625T230000
 DTEND;TZID=America/Montevideo:20260626T010000
-SUMMARY:Paraguay vs. Australia
+SUMMARY:Paraguay🇵🇾 vs. Australia🇦🇺
 DESCRIPTION:Grupo D - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260629T173000Z_Alemania_Paraguay
 DTSTART;TZID=America/Montevideo:20260629T173000
 DTEND;TZID=America/Montevideo:20260629T193000
-SUMMARY:Alemania vs. Paraguay
+SUMMARY:Alemania🇩🇪 vs. Paraguay🇵🇾
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Gillette Stadium
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 UID:20260704T180000Z_Paraguay_Francia
 DTSTART;TZID=America/Montevideo:20260704T180000
 DTEND;TZID=America/Montevideo:20260704T200000
-SUMMARY:Paraguay vs. Francia
+SUMMARY:Paraguay🇵🇾 vs. Francia🇫🇷
 DESCRIPTION:Octavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Lincoln Financial Field

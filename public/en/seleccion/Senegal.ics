@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260616T160000Z_France_Senegal
 DTSTART;TZID=America/Montevideo:20260616T160000
 DTEND;TZID=America/Montevideo:20260616T180000
-SUMMARY:France vs. Senegal
+SUMMARY:France🇫🇷 vs. Senegal🇸🇳
 DESCRIPTION:Group I - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260622T210000Z_Norway_Senegal
 DTSTART;TZID=America/Montevideo:20260622T210000
 DTEND;TZID=America/Montevideo:20260622T230000
-SUMMARY:Norway vs. Senegal
+SUMMARY:Norway🇳🇴 vs. Senegal🇸🇳
 DESCRIPTION:Group I - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260626T160000Z_Senegal_Iraq
 DTSTART;TZID=America/Montevideo:20260626T160000
 DTEND;TZID=America/Montevideo:20260626T180000
-SUMMARY:Senegal vs. Iraq
+SUMMARY:Senegal🇸🇳 vs. Iraq🇮🇶
 DESCRIPTION:Group I - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:BMO Field
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260701T170000Z_Belgium_Senegal
 DTSTART;TZID=America/Montevideo:20260701T170000
 DTEND;TZID=America/Montevideo:20260701T190000
-SUMMARY:Belgium vs. Senegal
+SUMMARY:Belgium🇧🇪 vs. Senegal🇸🇳
 DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Lumen Field

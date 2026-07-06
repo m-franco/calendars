@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260615T160000Z_Belgium_Egypt
 DTSTART;TZID=America/Montevideo:20260615T160000
 DTEND;TZID=America/Montevideo:20260615T180000
-SUMMARY:Belgium vs. Egypt
+SUMMARY:Belgium🇧🇪 vs. Egypt🇪🇬
 DESCRIPTION:Group G - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Lumen Field
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260621T220000Z_NewZealand_Egypt
 DTSTART;TZID=America/Montevideo:20260621T220000
 DTEND;TZID=America/Montevideo:20260622T000000
-SUMMARY:New Zealand vs. Egypt
+SUMMARY:New Zealand🇳🇿 vs. Egypt🇪🇬
 DESCRIPTION:Group G - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:BC Place
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260627T000000Z_Egypt_Iran
 DTSTART;TZID=America/Montevideo:20260627T000000
 DTEND;TZID=America/Montevideo:20260627T020000
-SUMMARY:Egypt vs. Iran
+SUMMARY:Egypt🇪🇬 vs. Iran🇮🇷
 DESCRIPTION:Group G - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Lumen Field
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260703T150000Z_Australia_Egypt
 DTSTART;TZID=America/Montevideo:20260703T150000
 DTEND;TZID=America/Montevideo:20260703T170000
-SUMMARY:Australia vs. Egypt
+SUMMARY:Australia🇦🇺 vs. Egypt🇪🇬
 DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 UID:20260707T130000Z_Argentina_Egypt
 DTSTART;TZID=America/Montevideo:20260707T130000
 DTEND;TZID=America/Montevideo:20260707T150000
-SUMMARY:Argentina vs. Egypt
+SUMMARY:Argentina🇦🇷 vs. Egypt🇪🇬
 DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium

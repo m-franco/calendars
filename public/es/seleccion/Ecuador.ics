@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260614T200000Z_CostaDeMarfil_Ecuador
 DTSTART;TZID=America/Montevideo:20260614T200000
 DTEND;TZID=America/Montevideo:20260614T220000
-SUMMARY:Costa de Marfil vs. Ecuador
+SUMMARY:Costa de Marfil🇨🇮 vs. Ecuador🇪🇨
 DESCRIPTION:Grupo E - Fecha 1 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Lincoln Financial Field
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260620T210000Z_Ecuador_Curazao
 DTSTART;TZID=America/Montevideo:20260620T210000
 DTEND;TZID=America/Montevideo:20260620T230000
-SUMMARY:Ecuador vs. Curazao
+SUMMARY:Ecuador🇪🇨 vs. Curazao🇨🇼
 DESCRIPTION:Grupo E - Fecha 2 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:GEHA Field at Arrowhead Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260625T170000Z_Ecuador_Alemania
 DTSTART;TZID=America/Montevideo:20260625T170000
 DTEND;TZID=America/Montevideo:20260625T190000
-SUMMARY:Ecuador vs. Alemania
+SUMMARY:Ecuador🇪🇨 vs. Alemania🇩🇪
 DESCRIPTION:Grupo E - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260630T230000Z_Mexico_Ecuador
 DTSTART;TZID=America/Montevideo:20260630T230000
 DTEND;TZID=America/Montevideo:20260701T010000
-SUMMARY:México vs. Ecuador
+SUMMARY:México🇲🇽 vs. Ecuador🇪🇨
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Banorte

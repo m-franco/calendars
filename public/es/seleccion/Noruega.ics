@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260616T190000Z_Irak_Noruega
 DTSTART;TZID=America/Montevideo:20260616T190000
 DTEND;TZID=America/Montevideo:20260616T210000
-SUMMARY:Irak vs. Noruega
+SUMMARY:Irak🇮🇶 vs. Noruega🇳🇴
 DESCRIPTION:Grupo I - Fecha 1 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Gillette Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260622T210000Z_Noruega_Senegal
 DTSTART;TZID=America/Montevideo:20260622T210000
 DTEND;TZID=America/Montevideo:20260622T230000
-SUMMARY:Noruega vs. Senegal
+SUMMARY:Noruega🇳🇴 vs. Senegal🇸🇳
 DESCRIPTION:Grupo I - Fecha 2 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260626T160000Z_Noruega_Francia
 DTSTART;TZID=America/Montevideo:20260626T160000
 DTEND;TZID=America/Montevideo:20260626T180000
-SUMMARY:Noruega vs. Francia
+SUMMARY:Noruega🇳🇴 vs. Francia🇫🇷
 DESCRIPTION:Grupo I - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Gillette Stadium
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260630T140000Z_CostaDeMarfil_Noruega
 DTSTART;TZID=America/Montevideo:20260630T140000
 DTEND;TZID=America/Montevideo:20260630T160000
-SUMMARY:Costa de Marfil vs. Noruega
+SUMMARY:Costa de Marfil🇨🇮 vs. Noruega🇳🇴
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
@@ -45,9 +45,19 @@ BEGIN:VEVENT
 UID:20260705T170000Z_Brasil_Noruega
 DTSTART;TZID=America/Montevideo:20260705T170000
 DTEND;TZID=America/Montevideo:20260705T190000
-SUMMARY:Brasil vs. Noruega
+SUMMARY:Brasil🇧🇷 vs. Noruega🇳🇴
 DESCRIPTION:Octavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260711T180000Z_Noruega_Inglaterra
+DTSTART;TZID=America/Montevideo:20260711T180000
+DTEND;TZID=America/Montevideo:20260711T200000
+SUMMARY:Noruega🇳🇴 vs. Inglaterra🏴󠁧󠁢󠁥󠁮󠁧󠁿
+DESCRIPTION:Cuartos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Hard Rock Stadium
 END:VEVENT
 END:VCALENDAR

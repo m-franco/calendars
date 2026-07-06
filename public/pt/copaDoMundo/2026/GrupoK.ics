@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260617T140000Z_Portugal_CongoRD
 DTSTART;TZID=America/Montevideo:20260617T140000
 DTEND;TZID=America/Montevideo:20260617T160000
-SUMMARY:Portugal vs. Congo RD
+SUMMARY:Portugal🇵🇹 vs. Congo RD🇨🇩
 DESCRIPTION:Grupo K - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:NRG Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260617T230000Z_Uzbequistao_Colombia
 DTSTART;TZID=America/Montevideo:20260617T230000
 DTEND;TZID=America/Montevideo:20260618T010000
-SUMMARY:Uzbequistão vs. Colômbia
+SUMMARY:Uzbequistão🇺🇿 vs. Colômbia🇨🇴
 DESCRIPTION:Grupo K - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Banorte
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260623T140000Z_Portugal_Uzbequistao
 DTSTART;TZID=America/Montevideo:20260623T140000
 DTEND;TZID=America/Montevideo:20260623T160000
-SUMMARY:Portugal vs. Uzbequistão
+SUMMARY:Portugal🇵🇹 vs. Uzbequistão🇺🇿
 DESCRIPTION:Grupo K - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:NRG Stadium
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260623T230000Z_Colombia_CongoRD
 DTSTART;TZID=America/Montevideo:20260623T230000
 DTEND;TZID=America/Montevideo:20260624T010000
-SUMMARY:Colômbia vs. Congo RD
+SUMMARY:Colômbia🇨🇴 vs. Congo RD🇨🇩
 DESCRIPTION:Grupo K - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Akron
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 UID:20260627T203000Z_Colombia_Portugal
 DTSTART;TZID=America/Montevideo:20260627T203000
 DTEND;TZID=America/Montevideo:20260627T223000
-SUMMARY:Colômbia vs. Portugal
+SUMMARY:Colômbia🇨🇴 vs. Portugal🇵🇹
 DESCRIPTION:Grupo K - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium
@@ -55,7 +55,7 @@ BEGIN:VEVENT
 UID:20260627T203000Z_CongoRD_Uzbequistao
 DTSTART;TZID=America/Montevideo:20260627T203000
 DTEND;TZID=America/Montevideo:20260627T223000
-SUMMARY:Congo RD vs. Uzbequistão
+SUMMARY:Congo RD🇨🇩 vs. Uzbequistão🇺🇿
 DESCRIPTION:Grupo K - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 UID:20260701T130000Z_Inglaterra_CongoRD
 DTSTART;TZID=America/Montevideo:20260701T130000
 DTEND;TZID=America/Montevideo:20260701T150000
-SUMMARY:Inglaterra vs. Congo RD
+SUMMARY:Inglaterra🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs. Congo RD🇨🇩
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 UID:20260702T200000Z_Portugal_Croacia
 DTSTART;TZID=America/Montevideo:20260702T200000
 DTEND;TZID=America/Montevideo:20260702T220000
-SUMMARY:Portugal vs. Croácia
+SUMMARY:Portugal🇵🇹 vs. Croácia🇭🇷
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:BMO Field
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 UID:20260703T223000Z_Colombia_Gana
 DTSTART;TZID=America/Montevideo:20260703T223000
 DTEND;TZID=America/Montevideo:20260704T003000
-SUMMARY:Colômbia vs. Gana
+SUMMARY:Colômbia🇨🇴 vs. Gana🇬🇭
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:GEHA Field at Arrowhead Stadium
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 UID:20260706T160000Z_Portugal_Espanha
 DTSTART;TZID=America/Montevideo:20260706T160000
 DTEND;TZID=America/Montevideo:20260706T180000
-SUMMARY:Portugal vs. Espanha
+SUMMARY:Portugal🇵🇹 vs. Espanha🇪🇸
 DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 UID:20260707T170000Z_Suica_Colombia
 DTSTART;TZID=America/Montevideo:20260707T170000
 DTEND;TZID=America/Montevideo:20260707T190000
-SUMMARY:Suíça vs. Colômbia
+SUMMARY:Suíça🇨🇭 vs. Colômbia🇨🇴
 DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:BC Place

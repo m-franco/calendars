@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260615T130000Z_Spain_CapeVerde
 DTSTART;TZID=America/Montevideo:20260615T130000
 DTEND;TZID=America/Montevideo:20260615T150000
-SUMMARY:Spain vs. Cape Verde
+SUMMARY:Spain🇪🇸 vs. Cape Verde🇨🇻
 DESCRIPTION:Group H - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260621T190000Z_Uruguay_CapeVerde
 DTSTART;TZID=America/Montevideo:20260621T190000
 DTEND;TZID=America/Montevideo:20260621T210000
-SUMMARY:Uruguay vs. Cape Verde
+SUMMARY:Uruguay🇺🇾 vs. Cape Verde🇨🇻
 DESCRIPTION:Group H - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260626T210000Z_CapeVerde_SaudiArabia
 DTSTART;TZID=America/Montevideo:20260626T210000
 DTEND;TZID=America/Montevideo:20260626T230000
-SUMMARY:Cape Verde vs. Saudi Arabia
+SUMMARY:Cape Verde🇨🇻 vs. Saudi Arabia🇸🇦
 DESCRIPTION:Group H - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:NRG Stadium
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260703T190000Z_Argentina_CapeVerde
 DTSTART;TZID=America/Montevideo:20260703T190000
 DTEND;TZID=America/Montevideo:20260703T210000
-SUMMARY:Argentina vs. Cape Verde
+SUMMARY:Argentina🇦🇷 vs. Cape Verde🇨🇻
 DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium

@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260616T160000Z_Franca_Senegal
 DTSTART;TZID=America/Montevideo:20260616T160000
 DTEND;TZID=America/Montevideo:20260616T180000
-SUMMARY:França vs. Senegal
+SUMMARY:França🇫🇷 vs. Senegal🇸🇳
 DESCRIPTION:Grupo I - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260622T180000Z_Franca_Iraque
 DTSTART;TZID=America/Montevideo:20260622T180000
 DTEND;TZID=America/Montevideo:20260622T200000
-SUMMARY:França vs. Iraque
+SUMMARY:França🇫🇷 vs. Iraque🇮🇶
 DESCRIPTION:Grupo I - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Lincoln Financial Field
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260626T160000Z_Noruega_Franca
 DTSTART;TZID=America/Montevideo:20260626T160000
 DTEND;TZID=America/Montevideo:20260626T180000
-SUMMARY:Noruega vs. França
+SUMMARY:Noruega🇳🇴 vs. França🇫🇷
 DESCRIPTION:Grupo I - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Gillette Stadium
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260630T180000Z_Franca_Suecia
 DTSTART;TZID=America/Montevideo:20260630T180000
 DTEND;TZID=America/Montevideo:20260630T200000
-SUMMARY:França vs. Suécia
+SUMMARY:França🇫🇷 vs. Suécia🇸🇪
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
@@ -45,9 +45,19 @@ BEGIN:VEVENT
 UID:20260704T180000Z_Paraguai_Franca
 DTSTART;TZID=America/Montevideo:20260704T180000
 DTEND;TZID=America/Montevideo:20260704T200000
-SUMMARY:Paraguai vs. França
+SUMMARY:Paraguai🇵🇾 vs. França🇫🇷
 DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Lincoln Financial Field
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260709T170000Z_Franca_Marrocos
+DTSTART;TZID=America/Montevideo:20260709T170000
+DTEND;TZID=America/Montevideo:20260709T190000
+SUMMARY:França🇫🇷 vs. Marrocos🇲🇦
+DESCRIPTION:Quartas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Gillette Stadium
 END:VEVENT
 END:VCALENDAR

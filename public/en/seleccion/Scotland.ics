@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260613T220000Z_Haiti_Scotland
 DTSTART;TZID=America/Montevideo:20260613T220000
 DTEND;TZID=America/Montevideo:20260614T000000
-SUMMARY:Haiti vs. Scotland
+SUMMARY:Haiti🇭🇹 vs. Scotland🏴󠁧󠁢󠁳󠁣󠁴󠁿
 DESCRIPTION:Group C - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Gillette Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260619T190000Z_Scotland_Morocco
 DTSTART;TZID=America/Montevideo:20260619T190000
 DTEND;TZID=America/Montevideo:20260619T210000
-SUMMARY:Scotland vs. Morocco
+SUMMARY:Scotland🏴󠁧󠁢󠁳󠁣󠁴󠁿 vs. Morocco🇲🇦
 DESCRIPTION:Group C - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Gillette Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260624T190000Z_Scotland_Brazil
 DTSTART;TZID=America/Montevideo:20260624T190000
 DTEND;TZID=America/Montevideo:20260624T210000
-SUMMARY:Scotland vs. Brazil
+SUMMARY:Scotland🏴󠁧󠁢󠁳󠁣󠁴󠁿 vs. Brazil🇧🇷
 DESCRIPTION:Group C - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium

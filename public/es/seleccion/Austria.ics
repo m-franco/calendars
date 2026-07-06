@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260617T010000Z_Austria_Jordania
 DTSTART;TZID=America/Montevideo:20260617T010000
 DTEND;TZID=America/Montevideo:20260617T030000
-SUMMARY:Austria vs. Jordania
+SUMMARY:Austria🇦🇹 vs. Jordania🇯🇴
 DESCRIPTION:Grupo J - Fecha 1 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260622T140000Z_Argentina_Austria
 DTSTART;TZID=America/Montevideo:20260622T140000
 DTEND;TZID=America/Montevideo:20260622T160000
-SUMMARY:Argentina vs. Austria
+SUMMARY:Argentina🇦🇷 vs. Austria🇦🇹
 DESCRIPTION:Grupo J - Fecha 2 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260627T230000Z_Argelia_Austria
 DTSTART;TZID=America/Montevideo:20260627T230000
 DTEND;TZID=America/Montevideo:20260628T010000
-SUMMARY:Argelia vs. Austria
+SUMMARY:Argelia🇩🇿 vs. Austria🇦🇹
 DESCRIPTION:Grupo J - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:GEHA Field at Arrowhead Stadium
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260702T160000Z_Espana_Austria
 DTSTART;TZID=America/Montevideo:20260702T160000
 DTEND;TZID=America/Montevideo:20260702T180000
-SUMMARY:España vs. Austria
+SUMMARY:España🇪🇸 vs. Austria🇦🇹
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:SoFi Stadium

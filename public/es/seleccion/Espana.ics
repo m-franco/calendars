@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260615T130000Z_Espana_CaboVerde
 DTSTART;TZID=America/Montevideo:20260615T130000
 DTEND;TZID=America/Montevideo:20260615T150000
-SUMMARY:España vs. Cabo Verde
+SUMMARY:España🇪🇸 vs. Cabo Verde🇨🇻
 DESCRIPTION:Grupo H - Fecha 1 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260621T130000Z_Espana_ArabiaSaudita
 DTSTART;TZID=America/Montevideo:20260621T130000
 DTEND;TZID=America/Montevideo:20260621T150000
-SUMMARY:España vs. Arabia Saudita
+SUMMARY:España🇪🇸 vs. Arabia Saudita🇸🇦
 DESCRIPTION:Grupo H - Fecha 2 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260626T210000Z_Uruguay_Espana
 DTSTART;TZID=America/Montevideo:20260626T210000
 DTEND;TZID=America/Montevideo:20260626T230000
-SUMMARY:Uruguay vs. España
+SUMMARY:Uruguay🇺🇾 vs. España🇪🇸
 DESCRIPTION:Grupo H - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Akron
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260702T160000Z_Espana_Austria
 DTSTART;TZID=America/Montevideo:20260702T160000
 DTEND;TZID=America/Montevideo:20260702T180000
-SUMMARY:España vs. Austria
+SUMMARY:España🇪🇸 vs. Austria🇦🇹
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 UID:20260706T160000Z_Portugal_Espana
 DTSTART;TZID=America/Montevideo:20260706T160000
 DTEND;TZID=America/Montevideo:20260706T180000
-SUMMARY:Portugal vs. España
+SUMMARY:Portugal🇵🇹 vs. España🇪🇸
 DESCRIPTION:Octavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:AT&T Stadium

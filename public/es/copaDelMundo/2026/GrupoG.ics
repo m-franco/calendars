@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260615T160000Z_Belgica_Egipto
 DTSTART;TZID=America/Montevideo:20260615T160000
 DTEND;TZID=America/Montevideo:20260615T180000
-SUMMARY:Bélgica vs. Egipto
+SUMMARY:Bélgica🇧🇪 vs. Egipto🇪🇬
 DESCRIPTION:Grupo G - Fecha 1 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Lumen Field
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260615T220000Z_Iran_NuevaZelanda
 DTSTART;TZID=America/Montevideo:20260615T220000
 DTEND;TZID=America/Montevideo:20260616T000000
-SUMMARY:Irán vs. Nueva Zelanda
+SUMMARY:Irán🇮🇷 vs. Nueva Zelanda🇳🇿
 DESCRIPTION:Grupo G - Fecha 1 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260621T160000Z_Belgica_Iran
 DTSTART;TZID=America/Montevideo:20260621T160000
 DTEND;TZID=America/Montevideo:20260621T180000
-SUMMARY:Bélgica vs. Irán
+SUMMARY:Bélgica🇧🇪 vs. Irán🇮🇷
 DESCRIPTION:Grupo G - Fecha 2 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260621T220000Z_NuevaZelanda_Egipto
 DTSTART;TZID=America/Montevideo:20260621T220000
 DTEND;TZID=America/Montevideo:20260622T000000
-SUMMARY:Nueva Zelanda vs. Egipto
+SUMMARY:Nueva Zelanda🇳🇿 vs. Egipto🇪🇬
 DESCRIPTION:Grupo G - Fecha 2 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:BC Place
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 UID:20260627T000000Z_Egipto_Iran
 DTSTART;TZID=America/Montevideo:20260627T000000
 DTEND;TZID=America/Montevideo:20260627T020000
-SUMMARY:Egipto vs. Irán
+SUMMARY:Egipto🇪🇬 vs. Irán🇮🇷
 DESCRIPTION:Grupo G - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Lumen Field
@@ -55,7 +55,7 @@ BEGIN:VEVENT
 UID:20260627T000000Z_NuevaZelanda_Belgica
 DTSTART;TZID=America/Montevideo:20260627T000000
 DTEND;TZID=America/Montevideo:20260627T020000
-SUMMARY:Nueva Zelanda vs. Bélgica
+SUMMARY:Nueva Zelanda🇳🇿 vs. Bélgica🇧🇪
 DESCRIPTION:Grupo G - Fecha 3 - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:BC Place
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 UID:20260701T170000Z_Belgica_Senegal
 DTSTART;TZID=America/Montevideo:20260701T170000
 DTEND;TZID=America/Montevideo:20260701T190000
-SUMMARY:Bélgica vs. Senegal
+SUMMARY:Bélgica🇧🇪 vs. Senegal🇸🇳
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Lumen Field
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 UID:20260703T150000Z_Australia_Egipto
 DTSTART;TZID=America/Montevideo:20260703T150000
 DTEND;TZID=America/Montevideo:20260703T170000
-SUMMARY:Australia vs. Egipto
+SUMMARY:Australia🇦🇺 vs. Egipto🇪🇬
 DESCRIPTION:Dieciseisavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 UID:20260706T210000Z_EstadosUnidos_Belgica
 DTSTART;TZID=America/Montevideo:20260706T210000
 DTEND;TZID=America/Montevideo:20260706T230000
-SUMMARY:Estados Unidos vs. Bélgica
+SUMMARY:Estados Unidos🇺🇸 vs. Bélgica🇧🇪
 DESCRIPTION:Octavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Lumen Field
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 UID:20260707T130000Z_Argentina_Egipto
 DTSTART;TZID=America/Montevideo:20260707T130000
 DTEND;TZID=America/Montevideo:20260707T150000
-SUMMARY:Argentina vs. Egipto
+SUMMARY:Argentina🇦🇷 vs. Egipto🇪🇬
 DESCRIPTION:Octavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium

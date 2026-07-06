@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260614T140000Z_Alemanha_Curacao
 DTSTART;TZID=America/Montevideo:20260614T140000
 DTEND;TZID=America/Montevideo:20260614T160000
-SUMMARY:Alemanha vs. Curaçao
+SUMMARY:Alemanha🇩🇪 vs. Curaçao🇨🇼
 DESCRIPTION:Grupo E - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:NRG Stadium
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260620T210000Z_Equador_Curacao
 DTSTART;TZID=America/Montevideo:20260620T210000
 DTEND;TZID=America/Montevideo:20260620T230000
-SUMMARY:Equador vs. Curaçao
+SUMMARY:Equador🇪🇨 vs. Curaçao🇨🇼
 DESCRIPTION:Grupo E - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:GEHA Field at Arrowhead Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260625T170000Z_Curacao_CostaDoMarfim
 DTSTART;TZID=America/Montevideo:20260625T170000
 DTEND;TZID=America/Montevideo:20260625T190000
-SUMMARY:Curaçao vs. Costa do Marfim
+SUMMARY:Curaçao🇨🇼 vs. Costa do Marfim🇨🇮
 DESCRIPTION:Grupo E - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Lincoln Financial Field

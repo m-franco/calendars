@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260614T200000Z_IvoryCoast_Ecuador
 DTSTART;TZID=America/Montevideo:20260614T200000
 DTEND;TZID=America/Montevideo:20260614T220000
-SUMMARY:Ivory Coast vs. Ecuador
+SUMMARY:Ivory Coast🇨🇮 vs. Ecuador🇪🇨
 DESCRIPTION:Group E - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Lincoln Financial Field
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260620T170000Z_Germany_IvoryCoast
 DTSTART;TZID=America/Montevideo:20260620T170000
 DTEND;TZID=America/Montevideo:20260620T190000
-SUMMARY:Germany vs. Ivory Coast
+SUMMARY:Germany🇩🇪 vs. Ivory Coast🇨🇮
 DESCRIPTION:Group E - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:BMO Field
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260625T170000Z_Curacao_IvoryCoast
 DTSTART;TZID=America/Montevideo:20260625T170000
 DTEND;TZID=America/Montevideo:20260625T190000
-SUMMARY:Curaçao vs. Ivory Coast
+SUMMARY:Curaçao🇨🇼 vs. Ivory Coast🇨🇮
 DESCRIPTION:Group E - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Lincoln Financial Field
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260630T140000Z_IvoryCoast_Norway
 DTSTART;TZID=America/Montevideo:20260630T140000
 DTEND;TZID=America/Montevideo:20260630T160000
-SUMMARY:Ivory Coast vs. Norway
+SUMMARY:Ivory Coast🇨🇮 vs. Norway🇳🇴
 DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:AT&T Stadium

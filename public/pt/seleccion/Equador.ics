@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260614T200000Z_CostaDoMarfim_Equador
 DTSTART;TZID=America/Montevideo:20260614T200000
 DTEND;TZID=America/Montevideo:20260614T220000
-SUMMARY:Costa do Marfim vs. Equador
+SUMMARY:Costa do Marfim🇨🇮 vs. Equador🇪🇨
 DESCRIPTION:Grupo E - Rodada 1 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Lincoln Financial Field
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260620T210000Z_Equador_Curacao
 DTSTART;TZID=America/Montevideo:20260620T210000
 DTEND;TZID=America/Montevideo:20260620T230000
-SUMMARY:Equador vs. Curaçao
+SUMMARY:Equador🇪🇨 vs. Curaçao🇨🇼
 DESCRIPTION:Grupo E - Rodada 2 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:GEHA Field at Arrowhead Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260625T170000Z_Equador_Alemanha
 DTSTART;TZID=America/Montevideo:20260625T170000
 DTEND;TZID=America/Montevideo:20260625T190000
-SUMMARY:Equador vs. Alemanha
+SUMMARY:Equador🇪🇨 vs. Alemanha🇩🇪
 DESCRIPTION:Grupo E - Rodada 3 - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260630T230000Z_Mexico_Equador
 DTSTART;TZID=America/Montevideo:20260630T230000
 DTEND;TZID=America/Montevideo:20260701T010000
-SUMMARY:México vs. Equador
+SUMMARY:México🇲🇽 vs. Equador🇪🇨
 DESCRIPTION:16-avos de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Estádio Banorte

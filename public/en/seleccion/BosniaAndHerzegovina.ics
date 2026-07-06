@@ -5,7 +5,7 @@ BEGIN:VEVENT
 UID:20260612T160000Z_Canada_BosniaAndHerzegovina
 DTSTART;TZID=America/Montevideo:20260612T160000
 DTEND;TZID=America/Montevideo:20260612T180000
-SUMMARY:Canada vs. Bosnia and Herzegovina
+SUMMARY:Canada🇨🇦 vs. Bosnia and Herzegovina🇧🇦
 DESCRIPTION:Group B - Matchday 1 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:BMO Field
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 UID:20260618T160000Z_Switzerland_BosniaAndHerzegovina
 DTSTART;TZID=America/Montevideo:20260618T160000
 DTEND;TZID=America/Montevideo:20260618T180000
-SUMMARY:Switzerland vs. Bosnia and Herzegovina
+SUMMARY:Switzerland🇨🇭 vs. Bosnia and Herzegovina🇧🇦
 DESCRIPTION:Group B - Matchday 2 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
@@ -25,7 +25,7 @@ BEGIN:VEVENT
 UID:20260624T160000Z_BosniaAndHerzegovina_Qatar
 DTSTART;TZID=America/Montevideo:20260624T160000
 DTEND;TZID=America/Montevideo:20260624T180000
-SUMMARY:Bosnia and Herzegovina vs. Qatar
+SUMMARY:Bosnia and Herzegovina🇧🇦 vs. Qatar🇶🇦
 DESCRIPTION:Group B - Matchday 3 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Lumen Field
@@ -35,7 +35,7 @@ BEGIN:VEVENT
 UID:20260701T210000Z_UnitedStates_BosniaAndHerzegovina
 DTSTART;TZID=America/Montevideo:20260701T210000
 DTEND;TZID=America/Montevideo:20260701T230000
-SUMMARY:United States vs. Bosnia and Herzegovina
+SUMMARY:United States🇺🇸 vs. Bosnia and Herzegovina🇧🇦
 DESCRIPTION:Round of 32 - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Levi's Stadium
