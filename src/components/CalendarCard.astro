@@ -5,11 +5,13 @@ interface Props {
     tournament: string;
     link:string;
     target?:string;
+    trackName?: string;
+    trackId?: string;
 }
 
 const basePath = `${import.meta.env.BASE_URL.replace(/\/$/, "")}/`;
 
-const { calendar, imageName, tournament, link, target } = Astro.props;
+const { calendar, imageName, tournament, link, target, trackName, trackId } = Astro.props;
 ---
 
 <div class="link-card w-36 h-44 flex items-center justify-center bg-center bg-cover"
@@ -17,7 +19,11 @@ const { calendar, imageName, tournament, link, target } = Astro.props;
         backgroundImage:`url(${basePath}img/icons/${tournament}-bg.jpg)`,
         }}
  >
-	<a href={link} class="w-full h-full" target={target}>
+	<a href={link} class="w-full h-full" target={target}
+        data-track-subscribe
+        data-app={calendar}
+        data-cal={trackName}
+        data-file={trackId}>
         <div class="flex w-full h-full flex-col items-center justify-center">
             <img class="w-24"
             src={`${basePath}img/icons/${imageName}`}

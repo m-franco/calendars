@@ -258,6 +258,23 @@ const footerTagline: Record<Lang, string> = {
                 </div>
             </div>
         </footer>
+        <script is:inline>
+            // Trackeo de clicks en los botones de suscripción (evento GA4).
+            (function () {
+                window.dataLayer = window.dataLayer || [];
+                function track() { window.dataLayer.push(arguments); }
+                document.addEventListener("click", function (e) {
+                    var a = e.target.closest && e.target.closest("a[data-track-subscribe]");
+                    if (!a) return;
+                    track("event", "subscribe_click", {
+                        calendar: a.getAttribute("data-cal") || "",
+                        calendar_file: a.getAttribute("data-file") || "",
+                        app: a.getAttribute("data-app") || "",
+                        language: document.documentElement.lang || "",
+                    });
+                }, true);
+            })();
+        </script>
     </body>
 </html>
 <style is:global>
