@@ -50,4 +50,14 @@ DESCRIPTION:Octavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Pue
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260710T160000Z_Espana_Belgica
+DTSTART;TZID=America/Montevideo:20260710T160000
+DTEND;TZID=America/Montevideo:20260710T180000
+SUMMARY:España🇪🇸 vs. Bélgica🇧🇪
+DESCRIPTION:Cuartos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:SoFi Stadium
+END:VEVENT
 END:VCALENDAR

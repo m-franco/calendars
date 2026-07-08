@@ -50,4 +50,14 @@ DESCRIPTION:Oitavas de final - Copa do Mundo\n\nGostou deste calendário? Apoie 
 CLASS:PUBLIC
 LOCATION:BC Place
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260711T220000Z_Argentina_Suica
+DTSTART;TZID=America/Montevideo:20260711T220000
+DTEND;TZID=America/Montevideo:20260712T000000
+SUMMARY:Argentina🇦🇷 vs. Suíça🇨🇭
+DESCRIPTION:Quartas de final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:GEHA Field at Arrowhead Stadium
+END:VEVENT
 END:VCALENDAR

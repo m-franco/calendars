@@ -972,10 +972,10 @@ LOCATION:Gillette Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260710T160000Z_RoundOf165Winner_RoundOf166Winner
+UID:20260710T160000Z_Espana_Belgica
 DTSTART;TZID=America/Montevideo:20260710T160000
 DTEND;TZID=America/Montevideo:20260710T180000
-SUMMARY:Ganador octavos 5 vs. Ganador octavos 6
+SUMMARY:España🇪🇸 vs. Bélgica🇧🇪
 DESCRIPTION:Cuartos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
@@ -992,10 +992,10 @@ LOCATION:Hard Rock Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260711T220000Z_RoundOf167Winner_RoundOf168Winner
+UID:20260711T220000Z_Argentina_Suiza
 DTSTART;TZID=America/Montevideo:20260711T220000
 DTEND;TZID=America/Montevideo:20260712T000000
-SUMMARY:Ganador octavos 7 vs. Ganador octavos 8
+SUMMARY:Argentina🇦🇷 vs. Suiza🇨🇭
 DESCRIPTION:Cuartos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:GEHA Field at Arrowhead Stadium

@@ -100,4 +100,14 @@ DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the proje
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260711T220000Z_Argentina_Switzerland
+DTSTART;TZID=America/Montevideo:20260711T220000
+DTEND;TZID=America/Montevideo:20260712T000000
+SUMMARY:Argentina🇦🇷 vs. Switzerland🇨🇭
+DESCRIPTION:Quarter-finals - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:GEHA Field at Arrowhead Stadium
+END:VEVENT
 END:VCALENDAR

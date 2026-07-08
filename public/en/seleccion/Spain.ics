@@ -50,4 +50,14 @@ DESCRIPTION:Round of 16 - World Cup\n\nEnjoying this calendar? Support the proje
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260710T160000Z_Spain_Belgium
+DTSTART;TZID=America/Montevideo:20260710T160000
+DTEND;TZID=America/Montevideo:20260710T180000
+SUMMARY:Spain🇪🇸 vs. Belgium🇧🇪
+DESCRIPTION:Quarter-finals - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:SoFi Stadium
+END:VEVENT
 END:VCALENDAR

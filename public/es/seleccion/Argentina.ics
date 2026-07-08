@@ -50,4 +50,14 @@ DESCRIPTION:Octavos de final - Copa del Mundo\n\n¿Te gusta este calendario? Pue
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260711T220000Z_Argentina_Suiza
+DTSTART;TZID=America/Montevideo:20260711T220000
+DTEND;TZID=America/Montevideo:20260712T000000
+SUMMARY:Argentina🇦🇷 vs. Suiza🇨🇭
+DESCRIPTION:Cuartos de final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:GEHA Field at Arrowhead Stadium
+END:VEVENT
 END:VCALENDAR
