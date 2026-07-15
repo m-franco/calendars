@@ -60,4 +60,24 @@ DESCRIPTION:Cuartos de final - Copa del Mundo\n\n¿Te gusta este calendario? Pue
 CLASS:PUBLIC
 LOCATION:SoFi Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260714T160000Z_Francia_Espana
+DTSTART;TZID=America/Montevideo:20260714T160000
+DTEND;TZID=America/Montevideo:20260714T180000
+SUMMARY:Francia🇫🇷 vs. España🇪🇸
+DESCRIPTION:Semifinal - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:AT&T Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260719T160000Z_Espana_Semifinal2Winner
+DTSTART;TZID=America/Montevideo:20260719T160000
+DTEND;TZID=America/Montevideo:20260719T180000
+SUMMARY:España🇪🇸 vs. Ganador semifinal 2
+DESCRIPTION:Final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:MetLife Stadium
+END:VEVENT
 END:VCALENDAR

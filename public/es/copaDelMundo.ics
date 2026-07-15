@@ -1002,40 +1002,40 @@ LOCATION:GEHA Field at Arrowhead Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260714T160000Z_Quarterfinal1Winner_Quarterfinal2Winner
+UID:20260714T160000Z_Francia_Espana
 DTSTART;TZID=America/Montevideo:20260714T160000
 DTEND;TZID=America/Montevideo:20260714T180000
-SUMMARY:Ganador cuartos 1 vs. Ganador cuartos 2
+SUMMARY:Francia🇫🇷 vs. España🇪🇸
 DESCRIPTION:Semifinal - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:AT&T Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260715T160000Z_Quarterfinal3Winner_Quarterfinal4Winner
+UID:20260715T160000Z_Inglaterra_Argentina
 DTSTART;TZID=America/Montevideo:20260715T160000
 DTEND;TZID=America/Montevideo:20260715T180000
-SUMMARY:Ganador cuartos 3 vs. Ganador cuartos 4
+SUMMARY:Inglaterra🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs. Argentina🇦🇷
 DESCRIPTION:Semifinal - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260718T180000Z_Semifinal1Loser_Semifinal2Loser
+UID:20260718T180000Z_Francia_Semifinal2Loser
 DTSTART;TZID=America/Montevideo:20260718T180000
 DTEND;TZID=America/Montevideo:20260718T200000
-SUMMARY:Perdedor semifinal 1 vs. Perdedor semifinal 2
+SUMMARY:Francia🇫🇷 vs. Perdedor semifinal 2
 DESCRIPTION:Tercer puesto - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260719T160000Z_Semifinal1Winner_Semifinal2Winner
+UID:20260719T160000Z_Espana_Semifinal2Winner
 DTSTART;TZID=America/Montevideo:20260719T160000
 DTEND;TZID=America/Montevideo:20260719T180000
-SUMMARY:Ganador semifinal 1 vs. Ganador semifinal 2
+SUMMARY:España🇪🇸 vs. Ganador semifinal 2
 DESCRIPTION:Final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium

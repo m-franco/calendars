@@ -110,4 +110,14 @@ DESCRIPTION:Quarter-finals - World Cup\n\nEnjoying this calendar? Support the pr
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260715T160000Z_England_Argentina
+DTSTART;TZID=America/Montevideo:20260715T160000
+DTEND;TZID=America/Montevideo:20260715T180000
+SUMMARY:England🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs. Argentina🇦🇷
+DESCRIPTION:Semi-finals - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Mercedes-Benz Stadium
+END:VEVENT
 END:VCALENDAR

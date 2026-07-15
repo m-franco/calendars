@@ -60,4 +60,14 @@ DESCRIPTION:Cuartos de final - Copa del Mundo\n\n¿Te gusta este calendario? Pue
 CLASS:PUBLIC
 LOCATION:GEHA Field at Arrowhead Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260715T160000Z_Inglaterra_Argentina
+DTSTART;TZID=America/Montevideo:20260715T160000
+DTEND;TZID=America/Montevideo:20260715T180000
+SUMMARY:Inglaterra🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs. Argentina🇦🇷
+DESCRIPTION:Semifinal - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Mercedes-Benz Stadium
+END:VEVENT
 END:VCALENDAR

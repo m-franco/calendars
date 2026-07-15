@@ -130,4 +130,24 @@ DESCRIPTION:Quarter-finals - World Cup\n\nEnjoying this calendar? Support the pr
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260714T160000Z_France_Spain
+DTSTART;TZID=America/Montevideo:20260714T160000
+DTEND;TZID=America/Montevideo:20260714T180000
+SUMMARY:France🇫🇷 vs. Spain🇪🇸
+DESCRIPTION:Semi-finals - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:AT&T Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260718T180000Z_France_Semifinal2Loser
+DTSTART;TZID=America/Montevideo:20260718T180000
+DTEND;TZID=America/Montevideo:20260718T200000
+SUMMARY:France🇫🇷 vs. Perdedor semifinal 2
+DESCRIPTION:Third place - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Hard Rock Stadium
+END:VEVENT
 END:VCALENDAR
