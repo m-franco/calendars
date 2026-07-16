@@ -290,4 +290,14 @@ DESCRIPTION:Semifinal - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apo
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260719T160000Z_Espana_Argentina
+DTSTART;TZID=America/Montevideo:20260719T160000
+DTEND;TZID=America/Montevideo:20260719T180000
+SUMMARY:España🇪🇸 vs. Argentina🇦🇷
+DESCRIPTION:Final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:MetLife Stadium
+END:VEVENT
 END:VCALENDAR

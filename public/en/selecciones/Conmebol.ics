@@ -290,4 +290,14 @@ DESCRIPTION:Semi-finals - World Cup\n\nEnjoying this calendar? Support the proje
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260719T160000Z_Spain_Argentina
+DTSTART;TZID=America/Montevideo:20260719T160000
+DTEND;TZID=America/Montevideo:20260719T180000
+SUMMARY:Spain🇪🇸 vs. Argentina🇦🇷
+DESCRIPTION:Final - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:MetLife Stadium
+END:VEVENT
 END:VCALENDAR

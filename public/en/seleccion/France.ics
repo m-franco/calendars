@@ -72,10 +72,10 @@ LOCATION:AT&T Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260718T180000Z_France_Semifinal2Loser
+UID:20260718T180000Z_France_England
 DTSTART;TZID=America/Montevideo:20260718T180000
 DTEND;TZID=America/Montevideo:20260718T200000
-SUMMARY:France🇫🇷 vs. Perdedor semifinal 2
+SUMMARY:France🇫🇷 vs. England🏴󠁧󠁢󠁥󠁮󠁧󠁿
 DESCRIPTION:Third place - World Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium

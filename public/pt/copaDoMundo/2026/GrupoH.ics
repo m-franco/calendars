@@ -112,10 +112,10 @@ LOCATION:AT&T Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260719T160000Z_Espanha_Semifinal2Winner
+UID:20260719T160000Z_Espanha_Argentina
 DTSTART;TZID=America/Montevideo:20260719T160000
 DTEND;TZID=America/Montevideo:20260719T180000
-SUMMARY:Espanha🇪🇸 vs. Ganador semifinal 2
+SUMMARY:Espanha🇪🇸 vs. Argentina🇦🇷
 DESCRIPTION:Final - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium

@@ -70,4 +70,14 @@ DESCRIPTION:Semifinal - Copa do Mundo\n\nGostou deste calendário? Apoie o proje
 CLASS:PUBLIC
 LOCATION:Mercedes-Benz Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260718T180000Z_Franca_Inglaterra
+DTSTART;TZID=America/Montevideo:20260718T180000
+DTEND;TZID=America/Montevideo:20260718T200000
+SUMMARY:França🇫🇷 vs. Inglaterra🏴󠁧󠁢󠁥󠁮󠁧󠁿
+DESCRIPTION:Terceiro lugar - Copa do Mundo\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Hard Rock Stadium
+END:VEVENT
 END:VCALENDAR

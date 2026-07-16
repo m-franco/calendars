@@ -1022,20 +1022,20 @@ LOCATION:Mercedes-Benz Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260718T180000Z_Francia_Semifinal2Loser
+UID:20260718T180000Z_Francia_Inglaterra
 DTSTART;TZID=America/Montevideo:20260718T180000
 DTEND;TZID=America/Montevideo:20260718T200000
-SUMMARY:Francia🇫🇷 vs. Perdedor semifinal 2
+SUMMARY:Francia🇫🇷 vs. Inglaterra🏴󠁧󠁢󠁥󠁮󠁧󠁿
 DESCRIPTION:Tercer puesto - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Hard Rock Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260719T160000Z_Espana_Semifinal2Winner
+UID:20260719T160000Z_Espana_Argentina
 DTSTART;TZID=America/Montevideo:20260719T160000
 DTEND;TZID=America/Montevideo:20260719T180000
-SUMMARY:España🇪🇸 vs. Ganador semifinal 2
+SUMMARY:España🇪🇸 vs. Argentina🇦🇷
 DESCRIPTION:Final - Copa del Mundo\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:MetLife Stadium
