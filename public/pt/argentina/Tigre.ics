@@ -80,4 +80,24 @@ DESCRIPTION:Play-offs - Volta - Copa Sul-Americana\n\nGostou deste calendário? 
 CLASS:PUBLIC
 LOCATION:Monumental de Victoria (José Dellagiovanna)
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260812T190000Z_Tigre_MontevideoCityTorque
+DTSTART;TZID=America/Montevideo:20260812T190000
+DTEND;TZID=America/Montevideo:20260812T210000
+SUMMARY:Tigre🇦🇷 vs. Montevideo City Torque🇺🇾
+DESCRIPTION:Oitavas de final - Ida - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Monumental de Victoria (José Dellagiovanna)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260819T213000Z_MontevideoCityTorque_Tigre
+DTSTART;TZID=America/Montevideo:20260819T213000
+DTEND;TZID=America/Montevideo:20260819T233000
+SUMMARY:Montevideo City Torque🇺🇾 vs. Tigre🇦🇷
+DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Estádio Centenario
+END:VEVENT
 END:VCALENDAR

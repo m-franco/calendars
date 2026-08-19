@@ -152,6 +152,16 @@ LOCATION:do Maracana Stadium
 END:VEVENT
 
 BEGIN:VEVENT
+UID:20260811T213000Z_Bolivar_SanPablo
+DTSTART;TZID=America/Montevideo:20260811T213000
+DTEND;TZID=America/Montevideo:20260811T233000
+SUMMARY:Bolívar🇧🇴 vs. San Pablo🇧🇷
+DESCRIPTION:Round of 16 - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Hernando Siles Stadium
+END:VEVENT
+
+BEGIN:VEVENT
 UID:20260818T190000Z_IndependienteRivadavia_Fluminense
 DTSTART;TZID=America/Montevideo:20260818T190000
 DTEND;TZID=America/Montevideo:20260818T210000
@@ -159,5 +169,15 @@ SUMMARY:Independiente Rivadavia🇦🇷 vs. Fluminense🇧🇷
 DESCRIPTION:Round of 16 - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Malvinas Argentinas (Mendoza)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260818T213000Z_SanPablo_Bolivar
+DTSTART;TZID=America/Montevideo:20260818T213000
+DTEND;TZID=America/Montevideo:20260818T233000
+SUMMARY:San Pablo🇧🇷 vs. Bolívar🇧🇴
+DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Estádio Cícero Pompeu de Toledo
 END:VEVENT
 END:VCALENDAR

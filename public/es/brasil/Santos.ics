@@ -68,7 +68,7 @@ DTEND;TZID=America/Montevideo:20260721T233000
 SUMMARY:Universidad Central🇻🇪 vs. Santos🇧🇷
 DESCRIPTION:Play-offs - Ida - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
-LOCATION:Estadio Olímpico de la UCV
+LOCATION:Estadio Misael Delgado
 END:VEVENT
 
 BEGIN:VEVENT
@@ -79,5 +79,25 @@ SUMMARY:Santos🇧🇷 vs. Universidad Central🇻🇪
 DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estádio Vila Belmiro (Urbano Caldeira)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260813T190000Z_Santos_Macara
+DTSTART;TZID=America/Montevideo:20260813T190000
+DTEND;TZID=America/Montevideo:20260813T210000
+SUMMARY:Santos🇧🇷 vs. Macará🇪🇨
+DESCRIPTION:Octavos de final - Ida - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estádio Vila Belmiro (Urbano Caldeira)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260820T190000Z_Macara_Santos
+DTSTART;TZID=America/Montevideo:20260820T190000
+DTEND;TZID=America/Montevideo:20260820T210000
+SUMMARY:Macará🇪🇨 vs. Santos🇧🇷
+DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estadio Bellavista
 END:VEVENT
 END:VCALENDAR

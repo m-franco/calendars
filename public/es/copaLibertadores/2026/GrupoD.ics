@@ -138,7 +138,17 @@ DTEND;TZID=America/Montevideo:20260730T233000
 SUMMARY:O'Higgins🇨🇱 vs. Boca Juniors🇦🇷
 DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
-LOCATION:Estadio a definir
+LOCATION:Estadio El Teniente
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260811T190000Z_BocaJuniors_Recoleta
+DTSTART;TZID=America/Montevideo:20260811T190000
+DTEND;TZID=America/Montevideo:20260811T210000
+SUMMARY:Boca Juniors🇦🇷 vs. Recoleta🇵🇾
+DESCRIPTION:Octavos de final - Ida - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estadio Tomás Adolfo Ducó
 END:VEVENT
 
 BEGIN:VEVENT
@@ -159,6 +169,16 @@ SUMMARY:Cruzeiro🇧🇷 vs. Flamengo🇧🇷
 DESCRIPTION:Octavos de final - Ida - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
 LOCATION:Estadio Mineirão
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260818T190000Z_Recoleta_BocaJuniors
+DTSTART;TZID=America/Montevideo:20260818T190000
+DTEND;TZID=America/Montevideo:20260818T210000
+SUMMARY:Recoleta🇵🇾 vs. Boca Juniors🇦🇷
+DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Defensores del Chaco
 END:VEVENT
 
 BEGIN:VEVENT

@@ -280,4 +280,24 @@ DESCRIPTION:Grupo H - Fecha 6 - Copa Sudamericana
 CLASS:PUBLIC
 LOCATION:Estadio Más Monumental
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260819T213000Z_SantaFe_River
+DTSTART;TZID=America/Montevideo:20260819T213000
+DTEND;TZID=America/Montevideo:20260819T233000
+SUMMARY:Santa Fe🇨🇴 vs. River🇦🇷
+DESCRIPTION:Octavos de final - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Nemesio Camacho El Campín
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260826T213000Z_River_SantaFe
+DTSTART;TZID=America/Montevideo:20260826T213000
+DTEND;TZID=America/Montevideo:20260826T233000
+SUMMARY:River🇦🇷 vs. Santa Fe🇨🇴
+DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Más Monumental
+END:VEVENT
 END:VCALENDAR

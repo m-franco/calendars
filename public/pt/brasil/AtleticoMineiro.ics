@@ -340,4 +340,24 @@ DESCRIPTION:Grupo B - Rodada 6 - Copa Sul-Americana\n\nGostou deste calendário?
 CLASS:PUBLIC
 LOCATION:Arena MRV
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260812T190000Z_RedBullBragantino_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20260812T190000
+DTEND;TZID=America/Montevideo:20260812T210000
+SUMMARY:Red Bull Bragantino🇧🇷 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Oitavas de final - Ida - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Estádio Municipal Cicero de Souza Marques
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260819T190000Z_AtleticoMineiro_RedBullBragantino
+DTSTART;TZID=America/Montevideo:20260819T190000
+DTEND;TZID=America/Montevideo:20260819T210000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Red Bull Bragantino🇧🇷
+DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Arena MRV
+END:VEVENT
 END:VCALENDAR

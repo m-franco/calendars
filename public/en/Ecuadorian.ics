@@ -1182,16 +1182,6 @@ LOCATION:Pascual Guerrero
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260811T213000Z_DeportesTolima_IndependienteDelValle
-DTSTART;TZID=America/Montevideo:20260811T213000
-DTEND;TZID=America/Montevideo:20260811T233000
-SUMMARY:Deportes Tolima🇨🇴 vs. Independiente del Valle🇪🇨
-DESCRIPTION:Round of 16 - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
-CLASS:PUBLIC
-LOCATION:Manuel Murillo Toro Stadium
-END:VEVENT
-
-BEGIN:VEVENT
 UID:20260811T213000Z_Estudiantes_UniversidadCatolica
 DTSTART;TZID=America/Montevideo:20260811T213000
 DTEND;TZID=America/Montevideo:20260811T233000
@@ -1208,17 +1198,27 @@ DTEND;TZID=America/Montevideo:20260813T210000
 SUMMARY:Mirassol🇧🇷 vs. Liga de Quito🇪🇨
 DESCRIPTION:Round of 16 - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
-LOCATION:a definir Stadium
+LOCATION:Municipal José Maria de Campos Maia Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260818T213000Z_IndependienteDelValle_DeportesTolima
+UID:20260813T190000Z_Santos_Macara
+DTSTART;TZID=America/Montevideo:20260813T190000
+DTEND;TZID=America/Montevideo:20260813T210000
+SUMMARY:Santos🇧🇷 vs. Macará🇪🇨
+DESCRIPTION:Round of 16 - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Estádio Vila Belmiro (Urbano Caldeira)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260818T213000Z_DeportesTolima_IndependienteDelValle
 DTSTART;TZID=America/Montevideo:20260818T213000
 DTEND;TZID=America/Montevideo:20260818T233000
-SUMMARY:Independiente del Valle🇪🇨 vs. Deportes Tolima🇨🇴
-DESCRIPTION:Round of 16 - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+SUMMARY:Deportes Tolima🇨🇴 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Round of 16 - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
-LOCATION:a definir Stadium
+LOCATION:Manuel Murillo Toro Stadium
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1239,5 +1239,25 @@ SUMMARY:Liga de Quito🇪🇨 vs. Mirassol🇧🇷
 DESCRIPTION:Round of 16 - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260820T190000Z_Macara_Santos
+DTSTART;TZID=America/Montevideo:20260820T190000
+DTEND;TZID=America/Montevideo:20260820T210000
+SUMMARY:Macará🇪🇨 vs. Santos🇧🇷
+DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Bellavista Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260825T213000Z_IndependienteDelValle_DeportesTolima
+DTSTART;TZID=America/Montevideo:20260825T213000
+DTEND;TZID=America/Montevideo:20260825T233000
+SUMMARY:Independiente del Valle🇪🇨 vs. Deportes Tolima🇨🇴
+DESCRIPTION:Round of 16 - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Banco Guayaquil Stadium
 END:VEVENT
 END:VCALENDAR

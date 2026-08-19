@@ -3798,7 +3798,7 @@ DTEND;TZID=America/Montevideo:20260721T233000
 SUMMARY:Universidad Central🇻🇪 vs. Santos🇧🇷
 DESCRIPTION:Play-offs - Ida - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
-LOCATION:Estadio Olímpico de la UCV
+LOCATION:Estadio Misael Delgado
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3908,7 +3908,7 @@ DTEND;TZID=America/Montevideo:20260729T233000
 SUMMARY:Red Bull Bragantino🇧🇷 vs. Sporting Cristal🇵🇪
 DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
-LOCATION:Estadio a definir
+LOCATION:Estádio Municipal Cicero de Souza Marques
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3928,7 +3928,7 @@ DTEND;TZID=America/Montevideo:20260730T233000
 SUMMARY:Caracas🇻🇪 vs. Santa Fe🇨🇴
 DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
-LOCATION:Estadio Olímpico de la UCV
+LOCATION:Estadio a definir
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3938,6 +3938,166 @@ DTEND;TZID=America/Montevideo:20260730T233000
 SUMMARY:O'Higgins🇨🇱 vs. Boca Juniors🇦🇷
 DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
 CLASS:PUBLIC
-LOCATION:Estadio a definir
+LOCATION:Estadio El Teniente
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260811T190000Z_BocaJuniors_Recoleta
+DTSTART;TZID=America/Montevideo:20260811T190000
+DTEND;TZID=America/Montevideo:20260811T210000
+SUMMARY:Boca Juniors🇦🇷 vs. Recoleta🇵🇾
+DESCRIPTION:Octavos de final - Ida - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estadio Tomás Adolfo Ducó
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260811T213000Z_Bolivar_SanPablo
+DTSTART;TZID=America/Montevideo:20260811T213000
+DTEND;TZID=America/Montevideo:20260811T233000
+SUMMARY:Bolívar🇧🇴 vs. San Pablo🇧🇷
+DESCRIPTION:Octavos de final - Ida - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estadio Hernando Siles
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260812T190000Z_RedBullBragantino_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20260812T190000
+DTEND;TZID=America/Montevideo:20260812T210000
+SUMMARY:Red Bull Bragantino🇧🇷 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Octavos de final - Ida - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estádio Municipal Cicero de Souza Marques
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260812T190000Z_Tigre_MontevideoCityTorque
+DTSTART;TZID=America/Montevideo:20260812T190000
+DTEND;TZID=America/Montevideo:20260812T210000
+SUMMARY:Tigre🇦🇷 vs. Montevideo City Torque🇺🇾
+DESCRIPTION:Octavos de final - Ida - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Monumental de Victoria (José Dellagiovanna)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260813T190000Z_Santos_Macara
+DTSTART;TZID=America/Montevideo:20260813T190000
+DTEND;TZID=America/Montevideo:20260813T210000
+SUMMARY:Santos🇧🇷 vs. Macará🇪🇨
+DESCRIPTION:Octavos de final - Ida - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estádio Vila Belmiro (Urbano Caldeira)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260813T190000Z_VascoDaGama_Olimpia
+DTSTART;TZID=America/Montevideo:20260813T190000
+DTEND;TZID=America/Montevideo:20260813T210000
+SUMMARY:Vasco da Gama🇧🇷 vs. Olimpia🇵🇾
+DESCRIPTION:Octavos de final - Ida - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estádio São Januário
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260813T213000Z_Cienciano_Botafogo
+DTSTART;TZID=America/Montevideo:20260813T213000
+DTEND;TZID=America/Montevideo:20260813T233000
+SUMMARY:Cienciano🇵🇪 vs. Botafogo🇧🇷
+DESCRIPTION:Octavos de final - Ida - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estadio Inca Garcilaso de la Vega
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260818T190000Z_Recoleta_BocaJuniors
+DTSTART;TZID=America/Montevideo:20260818T190000
+DTEND;TZID=America/Montevideo:20260818T210000
+SUMMARY:Recoleta🇵🇾 vs. Boca Juniors🇦🇷
+DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260818T213000Z_SanPablo_Bolivar
+DTSTART;TZID=America/Montevideo:20260818T213000
+DTEND;TZID=America/Montevideo:20260818T233000
+SUMMARY:San Pablo🇧🇷 vs. Bolívar🇧🇴
+DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estádio Cícero Pompeu de Toledo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260819T190000Z_AtleticoMineiro_RedBullBragantino
+DTSTART;TZID=America/Montevideo:20260819T190000
+DTEND;TZID=America/Montevideo:20260819T210000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Red Bull Bragantino🇧🇷
+DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260819T213000Z_SantaFe_River
+DTSTART;TZID=America/Montevideo:20260819T213000
+DTEND;TZID=America/Montevideo:20260819T233000
+SUMMARY:Santa Fe🇨🇴 vs. River🇦🇷
+DESCRIPTION:Octavos de final - Ida - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estadio Nemesio Camacho El Campín
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260819T213000Z_MontevideoCityTorque_Tigre
+DTSTART;TZID=America/Montevideo:20260819T213000
+DTEND;TZID=America/Montevideo:20260819T233000
+SUMMARY:Montevideo City Torque🇺🇾 vs. Tigre🇦🇷
+DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260820T190000Z_Olimpia_VascoDaGama
+DTSTART;TZID=America/Montevideo:20260820T190000
+DTEND;TZID=America/Montevideo:20260820T210000
+SUMMARY:Olimpia🇵🇾 vs. Vasco da Gama🇧🇷
+DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260820T190000Z_Macara_Santos
+DTSTART;TZID=America/Montevideo:20260820T190000
+DTEND;TZID=America/Montevideo:20260820T210000
+SUMMARY:Macará🇪🇨 vs. Santos🇧🇷
+DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estadio Bellavista
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260820T213000Z_Botafogo_Cienciano
+DTSTART;TZID=America/Montevideo:20260820T213000
+DTEND;TZID=America/Montevideo:20260820T233000
+SUMMARY:Botafogo🇧🇷 vs. Cienciano🇵🇪
+DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Joao Havelange Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260826T213000Z_River_SantaFe
+DTSTART;TZID=America/Montevideo:20260826T213000
+DTEND;TZID=America/Montevideo:20260826T233000
+SUMMARY:River🇦🇷 vs. Santa Fe🇨🇴
+DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estadio Más Monumental
 END:VEVENT
 END:VCALENDAR

@@ -120,4 +120,24 @@ DESCRIPTION:Grupo G - Fecha 6 - Copa Sudamericana\n\n¿Te gusta este calendario?
 CLASS:PUBLIC
 LOCATION:Defensores del Chaco
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260813T190000Z_VascoDaGama_Olimpia
+DTSTART;TZID=America/Montevideo:20260813T190000
+DTEND;TZID=America/Montevideo:20260813T210000
+SUMMARY:Vasco da Gama🇧🇷 vs. Olimpia🇵🇾
+DESCRIPTION:Octavos de final - Ida - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estádio São Januário
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260820T190000Z_Olimpia_VascoDaGama
+DTSTART;TZID=America/Montevideo:20260820T190000
+DTEND;TZID=America/Montevideo:20260820T210000
+SUMMARY:Olimpia🇵🇾 vs. Vasco da Gama🇧🇷
+DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Defensores del Chaco
+END:VEVENT
 END:VCALENDAR

@@ -1038,6 +1038,26 @@ DTEND;TZID=America/Montevideo:20260729T233000
 SUMMARY:Red Bull Bragantino🇧🇷 vs. Sporting Cristal🇵🇪
 DESCRIPTION:Play-offs - Volta - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
-LOCATION:Estádio a definir
+LOCATION:Estádio Municipal Cicero de Souza Marques
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260813T213000Z_Cienciano_Botafogo
+DTSTART;TZID=America/Montevideo:20260813T213000
+DTEND;TZID=America/Montevideo:20260813T233000
+SUMMARY:Cienciano🇵🇪 vs. Botafogo🇧🇷
+DESCRIPTION:Oitavas de final - Ida - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Estádio Inca Garcilaso de la Vega
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260820T213000Z_Botafogo_Cienciano
+DTSTART;TZID=America/Montevideo:20260820T213000
+DTEND;TZID=America/Montevideo:20260820T233000
+SUMMARY:Botafogo🇧🇷 vs. Cienciano🇵🇪
+DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Joao Havelange Stadium
 END:VEVENT
 END:VCALENDAR

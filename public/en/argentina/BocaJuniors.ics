@@ -178,6 +178,26 @@ DTEND;TZID=America/Montevideo:20260730T233000
 SUMMARY:O'Higgins🇨🇱 vs. Boca Juniors🇦🇷
 DESCRIPTION:Play-offs - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
-LOCATION:a definir Stadium
+LOCATION:El Teniente Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260811T190000Z_BocaJuniors_Recoleta
+DTSTART;TZID=America/Montevideo:20260811T190000
+DTEND;TZID=America/Montevideo:20260811T210000
+SUMMARY:Boca Juniors🇦🇷 vs. Recoleta🇵🇾
+DESCRIPTION:Round of 16 - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Tomás Adolfo Ducó Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260818T190000Z_Recoleta_BocaJuniors
+DTSTART;TZID=America/Montevideo:20260818T190000
+DTEND;TZID=America/Montevideo:20260818T210000
+SUMMARY:Recoleta🇵🇾 vs. Boca Juniors🇦🇷
+DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Defensores del Chaco
 END:VEVENT
 END:VCALENDAR

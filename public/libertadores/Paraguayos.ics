@@ -722,6 +722,16 @@ LOCATION:Estadio ueno La Nueva Olla
 END:VEVENT
 
 BEGIN:VEVENT
+UID:20260811T190000Z_BocaJuniors_Recoleta
+DTSTART;TZID=America/Montevideo:20260811T190000
+DTEND;TZID=America/Montevideo:20260811T210000
+SUMMARY:Boca Juniors🇦🇷 vs. Recoleta🇵🇾
+DESCRIPTION:Octavos de final - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Tomás Adolfo Ducó
+END:VEVENT
+
+BEGIN:VEVENT
 UID:20260812T190000Z_Palmeiras_CerroPorteno
 DTSTART;TZID=America/Montevideo:20260812T190000
 DTEND;TZID=America/Montevideo:20260812T210000
@@ -732,6 +742,26 @@ LOCATION:Allianz Parque
 END:VEVENT
 
 BEGIN:VEVENT
+UID:20260813T190000Z_VascoDaGama_Olimpia
+DTSTART;TZID=America/Montevideo:20260813T190000
+DTEND;TZID=America/Montevideo:20260813T210000
+SUMMARY:Vasco da Gama🇧🇷 vs. Olimpia🇵🇾
+DESCRIPTION:Octavos de final - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estádio São Januário
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260818T190000Z_Recoleta_BocaJuniors
+DTSTART;TZID=America/Montevideo:20260818T190000
+DTEND;TZID=America/Montevideo:20260818T210000
+SUMMARY:Recoleta🇵🇾 vs. Boca Juniors🇦🇷
+DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
 UID:20260819T190000Z_CerroPorteno_Palmeiras
 DTSTART;TZID=America/Montevideo:20260819T190000
 DTEND;TZID=America/Montevideo:20260819T210000
@@ -739,5 +769,15 @@ SUMMARY:Cerro Porteño🇵🇾 vs. Palmeiras🇧🇷
 DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
 CLASS:PUBLIC
 LOCATION:Estadio ueno La Nueva Olla
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260820T190000Z_Olimpia_VascoDaGama
+DTSTART;TZID=America/Montevideo:20260820T190000
+DTEND;TZID=America/Montevideo:20260820T210000
+SUMMARY:Olimpia🇵🇾 vs. Vasco da Gama🇧🇷
+DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Defensores del Chaco
 END:VEVENT
 END:VCALENDAR

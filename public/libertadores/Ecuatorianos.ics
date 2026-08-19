@@ -962,16 +962,6 @@ LOCATION:Pascual Guerrero
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260811T213000Z_DeportesTolima_IndependienteDelValle
-DTSTART;TZID=America/Montevideo:20260811T213000
-DTEND;TZID=America/Montevideo:20260811T233000
-SUMMARY:Deportes Tolima🇨🇴 vs. Independiente del Valle🇪🇨
-DESCRIPTION:Octavos de final - Ida - Copa Libertadores
-CLASS:PUBLIC
-LOCATION:Estadio Manuel Murillo Toro
-END:VEVENT
-
-BEGIN:VEVENT
 UID:20260811T213000Z_Estudiantes_UniversidadCatolica
 DTSTART;TZID=America/Montevideo:20260811T213000
 DTEND;TZID=America/Montevideo:20260811T233000
@@ -988,17 +978,27 @@ DTEND;TZID=America/Montevideo:20260813T210000
 SUMMARY:Mirassol🇧🇷 vs. Liga de Quito🇪🇨
 DESCRIPTION:Octavos de final - Ida - Copa Libertadores
 CLASS:PUBLIC
-LOCATION:Estadio a definir
+LOCATION:Estadio Municipal José Maria de Campos Maia
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260818T213000Z_IndependienteDelValle_DeportesTolima
+UID:20260813T190000Z_Santos_Macara
+DTSTART;TZID=America/Montevideo:20260813T190000
+DTEND;TZID=America/Montevideo:20260813T210000
+SUMMARY:Santos🇧🇷 vs. Macará🇪🇨
+DESCRIPTION:Octavos de final - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estádio Vila Belmiro (Urbano Caldeira)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260818T213000Z_DeportesTolima_IndependienteDelValle
 DTSTART;TZID=America/Montevideo:20260818T213000
 DTEND;TZID=America/Montevideo:20260818T233000
-SUMMARY:Independiente del Valle🇪🇨 vs. Deportes Tolima🇨🇴
-DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
+SUMMARY:Deportes Tolima🇨🇴 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Octavos de final - Ida - Copa Libertadores
 CLASS:PUBLIC
-LOCATION:Estadio a definir
+LOCATION:Estadio Manuel Murillo Toro
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1019,5 +1019,25 @@ SUMMARY:Liga de Quito🇪🇨 vs. Mirassol🇧🇷
 DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
 CLASS:PUBLIC
 LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260820T190000Z_Macara_Santos
+DTSTART;TZID=America/Montevideo:20260820T190000
+DTEND;TZID=America/Montevideo:20260820T210000
+SUMMARY:Macará🇪🇨 vs. Santos🇧🇷
+DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Bellavista
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260825T213000Z_IndependienteDelValle_DeportesTolima
+DTSTART;TZID=America/Montevideo:20260825T213000
+DTEND;TZID=America/Montevideo:20260825T233000
+SUMMARY:Independiente del Valle🇪🇨 vs. Deportes Tolima🇨🇴
+DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Banco Guayaquil
 END:VEVENT
 END:VCALENDAR

@@ -1138,7 +1138,7 @@ DTEND;TZID=America/Montevideo:20260730T233000
 SUMMARY:O'Higgins🇨🇱 vs. Boca Juniors🇦🇷
 DESCRIPTION:Play-offs - Volta - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
-LOCATION:Estádio a definir
+LOCATION:Estádio El Teniente
 END:VEVENT
 
 BEGIN:VEVENT
@@ -1158,6 +1158,6 @@ DTEND;TZID=America/Montevideo:20260819T210000
 SUMMARY:Coquimbo Unido🇨🇱 vs. Platense🇦🇷
 DESCRIPTION:Oitavas de final - Volta - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
-LOCATION:Estádio a definir
+LOCATION:Estádio Francisco Sánchez Rumoroso
 END:VEVENT
 END:VCALENDAR

@@ -60,4 +60,24 @@ DESCRIPTION:Grupo F - Fecha 6 - Copa Sudamericana\n\n¿Te gusta este calendario?
 CLASS:PUBLIC
 LOCATION:Arena do Grêmio
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260812T190000Z_Tigre_MontevideoCityTorque
+DTSTART;TZID=America/Montevideo:20260812T190000
+DTEND;TZID=America/Montevideo:20260812T210000
+SUMMARY:Tigre🇦🇷 vs. Montevideo City Torque🇺🇾
+DESCRIPTION:Octavos de final - Ida - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Monumental de Victoria (José Dellagiovanna)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260819T213000Z_MontevideoCityTorque_Tigre
+DTSTART;TZID=America/Montevideo:20260819T213000
+DTEND;TZID=America/Montevideo:20260819T233000
+SUMMARY:Montevideo City Torque🇺🇾 vs. Tigre🇦🇷
+DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
 END:VCALENDAR

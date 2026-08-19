@@ -858,7 +858,7 @@ DTEND;TZID=America/Montevideo:20260730T233000
 SUMMARY:O'Higgins🇨🇱 vs. Boca Juniors🇦🇷
 DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana
 CLASS:PUBLIC
-LOCATION:Estadio a definir
+LOCATION:Estadio El Teniente
 END:VEVENT
 
 BEGIN:VEVENT
@@ -878,6 +878,6 @@ DTEND;TZID=America/Montevideo:20260819T210000
 SUMMARY:Coquimbo Unido🇨🇱 vs. Platense🇦🇷
 DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
 CLASS:PUBLIC
-LOCATION:Estadio a definir
+LOCATION:Estadio Francisco Sánchez Rumoroso
 END:VEVENT
 END:VCALENDAR

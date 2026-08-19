@@ -60,4 +60,24 @@ DESCRIPTION:Grupo A - Rodada 6 - Copa Sul-Americana\n\nGostou deste calendário?
 CLASS:PUBLIC
 LOCATION:Pascual Guerrero
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260813T190000Z_Santos_Macara
+DTSTART;TZID=America/Montevideo:20260813T190000
+DTEND;TZID=America/Montevideo:20260813T210000
+SUMMARY:Santos🇧🇷 vs. Macará🇪🇨
+DESCRIPTION:Oitavas de final - Ida - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Estádio Vila Belmiro (Urbano Caldeira)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260820T190000Z_Macara_Santos
+DTSTART;TZID=America/Montevideo:20260820T190000
+DTEND;TZID=America/Montevideo:20260820T210000
+SUMMARY:Macará🇪🇨 vs. Santos🇧🇷
+DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Estádio Bellavista
+END:VEVENT
 END:VCALENDAR

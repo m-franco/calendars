@@ -3328,7 +3328,7 @@ DTEND;TZID=America/Montevideo:20260721T233000
 SUMMARY:Universidad Central🇻🇪 vs. Santos🇧🇷
 DESCRIPTION:Play-offs - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
-LOCATION:Olímpico de la UCV Stadium
+LOCATION:Misael Delgado Stadium
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3388,7 +3388,7 @@ DTEND;TZID=America/Montevideo:20260729T233000
 SUMMARY:Red Bull Bragantino🇧🇷 vs. Sporting Cristal🇵🇪
 DESCRIPTION:Play-offs - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
-LOCATION:a definir Stadium
+LOCATION:Estádio Municipal Cicero de Souza Marques
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3412,6 +3412,16 @@ LOCATION:do Maracana Stadium
 END:VEVENT
 
 BEGIN:VEVENT
+UID:20260811T213000Z_Bolivar_SanPablo
+DTSTART;TZID=America/Montevideo:20260811T213000
+DTEND;TZID=America/Montevideo:20260811T233000
+SUMMARY:Bolívar🇧🇴 vs. San Pablo🇧🇷
+DESCRIPTION:Round of 16 - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Hernando Siles Stadium
+END:VEVENT
+
+BEGIN:VEVENT
 UID:20260812T190000Z_Palmeiras_CerroPorteno
 DTSTART;TZID=America/Montevideo:20260812T190000
 DTEND;TZID=America/Montevideo:20260812T210000
@@ -3419,6 +3429,16 @@ SUMMARY:Palmeiras🇧🇷 vs. Cerro Porteño🇵🇾
 DESCRIPTION:Round of 16 - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260812T190000Z_RedBullBragantino_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20260812T190000
+DTEND;TZID=America/Montevideo:20260812T210000
+SUMMARY:Red Bull Bragantino🇧🇷 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Round of 16 - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Estádio Municipal Cicero de Souza Marques
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3438,7 +3458,27 @@ DTEND;TZID=America/Montevideo:20260813T210000
 SUMMARY:Mirassol🇧🇷 vs. Liga de Quito🇪🇨
 DESCRIPTION:Round of 16 - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
-LOCATION:a definir Stadium
+LOCATION:Municipal José Maria de Campos Maia Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260813T190000Z_Santos_Macara
+DTSTART;TZID=America/Montevideo:20260813T190000
+DTEND;TZID=America/Montevideo:20260813T210000
+SUMMARY:Santos🇧🇷 vs. Macará🇪🇨
+DESCRIPTION:Round of 16 - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Estádio Vila Belmiro (Urbano Caldeira)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260813T190000Z_VascoDaGama_Olimpia
+DTSTART;TZID=America/Montevideo:20260813T190000
+DTEND;TZID=America/Montevideo:20260813T210000
+SUMMARY:Vasco da Gama🇧🇷 vs. Olimpia🇵🇾
+DESCRIPTION:Round of 16 - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Estádio São Januário
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3452,6 +3492,16 @@ LOCATION:Gigante de Arroyito
 END:VEVENT
 
 BEGIN:VEVENT
+UID:20260813T213000Z_Cienciano_Botafogo
+DTSTART;TZID=America/Montevideo:20260813T213000
+DTEND;TZID=America/Montevideo:20260813T233000
+SUMMARY:Cienciano🇵🇪 vs. Botafogo🇧🇷
+DESCRIPTION:Round of 16 - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Inca Garcilaso de la Vega Stadium
+END:VEVENT
+
+BEGIN:VEVENT
 UID:20260818T190000Z_IndependienteRivadavia_Fluminense
 DTSTART;TZID=America/Montevideo:20260818T190000
 DTEND;TZID=America/Montevideo:20260818T210000
@@ -3462,6 +3512,16 @@ LOCATION:Malvinas Argentinas (Mendoza)
 END:VEVENT
 
 BEGIN:VEVENT
+UID:20260818T213000Z_SanPablo_Bolivar
+DTSTART;TZID=America/Montevideo:20260818T213000
+DTEND;TZID=America/Montevideo:20260818T233000
+SUMMARY:San Pablo🇧🇷 vs. Bolívar🇧🇴
+DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Estádio Cícero Pompeu de Toledo
+END:VEVENT
+
+BEGIN:VEVENT
 UID:20260819T190000Z_CerroPorteno_Palmeiras
 DTSTART;TZID=America/Montevideo:20260819T190000
 DTEND;TZID=America/Montevideo:20260819T210000
@@ -3469,6 +3529,16 @@ SUMMARY:Cerro Porteño🇵🇾 vs. Palmeiras🇧🇷
 DESCRIPTION:Round of 16 - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:ueno La Nueva Olla Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260819T190000Z_AtleticoMineiro_RedBullBragantino
+DTSTART;TZID=America/Montevideo:20260819T190000
+DTEND;TZID=America/Montevideo:20260819T210000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Red Bull Bragantino🇧🇷
+DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Arena MRV
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3492,6 +3562,26 @@ LOCATION:Rodrigo Paz Delgado
 END:VEVENT
 
 BEGIN:VEVENT
+UID:20260820T190000Z_Olimpia_VascoDaGama
+DTSTART;TZID=America/Montevideo:20260820T190000
+DTEND;TZID=America/Montevideo:20260820T210000
+SUMMARY:Olimpia🇵🇾 vs. Vasco da Gama🇧🇷
+DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Defensores del Chaco
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260820T190000Z_Macara_Santos
+DTSTART;TZID=America/Montevideo:20260820T190000
+DTEND;TZID=America/Montevideo:20260820T210000
+SUMMARY:Macará🇪🇨 vs. Santos🇧🇷
+DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Bellavista Stadium
+END:VEVENT
+
+BEGIN:VEVENT
 UID:20260820T213000Z_Corinthians_RosarioCentral
 DTSTART;TZID=America/Montevideo:20260820T213000
 DTEND;TZID=America/Montevideo:20260820T233000
@@ -3499,5 +3589,15 @@ SUMMARY:Corinthians🇧🇷 vs. Rosario Central🇦🇷
 DESCRIPTION:Round of 16 - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Neo Química Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260820T213000Z_Botafogo_Cienciano
+DTSTART;TZID=America/Montevideo:20260820T213000
+DTEND;TZID=America/Montevideo:20260820T233000
+SUMMARY:Botafogo🇧🇷 vs. Cienciano🇵🇪
+DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Joao Havelange Stadium
 END:VEVENT
 END:VCALENDAR

@@ -918,13 +918,13 @@ DTEND;TZID=America/Montevideo:20260730T233000
 SUMMARY:Caracas🇻🇪 vs. Santa Fe🇨🇴
 DESCRIPTION:Play-offs - Vuelta - Copa Sudamericana
 CLASS:PUBLIC
-LOCATION:Estadio Olímpico de la UCV
+LOCATION:Estadio a definir
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260811T213000Z_DeportesTolima_IndependienteDelValle
-DTSTART;TZID=America/Montevideo:20260811T213000
-DTEND;TZID=America/Montevideo:20260811T233000
+UID:20260818T213000Z_DeportesTolima_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20260818T213000
+DTEND;TZID=America/Montevideo:20260818T233000
 SUMMARY:Deportes Tolima🇨🇴 vs. Independiente del Valle🇪🇨
 DESCRIPTION:Octavos de final - Ida - Copa Libertadores
 CLASS:PUBLIC
@@ -932,12 +932,32 @@ LOCATION:Estadio Manuel Murillo Toro
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260818T213000Z_IndependienteDelValle_DeportesTolima
-DTSTART;TZID=America/Montevideo:20260818T213000
-DTEND;TZID=America/Montevideo:20260818T233000
+UID:20260819T213000Z_SantaFe_River
+DTSTART;TZID=America/Montevideo:20260819T213000
+DTEND;TZID=America/Montevideo:20260819T233000
+SUMMARY:Santa Fe🇨🇴 vs. River🇦🇷
+DESCRIPTION:Octavos de final - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Nemesio Camacho El Campín
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260825T213000Z_IndependienteDelValle_DeportesTolima
+DTSTART;TZID=America/Montevideo:20260825T213000
+DTEND;TZID=America/Montevideo:20260825T233000
 SUMMARY:Independiente del Valle🇪🇨 vs. Deportes Tolima🇨🇴
 DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores
 CLASS:PUBLIC
-LOCATION:Estadio a definir
+LOCATION:Estadio Banco Guayaquil
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260826T213000Z_River_SantaFe
+DTSTART;TZID=America/Montevideo:20260826T213000
+DTEND;TZID=America/Montevideo:20260826T233000
+SUMMARY:River🇦🇷 vs. Santa Fe🇨🇴
+DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Más Monumental
 END:VEVENT
 END:VCALENDAR

@@ -3472,16 +3472,6 @@ LOCATION:Estádio do Maracana
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260811T213000Z_DeportesTolima_IndependienteDelValle
-DTSTART;TZID=America/Montevideo:20260811T213000
-DTEND;TZID=America/Montevideo:20260811T233000
-SUMMARY:Deportes Tolima🇨🇴 vs. Independiente del Valle🇪🇨
-DESCRIPTION:Oitavas de final - Ida - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
-CLASS:PUBLIC
-LOCATION:Estádio Manuel Murillo Toro
-END:VEVENT
-
-BEGIN:VEVENT
 UID:20260811T213000Z_Estudiantes_UniversidadCatolica
 DTSTART;TZID=America/Montevideo:20260811T213000
 DTEND;TZID=America/Montevideo:20260811T233000
@@ -3528,7 +3518,7 @@ DTEND;TZID=America/Montevideo:20260813T210000
 SUMMARY:Mirassol🇧🇷 vs. Liga de Quito🇪🇨
 DESCRIPTION:Oitavas de final - Ida - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
-LOCATION:Estádio a definir
+LOCATION:Estádio Municipal José Maria de Campos Maia
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3552,13 +3542,13 @@ LOCATION:Malvinas Argentinas (Mendoza)
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260818T213000Z_IndependienteDelValle_DeportesTolima
+UID:20260818T213000Z_DeportesTolima_IndependienteDelValle
 DTSTART;TZID=America/Montevideo:20260818T213000
 DTEND;TZID=America/Montevideo:20260818T233000
-SUMMARY:Independiente del Valle🇪🇨 vs. Deportes Tolima🇨🇴
-DESCRIPTION:Oitavas de final - Volta - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+SUMMARY:Deportes Tolima🇨🇴 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Oitavas de final - Ida - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
-LOCATION:Estádio a definir
+LOCATION:Estádio Manuel Murillo Toro
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3588,7 +3578,7 @@ DTEND;TZID=America/Montevideo:20260819T210000
 SUMMARY:Coquimbo Unido🇨🇱 vs. Platense🇦🇷
 DESCRIPTION:Oitavas de final - Volta - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
-LOCATION:Estádio a definir
+LOCATION:Estádio Francisco Sánchez Rumoroso
 END:VEVENT
 
 BEGIN:VEVENT
@@ -3619,5 +3609,15 @@ SUMMARY:Corinthians🇧🇷 vs. Rosario Central🇦🇷
 DESCRIPTION:Oitavas de final - Volta - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
 CLASS:PUBLIC
 LOCATION:Neo Química Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260825T213000Z_IndependienteDelValle_DeportesTolima
+DTSTART;TZID=America/Montevideo:20260825T213000
+DTEND;TZID=America/Montevideo:20260825T233000
+SUMMARY:Independiente del Valle🇪🇨 vs. Deportes Tolima🇨🇴
+DESCRIPTION:Oitavas de final - Volta - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Estádio Banco Guayaquil
 END:VEVENT
 END:VCALENDAR

@@ -138,7 +138,7 @@ DTEND;TZID=America/Montevideo:20260730T233000
 SUMMARY:Caracas🇻🇪 vs. Santa Fe🇨🇴
 DESCRIPTION:Play-offs - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
-LOCATION:Olímpico de la UCV Stadium
+LOCATION:a definir Stadium
 END:VEVENT
 
 BEGIN:VEVENT
@@ -168,7 +168,17 @@ DTEND;TZID=America/Montevideo:20260819T210000
 SUMMARY:Coquimbo Unido🇨🇱 vs. Platense🇦🇷
 DESCRIPTION:Round of 16 - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
-LOCATION:a definir Stadium
+LOCATION:Francisco Sánchez Rumoroso Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260819T213000Z_SantaFe_River
+DTSTART;TZID=America/Montevideo:20260819T213000
+DTEND;TZID=America/Montevideo:20260819T233000
+SUMMARY:Santa Fe🇨🇴 vs. River🇦🇷
+DESCRIPTION:Round of 16 - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Nemesio Camacho El Campín Stadium
 END:VEVENT
 
 BEGIN:VEVENT
@@ -179,5 +189,15 @@ SUMMARY:Corinthians🇧🇷 vs. Rosario Central🇦🇷
 DESCRIPTION:Round of 16 - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
 LOCATION:Neo Química Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260826T213000Z_River_SantaFe
+DTSTART;TZID=America/Montevideo:20260826T213000
+DTEND;TZID=America/Montevideo:20260826T233000
+SUMMARY:River🇦🇷 vs. Santa Fe🇨🇴
+DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Más Monumental Stadium
 END:VEVENT
 END:VCALENDAR

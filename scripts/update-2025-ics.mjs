@@ -3,6 +3,10 @@ import path from "node:path";
 
 const root = path.resolve(import.meta.dirname, "..");
 const publicDir = path.join(root, "public");
+// Estructura reorganizada: el español canónico vive en public/es y los torneos
+// usan slug camelCase (ver translate-ics.mjs). Los legacy siguen en la raíz.
+const esDir = path.join(publicDir, "es");
+const tournamentEsFolder = { libertadores: "copaLibertadores", sudamericana: "copaSudamericana" };
 const editionYear = process.argv[2] ?? "2025";
 const dataFileName = editionYear === "2025" ? "data-2025.json" : "data.json";
 const data = JSON.parse(await readFile(path.join(root, `src/${dataFileName}`), "utf8"));
@@ -305,8 +309,8 @@ function renderCalendar(existingContents, newEvents) {
     ].join("\n");
 }
 
-async function writeAccumulated(relativePath, newEvents) {
-    const filePath = path.join(publicDir, relativePath);
+async function writeAccumulated(baseDir, relativePath, newEvents) {
+    const filePath = path.join(baseDir, relativePath);
     await mkdir(path.dirname(filePath), { recursive: true });
     let existing = "";
     try {
@@ -315,16 +319,17 @@ async function writeAccumulated(relativePath, newEvents) {
     await writeFile(filePath, renderCalendar(existing, newEvents));
 }
 
-async function copyCalendar(sourceRelativePath, destinationRelativePath) {
-    const source = await readFile(path.join(publicDir, sourceRelativePath), "utf8");
-    const destination = path.join(publicDir, destinationRelativePath);
+async function copyCalendar(baseDir, sourceRelativePath, destinationRelativePath) {
+    const source = await readFile(path.join(baseDir, sourceRelativePath), "utf8");
+    const destination = path.join(baseDir, destinationRelativePath);
     await mkdir(path.dirname(destination), { recursive: true });
     await writeFile(destination, source);
 }
 
 for (const tournament of Object.keys(tournamentNames)) {
     await writeAccumulated(
-        `${tournament === "libertadores" ? "Libertadores" : "Sudamericana"}.ics`,
+        esDir,
+        `${tournamentEsFolder[tournament]}.ics`,
         events.filter((event) => event.tournament === tournament)
     );
 }
@@ -334,12 +339,13 @@ for (const team of teamsByPath.values()) {
         (event) => event.home.path === team.path || event.away.path === team.path
     );
     const fileName = canonicalFileNames[team.path] ?? team.path;
-    await writeAccumulated(`${team.country}/${fileName}.ics`, teamEvents);
+    await writeAccumulated(esDir, `${team.country}/${fileName}.ics`, teamEvents);
 }
 
 for (const [country, calendarName] of Object.entries(countryCalendarNames)) {
     await writeAccumulated(
-        `${calendarName}.ics`,
+        esDir,
+        `${calendarName.toLowerCase()}.ics`, // gentilicios en minúscula
         events.filter(
             (event) => event.home.country === country || event.away.country === country
         )
@@ -350,12 +356,14 @@ for (const tournament of Object.keys(groups)) {
     for (const group of groups[tournament]) {
         if (editionYear === "2025") {
             await copyCalendar(
-                `${tournament}/${group.path}.ics`,
-                `${tournament}/2024/${group.path}.ics`
+                esDir,
+                `${tournamentEsFolder[tournament]}/${group.path}.ics`,
+                `${tournamentEsFolder[tournament]}/2024/${group.path}.ics`
             );
         }
         await writeAccumulated(
-            `${tournament}/${editionYear}/${group.path}.ics`,
+            esDir,
+            `${tournamentEsFolder[tournament]}/${editionYear}/${group.path}.ics`,
             events.filter(
                 (event) => group.teamPaths.has(event.home.path) || group.teamPaths.has(event.away.path)
             )
@@ -387,6 +395,7 @@ for (const filePath of await allIcsFiles(publicDir)) {
     if (Object.values(countryCalendarNames).includes(stem)) {
         const country = Object.entries(countryCalendarNames).find(([, name]) => name === stem)[0];
         await writeAccumulated(
+            publicDir,
             relativePath,
             events.filter(
                 (event) => event.home.country === country || event.away.country === country
@@ -398,6 +407,7 @@ for (const filePath of await allIcsFiles(publicDir)) {
     const teamPath = legacyTeamAliases[stem] ?? stem;
     if (!teamsByPath.has(teamPath)) continue;
     await writeAccumulated(
+        publicDir,
         relativePath,
         events.filter(
             (event) => event.home.path === teamPath || event.away.path === teamPath
@@ -405,7 +415,7 @@ for (const filePath of await allIcsFiles(publicDir)) {
     );
 }
 
-await copyCalendar("uruguay/Nacional.ics", "Nacional.ics");
+await copyCalendar(esDir, "uruguay/Nacional.ics", "Nacional.ics");
 
 console.log(
     `Processed ${events.length} matches for ${editionYear}: ${

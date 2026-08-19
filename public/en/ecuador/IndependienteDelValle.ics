@@ -282,9 +282,9 @@ LOCATION:Banco Guayaquil Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260811T213000Z_DeportesTolima_IndependienteDelValle
-DTSTART;TZID=America/Montevideo:20260811T213000
-DTEND;TZID=America/Montevideo:20260811T233000
+UID:20260818T213000Z_DeportesTolima_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20260818T213000
+DTEND;TZID=America/Montevideo:20260818T233000
 SUMMARY:Deportes Tolima🇨🇴 vs. Independiente del Valle🇪🇨
 DESCRIPTION:Round of 16 - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
@@ -292,12 +292,12 @@ LOCATION:Manuel Murillo Toro Stadium
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260818T213000Z_IndependienteDelValle_DeportesTolima
-DTSTART;TZID=America/Montevideo:20260818T213000
-DTEND;TZID=America/Montevideo:20260818T233000
+UID:20260825T213000Z_IndependienteDelValle_DeportesTolima
+DTSTART;TZID=America/Montevideo:20260825T213000
+DTEND;TZID=America/Montevideo:20260825T233000
 SUMMARY:Independiente del Valle🇪🇨 vs. Deportes Tolima🇨🇴
 DESCRIPTION:Round of 16 - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
 CLASS:PUBLIC
-LOCATION:a definir Stadium
+LOCATION:Banco Guayaquil Stadium
 END:VEVENT
 END:VCALENDAR
