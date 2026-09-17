@@ -9,7 +9,7 @@ interface Props {
 }
 
 const basePath = `${import.meta.env.BASE_URL.replace(/\/$/, "")}/`;
-const allTournaments = [...worldcupTournaments, ...tournaments];
+const allTournaments = [...tournaments, ...worldcupTournaments];
 const { lang = "es" } = Astro.props;
 
 ---
