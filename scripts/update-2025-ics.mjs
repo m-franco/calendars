@@ -114,6 +114,12 @@ const teamsByNormalizedName = new Map(
     ])
 );
 
+// ESPN publica las llaves futuras con equipos "TBD Home"/"TBD Away". Sin los dos
+// rivales definidos no hay calendario de equipo, grupo ni país al que asignarlas.
+function isPlaceholder(espnName) {
+    return espnName.startsWith("TBD");
+}
+
 function projectTeam(espnName) {
     const aliasedPath = espnAliases[espnName];
     const team = aliasedPath
@@ -180,6 +186,9 @@ function selectedEvents(raw, tournament) {
 
     return raw.events
         .filter(({ season }) => !excludedStages.has(season.slug))
+        .filter(({ competitions }) => !competitions[0].competitors.some(
+            ({ team }) => isPlaceholder(team.displayName)
+        ))
         .map((event) => {
             const competition = event.competitions[0];
             const homeCompetitor = competition.competitors.find(({ homeAway }) => homeAway === "home");

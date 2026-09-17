@@ -310,4 +310,24 @@ DESCRIPTION:Oitavas de final - Volta - Copa Libertadores\n\nGostou deste calend�
 CLASS:PUBLIC
 LOCATION:Estádio do Maracana
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260910T213000Z_IndependienteDelValle_Flamengo
+DTSTART;TZID=America/Montevideo:20260910T213000
+DTEND;TZID=America/Montevideo:20260910T233000
+SUMMARY:Independiente del Valle🇪🇨 vs. Flamengo🇧🇷
+DESCRIPTION:Quartas de final - Ida - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Estádio Olímpico Atahualpa
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260917T213000Z_Flamengo_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20260917T213000
+DTEND;TZID=America/Montevideo:20260917T233000
+SUMMARY:Flamengo🇧🇷 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Quartas de final - Volta - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Estádio do Maracana
+END:VEVENT
 END:VCALENDAR

@@ -180,4 +180,24 @@ DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup\n\nEnjoying this calenda
 CLASS:PUBLIC
 LOCATION:Joao Havelange Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260910T213000Z_Cienciano_MontevideoCityTorque
+DTSTART;TZID=America/Montevideo:20260910T213000
+DTEND;TZID=America/Montevideo:20260910T233000
+SUMMARY:Cienciano🇵🇪 vs. Montevideo City Torque🇺🇾
+DESCRIPTION:Quarter-finals - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Inca Garcilaso de la Vega Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260917T213000Z_MontevideoCityTorque_Cienciano
+DTSTART;TZID=America/Montevideo:20260917T213000
+DTEND;TZID=America/Montevideo:20260917T233000
+SUMMARY:Montevideo City Torque🇺🇾 vs. Cienciano🇵🇪
+DESCRIPTION:Quarter-finals - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Centenario Stadium
+END:VEVENT
 END:VCALENDAR

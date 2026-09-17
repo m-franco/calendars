@@ -1080,4 +1080,24 @@ DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana\n\nGostou deste calend
 CLASS:PUBLIC
 LOCATION:Estádio Centenario
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260910T213000Z_Cienciano_MontevideoCityTorque
+DTSTART;TZID=America/Montevideo:20260910T213000
+DTEND;TZID=America/Montevideo:20260910T233000
+SUMMARY:Cienciano🇵🇪 vs. Montevideo City Torque🇺🇾
+DESCRIPTION:Quartas de final - Ida - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Estádio Inca Garcilaso de la Vega
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260917T213000Z_MontevideoCityTorque_Cienciano
+DTSTART;TZID=America/Montevideo:20260917T213000
+DTEND;TZID=America/Montevideo:20260917T233000
+SUMMARY:Montevideo City Torque🇺🇾 vs. Cienciano🇵🇪
+DESCRIPTION:Quartas de final - Volta - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Estádio Centenario
+END:VEVENT
 END:VCALENDAR

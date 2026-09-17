@@ -240,4 +240,24 @@ DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores\n\n¿Te gusta este cal
 CLASS:PUBLIC
 LOCATION:Estadio San Carlos de Apoquindo
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260909T213000Z_Estudiantes_Corinthians
+DTSTART;TZID=America/Montevideo:20260909T213000
+DTEND;TZID=America/Montevideo:20260909T233000
+SUMMARY:Estudiantes🇦🇷 vs. Corinthians🇧🇷
+DESCRIPTION:Cuartos de final - Ida - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estadio Jorge Luis Hirschi
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260916T213000Z_Corinthians_Estudiantes
+DTSTART;TZID=America/Montevideo:20260916T213000
+DTEND;TZID=America/Montevideo:20260916T233000
+SUMMARY:Corinthians🇧🇷 vs. Estudiantes🇦🇷
+DESCRIPTION:Cuartos de final - Vuelta - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
 END:VCALENDAR

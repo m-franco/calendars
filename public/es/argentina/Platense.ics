@@ -80,4 +80,24 @@ DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores\n\n¿Te gusta este cal
 CLASS:PUBLIC
 LOCATION:Estadio Francisco Sánchez Rumoroso
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260908T190000Z_Fluminense_Platense
+DTSTART;TZID=America/Montevideo:20260908T190000
+DTEND;TZID=America/Montevideo:20260908T210000
+SUMMARY:Fluminense🇧🇷 vs. Platense🇦🇷
+DESCRIPTION:Cuartos de final - Ida - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estadio do Maracana
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260915T190000Z_Platense_Fluminense
+DTSTART;TZID=America/Montevideo:20260915T190000
+DTEND;TZID=America/Montevideo:20260915T210000
+SUMMARY:Platense🇦🇷 vs. Fluminense🇧🇷
+DESCRIPTION:Cuartos de final - Vuelta - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Ciudad de Vicente López
+END:VEVENT
 END:VCALENDAR

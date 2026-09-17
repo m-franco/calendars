@@ -280,4 +280,24 @@ DESCRIPTION:Oitavas de final - Volta - Copa Libertadores\n\nGostou deste calend�
 CLASS:PUBLIC
 LOCATION:Malvinas Argentinas (Mendoza)
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260908T190000Z_Fluminense_Platense
+DTSTART;TZID=America/Montevideo:20260908T190000
+DTEND;TZID=America/Montevideo:20260908T210000
+SUMMARY:Fluminense🇧🇷 vs. Platense🇦🇷
+DESCRIPTION:Quartas de final - Ida - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Estádio do Maracana
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260915T190000Z_Platense_Fluminense
+DTSTART;TZID=America/Montevideo:20260915T190000
+DTEND;TZID=America/Montevideo:20260915T210000
+SUMMARY:Platense🇦🇷 vs. Fluminense🇧🇷
+DESCRIPTION:Quartas de final - Volta - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Ciudad de Vicente López
+END:VEVENT
 END:VCALENDAR

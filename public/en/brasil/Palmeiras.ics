@@ -290,4 +290,24 @@ DESCRIPTION:Round of 16 - Second leg - Libertadores Cup\n\nEnjoying this calenda
 CLASS:PUBLIC
 LOCATION:ueno La Nueva Olla Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260909T190000Z_Palmeiras_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20260909T190000
+DTEND;TZID=America/Montevideo:20260909T210000
+SUMMARY:Palmeiras🇧🇷 vs. Liga de Quito🇪🇨
+DESCRIPTION:Quarter-finals - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260916T190000Z_LigaDeQuito_Palmeiras
+DTSTART;TZID=America/Montevideo:20260916T190000
+DTEND;TZID=America/Montevideo:20260916T210000
+SUMMARY:Liga de Quito🇪🇨 vs. Palmeiras🇧🇷
+DESCRIPTION:Quarter-finals - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
 END:VCALENDAR

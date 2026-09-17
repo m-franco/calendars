@@ -310,4 +310,24 @@ DESCRIPTION:Round of 16 - Second leg - Libertadores Cup\n\nEnjoying this calenda
 CLASS:PUBLIC
 LOCATION:do Maracana Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260910T213000Z_IndependienteDelValle_Flamengo
+DTSTART;TZID=America/Montevideo:20260910T213000
+DTEND;TZID=America/Montevideo:20260910T233000
+SUMMARY:Independiente del Valle🇪🇨 vs. Flamengo🇧🇷
+DESCRIPTION:Quarter-finals - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Olímpico Atahualpa Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260917T213000Z_Flamengo_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20260917T213000
+DTEND;TZID=America/Montevideo:20260917T233000
+SUMMARY:Flamengo🇧🇷 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Quarter-finals - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:do Maracana Stadium
+END:VEVENT
 END:VCALENDAR

@@ -260,4 +260,24 @@ DESCRIPTION:Round of 16 - Second leg - Libertadores Cup\n\nEnjoying this calenda
 CLASS:PUBLIC
 LOCATION:Neo Química Arena
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260909T213000Z_Estudiantes_Corinthians
+DTSTART;TZID=America/Montevideo:20260909T213000
+DTEND;TZID=America/Montevideo:20260909T233000
+SUMMARY:Estudiantes🇦🇷 vs. Corinthians🇧🇷
+DESCRIPTION:Quarter-finals - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Jorge Luis Hirschi Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260916T213000Z_Corinthians_Estudiantes
+DTSTART;TZID=America/Montevideo:20260916T213000
+DTEND;TZID=America/Montevideo:20260916T233000
+SUMMARY:Corinthians🇧🇷 vs. Estudiantes🇦🇷
+DESCRIPTION:Quarter-finals - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
 END:VCALENDAR

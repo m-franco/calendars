@@ -100,4 +100,24 @@ DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup\n\nEnjoying this calenda
 CLASS:PUBLIC
 LOCATION:Bellavista Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260909T190000Z_Santos_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20260909T190000
+DTEND;TZID=America/Montevideo:20260909T210000
+SUMMARY:Santos🇧🇷 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Quarter-finals - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Estádio Vila Belmiro (Urbano Caldeira)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260916T190000Z_AtleticoMineiro_Santos
+DTSTART;TZID=America/Montevideo:20260916T190000
+DTEND;TZID=America/Montevideo:20260916T210000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Santos🇧🇷
+DESCRIPTION:Quarter-finals - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Arena MRV
+END:VEVENT
 END:VCALENDAR

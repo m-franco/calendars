@@ -2910,4 +2910,144 @@ DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana
 CLASS:PUBLIC
 LOCATION:Joao Havelange Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260908T190000Z_Fluminense_Platense
+DTSTART;TZID=America/Montevideo:20260908T190000
+DTEND;TZID=America/Montevideo:20260908T210000
+SUMMARY:Fluminense🇧🇷 vs. Platense🇦🇷
+DESCRIPTION:Cuartos de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio do Maracana
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260908T190000Z_SantaFe_VascoDaGama
+DTSTART;TZID=America/Montevideo:20260908T190000
+DTEND;TZID=America/Montevideo:20260908T210000
+SUMMARY:Santa Fe🇨🇴 vs. Vasco da Gama🇧🇷
+DESCRIPTION:Cuartos de final - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estadio Nemesio Camacho El Campín
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260908T213000Z_BocaJuniors_SanPablo
+DTSTART;TZID=America/Montevideo:20260908T213000
+DTEND;TZID=America/Montevideo:20260908T233000
+SUMMARY:Boca Juniors🇦🇷 vs. San Pablo🇧🇷
+DESCRIPTION:Cuartos de final - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Alberto José Armando (La Bombonera)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260909T190000Z_Palmeiras_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20260909T190000
+DTEND;TZID=America/Montevideo:20260909T210000
+SUMMARY:Palmeiras🇧🇷 vs. Liga de Quito🇪🇨
+DESCRIPTION:Cuartos de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260909T190000Z_Santos_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20260909T190000
+DTEND;TZID=America/Montevideo:20260909T210000
+SUMMARY:Santos🇧🇷 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Cuartos de final - Ida - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estádio Vila Belmiro (Urbano Caldeira)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260909T213000Z_Estudiantes_Corinthians
+DTSTART;TZID=America/Montevideo:20260909T213000
+DTEND;TZID=America/Montevideo:20260909T233000
+SUMMARY:Estudiantes🇦🇷 vs. Corinthians🇧🇷
+DESCRIPTION:Cuartos de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Jorge Luis Hirschi
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260910T213000Z_IndependienteDelValle_Flamengo
+DTSTART;TZID=America/Montevideo:20260910T213000
+DTEND;TZID=America/Montevideo:20260910T233000
+SUMMARY:Independiente del Valle🇪🇨 vs. Flamengo🇧🇷
+DESCRIPTION:Cuartos de final - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio Olímpico Atahualpa
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260915T190000Z_Platense_Fluminense
+DTSTART;TZID=America/Montevideo:20260915T190000
+DTEND;TZID=America/Montevideo:20260915T210000
+SUMMARY:Platense🇦🇷 vs. Fluminense🇧🇷
+DESCRIPTION:Cuartos de final - Vuelta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Ciudad de Vicente López
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260915T190000Z_VascoDaGama_SantaFe
+DTSTART;TZID=America/Montevideo:20260915T190000
+DTEND;TZID=America/Montevideo:20260915T210000
+SUMMARY:Vasco da Gama🇧🇷 vs. Santa Fe🇨🇴
+DESCRIPTION:Cuartos de final - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estádio São Januário
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260915T213000Z_SanPablo_BocaJuniors
+DTSTART;TZID=America/Montevideo:20260915T213000
+DTEND;TZID=America/Montevideo:20260915T233000
+SUMMARY:San Pablo🇧🇷 vs. Boca Juniors🇦🇷
+DESCRIPTION:Cuartos de final - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Estádio Cícero Pompeu de Toledo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260916T190000Z_LigaDeQuito_Palmeiras
+DTSTART;TZID=America/Montevideo:20260916T190000
+DTEND;TZID=America/Montevideo:20260916T210000
+SUMMARY:Liga de Quito🇪🇨 vs. Palmeiras🇧🇷
+DESCRIPTION:Cuartos de final - Vuelta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260916T190000Z_AtleticoMineiro_Santos
+DTSTART;TZID=America/Montevideo:20260916T190000
+DTEND;TZID=America/Montevideo:20260916T210000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Santos🇧🇷
+DESCRIPTION:Cuartos de final - Vuelta - Copa Sudamericana
+CLASS:PUBLIC
+LOCATION:Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260916T213000Z_Corinthians_Estudiantes
+DTSTART;TZID=America/Montevideo:20260916T213000
+DTEND;TZID=America/Montevideo:20260916T233000
+SUMMARY:Corinthians🇧🇷 vs. Estudiantes🇦🇷
+DESCRIPTION:Cuartos de final - Vuelta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260917T213000Z_Flamengo_IndependienteDelValle
+DTSTART;TZID=America/Montevideo:20260917T213000
+DTEND;TZID=America/Montevideo:20260917T233000
+SUMMARY:Flamengo🇧🇷 vs. Independiente del Valle🇪🇨
+DESCRIPTION:Cuartos de final - Vuelta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio do Maracana
+END:VEVENT
 END:VCALENDAR

@@ -4100,4 +4100,84 @@ DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana\n\n¿Te gusta este cal
 CLASS:PUBLIC
 LOCATION:Estadio Más Monumental
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260908T190000Z_SantaFe_VascoDaGama
+DTSTART;TZID=America/Montevideo:20260908T190000
+DTEND;TZID=America/Montevideo:20260908T210000
+SUMMARY:Santa Fe🇨🇴 vs. Vasco da Gama🇧🇷
+DESCRIPTION:Cuartos de final - Ida - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estadio Nemesio Camacho El Campín
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260908T213000Z_BocaJuniors_SanPablo
+DTSTART;TZID=America/Montevideo:20260908T213000
+DTEND;TZID=America/Montevideo:20260908T233000
+SUMMARY:Boca Juniors🇦🇷 vs. San Pablo🇧🇷
+DESCRIPTION:Cuartos de final - Ida - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Alberto José Armando (La Bombonera)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260909T190000Z_Santos_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20260909T190000
+DTEND;TZID=America/Montevideo:20260909T210000
+SUMMARY:Santos🇧🇷 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Cuartos de final - Ida - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estádio Vila Belmiro (Urbano Caldeira)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260910T213000Z_Cienciano_MontevideoCityTorque
+DTSTART;TZID=America/Montevideo:20260910T213000
+DTEND;TZID=America/Montevideo:20260910T233000
+SUMMARY:Cienciano🇵🇪 vs. Montevideo City Torque🇺🇾
+DESCRIPTION:Cuartos de final - Ida - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estadio Inca Garcilaso de la Vega
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260915T190000Z_VascoDaGama_SantaFe
+DTSTART;TZID=America/Montevideo:20260915T190000
+DTEND;TZID=America/Montevideo:20260915T210000
+SUMMARY:Vasco da Gama🇧🇷 vs. Santa Fe🇨🇴
+DESCRIPTION:Cuartos de final - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estádio São Januário
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260915T213000Z_SanPablo_BocaJuniors
+DTSTART;TZID=America/Montevideo:20260915T213000
+DTEND;TZID=America/Montevideo:20260915T233000
+SUMMARY:San Pablo🇧🇷 vs. Boca Juniors🇦🇷
+DESCRIPTION:Cuartos de final - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estádio Cícero Pompeu de Toledo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260916T190000Z_AtleticoMineiro_Santos
+DTSTART;TZID=America/Montevideo:20260916T190000
+DTEND;TZID=America/Montevideo:20260916T210000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Santos🇧🇷
+DESCRIPTION:Cuartos de final - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260917T213000Z_MontevideoCityTorque_Cienciano
+DTSTART;TZID=America/Montevideo:20260917T213000
+DTEND;TZID=America/Montevideo:20260917T233000
+SUMMARY:Montevideo City Torque🇺🇾 vs. Cienciano🇵🇪
+DESCRIPTION:Cuartos de final - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
 END:VCALENDAR

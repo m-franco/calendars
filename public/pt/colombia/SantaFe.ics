@@ -100,4 +100,24 @@ DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana\n\nGostou deste calend
 CLASS:PUBLIC
 LOCATION:Estádio Más Monumental
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260908T190000Z_SantaFe_VascoDaGama
+DTSTART;TZID=America/Montevideo:20260908T190000
+DTEND;TZID=America/Montevideo:20260908T210000
+SUMMARY:Santa Fe🇨🇴 vs. Vasco da Gama🇧🇷
+DESCRIPTION:Quartas de final - Ida - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Estádio Nemesio Camacho El Campín
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260915T190000Z_VascoDaGama_SantaFe
+DTSTART;TZID=America/Montevideo:20260915T190000
+DTEND;TZID=America/Montevideo:20260915T210000
+SUMMARY:Vasco da Gama🇧🇷 vs. Santa Fe🇨🇴
+DESCRIPTION:Quartas de final - Volta - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Estádio São Januário
+END:VEVENT
 END:VCALENDAR

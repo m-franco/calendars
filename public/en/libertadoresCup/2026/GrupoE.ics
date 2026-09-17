@@ -200,4 +200,64 @@ DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup\n\nEnjoying this calenda
 CLASS:PUBLIC
 LOCATION:Más Monumental Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260908T190000Z_Fluminense_Platense
+DTSTART;TZID=America/Montevideo:20260908T190000
+DTEND;TZID=America/Montevideo:20260908T210000
+SUMMARY:Fluminense🇧🇷 vs. Platense🇦🇷
+DESCRIPTION:Quarter-finals - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:do Maracana Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260908T190000Z_SantaFe_VascoDaGama
+DTSTART;TZID=America/Montevideo:20260908T190000
+DTEND;TZID=America/Montevideo:20260908T210000
+SUMMARY:Santa Fe🇨🇴 vs. Vasco da Gama🇧🇷
+DESCRIPTION:Quarter-finals - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Nemesio Camacho El Campín Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260909T213000Z_Estudiantes_Corinthians
+DTSTART;TZID=America/Montevideo:20260909T213000
+DTEND;TZID=America/Montevideo:20260909T233000
+SUMMARY:Estudiantes🇦🇷 vs. Corinthians🇧🇷
+DESCRIPTION:Quarter-finals - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Jorge Luis Hirschi Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260915T190000Z_Platense_Fluminense
+DTSTART;TZID=America/Montevideo:20260915T190000
+DTEND;TZID=America/Montevideo:20260915T210000
+SUMMARY:Platense🇦🇷 vs. Fluminense🇧🇷
+DESCRIPTION:Quarter-finals - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Ciudad de Vicente López
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260915T190000Z_VascoDaGama_SantaFe
+DTSTART;TZID=America/Montevideo:20260915T190000
+DTEND;TZID=America/Montevideo:20260915T210000
+SUMMARY:Vasco da Gama🇧🇷 vs. Santa Fe🇨🇴
+DESCRIPTION:Quarter-finals - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Estádio São Januário
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260916T213000Z_Corinthians_Estudiantes
+DTSTART;TZID=America/Montevideo:20260916T213000
+DTEND;TZID=America/Montevideo:20260916T233000
+SUMMARY:Corinthians🇧🇷 vs. Estudiantes🇦🇷
+DESCRIPTION:Quarter-finals - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
 END:VCALENDAR

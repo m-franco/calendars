@@ -300,4 +300,24 @@ DESCRIPTION:Octavos de final - Vuelta - Copa Libertadores\n\n¿Te gusta este cal
 CLASS:PUBLIC
 LOCATION:Rodrigo Paz Delgado
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260909T190000Z_Palmeiras_LigaDeQuito
+DTSTART;TZID=America/Montevideo:20260909T190000
+DTEND;TZID=America/Montevideo:20260909T210000
+SUMMARY:Palmeiras🇧🇷 vs. Liga de Quito🇪🇨
+DESCRIPTION:Cuartos de final - Ida - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260916T190000Z_LigaDeQuito_Palmeiras
+DTSTART;TZID=America/Montevideo:20260916T190000
+DTEND;TZID=America/Montevideo:20260916T210000
+SUMMARY:Liga de Quito🇪🇨 vs. Palmeiras🇧🇷
+DESCRIPTION:Cuartos de final - Vuelta - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Rodrigo Paz Delgado
+END:VEVENT
 END:VCALENDAR

@@ -280,4 +280,24 @@ DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana\n\n¿Te gusta este cal
 CLASS:PUBLIC
 LOCATION:Estádio Cícero Pompeu de Toledo
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260908T213000Z_BocaJuniors_SanPablo
+DTSTART;TZID=America/Montevideo:20260908T213000
+DTEND;TZID=America/Montevideo:20260908T233000
+SUMMARY:Boca Juniors🇦🇷 vs. San Pablo🇧🇷
+DESCRIPTION:Cuartos de final - Ida - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Alberto José Armando (La Bombonera)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260915T213000Z_SanPablo_BocaJuniors
+DTSTART;TZID=America/Montevideo:20260915T213000
+DTEND;TZID=America/Montevideo:20260915T233000
+SUMMARY:San Pablo🇧🇷 vs. Boca Juniors🇦🇷
+DESCRIPTION:Cuartos de final - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estádio Cícero Pompeu de Toledo
+END:VEVENT
 END:VCALENDAR

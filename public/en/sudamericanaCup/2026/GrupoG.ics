@@ -160,4 +160,24 @@ DESCRIPTION:Round of 16 - Second leg - Sudamericana Cup\n\nEnjoying this calenda
 CLASS:PUBLIC
 LOCATION:Defensores del Chaco
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260908T190000Z_SantaFe_VascoDaGama
+DTSTART;TZID=America/Montevideo:20260908T190000
+DTEND;TZID=America/Montevideo:20260908T210000
+SUMMARY:Santa Fe🇨🇴 vs. Vasco da Gama🇧🇷
+DESCRIPTION:Quarter-finals - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Nemesio Camacho El Campín Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260915T190000Z_VascoDaGama_SantaFe
+DTSTART;TZID=America/Montevideo:20260915T190000
+DTEND;TZID=America/Montevideo:20260915T210000
+SUMMARY:Vasco da Gama🇧🇷 vs. Santa Fe🇨🇴
+DESCRIPTION:Quarter-finals - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Estádio São Januário
+END:VEVENT
 END:VCALENDAR

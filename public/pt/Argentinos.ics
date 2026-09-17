@@ -2920,4 +2920,64 @@ DESCRIPTION:Oitavas de final - Volta - Copa Sul-Americana\n\nGostou deste calend
 CLASS:PUBLIC
 LOCATION:Estádio Más Monumental
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260908T190000Z_Fluminense_Platense
+DTSTART;TZID=America/Montevideo:20260908T190000
+DTEND;TZID=America/Montevideo:20260908T210000
+SUMMARY:Fluminense🇧🇷 vs. Platense🇦🇷
+DESCRIPTION:Quartas de final - Ida - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Estádio do Maracana
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260908T213000Z_BocaJuniors_SanPablo
+DTSTART;TZID=America/Montevideo:20260908T213000
+DTEND;TZID=America/Montevideo:20260908T233000
+SUMMARY:Boca Juniors🇦🇷 vs. San Pablo🇧🇷
+DESCRIPTION:Quartas de final - Ida - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Alberto José Armando (La Bombonera)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260909T213000Z_Estudiantes_Corinthians
+DTSTART;TZID=America/Montevideo:20260909T213000
+DTEND;TZID=America/Montevideo:20260909T233000
+SUMMARY:Estudiantes🇦🇷 vs. Corinthians🇧🇷
+DESCRIPTION:Quartas de final - Ida - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Estádio Jorge Luis Hirschi
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260915T190000Z_Platense_Fluminense
+DTSTART;TZID=America/Montevideo:20260915T190000
+DTEND;TZID=America/Montevideo:20260915T210000
+SUMMARY:Platense🇦🇷 vs. Fluminense🇧🇷
+DESCRIPTION:Quartas de final - Volta - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Ciudad de Vicente López
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260915T213000Z_SanPablo_BocaJuniors
+DTSTART;TZID=America/Montevideo:20260915T213000
+DTEND;TZID=America/Montevideo:20260915T233000
+SUMMARY:San Pablo🇧🇷 vs. Boca Juniors🇦🇷
+DESCRIPTION:Quartas de final - Volta - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Estádio Cícero Pompeu de Toledo
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260916T213000Z_Corinthians_Estudiantes
+DTSTART;TZID=America/Montevideo:20260916T213000
+DTEND;TZID=America/Montevideo:20260916T233000
+SUMMARY:Corinthians🇧🇷 vs. Estudiantes🇦🇷
+DESCRIPTION:Quartas de final - Volta - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Neo Química Arena
+END:VEVENT
 END:VCALENDAR

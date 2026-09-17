@@ -180,4 +180,24 @@ DESCRIPTION:Octavos de final - Vuelta - Copa Sudamericana\n\n¿Te gusta este cal
 CLASS:PUBLIC
 LOCATION:Joao Havelange Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20260910T213000Z_Cienciano_MontevideoCityTorque
+DTSTART;TZID=America/Montevideo:20260910T213000
+DTEND;TZID=America/Montevideo:20260910T233000
+SUMMARY:Cienciano🇵🇪 vs. Montevideo City Torque🇺🇾
+DESCRIPTION:Cuartos de final - Ida - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estadio Inca Garcilaso de la Vega
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260917T213000Z_MontevideoCityTorque_Cienciano
+DTSTART;TZID=America/Montevideo:20260917T213000
+DTEND;TZID=America/Montevideo:20260917T233000
+SUMMARY:Montevideo City Torque🇺🇾 vs. Cienciano🇵🇪
+DESCRIPTION:Cuartos de final - Vuelta - Copa Sudamericana\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estadio Centenario
+END:VEVENT
 END:VCALENDAR
