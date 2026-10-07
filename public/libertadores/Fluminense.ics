@@ -300,4 +300,24 @@ DESCRIPTION:Cuartos de final - Vuelta - Copa Libertadores
 CLASS:PUBLIC
 LOCATION:Ciudad de Vicente López
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20261014T213000Z_Fluminense_Palmeiras
+DTSTART;TZID=America/Montevideo:20261014T213000
+DTEND;TZID=America/Montevideo:20261014T233000
+SUMMARY:Fluminense🇧🇷 vs. Palmeiras🇧🇷
+DESCRIPTION:Semifinal - Ida - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Estadio do Maracana
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261021T213000Z_Palmeiras_Fluminense
+DTSTART;TZID=America/Montevideo:20261021T213000
+DTEND;TZID=America/Montevideo:20261021T233000
+SUMMARY:Palmeiras🇧🇷 vs. Fluminense🇧🇷
+DESCRIPTION:Semifinal - Vuelta - Copa Libertadores
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
 END:VCALENDAR

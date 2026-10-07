@@ -3740,4 +3740,84 @@ DESCRIPTION:Quartas de final - Volta - Copa Libertadores\n\nGostou deste calend�
 CLASS:PUBLIC
 LOCATION:Estádio do Maracana
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20261013T213000Z_BocaJuniors_VascoDaGama
+DTSTART;TZID=America/Montevideo:20261013T213000
+DTEND;TZID=America/Montevideo:20261013T233000
+SUMMARY:Boca Juniors🇦🇷 vs. Vasco da Gama🇧🇷
+DESCRIPTION:Semifinal - Ida - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Alberto José Armando (La Bombonera)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261014T190000Z_AtleticoMineiro_MontevideoCityTorque
+DTSTART;TZID=America/Montevideo:20261014T190000
+DTEND;TZID=America/Montevideo:20261014T210000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Montevideo City Torque🇺🇾
+DESCRIPTION:Semifinal - Ida - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261014T213000Z_Fluminense_Palmeiras
+DTSTART;TZID=America/Montevideo:20261014T213000
+DTEND;TZID=America/Montevideo:20261014T233000
+SUMMARY:Fluminense🇧🇷 vs. Palmeiras🇧🇷
+DESCRIPTION:Semifinal - Ida - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Estádio do Maracana
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261015T213000Z_Estudiantes_Flamengo
+DTSTART;TZID=America/Montevideo:20261015T213000
+DTEND;TZID=America/Montevideo:20261015T233000
+SUMMARY:Estudiantes🇦🇷 vs. Flamengo🇧🇷
+DESCRIPTION:Semifinal - Ida - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Estádio Jorge Luis Hirschi
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261020T213000Z_VascoDaGama_BocaJuniors
+DTSTART;TZID=America/Montevideo:20261020T213000
+DTEND;TZID=America/Montevideo:20261020T233000
+SUMMARY:Vasco da Gama🇧🇷 vs. Boca Juniors🇦🇷
+DESCRIPTION:Semifinal - Volta - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Estádio a definir
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261021T190000Z_MontevideoCityTorque_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20261021T190000
+DTEND;TZID=America/Montevideo:20261021T210000
+SUMMARY:Montevideo City Torque🇺🇾 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Semifinal - Volta - Copa Sul-Americana\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Estádio Centenario
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261021T213000Z_Palmeiras_Fluminense
+DTSTART;TZID=America/Montevideo:20261021T213000
+DTEND;TZID=America/Montevideo:20261021T233000
+SUMMARY:Palmeiras🇧🇷 vs. Fluminense🇧🇷
+DESCRIPTION:Semifinal - Volta - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261022T213000Z_Flamengo_Estudiantes
+DTSTART;TZID=America/Montevideo:20261022T213000
+DTEND;TZID=America/Montevideo:20261022T233000
+SUMMARY:Flamengo🇧🇷 vs. Estudiantes🇦🇷
+DESCRIPTION:Semifinal - Volta - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Estádio do Maracana
+END:VEVENT
 END:VCALENDAR

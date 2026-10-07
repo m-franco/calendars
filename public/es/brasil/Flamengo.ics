@@ -330,4 +330,24 @@ DESCRIPTION:Cuartos de final - Vuelta - Copa Libertadores\n\n¿Te gusta este cal
 CLASS:PUBLIC
 LOCATION:Estadio do Maracana
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20261015T213000Z_Estudiantes_Flamengo
+DTSTART;TZID=America/Montevideo:20261015T213000
+DTEND;TZID=America/Montevideo:20261015T233000
+SUMMARY:Estudiantes🇦🇷 vs. Flamengo🇧🇷
+DESCRIPTION:Semifinal - Ida - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estadio Jorge Luis Hirschi
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261022T213000Z_Flamengo_Estudiantes
+DTSTART;TZID=America/Montevideo:20261022T213000
+DTEND;TZID=America/Montevideo:20261022T233000
+SUMMARY:Flamengo🇧🇷 vs. Estudiantes🇦🇷
+DESCRIPTION:Semifinal - Vuelta - Copa Libertadores\n\n¿Te gusta este calendario? Puedes apoyar este proyecto en: https://myfixtu.re/es/apoyar
+CLASS:PUBLIC
+LOCATION:Estadio do Maracana
+END:VEVENT
 END:VCALENDAR

@@ -220,4 +220,24 @@ DESCRIPTION:Quarter-finals - Second leg - Libertadores Cup\n\nEnjoying this cale
 CLASS:PUBLIC
 LOCATION:do Maracana Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20261015T213000Z_Estudiantes_Flamengo
+DTSTART;TZID=America/Montevideo:20261015T213000
+DTEND;TZID=America/Montevideo:20261015T233000
+SUMMARY:Estudiantes🇦🇷 vs. Flamengo🇧🇷
+DESCRIPTION:Semi-finals - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Jorge Luis Hirschi Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261022T213000Z_Flamengo_Estudiantes
+DTSTART;TZID=America/Montevideo:20261022T213000
+DTEND;TZID=America/Montevideo:20261022T233000
+SUMMARY:Flamengo🇧🇷 vs. Estudiantes🇦🇷
+DESCRIPTION:Semi-finals - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:do Maracana Stadium
+END:VEVENT
 END:VCALENDAR

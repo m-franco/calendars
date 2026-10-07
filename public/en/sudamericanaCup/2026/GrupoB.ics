@@ -220,4 +220,24 @@ DESCRIPTION:Quarter-finals - Second leg - Sudamericana Cup\n\nEnjoying this cale
 CLASS:PUBLIC
 LOCATION:Centenario Stadium
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20261014T190000Z_AtleticoMineiro_MontevideoCityTorque
+DTSTART;TZID=America/Montevideo:20261014T190000
+DTEND;TZID=America/Montevideo:20261014T210000
+SUMMARY:Atlético Mineiro🇧🇷 vs. Montevideo City Torque🇺🇾
+DESCRIPTION:Semi-finals - First leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Arena MRV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261021T190000Z_MontevideoCityTorque_AtleticoMineiro
+DTSTART;TZID=America/Montevideo:20261021T190000
+DTEND;TZID=America/Montevideo:20261021T210000
+SUMMARY:Montevideo City Torque🇺🇾 vs. Atlético Mineiro🇧🇷
+DESCRIPTION:Semi-finals - Second leg - Sudamericana Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Centenario Stadium
+END:VEVENT
 END:VCALENDAR

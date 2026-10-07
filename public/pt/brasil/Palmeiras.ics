@@ -310,4 +310,24 @@ DESCRIPTION:Quartas de final - Volta - Copa Libertadores\n\nGostou deste calend�
 CLASS:PUBLIC
 LOCATION:Rodrigo Paz Delgado
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20261014T213000Z_Fluminense_Palmeiras
+DTSTART;TZID=America/Montevideo:20261014T213000
+DTEND;TZID=America/Montevideo:20261014T233000
+SUMMARY:Fluminense🇧🇷 vs. Palmeiras🇧🇷
+DESCRIPTION:Semifinal - Ida - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Estádio do Maracana
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261021T213000Z_Palmeiras_Fluminense
+DTSTART;TZID=America/Montevideo:20261021T213000
+DTEND;TZID=America/Montevideo:20261021T233000
+SUMMARY:Palmeiras🇧🇷 vs. Fluminense🇧🇷
+DESCRIPTION:Semifinal - Volta - Copa Libertadores\n\nGostou deste calendário? Apoie o projeto: https://myfixtu.re/pt/apoiar
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
 END:VCALENDAR

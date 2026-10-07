@@ -200,4 +200,24 @@ DESCRIPTION:Quarter-finals - Second leg - Libertadores Cup\n\nEnjoying this cale
 CLASS:PUBLIC
 LOCATION:Ciudad de Vicente López
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20261014T213000Z_Fluminense_Palmeiras
+DTSTART;TZID=America/Montevideo:20261014T213000
+DTEND;TZID=America/Montevideo:20261014T233000
+SUMMARY:Fluminense🇧🇷 vs. Palmeiras🇧🇷
+DESCRIPTION:Semi-finals - First leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:do Maracana Stadium
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261021T213000Z_Palmeiras_Fluminense
+DTSTART;TZID=America/Montevideo:20261021T213000
+DTEND;TZID=America/Montevideo:20261021T233000
+SUMMARY:Palmeiras🇧🇷 vs. Fluminense🇧🇷
+DESCRIPTION:Semi-finals - Second leg - Libertadores Cup\n\nEnjoying this calendar? Support the project: https://myfixtu.re/en/support
+CLASS:PUBLIC
+LOCATION:Allianz Parque
+END:VEVENT
 END:VCALENDAR
